@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-06-24T16:51:42.505Z",
+  "publicadoEn": "2026-06-24T16:55:55.928Z",
   "torneo": {
     "iniciado": true,
     "grupos": [
@@ -3942,7 +3942,7 @@
         ],
         "size": 32,
         "thirdPlaceMatch": {
-          "home": "",
+          "home": "Equipo 1",
           "away": "Equipo 15",
           "bo3": false,
           "sets": [
@@ -5134,7 +5134,7 @@
         ],
         "size": 32,
         "thirdPlaceMatch": {
-          "home": "",
+          "home": "Equipo 33",
           "away": "Equipo 36",
           "bo3": false,
           "sets": [
