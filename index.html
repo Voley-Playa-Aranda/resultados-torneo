@@ -19,10 +19,8 @@
         .nav-tab.active { color: #fbbf24; border-bottom-color: #d97706; background: rgba(255,255,255,0.05); }
         .nav-tab:hover { color: #f8fafc; }
 
-        .container { max-width: 1200px; margin: 0 auto; padding: 16px; }
-
-        .tab-content { display: none; }
-        .tab-content.active { display: block; }
+        .container { max-width: 1300px; margin: 0 auto; padding: 16px; }
+        .tab-content { display: none; } .tab-content.active { display: block; }
 
         .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 14px; }
         .card { background: white; border-radius: 10px; padding: 16px; box-shadow: 0 1px 4px rgba(0,0,0,0.08); }
@@ -40,59 +38,78 @@
         .tabla-clasificacion td:first-child { text-align: left; font-weight: 600; }
         .tabla-clasificacion tr:nth-child(even) { background: #f8fafc; }
         .tabla-clasificacion tr:hover { background: #eff6ff; }
-        .pos-badge { display: inline-block; width: 20px; height: 20px; border-radius: 50%; font-size: 0.7rem; font-weight: 700; text-align: center; line-height: 20px; margin-right: 4px; }
+        .pos-badge { display: inline-block; width: 22px; height: 22px; border-radius: 50%; font-size: 0.72rem; font-weight: 700; text-align: center; line-height: 22px; margin-right: 4px; }
         .pos-1 { background: #fbbf24; color: #78350f; }
         .pos-2 { background: #e2e8f0; color: #334155; }
         .pos-3 { background: #f97316; color: white; }
 
         /* Partidos */
-        .partido-card { background: white; border-radius: 8px; padding: 10px 14px; margin-bottom: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.06); border-left: 4px solid #e2e8f0; }
+        .campo-section { margin-bottom: 24px; }
+        .campo-header { background: #1e3a5f; color: #fbbf24; font-weight: 700; font-size: 0.9rem; padding: 8px 14px; border-radius: 8px 8px 0 0; }
+        .grupo-section { margin-bottom: 4px; }
+        .grupo-label { font-size: 0.75rem; font-weight: 700; color: #64748b; padding: 4px 14px; background: #f1f5f9; border-left: 3px solid #cbd5e1; margin: 4px 0; }
+        .partido-card { background: white; border-radius: 6px; padding: 8px 14px; margin-bottom: 4px; box-shadow: 0 1px 2px rgba(0,0,0,0.05); border-left: 4px solid #e2e8f0; display: flex; align-items: center; gap: 10px; }
         .partido-card.jugado { border-left-color: #10b981; }
-        .partido-header { font-size: 0.72rem; color: #94a3b8; margin-bottom: 6px; display: flex; justify-content: space-between; }
-        .partido-equipos { display: flex; align-items: center; gap: 8px; }
+        .partido-ronda { font-size: 0.7rem; color: #94a3b8; min-width: 54px; }
         .partido-equipo { flex: 1; font-size: 0.88rem; font-weight: 600; }
         .partido-equipo.away { text-align: right; }
-        .partido-score { background: #1e3a5f; color: white; border-radius: 6px; padding: 4px 10px; font-weight: 700; font-size: 0.95rem; min-width: 60px; text-align: center; }
+        .partido-score { background: #1e3a5f; color: white; border-radius: 6px; padding: 3px 10px; font-weight: 700; font-size: 0.9rem; min-width: 56px; text-align: center; white-space: nowrap; }
         .partido-score.pendiente { background: #e2e8f0; color: #94a3b8; font-size: 0.75rem; }
 
         /* Fase Final */
-        .bracket-col { display: flex; flex-direction: column; gap: 12px; }
-        .bracket-wrap { display: flex; gap: 20px; overflow-x: auto; padding-bottom: 16px; }
-        .bracket-round-label { font-size: 0.75rem; font-weight: 700; color: #64748b; text-align: center; margin-bottom: 8px; }
-        .bracket-match { background: white; border-radius: 8px; box-shadow: 0 1px 4px rgba(0,0,0,0.08); overflow: hidden; min-width: 180px; }
-        .bracket-match-header { background: #1e3a5f; color: #fbbf24; font-size: 0.7rem; font-weight: 700; padding: 3px 8px; }
-        .bracket-team-row { display: flex; justify-content: space-between; align-items: center; padding: 5px 8px; font-size: 0.82rem; border-bottom: 1px solid #f1f5f9; }
-        .bracket-team-row:last-child { border-bottom: none; }
-        .bracket-team-score { font-weight: 700; color: #1e3a5f; min-width: 24px; text-align: right; }
+        .fase-section { margin-bottom: 36px; border: 2px solid #e2e8f0; border-radius: 12px; overflow: hidden; }
+        .fase-header { padding: 12px 20px; font-size: 1.1rem; font-weight: 700; color: white; }
+        .fase-oro   .fase-header { background: linear-gradient(90deg, #d97706, #fbbf24); }
+        .fase-plata .fase-header { background: linear-gradient(90deg, #475569, #94a3b8); }
+        .fase-bronce .fase-header { background: linear-gradient(90deg, #c2410c, #f97316); }
+        .fase-body { padding: 16px; background: white; }
 
         /* Podio */
-        .podio { display: flex; flex-direction: column; gap: 8px; max-width: 400px; margin: 20px auto; }
+        .podio { display: flex; flex-direction: column; gap: 8px; max-width: 420px; margin: 0 auto 20px; }
         .podio-fila { display: flex; align-items: center; gap: 12px; border-radius: 8px; padding: 10px 16px; }
         .podio-1 { background: #fffbeb; border: 2px solid #d97706; }
         .podio-2 { background: #f8fafc; border: 2px solid #64748b; }
         .podio-3 { background: #fff7ed; border: 2px solid #c2410c; }
         .podio-medalla { font-size: 1.5rem; }
-        .podio-puesto { font-weight: 700; min-width: 32px; }
-        .podio-nombre { font-weight: 600; font-size: 1rem; }
+        .podio-puesto { font-weight: 700; min-width: 32px; color: #64748b; }
+        .podio-nombre { font-weight: 700; font-size: 1rem; }
 
-        /* Estado carga */
-        #cargando { text-align: center; padding: 40px; color: #64748b; }
-        .spinner { display: inline-block; width: 32px; height: 32px; border: 3px solid #e2e8f0; border-top-color: #d97706; border-radius: 50%; animation: spin 0.8s linear infinite; margin-bottom: 12px; }
+        /* Bracket */
+        .bracket-section { margin-bottom: 20px; }
+        .bracket-section-title { font-size: 0.85rem; font-weight: 700; color: #475569; margin-bottom: 8px; padding-left: 4px; }
+        .bracket-wrap { display: flex; gap: 16px; overflow-x: auto; padding-bottom: 12px; align-items: flex-start; }
+        .bracket-col { display: flex; flex-direction: column; gap: 10px; min-width: 190px; }
+        .bracket-round-label { font-size: 0.72rem; font-weight: 700; color: #64748b; text-align: center; margin-bottom: 4px; text-transform: uppercase; letter-spacing: 0.5px; }
+        .bracket-match { background: #f8fafc; border-radius: 8px; overflow: hidden; border: 1px solid #e2e8f0; }
+        .bracket-match-header { background: #1e3a5f; color: #fbbf24; font-size: 0.68rem; font-weight: 700; padding: 3px 8px; }
+        .bracket-match-header.final { background: #d97706; }
+        .bracket-match-header.repesca { background: #c2410c; color: white; }
+        .bracket-team-row { display: flex; justify-content: space-between; align-items: center; padding: 5px 8px; font-size: 0.82rem; border-bottom: 1px solid #f1f5f9; gap: 6px; }
+        .bracket-team-row:last-child { border-bottom: none; }
+        .bracket-team-name { flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+        .bracket-team-name.esperando { color: #94a3b8; font-style: italic; }
+        .bracket-team-score { font-weight: 700; color: #1e3a5f; min-width: 20px; text-align: right; }
+        .bracket-team-row.ganador { background: #f0fdf4; }
+        .bracket-team-row.ganador .bracket-team-score { color: #15803d; }
+
+        /* Carga */
+        #cargando { text-align: center; padding: 60px; color: #64748b; }
+        .spinner { display: inline-block; width: 36px; height: 36px; border: 3px solid #e2e8f0; border-top-color: #d97706; border-radius: 50%; animation: spin 0.8s linear infinite; margin-bottom: 14px; }
         @keyframes spin { to { transform: rotate(360deg); } }
 
-        .badge { display: inline-block; background: #eff6ff; color: #1d4ed8; border-radius: 4px; padding: 2px 7px; font-size: 0.72rem; font-weight: 600; }
-        .badge-green { background: #f0fdf4; color: #15803d; }
+        .badge { display: inline-block; background: #eff6ff; color: #1d4ed8; border-radius: 4px; padding: 1px 6px; font-size: 0.7rem; font-weight: 600; }
+
+        .sin-datos { color: #94a3b8; padding: 30px; text-align: center; font-style: italic; }
 
         @media (max-width: 600px) {
             header h1 { font-size: 1.2rem; }
-            .nav-tab { padding: 10px 14px; font-size: 0.8rem; }
+            .nav-tab { padding: 10px 12px; font-size: 0.78rem; }
         }
     </style>
 </head>
 <body>
-
 <header>
-    <div>🏐</div>
+    <div style="font-size:2rem;">🏐</div>
     <h1 id="tituloTorneo">Voley Playa Villa de Aranda</h1>
     <p id="subtituloTorneo">Resultados en tiempo real</p>
     <div id="ultimaActualizacion"></div>
@@ -102,290 +119,328 @@
 <div class="nav-tabs" id="navTabs"></div>
 
 <div class="container">
-    <div id="cargando">
-        <div class="spinner"></div>
-        <p>Cargando resultados...</p>
-    </div>
+    <div id="cargando"><div class="spinner"></div><p>Cargando resultados...</p></div>
     <div id="contenido" style="display:none;">
-        <div id="tab-grupos" class="tab-content">
-            <div id="grupos-content"></div>
-        </div>
-        <div id="tab-clasificacion" class="tab-content">
-            <div id="clasificacion-content"></div>
-        </div>
-        <div id="tab-partidos" class="tab-content">
-            <div id="partidos-content"></div>
-        </div>
-        <div id="tab-final" class="tab-content">
-            <div id="final-content"></div>
-        </div>
+        <div id="tab-grupos"        class="tab-content"></div>
+        <div id="tab-clasificacion" class="tab-content"></div>
+        <div id="tab-partidos"      class="tab-content"></div>
+        <div id="tab-final"         class="tab-content"></div>
     </div>
 </div>
 
 <script>
-    const JSON_URL = 'https://raw.githubusercontent.com/voley-playa-aranda/resultados-torneo/main/resultados.json';
-    const REFRESH_INTERVAL = 5 * 60; // segundos
-    let countdownSecs = REFRESH_INTERVAL;
-    let torneo = null;
+const JSON_URL = 'https://raw.githubusercontent.com/voley-playa-aranda/resultados-torneo/main/resultados.json';
+const REFRESH_INTERVAL = 5 * 60;
+let countdownSecs = REFRESH_INTERVAL;
+let torneo = null;
+let tabActiva = 'grupos';
 
-    // ── Carga de datos ────────────────────────────────────────────
-    async function cargarDatos() {
-        try {
-            let res = await fetch(JSON_URL + '?t=' + Date.now()); // evitar caché
-            if (!res.ok) throw new Error('No se pudo cargar el archivo');
-            let data = await res.json();
-            torneo = data.torneo;
-            let fecha = new Date(data.publicadoEn);
-            document.getElementById('ultimaActualizacion').textContent =
-                `Última actualización: ${fecha.toLocaleDateString('es-ES')} ${fecha.toLocaleTimeString('es-ES')}`;
-            countdownSecs = REFRESH_INTERVAL;
-            renderTodo();
-        } catch(e) {
-            document.getElementById('ultimaActualizacion').textContent = '⚠️ Error al cargar datos';
-        }
+// ── Carga ────────────────────────────────────────────────────────
+async function cargarDatos() {
+    try {
+        let res = await fetch(JSON_URL + '?t=' + Date.now());
+        if (!res.ok) throw new Error('Error ' + res.status);
+        let data = await res.json();
+        torneo = data.torneo;
+        let fecha = new Date(data.publicadoEn);
+        document.getElementById('ultimaActualizacion').textContent =
+            'Última actualización: ' + fecha.toLocaleDateString('es-ES') + ' ' + fecha.toLocaleTimeString('es-ES');
+        countdownSecs = REFRESH_INTERVAL;
+        renderTodo();
+    } catch(e) {
+        document.getElementById('ultimaActualizacion').textContent = '⚠️ Error al cargar datos: ' + e.message;
     }
+}
 
-    // ── Countdown ─────────────────────────────────────────────────
-    setInterval(() => {
-        countdownSecs--;
-        if (countdownSecs <= 0) { countdownSecs = REFRESH_INTERVAL; cargarDatos(); }
-        let m = Math.floor(countdownSecs / 60), s = countdownSecs % 60;
-        document.getElementById('countdown').textContent =
-            `Próxima actualización en ${m}:${s.toString().padStart(2,'0')}`;
-    }, 1000);
+setInterval(() => {
+    countdownSecs--;
+    if (countdownSecs <= 0) { countdownSecs = REFRESH_INTERVAL; cargarDatos(); }
+    let m = Math.floor(countdownSecs / 60), s = countdownSecs % 60;
+    document.getElementById('countdown').textContent =
+        'Próxima actualización en ' + m + ':' + String(s).padStart(2,'0');
+}, 1000);
 
-    // ── Pestañas ─────────────────────────────────────────────────
-    let tabActiva = 'grupos';
-    function renderTabs() {
-        let tabs = [
-            { id: 'grupos', label: '👥 Grupos' },
-            { id: 'clasificacion', label: '🏆 Clasificación' },
-            { id: 'partidos', label: '📋 Partidos' },
-        ];
-        if (torneo.faseFinalGenerada) tabs.push({ id: 'final', label: '🥇 Fase Final' });
-        document.getElementById('navTabs').innerHTML = tabs.map(t =>
-            `<div class="nav-tab ${t.id === tabActiva ? 'active' : ''}" onclick="switchTab('${t.id}')">${t.label}</div>`
-        ).join('');
+// ── Pestañas ─────────────────────────────────────────────────────
+function renderTabs() {
+    let tabs = [
+        { id: 'grupos',        label: '👥 Grupos' },
+        { id: 'clasificacion', label: '🏆 Clasificación' },
+        { id: 'partidos',      label: '📋 Partidos' },
+    ];
+    if (torneo.faseFinalGenerada) tabs.push({ id: 'final', label: '🥇 Fase Final' });
+    document.getElementById('navTabs').innerHTML = tabs.map(t =>
+        '<div class="nav-tab' + (t.id === tabActiva ? ' active' : '') + '" onclick="switchTab(\'' + t.id + '\')">' + t.label + '</div>'
+    ).join('');
+}
+
+function switchTab(id) {
+    tabActiva = id;
+    document.querySelectorAll('.tab-content').forEach(el => el.classList.remove('active'));
+    let el = document.getElementById('tab-' + id);
+    if (el) el.classList.add('active');
+    renderTabs();
+}
+
+// ── Render principal ──────────────────────────────────────────────
+function renderTodo() {
+    document.getElementById('cargando').style.display = 'none';
+    document.getElementById('contenido').style.display = '';
+    renderTabs();
+    let el = document.getElementById('tab-' + tabActiva);
+    if (el) el.classList.add('active');
+    renderGrupos();
+    renderClasificacion();
+    renderPartidos();
+    if (torneo.faseFinalGenerada) renderFinal();
+}
+
+// ── 1. GRUPOS ─────────────────────────────────────────────────────
+function renderGrupos() {
+    if (!torneo.grupos || !torneo.grupos.length) {
+        document.getElementById('tab-grupos').innerHTML = '<p class="sin-datos">Sin grupos disponibles.</p>'; return;
     }
-
-    function switchTab(id) {
-        tabActiva = id;
-        document.querySelectorAll('.tab-content').forEach(el => el.classList.remove('active'));
-        document.getElementById('tab-' + id).classList.add('active');
-        document.querySelectorAll('.nav-tab').forEach(el => el.classList.remove('active'));
-        document.querySelectorAll('.nav-tab').forEach(el => { if (el.textContent.includes(id === 'grupos' ? 'Grupos' : id === 'clasificacion' ? 'Clasificación' : id === 'partidos' ? 'Partidos' : 'Fase')) el.classList.add('active'); });
-        renderTabs();
-    }
-
-    // ── Render principal ──────────────────────────────────────────
-    function renderTodo() {
-        document.getElementById('cargando').style.display = 'none';
-        document.getElementById('contenido').style.display = '';
-
-        let nom = localStorage.getItem('torneo_nombre_pub') || 'Voley Playa Villa de Aranda';
-        let anio = localStorage.getItem('torneo_anio_pub') || '';
-
-        renderTabs();
-        document.querySelectorAll('.tab-content').forEach(el => el.classList.remove('active'));
-        document.getElementById('tab-' + tabActiva).classList.add('active');
-
-        renderGrupos();
-        renderClasificacion();
-        renderPartidos();
-        if (torneo.faseFinalGenerada) renderFinal();
-    }
-
-    // ── Grupos ────────────────────────────────────────────────────
-    function renderGrupos() {
-        if (!torneo.grupos || torneo.grupos.length === 0) { document.getElementById('grupos-content').innerHTML = '<p style="color:#94a3b8;padding:20px;">Sin grupos disponibles.</p>'; return; }
-        let html = '<div class="grid">';
-        torneo.grupos.forEach(g => {
-            let equiposOrdenados = [...g.equipos].sort((a,b) => (a.ordenSorteo||0) - (b.ordenSorteo||0));
-            html += `<div class="card"><h3>${g.nombre}</h3>`;
-            equiposOrdenados.forEach(eq => { html += `<div class="grupo-equipo">${eq.name}</div>`; });
-            html += `</div>`;
-        });
+    let html = '<div class="grid">';
+    torneo.grupos.forEach(g => {
+        let equipos = [...g.equipos].sort((a,b) => (a.ordenSorteo||0) - (b.ordenSorteo||0));
+        html += '<div class="card"><h3>' + g.nombre + '</h3>';
+        equipos.forEach(eq => { html += '<div class="grupo-equipo">' + eq.name + '</div>'; });
         html += '</div>';
-        document.getElementById('grupos-content').innerHTML = html;
+    });
+    html += '</div>';
+    document.getElementById('tab-grupos').innerHTML = html;
+}
+
+// ── 2. CLASIFICACIÓN — solo por grupos ───────────────────────────
+function renderClasificacion() {
+    let cont = document.getElementById('tab-clasificacion');
+    if (!torneo.grupos || !torneo.grupos.length) {
+        cont.innerHTML = '<p class="sin-datos">Sin resultados aún.</p>'; return;
     }
-
-    // ── Clasificación ─────────────────────────────────────────────
-    function renderClasificacion() {
-        let cont = document.getElementById('clasificacion-content');
-        if (!torneo.lastGlobalEq || torneo.lastGlobalEq.length === 0) {
-            // Calcular desde grupos si no hay clasificación guardada
-            cont.innerHTML = '<p style="color:#94a3b8;padding:20px;">Sin resultados aún.</p>'; return;
-        }
-
-        // Por grupos
-        let porGrupo = {};
-        torneo.grupos.forEach(g => { porGrupo[g.nombre] = []; });
-        torneo.lastGlobalEq.forEach(eq => {
-            if (porGrupo[eq.grupo] !== undefined) porGrupo[eq.grupo].push(eq);
+    let html = '<div class="grid">';
+    torneo.grupos.forEach(g => {
+        let equipos = [...g.equipos].sort((a,b) => {
+            let pa = b.pts - a.pts; if (pa !== 0) return pa;
+            let da = b.dg - a.dg;  if (da !== 0) return da;
+            let ga = b.gf - a.gf;  if (ga !== 0) return ga;
+            return a.name.localeCompare(b.name);
         });
-
-        let html = '<h2 style="margin-bottom:14px;">Clasificación Global</h2>';
-        html += `<div style="overflow-x:auto;"><table class="tabla-clasificacion">
-            <thead><tr><th>#</th><th>Equipo</th><th>Grupo</th><th>PJ</th><th>Pts</th><th>GF</th><th>GC</th><th>DG</th></tr></thead><tbody>`;
-        torneo.lastGlobalEq.forEach((eq, i) => {
+        html += '<div class="card"><h3>' + g.nombre + '</h3>';
+        html += '<table class="tabla-clasificacion"><thead><tr><th>#</th><th>Equipo</th><th>PJ</th><th>Pts</th><th>GF</th><th>GC</th><th>DG</th></tr></thead><tbody>';
+        equipos.forEach((eq, i) => {
             let posClass = i === 0 ? 'pos-1' : i === 1 ? 'pos-2' : i === 2 ? 'pos-3' : '';
-            html += `<tr>
-                <td><span class="pos-badge ${posClass}">${i+1}</span></td>
-                <td>${eq.name}</td><td><span class="badge">${eq.grupo||''}</span></td>
-                <td>${eq.pj||0}</td><td><strong>${eq.pts||0}</strong></td>
-                <td>${eq.gf||0}</td><td>${eq.gc||0}</td><td>${eq.dg||0}</td>
-            </tr>`;
+            html += '<tr><td><span class="pos-badge ' + posClass + '">' + (i+1) + '</span></td>' +
+                '<td>' + eq.name + '</td>' +
+                '<td>' + (eq.pj||0) + '</td>' +
+                '<td><strong>' + (eq.pts||0) + '</strong></td>' +
+                '<td>' + (eq.gf||0) + '</td>' +
+                '<td>' + (eq.gc||0) + '</td>' +
+                '<td>' + (eq.dg||0) + '</td></tr>';
         });
         html += '</tbody></table></div>';
+    });
+    html += '</div>';
+    cont.innerHTML = html;
+}
 
-        html += '<h2 style="margin:24px 0 14px;">Clasificación por Grupos</h2><div class="grid">';
-        torneo.grupos.forEach(g => {
-            let equipos = [...g.equipos].sort((a,b) => (b.pts||0)-(a.pts||0) || (b.dg||0)-(a.dg||0));
-            html += `<div class="card"><h3>${g.nombre}</h3>
-                <table class="tabla-clasificacion">
-                <thead><tr><th>#</th><th>Equipo</th><th>PJ</th><th>Pts</th><th>DG</th></tr></thead><tbody>`;
-            equipos.forEach((eq, i) => {
-                html += `<tr><td>${i+1}</td><td>${eq.name}</td><td>${eq.pj||0}</td><td><strong>${eq.pts||0}</strong></td><td>${eq.dg||0}</td></tr>`;
+// ── 3. PARTIDOS — por campo y por grupo ──────────────────────────
+function renderPartidos() {
+    let cont = document.getElementById('tab-partidos');
+    if (!torneo.grupos || !torneo.grupos.length || !torneo.campos) {
+        cont.innerHTML = '<p class="sin-datos">Sin partidos disponibles.</p>'; return;
+    }
+
+    // Recoger todos los partidos con metadata
+    let todos = [];
+    torneo.grupos.forEach((g, gIdx) => {
+        if (!g.partidos) return;
+        g.partidos.forEach(r => {
+            r.encuentros.forEach(m => {
+                todos.push({ ...m, grupo: g.nombre, gIdx, ronda: r.numRonda });
             });
-            html += '</tbody></table></div>';
+        });
+    });
+
+    if (!todos.length) { cont.innerHTML = '<p class="sin-datos">Sin partidos disponibles.</p>'; return; }
+
+    // Ordenar por campo → grupo → ronda
+    todos.sort((a,b) => (a.campoId||0) - (b.campoId||0) || a.gIdx - b.gIdx || a.ronda - b.ronda);
+
+    // Agrupar por campo
+    let porCampo = {};
+    todos.forEach(m => {
+        let campo = torneo.campos[m.campoId] ? torneo.campos[m.campoId].name : 'Campo ' + ((m.campoId||0)+1);
+        if (!porCampo[campo]) porCampo[campo] = {};
+        if (!porCampo[campo][m.grupo]) porCampo[campo][m.grupo] = [];
+        porCampo[campo][m.grupo].push(m);
+    });
+
+    let html = '';
+    Object.entries(porCampo).forEach(([campo, grupos]) => {
+        html += '<div class="campo-section"><div class="campo-header">🏟️ ' + campo + '</div>';
+        Object.entries(grupos).forEach(([grupo, partidos]) => {
+            html += '<div class="grupo-label">📌 ' + grupo + '</div>';
+            partidos.forEach(m => {
+                let jugado = m.golesHome !== "" && m.golesAway !== "";
+                let scoreH = jugado ? m.golesHome : '', scoreA = jugado ? m.golesAway : '';
+                let ganH = jugado && parseInt(m.golesHome) > parseInt(m.golesAway);
+                let ganA = jugado && parseInt(m.golesAway) > parseInt(m.golesHome);
+                html += '<div class="partido-card ' + (jugado ? 'jugado' : '') + '">' +
+                    '<span class="partido-ronda">R' + m.ronda + '</span>' +
+                    '<span class="partido-equipo' + (ganH ? ' fw' : '') + '">' + m.home + '</span>' +
+                    '<span class="partido-score ' + (jugado ? '' : 'pendiente') + '">' +
+                    (jugado ? scoreH + ' - ' + scoreA : 'vs') + '</span>' +
+                    '<span class="partido-equipo away' + (ganA ? ' fw' : '') + '">' + m.away + '</span>' +
+                    '</div>';
+            });
         });
         html += '</div>';
-        cont.innerHTML = html;
-    }
+    });
+    cont.innerHTML = html;
+}
 
-    // ── Partidos ──────────────────────────────────────────────────
-    function renderPartidos() {
-        let cont = document.getElementById('partidos-content');
-        if (!torneo.grupos) { cont.innerHTML = ''; return; }
-        let html = '';
-        torneo.grupos.forEach(g => {
-            let tienePartidos = g.partidos && g.partidos.some(r => r.encuentros && r.encuentros.length > 0);
-            if (!tienePartidos) return;
-            html += `<h3 style="margin:16px 0 8px; color:#1e3a5f;">${g.nombre}</h3>`;
-            g.partidos.forEach(r => {
-                r.encuentros.forEach(m => {
-                    let jugado = m.golesHome !== "" && m.golesAway !== "";
-                    let campo = torneo.campos && torneo.campos[m.campoId] ? torneo.campos[m.campoId].name : `Campo ${(m.campoId||0)+1}`;
-                    html += `<div class="partido-card ${jugado?'jugado':''}">
-                        <div class="partido-header"><span>Ronda ${r.numRonda} · ${campo}</span><span class="badge ${jugado?'badge-green':''}">${jugado?'Jugado':'Pendiente'}</span></div>
-                        <div class="partido-equipos">
-                            <span class="partido-equipo">${m.home}</span>
-                            <span class="partido-score ${jugado?'':'pendiente'}">${jugado ? m.golesHome+' - '+m.golesAway : 'vs'}</span>
-                            <span class="partido-equipo away">${m.away}</span>
-                        </div>
-                    </div>`;
-                });
-            });
-        });
-        cont.innerHTML = html || '<p style="color:#94a3b8;padding:20px;">Sin partidos disponibles.</p>';
-    }
+// ── 4. FASE FINAL — oro, plata y bronce por separado ────────────
+function renderFinal() {
+    let cont = document.getElementById('tab-final');
+    if (!torneo.fasesFinales) { cont.innerHTML = '<p class="sin-datos">Fase final no disponible.</p>'; return; }
 
-    // ── Fase Final ────────────────────────────────────────────────
-    function renderFinal() {
-        let cont = document.getElementById('final-content');
-        if (!torneo.fasesFinales) { cont.innerHTML = ''; return; }
-        let html = '';
+    let html = '';
+    let fases = [
+        { key: 'oro',    icon: '🥇', titulo: 'Cuadro de Oro',    cls: 'fase-oro'    },
+        { key: 'plata',  icon: '🥈', titulo: 'Cuadro de Plata',  cls: 'fase-plata'  },
+        { key: 'bronce', icon: '🥉', titulo: 'Cuadro de Bronce', cls: 'fase-bronce' },
+    ];
 
-        ['oro','plata','bronce'].forEach(fase => {
-            let b = torneo.fasesFinales[fase]; if (!b) return;
-            let icon = fase==='oro'?'🥇':fase==='plata'?'🥈':'🥉';
-            let titulo = fase==='oro'?'Cuadro de Oro':fase==='plata'?'Cuadro de Plata':'Cuadro de Bronce';
-            html += `<h2 style="margin:20px 0 12px;">${icon} ${titulo}</h2>`;
+    fases.forEach(({ key, icon, titulo, cls }) => {
+        let b = torneo.fasesFinales[key];
+        if (!b) return;
 
-            // Podio si hay ganador
-            let podio = calcularPodio(b);
-            if (podio) {
-                html += `<div class="podio">
-                    <div class="podio-fila podio-1"><span class="podio-medalla">🥇</span><span class="podio-puesto">1º</span><span class="podio-nombre">${podio.primero}</span></div>
-                    <div class="podio-fila podio-2"><span class="podio-medalla">🥈</span><span class="podio-puesto">2º</span><span class="podio-nombre">${podio.segundo}</span></div>
-                    ${podio.tercero ? `<div class="podio-fila podio-3"><span class="podio-medalla">🥉</span><span class="podio-puesto">3º</span><span class="podio-nombre">${podio.tercero}</span></div>` : ''}
-                </div>`;
-            }
+        html += '<div class="fase-section ' + cls + '">';
+        html += '<div class="fase-header">' + icon + ' ' + titulo + '</div>';
+        html += '<div class="fase-body">';
 
-            // Bracket winners
-            html += '<div class="bracket-wrap">';
-            b.winners.forEach((ronda, rIdx) => {
-                html += `<div class="bracket-col"><div class="bracket-round-label">Ronda ${rIdx+1}</div>`;
-                ronda.forEach((m, mIdx) => {
-                    let score = getScore(m);
-                    html += `<div class="bracket-match">
-                        <div class="bracket-match-header">Partido ${mIdx+1}</div>
-                        <div class="bracket-team-row"><span>${m.home||'<em style="color:#94a3b8">Esperando</em>'}</span><span class="bracket-team-score">${score[0]}</span></div>
-                        <div class="bracket-team-row"><span>${m.away||'<em style="color:#94a3b8">Esperando</em>'}</span><span class="bracket-team-score">${score[1]}</span></div>
-                    </div>`;
-                });
-                html += '</div>';
-            });
-            // Gran final
-            if (b.grandFinal) {
-                let score = getScore(b.grandFinal);
-                html += `<div class="bracket-col"><div class="bracket-round-label">Gran Final</div>
-                    <div class="bracket-match" style="border:2px solid #d97706;">
-                        <div class="bracket-match-header" style="background:#d97706;">👑 GRAN FINAL</div>
-                        <div class="bracket-team-row"><span>${b.grandFinal.home||'<em style="color:#94a3b8">Esperando</em>'}</span><span class="bracket-team-score">${score[0]}</span></div>
-                        <div class="bracket-team-row"><span>${b.grandFinal.away||'<em style="color:#94a3b8">Esperando</em>'}</span><span class="bracket-team-score">${score[1]}</span></div>
-                    </div></div>`;
-            }
+        // Podio
+        let podio = calcularPodio(b);
+        if (podio) {
+            html += '<div class="podio">';
+            html += '<div class="podio-fila podio-1"><span class="podio-medalla">🥇</span><span class="podio-puesto">1º</span><span class="podio-nombre">' + podio.primero + '</span></div>';
+            html += '<div class="podio-fila podio-2"><span class="podio-medalla">🥈</span><span class="podio-puesto">2º</span><span class="podio-nombre">' + podio.segundo + '</span></div>';
+            if (podio.tercero) html += '<div class="podio-fila podio-3"><span class="podio-medalla">🥉</span><span class="podio-puesto">3º</span><span class="podio-nombre">' + podio.tercero + '</span></div>';
             html += '</div>';
+        }
 
-            // Losers bracket si aplica
-            if (b.losers && b.losers.length > 0) {
-                html += `<h3 style="margin:14px 0 8px; color:#c2410c;">🔄 Cuadro de Repesca</h3><div class="bracket-wrap">`;
+        // Winners bracket
+        html += '<div class="bracket-section"><div class="bracket-section-title">Cuadro de Ganadores</div>';
+        html += '<div class="bracket-wrap">';
+        (b.winners || []).forEach((ronda, rIdx) => {
+            html += '<div class="bracket-col"><div class="bracket-round-label">Ronda ' + (rIdx+1) + '</div>';
+            ronda.forEach((m, mIdx) => { html += renderMatch(m, 'Partido ' + (mIdx+1), false); });
+            html += '</div>';
+        });
+        // Gran final
+        if (b.grandFinal) {
+            html += '<div class="bracket-col"><div class="bracket-round-label">Gran Final</div>';
+            html += renderMatch(b.grandFinal, '👑 GRAN FINAL', true, 'final');
+            html += '</div>';
+        }
+        html += '</div></div>'; // bracket-wrap + bracket-section
+
+        // 3º/4º para simple
+        if (b.tipo === 'simple' && b.thirdPlaceMatch) {
+            html += '<div class="bracket-section"><div class="bracket-section-title">3er y 4º Puesto</div>';
+            html += '<div class="bracket-wrap"><div class="bracket-col">';
+            html += renderMatch(b.thirdPlaceMatch, '🥉 3er Puesto', false, 'repesca');
+            html += '</div></div></div>';
+        }
+
+        // Losers / repesca para doble
+        if (b.tipo === 'doble' && b.losers && b.losers.length > 0) {
+            let losersConDatos = b.losers.filter(r => r.some(m => m.home || m.away));
+            if (losersConDatos.length > 0) {
+                html += '<div class="bracket-section"><div class="bracket-section-title">Cuadro de Repesca</div>';
+                html += '<div class="bracket-wrap">';
                 b.losers.forEach((ronda, rIdx) => {
-                    let tieneAlgo = ronda.some(m => m.home || m.away);
-                    if (!tieneAlgo) return;
+                    if (!ronda.some(m => m.home || m.away)) return;
                     let esUltima = rIdx === b.losers.length - 1;
-                    html += `<div class="bracket-col"><div class="bracket-round-label">${esUltima ? '🥉 3er Puesto' : 'Repesca R'+(rIdx+1)}</div>`;
+                    let label = esUltima ? '🥉 3er Puesto' : 'Repesca R' + (rIdx+1);
+                    html += '<div class="bracket-col"><div class="bracket-round-label">' + label + '</div>';
                     ronda.forEach((m, mIdx) => {
                         if (!m.home && !m.away) return;
-                        let score = getScore(m);
-                        html += `<div class="bracket-match" style="border-left:3px solid #f97316;">
-                            <div class="bracket-match-header" style="background:#fff7ed; color:#c2410c;">${esUltima ? '3er Puesto' : 'P'+(mIdx+1)}</div>
-                            <div class="bracket-team-row"><span>${m.home||'<em style="color:#94a3b8">Esperando</em>'}</span><span class="bracket-team-score">${score[0]}</span></div>
-                            <div class="bracket-team-row"><span>${m.away||'<em style="color:#94a3b8">Esperando</em>'}</span><span class="bracket-team-score">${score[1]}</span></div>
-                        </div>`;
+                        html += renderMatch(m, esUltima ? '3er Puesto' : 'P' + (mIdx+1), false, 'repesca');
                     });
                     html += '</div>';
                 });
-                html += '</div>';
+                html += '</div></div>';
             }
-        });
-
-        cont.innerHTML = html || '<p style="color:#94a3b8;padding:20px;">Fase final no generada aún.</p>';
-    }
-
-    function getScore(m) {
-        if (!m || !m.sets || !m.sets[0]) return ['',''];
-        let h = m.sets[0].hS, a = m.sets[0].aS;
-        if (h === '' || a === '') return ['',''];
-        return [h, a];
-    }
-
-    function calcularPodio(b) {
-        let gf = b.grandFinal;
-        if (!gf || !gf.sets || !gf.sets[0]) return null;
-        let sh = parseInt(gf.sets[0].hS), sa = parseInt(gf.sets[0].aS);
-        if (isNaN(sh) || isNaN(sa) || sh === sa) return null;
-        let primero = sh > sa ? gf.home : gf.away;
-        let segundo = sh > sa ? gf.away : gf.home;
-        let tercero = null;
-        if (b.tipo === 'doble') {
-            let ultima = b.losers && b.losers[b.losers.length - 1];
-            if (ultima && ultima[0]) {
-                let m = ultima[0];
-                let lh = parseInt(m.sets[0].hS), la = parseInt(m.sets[0].aS);
-                if (!isNaN(lh) && !isNaN(la) && lh !== la) tercero = lh > la ? m.away : m.home;
-            }
-        } else if (b.thirdPlaceMatch) {
-            let m = b.thirdPlaceMatch;
-            let th = parseInt(m.sets[0].hS), ta = parseInt(m.sets[0].aS);
-            if (!isNaN(th) && !isNaN(ta) && th !== ta) tercero = th > ta ? m.home : m.away;
         }
-        return { primero, segundo, tercero };
-    }
 
-    // ── Init ─────────────────────────────────────────────────────
-    cargarDatos();
+        html += '</div></div>'; // fase-body + fase-section
+    });
+
+    cont.innerHTML = html || '<p class="sin-datos">Fase final no generada aún.</p>';
+}
+
+// ── Helpers ───────────────────────────────────────────────────────
+function renderMatch(m, label, isFinal, tipo) {
+    let scores = getScores(m);
+    let hScore = scores[0], aScore = scores[1];
+    let hayScore = hScore !== '';
+    let ganH = hayScore && parseInt(hScore) > parseInt(aScore);
+    let ganA = hayScore && parseInt(aScore) > parseInt(hScore);
+    let headerCls = isFinal ? ' final' : (tipo === 'repesca' ? ' repesca' : '');
+    return '<div class="bracket-match">' +
+        '<div class="bracket-match-header' + headerCls + '">' + label + '</div>' +
+        '<div class="bracket-team-row' + (ganH ? ' ganador' : '') + '">' +
+            '<span class="bracket-team-name' + (!m.home ? ' esperando' : '') + '">' + (m.home || 'Esperando') + '</span>' +
+            '<span class="bracket-team-score">' + hScore + '</span>' +
+        '</div>' +
+        '<div class="bracket-team-row' + (ganA ? ' ganador' : '') + '">' +
+            '<span class="bracket-team-name' + (!m.away ? ' esperando' : '') + '">' + (m.away || 'Esperando') + '</span>' +
+            '<span class="bracket-team-score">' + aScore + '</span>' +
+        '</div>' +
+        '</div>';
+}
+
+function getScores(m) {
+    if (!m || !m.sets || !m.sets[0]) return ['',''];
+    let h = m.sets[0].hS, a = m.sets[0].aS;
+    if (h === '' || h === undefined || a === '' || a === undefined) return ['',''];
+    return [h, a];
+}
+
+function calcularPodio(b) {
+    let gf = b.grandFinal;
+    if (!gf) return null;
+    let sc = getScores(gf);
+    if (sc[0] === '') return null;
+    let sh = parseInt(sc[0]), sa = parseInt(sc[1]);
+    if (isNaN(sh) || isNaN(sa) || sh === sa) return null;
+    let primero = sh > sa ? gf.home : gf.away;
+    let segundo = sh > sa ? gf.away : gf.home;
+    let tercero = null;
+    if (b.tipo === 'doble' && b.losers && b.losers.length > 0) {
+        // 3º = perdedor de la última ronda de repesca
+        let ultima = b.losers[b.losers.length - 1];
+        if (ultima && ultima[0]) {
+            let lsc = getScores(ultima[0]);
+            if (lsc[0] !== '') {
+                let lh = parseInt(lsc[0]), la = parseInt(lsc[1]);
+                if (!isNaN(lh) && !isNaN(la) && lh !== la) {
+                    tercero = lh > la ? ultima[0].away : ultima[0].home;
+                }
+            }
+        }
+    } else if (b.thirdPlaceMatch) {
+        let tsc = getScores(b.thirdPlaceMatch);
+        if (tsc[0] !== '') {
+            let th = parseInt(tsc[0]), ta = parseInt(tsc[1]);
+            if (!isNaN(th) && !isNaN(ta) && th !== ta) tercero = th > ta ? b.thirdPlaceMatch.home : b.thirdPlaceMatch.away;
+        }
+    }
+    return { primero, segundo, tercero };
+}
+
+// ── Init ──────────────────────────────────────────────────────────
+cargarDatos();
 </script>
 </body>
 </html>
