@@ -274,37 +274,26 @@ function renderPartidosPorGrupo() {
 function renderPartidosPorCampo() {
     let todos = recogerPartidos();
     if (!todos.length) return '<p class="sin-datos">Sin partidos disponibles.</p>';
-    todos.sort((a,b) => (a.campoId||0) - (b.campoId||0) || a.ordenGlobal - b.ordenGlobal);
-    // Agrupar por campo → grupo
+    todos.sort((a,b) => (a.campoId||0) - (b.campoId||0) || (a.ordenGlobal||0) - (b.ordenGlobal||0));
+    // Agrupar por campo
     let porCampo = {};
     let ordenCampos = [];
     todos.forEach(m => {
         let campo = torneo.campos && torneo.campos[m.campoId] ? torneo.campos[m.campoId].name : 'Campo ' + ((m.campoId||0)+1);
-        if (!porCampo[campo]) { porCampo[campo] = {}; ordenCampos.push(campo); }
-        if (!porCampo[campo][m.grupo]) porCampo[campo][m.grupo] = [];
-        porCampo[campo][m.grupo].push(m);
+        if (!porCampo[campo]) { porCampo[campo] = []; ordenCampos.push(campo); }
+        porCampo[campo].push(m);
     });
     let html = '';
     ordenCampos.forEach((campo, ci) => {
-        let totalC = 0, jugadosC = 0;
-        Object.values(porCampo[campo]).forEach(ps => { totalC += ps.length; jugadosC += ps.filter(m => m.golesHome !== '' && m.golesAway !== '').length; });
+        let partidos = porCampo[campo];
+        let jugados = partidos.filter(m => m.golesHome !== '' && m.golesAway !== '').length;
         let idC = 'pc-' + ci;
         html += '<div class="acordeon-item ac-campo">' +
             '<div class="acordeon-header" onclick="toggleAc(\'' + idC + '\')">' +
-            '<span>🏟️ ' + campo + ' <span style="font-weight:400;font-size:0.78rem;opacity:0.75;">(' + jugadosC + '/' + totalC + ' jugados)</span></span>' +
+            '<span>🏟️ ' + campo + ' <span style="font-weight:400;font-size:0.78rem;opacity:0.75;">(' + jugados + '/' + partidos.length + ' jugados)</span></span>' +
             '<span class="chevron">▼</span></div>' +
             '<div class="acordeon-body" id="' + idC + '">';
-        Object.entries(porCampo[campo]).forEach(([grupo, partidos], gi) => {
-            let idG = 'pcg-' + ci + '-' + gi;
-            let jugG = partidos.filter(m => m.golesHome !== '' && m.golesAway !== '').length;
-            html += '<div class="acordeon-item ac-grupo" style="box-shadow:none;">' +
-                '<div class="acordeon-header" onclick="toggleAc(\'' + idG + '\')">' +
-                '<span>📌 ' + grupo + ' <span style="font-weight:400;font-size:0.75rem;opacity:0.7;">(' + jugG + '/' + partidos.length + ')</span></span>' +
-                '<span class="chevron">▼</span></div>' +
-                '<div class="acordeon-body" id="' + idG + '">';
-            partidos.forEach(m => { html += renderPartidoCard(m); });
-            html += '</div></div>';
-        });
+        partidos.forEach(m => { html += renderPartidoCard(m); });
         html += '</div></div>';
     });
     return html;
@@ -345,10 +334,10 @@ function renderFase(key) {
     if (b.clasificados && b.clasificados.length > 0) {
         let idCl = 'clasif-' + key;
         html += '<div class="acordeon-item ac-clasif" style="margin-bottom:20px;">' +
-            '<div class="acordeon-header open" onclick="toggleAc(\'' + idCl + '\')">' +
+            '<div class="acordeon-header" onclick="toggleAc(\'' + idCl + '\')">' +
             '<span>📋 Equipos clasificados (' + b.clasificados.length + ')</span>' +
             '<span class="chevron">▼</span></div>' +
-            '<div class="acordeon-body open" id="' + idCl + '">' +
+            '<div class="acordeon-body" id="' + idCl + '">' +
             '<table class="tabla-clasificacion"><thead><tr><th>#</th><th>Equipo</th></tr></thead><tbody>';
         b.clasificados.forEach((nombre, i) => {
             html += '<tr><td>' + (i+1) + '</td><td>' + nombre + '</td></tr>';
