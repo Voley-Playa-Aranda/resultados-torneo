@@ -80,6 +80,19 @@
         #cargando { text-align: center; padding: 60px; color: #64748b; }
         .spinner { display: inline-block; width: 36px; height: 36px; border: 3px solid #e2e8f0; border-top-color: #d97706; border-radius: 50%; animation: spin 0.8s linear infinite; margin-bottom: 14px; }
         @keyframes spin { to { transform: rotate(360deg); } }
+        /* Acordeón */
+        .acordeon-item { margin-bottom: 6px; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.07); }
+        .acordeon-header { display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; cursor: pointer; font-weight: 700; font-size: 0.9rem; user-select: none; }
+        .acordeon-header:hover { filter: brightness(0.95); }
+        .acordeon-header .chevron { transition: transform 0.2s; font-style: normal; }
+        .acordeon-header.open .chevron { transform: rotate(180deg); }
+        .acordeon-body { display: none; background: white; padding: 8px 12px; }
+        .acordeon-body.open { display: block; }
+
+        .ac-campo  .acordeon-header { background: #1e3a5f; color: #fbbf24; }
+        .ac-grupo  .acordeon-header { background: #f1f5f9; color: #1e3a5f; border-left: 4px solid #cbd5e1; }
+        .ac-clasif .acordeon-header { background: #f8fafc; color: #1e3a5f; border-left: 4px solid #d97706; }
+
         .sin-datos { color: #94a3b8; padding: 30px; text-align: center; font-style: italic; }
 
         @media (max-width: 600px) {
@@ -234,17 +247,26 @@ function renderPartidosPorGrupo() {
     let todos = recogerPartidos();
     if (!todos.length) return '<p class="sin-datos">Sin partidos disponibles.</p>';
     todos.sort((a,b) => a.gIdx - b.gIdx || a.ronda - b.ronda);
-    let html = '';
-    let grupoActual = null;
+    // Agrupar por grupo
+    let porGrupo = {};
+    let ordenGrupos = [];
     todos.forEach(m => {
-        if (m.grupo !== grupoActual) {
-            if (grupoActual !== null) html += '</div>';
-            html += '<div class="seccion-block"><div class="seccion-header">📌 ' + m.grupo + '</div>';
-            grupoActual = m.grupo;
-        }
-        html += renderPartidoCard(m);
+        if (!porGrupo[m.grupo]) { porGrupo[m.grupo] = []; ordenGrupos.push(m.grupo); }
+        porGrupo[m.grupo].push(m);
     });
-    if (grupoActual !== null) html += '</div>';
+    let html = '';
+    ordenGrupos.forEach((grupo, i) => {
+        let jugados = porGrupo[grupo].filter(m => m.golesHome !== '' && m.golesAway !== '').length;
+        let total = porGrupo[grupo].length;
+        let id = 'pg-' + i;
+        html += '<div class="acordeon-item ac-grupo">' +
+            '<div class="acordeon-header" onclick="toggleAc(\'' + id + '\')">' +
+            '<span>📌 ' + grupo + ' <span style="font-weight:400;font-size:0.78rem;opacity:0.7;">(' + jugados + '/' + total + ' jugados)</span></span>' +
+            '<span class="chevron">▼</span></div>' +
+            '<div class="acordeon-body" id="' + id + '">';
+        porGrupo[grupo].forEach(m => { html += renderPartidoCard(m); });
+        html += '</div></div>';
+    });
     return html;
 }
 
@@ -253,23 +275,38 @@ function renderPartidosPorCampo() {
     let todos = recogerPartidos();
     if (!todos.length) return '<p class="sin-datos">Sin partidos disponibles.</p>';
     todos.sort((a,b) => (a.campoId||0) - (b.campoId||0) || a.ordenGlobal - b.ordenGlobal);
-    let html = '';
-    let campoActual = null;
-    let grupoActual = null;
+    // Agrupar por campo → grupo
+    let porCampo = {};
+    let ordenCampos = [];
     todos.forEach(m => {
         let campo = torneo.campos && torneo.campos[m.campoId] ? torneo.campos[m.campoId].name : 'Campo ' + ((m.campoId||0)+1);
-        if (campo !== campoActual) {
-            if (campoActual !== null) html += '</div>';
-            html += '<div class="seccion-block"><div class="seccion-header">🏟️ ' + campo + '</div>';
-            campoActual = campo; grupoActual = null;
-        }
-        if (m.grupo !== grupoActual) {
-            html += '<div class="sub-label">' + m.grupo + '</div>';
-            grupoActual = m.grupo;
-        }
-        html += renderPartidoCard(m);
+        if (!porCampo[campo]) { porCampo[campo] = {}; ordenCampos.push(campo); }
+        if (!porCampo[campo][m.grupo]) porCampo[campo][m.grupo] = [];
+        porCampo[campo][m.grupo].push(m);
     });
-    if (campoActual !== null) html += '</div>';
+    let html = '';
+    ordenCampos.forEach((campo, ci) => {
+        let totalC = 0, jugadosC = 0;
+        Object.values(porCampo[campo]).forEach(ps => { totalC += ps.length; jugadosC += ps.filter(m => m.golesHome !== '' && m.golesAway !== '').length; });
+        let idC = 'pc-' + ci;
+        html += '<div class="acordeon-item ac-campo">' +
+            '<div class="acordeon-header" onclick="toggleAc(\'' + idC + '\')">' +
+            '<span>🏟️ ' + campo + ' <span style="font-weight:400;font-size:0.78rem;opacity:0.75;">(' + jugadosC + '/' + totalC + ' jugados)</span></span>' +
+            '<span class="chevron">▼</span></div>' +
+            '<div class="acordeon-body" id="' + idC + '">';
+        Object.entries(porCampo[campo]).forEach(([grupo, partidos], gi) => {
+            let idG = 'pcg-' + ci + '-' + gi;
+            let jugG = partidos.filter(m => m.golesHome !== '' && m.golesAway !== '').length;
+            html += '<div class="acordeon-item ac-grupo" style="box-shadow:none;">' +
+                '<div class="acordeon-header" onclick="toggleAc(\'' + idG + '\')">' +
+                '<span>📌 ' + grupo + ' <span style="font-weight:400;font-size:0.75rem;opacity:0.7;">(' + jugG + '/' + partidos.length + ')</span></span>' +
+                '<span class="chevron">▼</span></div>' +
+                '<div class="acordeon-body" id="' + idG + '">';
+            partidos.forEach(m => { html += renderPartidoCard(m); });
+            html += '</div></div>';
+        });
+        html += '</div></div>';
+    });
     return html;
 }
 
@@ -304,15 +341,19 @@ function renderFase(key) {
     if (!b) return '<p class="sin-datos">No disponible.</p>';
     let html = '';
 
-    // Tabla de clasificados
+    // Tabla de clasificados con acordeón
     if (b.clasificados && b.clasificados.length > 0) {
-        html += '<div class="card" style="margin-bottom:20px;">' +
-            '<h3>Equipos clasificados</h3>' +
+        let idCl = 'clasif-' + key;
+        html += '<div class="acordeon-item ac-clasif" style="margin-bottom:20px;">' +
+            '<div class="acordeon-header open" onclick="toggleAc(\'' + idCl + '\')">' +
+            '<span>📋 Equipos clasificados (' + b.clasificados.length + ')</span>' +
+            '<span class="chevron">▼</span></div>' +
+            '<div class="acordeon-body open" id="' + idCl + '">' +
             '<table class="tabla-clasificacion"><thead><tr><th>#</th><th>Equipo</th></tr></thead><tbody>';
         b.clasificados.forEach((nombre, i) => {
             html += '<tr><td>' + (i+1) + '</td><td>' + nombre + '</td></tr>';
         });
-        html += '</tbody></table></div>';
+        html += '</tbody></table></div></div>';
     }
 
     // Podio
@@ -422,6 +463,15 @@ function calcularPodio(b) {
         }
     }
     return { primero, segundo, tercero };
+}
+
+function toggleAc(id) {
+    let body = document.getElementById(id);
+    let header = body ? body.previousElementSibling : null;
+    if (!body) return;
+    let isOpen = body.classList.contains('open');
+    body.classList.toggle('open', !isOpen);
+    if (header) header.classList.toggle('open', !isOpen);
 }
 
 cargarDatos();
