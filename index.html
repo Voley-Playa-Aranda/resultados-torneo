@@ -356,50 +356,61 @@ function renderFase(key) {
         html += '</tbody></table></div></div>';
     }
 
-    // Podio
+    // Podio + Gran Final + 3º/4º en fila
     let podio = calcularPodio(b);
+    html += '<div style="display:flex; gap:24px; flex-wrap:wrap; align-items:flex-start; margin-bottom:24px;">';
+    // Gran final y 3º/4º
+    html += '<div style="display:flex; flex-direction:column; gap:12px;">';
+    if (b.grandFinal) {
+        html += renderMatch(b.grandFinal, '👑 Gran Final', true, 'final');
+    }
+    if (b.tipo === 'simple' && b.thirdPlaceMatch) {
+        html += renderMatch(b.thirdPlaceMatch, '🥉 3er Puesto', false, 'repesca');
+    }
+    if (b.tipo === 'doble' && b.losers && b.losers.length > 0) {
+        let ultimaRonda = b.losers[b.losers.length - 1];
+        if (ultimaRonda && ultimaRonda[0] && (ultimaRonda[0].home || ultimaRonda[0].away)) {
+            html += renderMatch(ultimaRonda[0], '🥉 3er Puesto', false, 'repesca');
+        }
+    }
+    html += '</div>';
+    // Podio
     if (podio) {
-        html += '<div class="podio">';
+        html += '<div class="podio" style="margin:0;">';
         html += '<div class="podio-fila podio-1"><span class="podio-medalla">🥇</span><span class="podio-puesto">1º</span><span class="podio-nombre">' + podio.primero + '</span></div>';
         html += '<div class="podio-fila podio-2"><span class="podio-medalla">🥈</span><span class="podio-puesto">2º</span><span class="podio-nombre">' + podio.segundo + '</span></div>';
         if (podio.tercero) html += '<div class="podio-fila podio-3"><span class="podio-medalla">🥉</span><span class="podio-puesto">3º</span><span class="podio-nombre">' + podio.tercero + '</span></div>';
         html += '</div>';
     }
+    html += '</div>';
 
-    // Winners
+    // Winners — en simple omitir la última ronda (es la gran final, ya mostrada arriba)
+    let rondasWinners = b.winners || [];
+    if (b.tipo === 'simple' && rondasWinners.length > 0) {
+        rondasWinners = rondasWinners.slice(0, -1);
+    }
     html += '<div class="bracket-section"><div class="bracket-section-title">Cuadro de Ganadores</div><div class="bracket-wrap">';
-    (b.winners || []).forEach((ronda, rIdx) => {
+    rondasWinners.forEach((ronda, rIdx) => {
         html += '<div class="bracket-col"><div class="bracket-round-label">Ronda ' + (rIdx+1) + '</div>';
         ronda.forEach((m, mIdx) => { html += renderMatch(m, 'Partido ' + (mIdx+1), false); });
         html += '</div>';
     });
-    if (b.grandFinal) {
-        html += '<div class="bracket-col"><div class="bracket-round-label">Gran Final</div>';
-        html += renderMatch(b.grandFinal, '👑 Gran Final', true, 'final');
-        html += '</div>';
-    }
     html += '</div></div>';
-
-    // 3º/4º simple
-    if (b.tipo === 'simple' && b.thirdPlaceMatch) {
-        html += '<div class="bracket-section"><div class="bracket-section-title">3er y 4º Puesto</div><div class="bracket-wrap"><div class="bracket-col">';
-        html += renderMatch(b.thirdPlaceMatch, '🥉 3er Puesto', false, 'repesca');
-        html += '</div></div></div>';
-    }
 
     // Losers doble
     if (b.tipo === 'doble' && b.losers && b.losers.length > 0) {
         let losersConDatos = b.losers.filter(r => r.some(m => m.home || m.away));
         if (losersConDatos.length > 0) {
             html += '<div class="bracket-section"><div class="bracket-section-title">Cuadro de Repesca</div><div class="bracket-wrap">';
-            b.losers.forEach((ronda, rIdx) => {
+            // La última ronda (3er puesto) ya se muestra arriba junto a la gran final
+            let losersAMostrar = b.losers.slice(0, -1);
+            losersAMostrar.forEach((ronda, rIdx) => {
                 if (!ronda.some(m => m.home || m.away)) return;
-                let esUltima = rIdx === b.losers.length - 1;
-                let label = esUltima ? '🥉 3er Puesto' : 'Repesca R' + (rIdx+1);
+                let label = 'Repesca R' + (rIdx+1);
                 html += '<div class="bracket-col"><div class="bracket-round-label">' + label + '</div>';
                 ronda.forEach((m, mIdx) => {
                     if (!m.home && !m.away) return;
-                    html += renderMatch(m, esUltima ? '3er Puesto' : 'P' + (mIdx+1), false, 'repesca');
+                    html += renderMatch(m, 'P' + (mIdx+1), false, 'repesca');
                 });
                 html += '</div>';
             });
