@@ -207,39 +207,48 @@ function renderContenido() {
 // ── 1. GRUPOS ─────────────────────────────────────────────────────
 function renderGrupos() {
     if (!torneo.grupos || !torneo.grupos.length) return '<p class="sin-datos">Sin grupos disponibles.</p>';
-    let html = '<div class="grid">';
-    torneo.grupos.forEach(g => {
+    let html = '';
+    torneo.grupos.forEach((g, i) => {
         let equipos = [...g.equipos].sort((a,b) => (a.ordenSorteo||0) - (b.ordenSorteo||0));
-        html += '<div class="card"><h3>' + g.nombre + '</h3>';
+        let id = 'gr-' + i;
+        html += '<div class="acordeon-item ac-grupo">' +
+            '<div class="acordeon-header" onclick="toggleAc(\'' + id + '\')">' +
+            '<span>📌 ' + g.nombre + ' <span style="font-weight:400;font-size:0.78rem;opacity:0.7;">(' + equipos.length + ' equipos)</span></span>' +
+            '<span class="chevron">▼</span></div>' +
+            '<div class="acordeon-body" id="' + id + '">';
         equipos.forEach(eq => { html += '<div class="grupo-equipo">' + eq.name + '</div>'; });
-        html += '</div>';
+        html += '</div></div>';
     });
-    return html + '</div>';
+    return html;
 }
 
 // ── 2. CLASIFICACIÓN — por grupos, sin colores de posición ────────
 function renderClasificacion() {
     if (!torneo.grupos || !torneo.grupos.length) return '<p class="sin-datos">Sin resultados aún.</p>';
-    let html = '<div class="grid">';
-    torneo.grupos.forEach(g => {
+    let html = '';
+    torneo.grupos.forEach((g, i) => {
         let equipos = [...g.equipos].sort((a,b) => {
             let d = b.pts - a.pts; if (d) return d;
             d = b.dg - a.dg;      if (d) return d;
             d = b.gf - a.gf;      if (d) return d;
             return a.name.localeCompare(b.name);
         });
-        html += '<div class="card"><h3>' + g.nombre + '</h3>' +
+        let id = 'cl-' + i;
+        html += '<div class="acordeon-item ac-grupo">' +
+            '<div class="acordeon-header" onclick="toggleAc(\'' + id + '\')">' +
+            '<span>📌 ' + g.nombre + '</span><span class="chevron">▼</span></div>' +
+            '<div class="acordeon-body" id="' + id + '">' +
             '<table class="tabla-clasificacion"><thead><tr>' +
             '<th>#</th><th>Equipo</th><th>PJ</th><th>Pts</th><th>GF</th><th>GC</th><th>DG</th>' +
             '</tr></thead><tbody>';
-        equipos.forEach((eq, i) => {
-            html += '<tr><td>' + (i+1) + '</td><td>' + eq.name + '</td>' +
+        equipos.forEach((eq, j) => {
+            html += '<tr><td>' + (j+1) + '</td><td>' + eq.name + '</td>' +
                 '<td>' + (eq.pj||0) + '</td><td><strong>' + (eq.pts||0) + '</strong></td>' +
                 '<td>' + (eq.gf||0) + '</td><td>' + (eq.gc||0) + '</td><td>' + (eq.dg||0) + '</td></tr>';
         });
-        html += '</tbody></table></div>';
+        html += '</tbody></table></div></div>';
     });
-    return html + '</div>';
+    return html;
 }
 
 // ── 3a. PARTIDOS POR GRUPO ────────────────────────────────────────
