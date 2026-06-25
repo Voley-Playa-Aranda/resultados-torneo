@@ -118,7 +118,7 @@
 
 <script>
 const JSON_URL = 'https://raw.githubusercontent.com/voley-playa-aranda/resultados-torneo/main/resultados.json';
-const REFRESH_INTERVAL = 5 * 60;
+let REFRESH_INTERVAL = 5 * 60; // por defecto 5 min, se actualiza desde el JSON
 let countdownSecs = REFRESH_INTERVAL;
 let torneo = null;
 let tabActiva = '';
@@ -131,10 +131,14 @@ async function cargarDatos() {
         if (!res.ok) throw new Error('Error ' + res.status);
         let data = await res.json();
         torneo = data.torneo;
+        // Usar el intervalo configurado en el gestor
+        if (data.intervaloSegundos && data.intervaloSegundos > 0) {
+            REFRESH_INTERVAL = data.intervaloSegundos;
+        }
+        countdownSecs = REFRESH_INTERVAL;
         let fecha = new Date(data.publicadoEn);
         document.getElementById('ultimaActualizacion').textContent =
             'Última actualización: ' + fecha.toLocaleDateString('es-ES') + ' ' + fecha.toLocaleTimeString('es-ES');
-        countdownSecs = REFRESH_INTERVAL;
         construirTabs();
         renderTodo();
     } catch(e) {
