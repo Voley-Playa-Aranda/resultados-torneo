@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-06-25T07:33:21.914Z",
+  "publicadoEn": "2026-06-25T07:34:34.585Z",
   "torneo": {
     "iniciado": true,
     "grupos": [
@@ -4121,8 +4121,8 @@
               "away": "Equipo 2",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 15,
+                  "aS": 2
                 },
                 {
                   "hS": "",
@@ -4139,8 +4139,8 @@
               "away": "Equipo 35",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 12,
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -4157,8 +4157,8 @@
               "away": "Equipo 37",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 13,
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -4353,8 +4353,8 @@
               ]
             },
             {
-              "home": "",
-              "away": "",
+              "home": "Equipo 50",
+              "away": "Equipo 35",
               "sets": [
                 {
                   "hS": "",
@@ -4371,7 +4371,7 @@
               ]
             },
             {
-              "home": "",
+              "home": "Equipo 37",
               "away": "",
               "sets": [
                 {
@@ -4633,8 +4633,8 @@
               ]
             },
             {
-              "home": "",
-              "away": "",
+              "home": "Equipo 2",
+              "away": "Equipo 46",
               "sets": [
                 {
                   "hS": "",
@@ -4651,7 +4651,7 @@
               ]
             },
             {
-              "home": "",
+              "home": "Equipo 44",
               "away": "",
               "sets": [
                 {
@@ -4797,7 +4797,7 @@
               ]
             },
             {
-              "home": "",
+              "home": "Equipo 44",
               "away": "",
               "sets": [
                 {
