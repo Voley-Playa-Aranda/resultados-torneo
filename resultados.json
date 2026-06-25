@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-06-25T07:39:18.033Z",
+  "publicadoEn": "2026-06-25T07:41:18.029Z",
   "torneo": {
     "iniciado": true,
     "grupos": [
@@ -4175,8 +4175,8 @@
               "away": "Equipo 56",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 12,
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -4303,8 +4303,8 @@
               "away": "Equipo 4",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 12,
+                  "aS": 13
                 },
                 {
                   "hS": "",
@@ -4321,8 +4321,8 @@
               "away": "Equipo 1",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 12,
+                  "aS": 13
                 },
                 {
                   "hS": "",
@@ -4372,7 +4372,7 @@
             },
             {
               "home": "Equipo 37",
-              "away": "",
+              "away": "Equipo 56",
               "sets": [
                 {
                   "hS": "",
@@ -4445,8 +4445,8 @@
           ],
           [
             {
-              "home": "",
-              "away": "",
+              "home": "Equipo 4",
+              "away": "Equipo 1",
               "sets": [
                 {
                   "hS": "",
@@ -4652,7 +4652,7 @@
             },
             {
               "home": "Equipo 44",
-              "away": "",
+              "away": "Equipo 9",
               "sets": [
                 {
                   "hS": "",
@@ -4726,7 +4726,25 @@
           [
             {
               "home": "",
-              "away": "",
+              "away": "Equipo 54",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ]
+            },
+            {
+              "home": "",
+              "away": "Equipo 12",
               "sets": [
                 {
                   "hS": "",
@@ -4780,24 +4798,6 @@
             },
             {
               "home": "",
-              "away": "",
-              "sets": [
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ]
-            },
-            {
-              "home": "Equipo 44",
               "away": "",
               "sets": [
                 {
@@ -4871,8 +4871,8 @@
           ],
           [
             {
-              "home": "",
-              "away": "",
+              "home": "Equipo 54",
+              "away": "Equipo 12",
               "sets": [
                 {
                   "hS": "",
