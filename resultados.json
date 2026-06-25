@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-06-25T09:38:43.029Z",
+  "publicadoEn": "2026-06-25T15:09:16.314Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -5245,7 +5245,7 @@
         ],
         "size": 32,
         "thirdPlaceMatch": {
-          "home": "",
+          "home": "Equipo 4",
           "away": "Equipo 43",
           "bo3": false,
           "sets": [
@@ -5286,7 +5286,7 @@
         }
       }
     },
-    "faseFinalActiva": "plata",
+    "faseFinalActiva": "oro",
     "faseFinalGenerada": true,
     "lastPosicionEq": [
       {
