@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-06-25T07:57:27.030Z",
+  "publicadoEn": "2026-06-25T09:36:43.031Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -4003,8 +4003,8 @@
           "bo3": false,
           "sets": [
             {
-              "hS": "",
-              "aS": ""
+              "hS": 15,
+              "aS": 3
             },
             {
               "hS": "",
@@ -4432,8 +4432,8 @@
               "away": "Equipo 35",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 12,
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -4451,8 +4451,8 @@
               "away": "Equipo 56",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 10,
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -4470,8 +4470,8 @@
               "away": "Equipo 7",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 15,
+                  "aS": 11
                 },
                 {
                   "hS": "",
@@ -4489,8 +4489,8 @@
               "away": "Equipo 6",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 0,
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -4508,8 +4508,8 @@
               "away": "Equipo 43",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 4,
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -4529,8 +4529,8 @@
               "away": "Equipo 1",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 15,
+                  "aS": 7
                 },
                 {
                   "hS": "",
@@ -4545,11 +4545,11 @@
             },
             {
               "home": "Equipo 30",
-              "away": "",
+              "away": "Equipo 35",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 12,
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -4563,12 +4563,12 @@
               "ordenFinal": 38
             },
             {
-              "home": "",
-              "away": "",
+              "home": "Equipo 56",
+              "away": "Equipo 48",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 15,
+                  "aS": 0
                 },
                 {
                   "hS": "",
@@ -4582,12 +4582,12 @@
               "ordenFinal": 39
             },
             {
-              "home": "",
-              "away": "",
+              "home": "Equipo 6",
+              "away": "Equipo 43",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 10,
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -4603,12 +4603,12 @@
           ],
           [
             {
-              "home": "",
-              "away": "",
+              "home": "Equipo 4",
+              "away": "Equipo 35",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 15,
+                  "aS": 6
                 },
                 {
                   "hS": "",
@@ -4622,12 +4622,12 @@
               "ordenFinal": 47
             },
             {
-              "home": "",
-              "away": "",
+              "home": "Equipo 56",
+              "away": "Equipo 43",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 15,
+                  "aS": 7
                 },
                 {
                   "hS": "",
@@ -4643,12 +4643,12 @@
           ],
           [
             {
-              "home": "",
-              "away": "",
+              "home": "Equipo 4",
+              "away": "Equipo 56",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 15,
+                  "aS": 1
                 },
                 {
                   "hS": "",
@@ -4724,8 +4724,8 @@
               "away": "Equipo 46",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 15,
+                  "aS": 11
                 },
                 {
                   "hS": "",
@@ -4742,8 +4742,8 @@
               "away": "Equipo 9",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 9,
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -4869,12 +4869,12 @@
               "ordenFinal": 27
             },
             {
-              "home": "",
-              "away": "",
+              "home": "Equipo 2",
+              "away": "Equipo 50",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 9,
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -4888,12 +4888,12 @@
               "ordenFinal": 28
             },
             {
-              "home": "",
-              "away": "",
+              "home": "Equipo 9",
+              "away": "Equipo 37",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 10,
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -4908,7 +4908,7 @@
             },
             {
               "home": "",
-              "away": "",
+              "away": "Equipo 7",
               "sets": [
                 {
                   "hS": "",
@@ -4927,7 +4927,7 @@
             },
             {
               "home": "",
-              "away": "",
+              "away": "Equipo 15",
               "sets": [
                 {
                   "hS": "",
@@ -4946,7 +4946,7 @@
             },
             {
               "home": "",
-              "away": "",
+              "away": "Equipo 24",
               "sets": [
                 {
                   "hS": "",
@@ -4970,8 +4970,8 @@
               "away": "Equipo 12",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 5,
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -4986,11 +4986,11 @@
             },
             {
               "home": "Equipo 40",
-              "away": "",
+              "away": "Equipo 50",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 15,
+                  "aS": 4
                 },
                 {
                   "hS": "",
@@ -5004,12 +5004,12 @@
               "ordenFinal": 34
             },
             {
-              "home": "",
-              "away": "",
+              "home": "Equipo 37",
+              "away": "Equipo 7",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 5,
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -5023,12 +5023,12 @@
               "ordenFinal": 35
             },
             {
-              "home": "",
-              "away": "",
+              "home": "Equipo 15",
+              "away": "Equipo 24",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 15,
+                  "aS": 5
                 },
                 {
                   "hS": "",
@@ -5044,12 +5044,12 @@
           ],
           [
             {
-              "home": "",
-              "away": "",
+              "home": "Equipo 12",
+              "away": "Equipo 1",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 15,
+                  "aS": 10
                 },
                 {
                   "hS": "",
@@ -5064,11 +5064,11 @@
             },
             {
               "home": "Equipo 40",
-              "away": "",
+              "away": "Equipo 30",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 15,
+                  "aS": 13
                 },
                 {
                   "hS": "",
@@ -5082,12 +5082,12 @@
               "ordenFinal": 42
             },
             {
-              "home": "",
-              "away": "",
+              "home": "Equipo 7",
+              "away": "Equipo 48",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 15,
+                  "aS": 1
                 },
                 {
                   "hS": "",
@@ -5101,12 +5101,12 @@
               "ordenFinal": 43
             },
             {
-              "home": "",
-              "away": "",
+              "home": "Equipo 15",
+              "away": "Equipo 6",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 15,
+                  "aS": 5
                 },
                 {
                   "hS": "",
@@ -5122,12 +5122,12 @@
           ],
           [
             {
-              "home": "",
-              "away": "",
+              "home": "Equipo 12",
+              "away": "Equipo 40",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 15,
+                  "aS": 5
                 },
                 {
                   "hS": "",
@@ -5141,12 +5141,12 @@
               "ordenFinal": 45
             },
             {
-              "home": "",
-              "away": "",
+              "home": "Equipo 7",
+              "away": "Equipo 15",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 15,
+                  "aS": 5
                 },
                 {
                   "hS": "",
@@ -5162,12 +5162,12 @@
           ],
           [
             {
-              "home": "",
-              "away": "",
+              "home": "Equipo 12",
+              "away": "Equipo 35",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 15,
+                  "aS": 10
                 },
                 {
                   "hS": "",
@@ -5181,12 +5181,12 @@
               "ordenFinal": 49
             },
             {
-              "home": "",
-              "away": "",
+              "home": "Equipo 7",
+              "away": "Equipo 43",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 6,
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -5202,12 +5202,12 @@
           ],
           [
             {
-              "home": "",
-              "away": "",
+              "home": "Equipo 12",
+              "away": "Equipo 43",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 2,
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -5223,12 +5223,12 @@
           ],
           [
             {
-              "home": "",
-              "away": "",
+              "home": "Equipo 43",
+              "away": "Equipo 56",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 2,
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -5246,7 +5246,7 @@
         "size": 32,
         "thirdPlaceMatch": {
           "home": "",
-          "away": "",
+          "away": "Equipo 43",
           "bo3": false,
           "sets": [
             {
@@ -5265,13 +5265,13 @@
           "ordenFinal": 55
         },
         "grandFinal": {
-          "home": "",
-          "away": "",
+          "home": "Equipo 4",
+          "away": "Equipo 56",
           "bo3": false,
           "sets": [
             {
-              "hS": "",
-              "aS": ""
+              "hS": 9,
+              "aS": 15
             },
             {
               "hS": "",
