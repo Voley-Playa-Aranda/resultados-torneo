@@ -1,5 +1,6 @@
 {
-  "publicadoEn": "2026-06-25T07:47:18.044Z",
+  "publicadoEn": "2026-06-25T07:52:47.112Z",
+  "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
     "grupos": [
@@ -1975,66 +1976,66 @@
       }
     ],
     "lineasEquipos": [
-      "Equipo 57",
-      "Equipo 36",
-      "Equipo 44",
-      "Equipo 43",
-      "Equipo 39",
-      "Equipo 25",
-      "Equipo 4",
-      "Equipo 51",
-      "Equipo 45",
-      "Equipo 10",
-      "Equipo 49",
-      "Equipo 16",
-      "Equipo 11",
-      "Equipo 23",
-      "Equipo 19",
-      "Equipo 22",
-      "Equipo 47",
-      "Equipo 41",
-      "Equipo 46",
-      "Equipo 29",
-      "Equipo 42",
-      "Equipo 28",
-      "Equipo 34",
-      "Equipo 56",
-      "Equipo 38",
-      "Equipo 30",
-      "Equipo 2",
-      "Equipo 13",
-      "Equipo 20",
-      "Equipo 6",
-      "Equipo 31",
-      "Equipo 14",
-      "Equipo 27",
-      "Equipo 24",
-      "Equipo 48",
-      "Equipo 5",
-      "Equipo 35",
-      "Equipo 32",
-      "Equipo 12",
       "Equipo 1",
-      "Equipo 18",
-      "Equipo 7",
-      "Equipo 15",
+      "Equipo 2",
       "Equipo 3",
-      "Equipo 40",
-      "Equipo 37",
-      "Equipo 33",
-      "Equipo 60",
+      "Equipo 4",
+      "Equipo 5",
+      "Equipo 6",
+      "Equipo 7",
       "Equipo 8",
+      "Equipo 9",
+      "Equipo 10",
+      "Equipo 11",
+      "Equipo 12",
+      "Equipo 13",
+      "Equipo 14",
+      "Equipo 15",
+      "Equipo 16",
+      "Equipo 17",
+      "Equipo 18",
+      "Equipo 19",
+      "Equipo 20",
+      "Equipo 21",
+      "Equipo 22",
+      "Equipo 23",
+      "Equipo 24",
+      "Equipo 25",
+      "Equipo 26",
+      "Equipo 27",
+      "Equipo 28",
+      "Equipo 29",
+      "Equipo 30",
+      "Equipo 31",
+      "Equipo 32",
+      "Equipo 33",
+      "Equipo 34",
+      "Equipo 35",
+      "Equipo 36",
+      "Equipo 37",
+      "Equipo 38",
+      "Equipo 39",
+      "Equipo 40",
+      "Equipo 41",
+      "Equipo 42",
+      "Equipo 43",
+      "Equipo 44",
+      "Equipo 45",
+      "Equipo 46",
+      "Equipo 47",
+      "Equipo 48",
+      "Equipo 49",
+      "Equipo 50",
+      "Equipo 51",
+      "Equipo 52",
+      "Equipo 53",
       "Equipo 54",
       "Equipo 55",
-      "Equipo 26",
-      "Equipo 59",
-      "Equipo 9",
+      "Equipo 56",
+      "Equipo 57",
       "Equipo 58",
-      "Equipo 52",
-      "Equipo 21",
-      "Equipo 53",
-      "Equipo 17",
-      "Equipo 50"
+      "Equipo 59",
+      "Equipo 60"
     ],
     "lastGlobalEq": [
       {
@@ -2832,7 +2833,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 1
             },
             {
               "home": "Equipo 25",
@@ -2850,7 +2852,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 2
             },
             {
               "home": "Equipo 16",
@@ -2868,7 +2871,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 3
             },
             {
               "home": "Equipo 45",
@@ -2886,7 +2890,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 4
             },
             {
               "home": "Equipo 38",
@@ -2904,7 +2909,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 5
             },
             {
               "home": "Equipo 52",
@@ -2922,7 +2928,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 6
             },
             {
               "home": "Equipo 33",
@@ -2940,7 +2947,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 7
             },
             {
               "home": "Equipo 57",
@@ -2958,7 +2966,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 8
             },
             {
               "home": "Equipo 31",
@@ -2976,7 +2985,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 9
             },
             {
               "home": "Equipo 36",
@@ -2994,7 +3004,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 10
             },
             {
               "home": "Equipo 49",
@@ -3012,7 +3023,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 11
             },
             {
               "home": "Equipo 23",
@@ -3030,7 +3042,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 12
             },
             {
               "home": "Equipo 20",
@@ -3048,7 +3061,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 13
             },
             {
               "home": "Equipo 55",
@@ -3066,7 +3080,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 14
             },
             {
               "home": "Equipo 22",
@@ -3084,7 +3099,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 15
             },
             {
               "home": "Equipo 51",
@@ -3102,7 +3118,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 16
             }
           ],
           [
@@ -3122,7 +3139,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 17
             },
             {
               "home": "Equipo 16",
@@ -3140,7 +3158,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 18
             },
             {
               "home": "Equipo 38",
@@ -3158,7 +3177,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 19
             },
             {
               "home": "Equipo 33",
@@ -3176,7 +3196,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 20
             },
             {
               "home": "Equipo 39",
@@ -3194,7 +3215,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 21
             },
             {
               "home": "Equipo 49",
@@ -3212,7 +3234,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 22
             },
             {
               "home": "Equipo 20",
@@ -3230,7 +3253,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 23
             },
             {
               "home": "Equipo 22",
@@ -3248,7 +3272,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 24
             }
           ],
           [
@@ -3268,7 +3293,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 37
             },
             {
               "home": "Equipo 38",
@@ -3286,7 +3312,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 38
             },
             {
               "home": "Equipo 34",
@@ -3304,7 +3331,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 39
             },
             {
               "home": "Equipo 20",
@@ -3322,7 +3350,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 40
             }
           ],
           [
@@ -3342,7 +3371,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 47
             },
             {
               "home": "Equipo 23",
@@ -3360,7 +3390,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 48
             }
           ],
           [
@@ -3380,7 +3411,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 52
             }
           ]
         ],
@@ -3548,7 +3580,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 25
             },
             {
               "home": "",
@@ -3566,7 +3599,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 26
             },
             {
               "home": "",
@@ -3584,7 +3618,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 27
             },
             {
               "home": "Equipo 27",
@@ -3602,7 +3637,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 28
             },
             {
               "home": "Equipo 36",
@@ -3620,7 +3656,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 29
             },
             {
               "home": "",
@@ -3638,7 +3675,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 30
             },
             {
               "home": "",
@@ -3656,7 +3694,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 31
             },
             {
               "home": "",
@@ -3674,7 +3713,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 32
             }
           ],
           [
@@ -3694,7 +3734,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 33
             },
             {
               "home": "Equipo 52",
@@ -3712,7 +3753,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 34
             },
             {
               "home": "Equipo 36",
@@ -3730,7 +3772,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 35
             },
             {
               "home": "Equipo 55",
@@ -3748,7 +3791,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 36
             }
           ],
           [
@@ -3768,7 +3812,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 41
             },
             {
               "home": "Equipo 33",
@@ -3786,7 +3831,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 42
             },
             {
               "home": "Equipo 36",
@@ -3804,7 +3850,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 43
             },
             {
               "home": "Equipo 51",
@@ -3822,7 +3869,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 44
             }
           ],
           [
@@ -3842,7 +3890,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 45
             },
             {
               "home": "Equipo 36",
@@ -3860,7 +3909,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 46
             }
           ],
           [
@@ -3880,7 +3930,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 49
             },
             {
               "home": "Equipo 36",
@@ -3898,7 +3949,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 50
             }
           ],
           [
@@ -3918,7 +3970,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 51
             }
           ],
           [
@@ -3938,13 +3991,14 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 53
             }
           ]
         ],
         "size": 32,
         "thirdPlaceMatch": {
-          "home": "",
+          "home": "Equipo 20",
           "away": "Equipo 23",
           "bo3": false,
           "sets": [
@@ -3960,7 +4014,8 @@
               "hS": "",
               "aS": ""
             }
-          ]
+          ],
+          "ordenFinal": 55
         },
         "grandFinal": {
           "home": "Equipo 20",
@@ -3979,7 +4034,8 @@
               "hS": "",
               "aS": ""
             }
-          ]
+          ],
+          "ordenFinal": 54
         }
       },
       "plata": {
@@ -4024,7 +4080,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 1
             },
             {
               "home": "Equipo 4",
@@ -4042,7 +4099,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 2
             },
             {
               "home": "Equipo 12",
@@ -4060,7 +4118,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 3
             },
             {
               "home": "Equipo 1",
@@ -4078,7 +4137,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 4
             },
             {
               "home": "Equipo 40",
@@ -4096,7 +4156,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 5
             },
             {
               "home": "Equipo 30",
@@ -4114,7 +4175,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 6
             },
             {
               "home": "Equipo 50",
@@ -4132,7 +4194,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 7
             },
             {
               "home": "Equipo 46",
@@ -4150,7 +4213,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 8
             },
             {
               "home": "Equipo 44",
@@ -4168,7 +4232,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 9
             },
             {
               "home": "Equipo 9",
@@ -4186,7 +4251,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 10
             },
             {
               "home": "Equipo 48",
@@ -4204,7 +4270,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 11
             },
             {
               "home": "Equipo 7",
@@ -4222,7 +4289,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 12
             },
             {
               "home": "Equipo 15",
@@ -4240,7 +4308,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 13
             },
             {
               "home": "Equipo 6",
@@ -4258,7 +4327,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 14
             },
             {
               "home": "Equipo 24",
@@ -4276,7 +4346,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 15
             },
             {
               "home": "Equipo 43",
@@ -4294,7 +4365,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 16
             }
           ],
           [
@@ -4314,7 +4386,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 17
             },
             {
               "home": "Equipo 12",
@@ -4332,15 +4405,16 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 18
             },
             {
               "home": "Equipo 40",
               "away": "Equipo 30",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 12,
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -4350,7 +4424,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 19
             },
             {
               "home": "Equipo 50",
@@ -4368,7 +4443,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 20
             },
             {
               "home": "Equipo 37",
@@ -4386,7 +4462,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 21
             },
             {
               "home": "Equipo 48",
@@ -4404,7 +4481,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 22
             },
             {
               "home": "Equipo 15",
@@ -4422,7 +4500,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 23
             },
             {
               "home": "Equipo 24",
@@ -4440,7 +4519,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 24
             }
           ],
           [
@@ -4460,7 +4540,27 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 37
+            },
+            {
+              "home": "Equipo 30",
+              "away": "",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 38
             },
             {
               "home": "",
@@ -4478,7 +4578,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 39
             },
             {
               "home": "",
@@ -4496,25 +4597,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
-            },
-            {
-              "home": "",
-              "away": "",
-              "sets": [
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ]
+              ],
+              "ordenFinal": 40
             }
           ],
           [
@@ -4534,7 +4618,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 47
             },
             {
               "home": "",
@@ -4552,7 +4637,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 48
             }
           ],
           [
@@ -4572,7 +4658,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 52
             }
           ]
         ],
@@ -4740,7 +4827,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 25
             },
             {
               "home": "",
@@ -4758,7 +4846,27 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 26
+            },
+            {
+              "home": "",
+              "away": "Equipo 40",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 27
             },
             {
               "home": "",
@@ -4776,7 +4884,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 28
             },
             {
               "home": "",
@@ -4794,7 +4903,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 29
             },
             {
               "home": "",
@@ -4812,7 +4922,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 30
             },
             {
               "home": "",
@@ -4830,7 +4941,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 31
             },
             {
               "home": "",
@@ -4848,25 +4960,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
-            },
-            {
-              "home": "",
-              "away": "",
-              "sets": [
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ]
+              ],
+              "ordenFinal": 32
             }
           ],
           [
@@ -4886,7 +4981,27 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 33
+            },
+            {
+              "home": "Equipo 40",
+              "away": "",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 34
             },
             {
               "home": "",
@@ -4904,7 +5019,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 35
             },
             {
               "home": "",
@@ -4922,25 +5038,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
-            },
-            {
-              "home": "",
-              "away": "",
-              "sets": [
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ]
+              ],
+              "ordenFinal": 36
             }
           ],
           [
@@ -4960,7 +5059,27 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 41
+            },
+            {
+              "home": "Equipo 40",
+              "away": "",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 42
             },
             {
               "home": "",
@@ -4978,7 +5097,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 43
             },
             {
               "home": "",
@@ -4996,25 +5116,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
-            },
-            {
-              "home": "",
-              "away": "",
-              "sets": [
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ]
+              ],
+              "ordenFinal": 44
             }
           ],
           [
@@ -5034,7 +5137,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 45
             },
             {
               "home": "",
@@ -5052,7 +5156,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 46
             }
           ],
           [
@@ -5072,7 +5177,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 49
             },
             {
               "home": "",
@@ -5090,7 +5196,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 50
             }
           ],
           [
@@ -5110,7 +5217,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 51
             }
           ],
           [
@@ -5130,7 +5238,8 @@
                   "hS": "",
                   "aS": ""
                 }
-              ]
+              ],
+              "ordenFinal": 53
             }
           ]
         ],
@@ -5152,7 +5261,8 @@
               "hS": "",
               "aS": ""
             }
-          ]
+          ],
+          "ordenFinal": 55
         },
         "grandFinal": {
           "home": "",
@@ -5171,7 +5281,8 @@
               "hS": "",
               "aS": ""
             }
-          ]
+          ],
+          "ordenFinal": 54
         }
       }
     },
