@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-06-25T15:39:50.787Z",
+  "publicadoEn": "2026-06-27T09:21:55.030Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -3998,7 +3998,7 @@
         ],
         "size": 32,
         "thirdPlaceMatch": {
-          "home": "",
+          "home": "Equipo 20",
           "away": "Equipo 22",
           "bo3": false,
           "sets": [
