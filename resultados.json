@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-05T17:33:00.278Z",
+  "publicadoEn": "2026-07-05T17:33:17.441Z",
   "intervaloSegundos": 300,
   "torneo": {
     "iniciado": true,
@@ -980,6 +980,26 @@
         "nombre": "Grupo G",
         "equipos": [
           {
+            "name": "Equipo 19",
+            "pts": 2,
+            "gf": 15,
+            "gc": 12,
+            "dg": 3,
+            "pj": 1,
+            "ordenSorteo": 4,
+            "pg": 1
+          },
+          {
+            "name": "Equipo 36",
+            "pts": 1,
+            "gf": 12,
+            "gc": 15,
+            "dg": -3,
+            "pj": 1,
+            "ordenSorteo": 1,
+            "pg": 0
+          },
+          {
             "name": "Equipo 10",
             "pts": 0,
             "gf": 0,
@@ -990,16 +1010,6 @@
             "pg": 0
           },
           {
-            "name": "Equipo 19",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 4,
-            "pg": 0
-          },
-          {
             "name": "Equipo 35",
             "pts": 0,
             "gf": 0,
@@ -1007,16 +1017,6 @@
             "dg": 0,
             "pj": 0,
             "ordenSorteo": 2,
-            "pg": 0
-          },
-          {
-            "name": "Equipo 36",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 1,
             "pg": 0
           },
           {
@@ -1037,8 +1037,8 @@
               {
                 "home": "Equipo 36",
                 "away": "Equipo 19",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 12,
+                "golesAway": 15,
                 "campoId": 0,
                 "ordenGlobal": 1
               },
@@ -2039,6 +2039,18 @@
     ],
     "lastGlobalEq": [
       {
+        "name": "Equipo 19",
+        "pts": 2,
+        "gf": 15,
+        "gc": 12,
+        "dg": 3,
+        "pj": 1,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo G",
+        "posGrupo": 1
+      },
+      {
         "name": "Equipo 37",
         "pts": 2,
         "gf": 15,
@@ -2049,6 +2061,18 @@
         "pg": 1,
         "grupo": "Grupo A",
         "posGrupo": 1
+      },
+      {
+        "name": "Equipo 36",
+        "pts": 1,
+        "gf": 12,
+        "gc": 15,
+        "dg": -3,
+        "pj": 1,
+        "ordenSorteo": 1,
+        "pg": 0,
+        "grupo": "Grupo G",
+        "posGrupo": 2
       },
       {
         "name": "Equipo 46",
@@ -2084,7 +2108,7 @@
         "ordenSorteo": 3,
         "pg": 0,
         "grupo": "Grupo G",
-        "posGrupo": 1
+        "posGrupo": 3
       },
       {
         "name": "Equipo 11",
@@ -2181,18 +2205,6 @@
         "pg": 0,
         "grupo": "Grupo F",
         "posGrupo": 1
-      },
-      {
-        "name": "Equipo 19",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 4,
-        "pg": 0,
-        "grupo": "Grupo G",
-        "posGrupo": 2
       },
       {
         "name": "Equipo 2",
@@ -2406,18 +2418,6 @@
         "dg": 0,
         "pj": 0,
         "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo G",
-        "posGrupo": 3
-      },
-      {
-        "name": "Equipo 36",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo G",
         "posGrupo": 4
@@ -2796,6 +2796,18 @@
     "faseFinalGenerada": false,
     "lastPosicionEq": [
       {
+        "name": "Equipo 19",
+        "pts": 2,
+        "gf": 15,
+        "gc": 12,
+        "dg": 3,
+        "pj": 1,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo G",
+        "posGrupo": 1
+      },
+      {
         "name": "Equipo 37",
         "pts": 2,
         "gf": 15,
@@ -2817,18 +2829,6 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo L",
-        "posGrupo": 1
-      },
-      {
-        "name": "Equipo 10",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 3,
-        "pg": 0,
-        "grupo": "Grupo G",
         "posGrupo": 1
       },
       {
@@ -2940,6 +2940,18 @@
         "posGrupo": 1
       },
       {
+        "name": "Equipo 36",
+        "pts": 1,
+        "gf": 12,
+        "gc": 15,
+        "dg": -3,
+        "pj": 1,
+        "ordenSorteo": 1,
+        "pg": 0,
+        "grupo": "Grupo G",
+        "posGrupo": 2
+      },
+      {
         "name": "Equipo 46",
         "pts": 1,
         "gf": 12,
@@ -2985,18 +2997,6 @@
         "ordenSorteo": 3,
         "pg": 0,
         "grupo": "Grupo J",
-        "posGrupo": 2
-      },
-      {
-        "name": "Equipo 19",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 4,
-        "pg": 0,
-        "grupo": "Grupo G",
         "posGrupo": 2
       },
       {
@@ -3084,6 +3084,18 @@
         "posGrupo": 2
       },
       {
+        "name": "Equipo 10",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 3,
+        "pg": 0,
+        "grupo": "Grupo G",
+        "posGrupo": 3
+      },
+      {
         "name": "Equipo 16",
         "pts": 0,
         "gf": 0,
@@ -3165,18 +3177,6 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo L",
-        "posGrupo": 3
-      },
-      {
-        "name": "Equipo 35",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo G",
         "posGrupo": 3
       },
       {
@@ -3264,13 +3264,13 @@
         "posGrupo": 4
       },
       {
-        "name": "Equipo 36",
+        "name": "Equipo 35",
         "pts": 0,
         "gf": 0,
         "gc": 0,
         "dg": 0,
         "pj": 0,
-        "ordenSorteo": 1,
+        "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo G",
         "posGrupo": 4
