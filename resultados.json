@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-07T17:19:31.655Z",
+  "publicadoEn": "2026-07-07T17:20:39.663Z",
   "intervaloSegundos": 300,
   "torneo": {
     "iniciado": true,
@@ -2989,8 +2989,8 @@
               "away": "Equipo 50",
               "sets": [
                 {
-                  "hS": 3,
-                  "aS": 15
+                  "hS": 15,
+                  "aS": 13
                 },
                 {
                   "hS": "",
@@ -3009,7 +3009,7 @@
               "sets": [
                 {
                   "hS": 15,
-                  "aS": 4
+                  "aS": 1
                 },
                 {
                   "hS": "",
@@ -3027,7 +3027,7 @@
               "away": "Equipo 53",
               "sets": [
                 {
-                  "hS": 8,
+                  "hS": 11,
                   "aS": 15
                 },
                 {
@@ -3046,8 +3046,8 @@
               "away": "Equipo 58",
               "sets": [
                 {
-                  "hS": 15,
-                  "aS": 12
+                  "hS": 12,
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -3181,8 +3181,8 @@
               "away": "Equipo 55",
               "sets": [
                 {
-                  "hS": 15,
-                  "aS": 12
+                  "hS": 7,
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -3200,8 +3200,8 @@
               "away": "Equipo 2",
               "sets": [
                 {
-                  "hS": 10,
-                  "aS": 15
+                  "hS": 15,
+                  "aS": 9
                 },
                 {
                   "hS": "",
@@ -3219,7 +3219,7 @@
               "away": "Equipo 24",
               "sets": [
                 {
-                  "hS": 0,
+                  "hS": 7,
                   "aS": 15
                 },
                 {
@@ -3234,12 +3234,12 @@
               "ordenFinal": 19
             },
             {
-              "home": "Equipo 50",
+              "home": "Equipo 7",
               "away": "Equipo 12",
               "sets": [
                 {
-                  "hS": 10,
-                  "aS": 15
+                  "hS": 15,
+                  "aS": 4
                 },
                 {
                   "hS": "",
@@ -3254,11 +3254,11 @@
             },
             {
               "home": "Equipo 53",
-              "away": "Equipo 6",
+              "away": "Equipo 58",
               "sets": [
                 {
-                  "hS": 6,
-                  "aS": 15
+                  "hS": 15,
+                  "aS": 8
                 },
                 {
                   "hS": "",
@@ -3276,8 +3276,8 @@
               "away": "Equipo 21",
               "sets": [
                 {
-                  "hS": 9,
-                  "aS": 15
+                  "hS": 15,
+                  "aS": 3
                 },
                 {
                   "hS": "",
@@ -3295,7 +3295,7 @@
               "away": "Equipo 23",
               "sets": [
                 {
-                  "hS": 4,
+                  "hS": 7,
                   "aS": 15
                 },
                 {
@@ -3314,8 +3314,8 @@
               "away": "Equipo 18",
               "sets": [
                 {
-                  "hS": 15,
-                  "aS": 8
+                  "hS": 3,
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -3331,11 +3331,11 @@
           ],
           [
             {
-              "home": "Equipo 44",
-              "away": "Equipo 2",
+              "home": "Equipo 55",
+              "away": "Equipo 36",
               "sets": [
                 {
-                  "hS": 9,
+                  "hS": 3,
                   "aS": 15
                 },
                 {
@@ -3351,11 +3351,11 @@
             },
             {
               "home": "Equipo 24",
-              "away": "Equipo 12",
+              "away": "Equipo 7",
               "sets": [
                 {
                   "hS": 15,
-                  "aS": 3
+                  "aS": 6
                 },
                 {
                   "hS": "",
@@ -3369,12 +3369,12 @@
               "ordenFinal": 26
             },
             {
-              "home": "Equipo 6",
-              "away": "Equipo 21",
+              "home": "Equipo 53",
+              "away": "Equipo 27",
               "sets": [
                 {
-                  "hS": 13,
-                  "aS": 15
+                  "hS": 15,
+                  "aS": 8
                 },
                 {
                   "hS": "",
@@ -3389,11 +3389,11 @@
             },
             {
               "home": "Equipo 23",
-              "away": "Equipo 22",
+              "away": "Equipo 18",
               "sets": [
                 {
                   "hS": 15,
-                  "aS": 1
+                  "aS": 7
                 },
                 {
                   "hS": "",
@@ -3409,11 +3409,11 @@
           ],
           [
             {
-              "home": "Equipo 2",
+              "home": "Equipo 36",
               "away": "Equipo 24",
               "sets": [
                 {
-                  "hS": 6,
+                  "hS": 10,
                   "aS": 15
                 },
                 {
@@ -3428,12 +3428,12 @@
               "ordenFinal": 29
             },
             {
-              "home": "Equipo 21",
+              "home": "Equipo 53",
               "away": "Equipo 23",
               "sets": [
                 {
-                  "hS": 3,
-                  "aS": 15
+                  "hS": 15,
+                  "aS": 12
                 },
                 {
                   "hS": "",
@@ -3472,13 +3472,13 @@
         "losers": [],
         "size": 32,
         "thirdPlaceMatch": {
-          "home": "Equipo 2",
-          "away": "Equipo 21",
+          "home": "Equipo 36",
+          "away": "Equipo 23",
           "bo3": false,
           "sets": [
             {
-              "hS": 15,
-              "aS": 7
+              "hS": 12,
+              "aS": 15
             },
             {
               "hS": "",
@@ -3493,12 +3493,12 @@
         },
         "grandFinal": {
           "home": "Equipo 24",
-          "away": "Equipo 23",
+          "away": "Equipo 53",
           "bo3": false,
           "sets": [
             {
-              "hS": 11,
-              "aS": 15
+              "hS": 15,
+              "aS": 0
             },
             {
               "hS": "",
