@@ -277,7 +277,10 @@ function renderPartidosPorGrupo() {
             '<span>📌 ' + grupo + ' <span style="font-weight:400;font-size:0.78rem;opacity:0.7;">(' + jugados + '/' + total + ' jugados)</span></span>' +
             '<span class="chevron">▼</span></div>' +
             '<div class="acordeon-body" id="' + id + '">';
-        porGrupo[grupo].forEach(m => { html += renderPartidoCard(m); });
+        porGrupo[grupo].forEach(m => {
+            let campo = torneo.campos && torneo.campos[m.campoId] ? torneo.campos[m.campoId].name : 'Campo ' + ((m.campoId||0)+1);
+            html += renderPartidoCard(m, campo);
+        });
         html += '</div></div>';
     });
     return html;
@@ -306,7 +309,7 @@ function renderPartidosPorCampo() {
             '<span>🏟️ ' + campo + ' <span style="font-weight:400;font-size:0.78rem;opacity:0.75;">(' + jugados + '/' + partidos.length + ' jugados)</span></span>' +
             '<span class="chevron">▼</span></div>' +
             '<div class="acordeon-body" id="' + idC + '">';
-        partidos.forEach(m => { html += renderPartidoCard(m); });
+        partidos.forEach(m => { html += renderPartidoCard(m, m.grupo); });
         html += '</div></div>';
     });
     return html;
@@ -326,10 +329,13 @@ function recogerPartidos() {
     return todos;
 }
 
-function renderPartidoCard(m) {
+function renderPartidoCard(m, etiqueta) {
     let jugado = m.golesHome !== '' && m.golesAway !== '';
+    let etiquetaHtml = etiqueta
+        ? '<span class="partido-ronda">R' + m.ronda + ' · <span style="color:#1e3a5f;font-weight:600;">' + etiqueta + '</span></span>'
+        : '<span class="partido-ronda">R' + m.ronda + '</span>';
     return '<div class="partido-card ' + (jugado ? 'jugado' : '') + '">' +
-        '<span class="partido-ronda">R' + m.ronda + '</span>' +
+        etiquetaHtml +
         '<span class="partido-equipo">' + m.home + '</span>' +
         '<span class="partido-score ' + (jugado ? '' : 'pendiente') + '">' +
         (jugado ? m.golesHome + ' - ' + m.golesAway : 'vs') + '</span>' +
@@ -430,15 +436,22 @@ function renderMatch(m, label, isFinal, tipo) {
     let ganH = hayScore && parseInt(sc[0]) > parseInt(sc[1]);
     let ganA = hayScore && parseInt(sc[1]) > parseInt(sc[0]);
     let hCls = isFinal ? ' final' : tipo === 'repesca' ? ' repesca' : '';
+    // Usar ordenFinal si existe, si no usar el label recibido
+    let labelMostrar = (m.ordenFinal && !isFinal) ? 'Partido ' + m.ordenFinal : label;
+    // Detectar byes
+    let homeText = m.home === 'DESCANSO' ? 'DESCANSA' : (m.home || 'Esperando');
+    let awayText = m.away === 'DESCANSO' ? 'DESCANSA' : (m.away || 'Esperando');
+    let homeEsp = !m.home || m.home === 'DESCANSO';
+    let awayEsp = !m.away || m.away === 'DESCANSO';
     return '<div class="bracket-match">' +
-        '<div class="bracket-match-header' + hCls + '">' + label + '</div>' +
+        '<div class="bracket-match-header' + hCls + '">' + labelMostrar + '</div>' +
         '<div class="bracket-team-row' + (ganH ? ' ganador' : '') + '">' +
-            '<span class="bracket-team-name' + (!m.home ? ' esperando' : '') + '">' + (m.home || 'Esperando') + '</span>' +
-            '<span class="bracket-team-score">' + sc[0] + '</span>' +
+            '<span class="bracket-team-name' + (homeEsp ? ' esperando' : '') + '">' + homeText + '</span>' +
+            '<span class="bracket-team-score">' + (m.home === 'DESCANSO' ? '' : sc[0]) + '</span>' +
         '</div>' +
         '<div class="bracket-team-row' + (ganA ? ' ganador' : '') + '">' +
-            '<span class="bracket-team-name' + (!m.away ? ' esperando' : '') + '">' + (m.away || 'Esperando') + '</span>' +
-            '<span class="bracket-team-score">' + sc[1] + '</span>' +
+            '<span class="bracket-team-name' + (awayEsp ? ' esperando' : '') + '">' + awayText + '</span>' +
+            '<span class="bracket-team-score">' + (m.away === 'DESCANSO' ? '' : sc[1]) + '</span>' +
         '</div></div>';
 }
 
