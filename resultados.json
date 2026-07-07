@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-07T17:51:50.872Z",
+  "publicadoEn": "2026-07-07T17:52:50.889Z",
   "intervaloSegundos": 60,
   "torneo": {
     "iniciado": true,
@@ -3181,8 +3181,8 @@
               "away": "Equipo 55",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 10,
+                  "aS": 20
                 },
                 {
                   "hS": "",
@@ -3200,8 +3200,8 @@
               "away": "Equipo 2",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 2,
+                  "aS": 20
                 },
                 {
                   "hS": "",
@@ -3331,8 +3331,8 @@
           ],
           [
             {
-              "home": "",
-              "away": "",
+              "home": "Equipo 55",
+              "away": "Equipo 2",
               "sets": [
                 {
                   "hS": "",
