@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-06T15:55:24.564Z",
+  "publicadoEn": "2026-07-07T16:42:25.816Z",
   "intervaloSegundos": 300,
   "torneo": {
     "iniciado": true,
@@ -8,1024 +8,62 @@
         "nombre": "Grupo A",
         "equipos": [
           {
-            "name": "Equipo 46",
-            "pts": 7,
-            "gf": 58,
-            "gc": 52,
-            "dg": 6,
-            "pj": 4,
-            "ordenSorteo": 3,
-            "pg": 3
-          },
-          {
-            "name": "Equipo 7",
-            "pts": 7,
-            "gf": 53,
-            "gc": 47,
-            "dg": 6,
-            "pj": 4,
-            "ordenSorteo": 0,
-            "pg": 3
-          },
-          {
-            "name": "Equipo 2",
-            "pts": 6,
-            "gf": 55,
-            "gc": 50,
-            "dg": 5,
-            "pj": 4,
-            "ordenSorteo": 2,
-            "pg": 2
-          },
-          {
-            "name": "Equipo 19",
-            "pts": 5,
-            "gf": 50,
+            "name": "Equipo 22",
+            "pts": 9,
+            "gf": 73,
             "gc": 58,
-            "dg": -8,
-            "pj": 4,
-            "ordenSorteo": 4,
-            "pg": 1
-          },
-          {
-            "name": "Equipo 42",
-            "pts": 5,
-            "gf": 48,
-            "gc": 57,
-            "dg": -9,
-            "pj": 4,
-            "ordenSorteo": 1,
-            "pg": 1
-          }
-        ],
-        "partidos": [
-          {
-            "numRonda": 1,
-            "encuentros": [
-              {
-                "home": "Equipo 42",
-                "away": "Equipo 19",
-                "golesHome": 15,
-                "golesAway": 12,
-                "campoId": 0,
-                "ordenGlobal": 0
-              },
-              {
-                "home": "Equipo 2",
-                "away": "Equipo 46",
-                "golesHome": 12,
-                "golesAway": 15,
-                "campoId": 1,
-                "ordenGlobal": 19
-              }
-            ]
-          },
-          {
-            "numRonda": 2,
-            "encuentros": [
-              {
-                "home": "Equipo 7",
-                "away": "Equipo 19",
-                "golesHome": 15,
-                "golesAway": 11,
-                "campoId": 4,
-                "ordenGlobal": 77
-              },
-              {
-                "home": "Equipo 42",
-                "away": "Equipo 2",
-                "golesHome": 12,
-                "golesAway": 15,
-                "campoId": 5,
-                "ordenGlobal": 95
-              }
-            ]
-          },
-          {
-            "numRonda": 3,
-            "encuentros": [
-              {
-                "home": "Equipo 7",
-                "away": "Equipo 46",
-                "golesHome": 15,
-                "golesAway": 13,
-                "campoId": 2,
-                "ordenGlobal": 45
-              },
-              {
-                "home": "Equipo 19",
-                "away": "Equipo 2",
-                "golesHome": 15,
-                "golesAway": 13,
-                "campoId": 3,
-                "ordenGlobal": 63
-              }
-            ]
-          },
-          {
-            "numRonda": 4,
-            "encuentros": [
-              {
-                "home": "Equipo 7",
-                "away": "Equipo 2",
-                "golesHome": 8,
-                "golesAway": 15,
-                "campoId": 0,
-                "ordenGlobal": 11
-              },
-              {
-                "home": "Equipo 46",
-                "away": "Equipo 42",
-                "golesHome": 15,
-                "golesAway": 13,
-                "campoId": 1,
-                "ordenGlobal": 30
-              }
-            ]
-          },
-          {
-            "numRonda": 5,
-            "encuentros": [
-              {
-                "home": "Equipo 7",
-                "away": "Equipo 42",
-                "golesHome": 15,
-                "golesAway": 8,
-                "campoId": 4,
-                "ordenGlobal": 88
-              },
-              {
-                "home": "Equipo 46",
-                "away": "Equipo 19",
-                "golesHome": 15,
-                "golesAway": 12,
-                "campoId": 5,
-                "ordenGlobal": 106
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "nombre": "Grupo B",
-        "equipos": [
-          {
-            "name": "Equipo 1",
-            "pts": 7,
-            "gf": 58,
-            "gc": 46,
-            "dg": 12,
-            "pj": 4,
-            "ordenSorteo": 4,
-            "pg": 3
-          },
-          {
-            "name": "Equipo 8",
-            "pts": 7,
-            "gf": 54,
-            "gc": 50,
-            "dg": 4,
-            "pj": 4,
-            "ordenSorteo": 2,
-            "pg": 3
-          },
-          {
-            "name": "Equipo 6",
-            "pts": 6,
-            "gf": 54,
-            "gc": 56,
-            "dg": -2,
-            "pj": 4,
-            "ordenSorteo": 0,
-            "pg": 2
-          },
-          {
-            "name": "Equipo 4",
-            "pts": 5,
-            "gf": 51,
-            "gc": 53,
-            "dg": -2,
-            "pj": 4,
-            "ordenSorteo": 1,
-            "pg": 1
-          },
-          {
-            "name": "Equipo 25",
-            "pts": 5,
-            "gf": 45,
-            "gc": 57,
-            "dg": -12,
-            "pj": 4,
-            "ordenSorteo": 3,
-            "pg": 1
-          }
-        ],
-        "partidos": [
-          {
-            "numRonda": 1,
-            "encuentros": [
-              {
-                "home": "Equipo 4",
-                "away": "Equipo 1",
-                "golesHome": 11,
-                "golesAway": 15,
-                "campoId": 2,
-                "ordenGlobal": 38
-              },
-              {
-                "home": "Equipo 8",
-                "away": "Equipo 25",
-                "golesHome": 15,
-                "golesAway": 11,
-                "campoId": 3,
-                "ordenGlobal": 56
-              }
-            ]
-          },
-          {
-            "numRonda": 2,
-            "encuentros": [
-              {
-                "home": "Equipo 6",
-                "away": "Equipo 1",
-                "golesHome": 15,
-                "golesAway": 13,
-                "campoId": 0,
-                "ordenGlobal": 4
-              },
-              {
-                "home": "Equipo 4",
-                "away": "Equipo 8",
-                "golesHome": 12,
-                "golesAway": 15,
-                "campoId": 1,
-                "ordenGlobal": 23
-              }
-            ]
-          },
-          {
-            "numRonda": 3,
-            "encuentros": [
-              {
-                "home": "Equipo 6",
-                "away": "Equipo 25",
-                "golesHome": 12,
-                "golesAway": 15,
-                "campoId": 4,
-                "ordenGlobal": 81
-              },
-              {
-                "home": "Equipo 1",
-                "away": "Equipo 8",
-                "golesHome": 15,
-                "golesAway": 9,
-                "campoId": 5,
-                "ordenGlobal": 99
-              }
-            ]
-          },
-          {
-            "numRonda": 4,
-            "encuentros": [
-              {
-                "home": "Equipo 6",
-                "away": "Equipo 8",
-                "golesHome": 12,
-                "golesAway": 15,
-                "campoId": 2,
-                "ordenGlobal": 49
-              },
-              {
-                "home": "Equipo 25",
-                "away": "Equipo 4",
-                "golesHome": 8,
-                "golesAway": 15,
-                "campoId": 3,
-                "ordenGlobal": 67
-              }
-            ]
-          },
-          {
-            "numRonda": 5,
-            "encuentros": [
-              {
-                "home": "Equipo 6",
-                "away": "Equipo 4",
-                "golesHome": 15,
-                "golesAway": 13,
-                "campoId": 0,
-                "ordenGlobal": 15
-              },
-              {
-                "home": "Equipo 25",
-                "away": "Equipo 1",
-                "golesHome": 11,
-                "golesAway": 15,
-                "campoId": 1,
-                "ordenGlobal": 34
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "nombre": "Grupo C",
-        "equipos": [
-          {
-            "name": "Equipo 52",
-            "pts": 6,
-            "gf": 54,
-            "gc": 49,
-            "dg": 5,
-            "pj": 4,
-            "ordenSorteo": 4,
-            "pg": 2
-          },
-          {
-            "name": "Equipo 35",
-            "pts": 6,
-            "gf": 53,
-            "gc": 50,
-            "dg": 3,
-            "pj": 4,
-            "ordenSorteo": 2,
-            "pg": 2
-          },
-          {
-            "name": "Equipo 44",
-            "pts": 6,
-            "gf": 52,
-            "gc": 52,
-            "dg": 0,
-            "pj": 4,
-            "ordenSorteo": 1,
-            "pg": 2
-          },
-          {
-            "name": "Equipo 26",
-            "pts": 6,
-            "gf": 54,
-            "gc": 55,
-            "dg": -1,
-            "pj": 4,
-            "ordenSorteo": 0,
-            "pg": 2
-          },
-          {
-            "name": "Equipo 37",
-            "pts": 6,
-            "gf": 48,
-            "gc": 55,
-            "dg": -7,
-            "pj": 4,
-            "ordenSorteo": 3,
-            "pg": 2
-          }
-        ],
-        "partidos": [
-          {
-            "numRonda": 1,
-            "encuentros": [
-              {
-                "home": "Equipo 44",
-                "away": "Equipo 52",
-                "golesHome": 15,
-                "golesAway": 12,
-                "campoId": 4,
-                "ordenGlobal": 74
-              },
-              {
-                "home": "Equipo 35",
-                "away": "Equipo 37",
-                "golesHome": 12,
-                "golesAway": 15,
-                "campoId": 5,
-                "ordenGlobal": 92
-              }
-            ]
-          },
-          {
-            "numRonda": 2,
-            "encuentros": [
-              {
-                "home": "Equipo 26",
-                "away": "Equipo 52",
-                "golesHome": 15,
-                "golesAway": 12,
-                "campoId": 2,
-                "ordenGlobal": 42
-              },
-              {
-                "home": "Equipo 44",
-                "away": "Equipo 35",
-                "golesHome": 9,
-                "golesAway": 15,
-                "campoId": 3,
-                "ordenGlobal": 60
-              }
-            ]
-          },
-          {
-            "numRonda": 3,
-            "encuentros": [
-              {
-                "home": "Equipo 26",
-                "away": "Equipo 37",
-                "golesHome": 13,
-                "golesAway": 15,
-                "campoId": 0,
-                "ordenGlobal": 8
-              },
-              {
-                "home": "Equipo 52",
-                "away": "Equipo 35",
-                "golesHome": 15,
-                "golesAway": 11,
-                "campoId": 1,
-                "ordenGlobal": 27
-              }
-            ]
-          },
-          {
-            "numRonda": 4,
-            "encuentros": [
-              {
-                "home": "Equipo 26",
-                "away": "Equipo 35",
-                "golesHome": 11,
-                "golesAway": 15,
-                "campoId": 4,
-                "ordenGlobal": 85
-              },
-              {
-                "home": "Equipo 37",
-                "away": "Equipo 44",
-                "golesHome": 10,
-                "golesAway": 15,
-                "campoId": 5,
-                "ordenGlobal": 103
-              }
-            ]
-          },
-          {
-            "numRonda": 5,
-            "encuentros": [
-              {
-                "home": "Equipo 26",
-                "away": "Equipo 44",
-                "golesHome": 15,
-                "golesAway": 13,
-                "campoId": 2,
-                "ordenGlobal": 53
-              },
-              {
-                "home": "Equipo 37",
-                "away": "Equipo 52",
-                "golesHome": 8,
-                "golesAway": 15,
-                "campoId": 3,
-                "ordenGlobal": 71
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "nombre": "Grupo D",
-        "equipos": [
-          {
-            "name": "Equipo 3",
-            "pts": 7,
-            "gf": 55,
-            "gc": 46,
-            "dg": 9,
-            "pj": 4,
-            "ordenSorteo": 1,
-            "pg": 3
-          },
-          {
-            "name": "Equipo 34",
-            "pts": 6,
-            "gf": 56,
-            "gc": 53,
-            "dg": 3,
-            "pj": 4,
-            "ordenSorteo": 3,
-            "pg": 2
-          },
-          {
-            "name": "Equipo 36",
-            "pts": 6,
-            "gf": 53,
-            "gc": 51,
-            "dg": 2,
-            "pj": 4,
-            "ordenSorteo": 2,
-            "pg": 2
-          },
-          {
-            "name": "Equipo 11",
-            "pts": 6,
-            "gf": 49,
-            "gc": 56,
-            "dg": -7,
-            "pj": 4,
-            "ordenSorteo": 0,
-            "pg": 2
-          },
-          {
-            "name": "Equipo 43",
-            "pts": 5,
-            "gf": 50,
-            "gc": 57,
-            "dg": -7,
-            "pj": 4,
-            "ordenSorteo": 4,
-            "pg": 1
-          }
-        ],
-        "partidos": [
-          {
-            "numRonda": 1,
-            "encuentros": [
-              {
-                "home": "Equipo 3",
-                "away": "Equipo 43",
-                "golesHome": 15,
-                "golesAway": 9,
-                "campoId": 0,
-                "ordenGlobal": 1
-              },
-              {
-                "home": "Equipo 36",
-                "away": "Equipo 34",
-                "golesHome": 15,
-                "golesAway": 13,
-                "campoId": 1,
-                "ordenGlobal": 20
-              }
-            ]
-          },
-          {
-            "numRonda": 2,
-            "encuentros": [
-              {
-                "home": "Equipo 11",
-                "away": "Equipo 43",
-                "golesHome": 15,
-                "golesAway": 13,
-                "campoId": 4,
-                "ordenGlobal": 78
-              },
-              {
-                "home": "Equipo 3",
-                "away": "Equipo 36",
-                "golesHome": 15,
-                "golesAway": 11,
-                "campoId": 5,
-                "ordenGlobal": 96
-              }
-            ]
-          },
-          {
-            "numRonda": 3,
-            "encuentros": [
-              {
-                "home": "Equipo 11",
-                "away": "Equipo 34",
-                "golesHome": 15,
-                "golesAway": 13,
-                "campoId": 2,
-                "ordenGlobal": 46
-              },
-              {
-                "home": "Equipo 43",
-                "away": "Equipo 36",
-                "golesHome": 15,
-                "golesAway": 12,
-                "campoId": 3,
-                "ordenGlobal": 64
-              }
-            ]
-          },
-          {
-            "numRonda": 4,
-            "encuentros": [
-              {
-                "home": "Equipo 11",
-                "away": "Equipo 36",
-                "golesHome": 8,
-                "golesAway": 15,
-                "campoId": 0,
-                "ordenGlobal": 12
-              },
-              {
-                "home": "Equipo 34",
-                "away": "Equipo 3",
-                "golesHome": 15,
-                "golesAway": 10,
-                "campoId": 1,
-                "ordenGlobal": 31
-              }
-            ]
-          },
-          {
-            "numRonda": 5,
-            "encuentros": [
-              {
-                "home": "Equipo 11",
-                "away": "Equipo 3",
-                "golesHome": 11,
-                "golesAway": 15,
-                "campoId": 4,
-                "ordenGlobal": 89
-              },
-              {
-                "home": "Equipo 34",
-                "away": "Equipo 43",
-                "golesHome": 15,
-                "golesAway": 13,
-                "campoId": 5,
-                "ordenGlobal": 107
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "nombre": "Grupo E",
-        "equipos": [
-          {
-            "name": "Equipo 41",
-            "pts": 7,
-            "gf": 57,
-            "gc": 42,
             "dg": 15,
-            "pj": 4,
+            "pj": 5,
             "ordenSorteo": 1,
-            "pg": 3
-          },
-          {
-            "name": "Equipo 15",
-            "pts": 6,
-            "gf": 53,
-            "gc": 51,
-            "dg": 2,
-            "pj": 4,
-            "ordenSorteo": 0,
-            "pg": 2
-          },
-          {
-            "name": "Equipo 30",
-            "pts": 6,
-            "gf": 51,
-            "gc": 52,
-            "dg": -1,
-            "pj": 4,
-            "ordenSorteo": 4,
-            "pg": 2
-          },
-          {
-            "name": "Equipo 13",
-            "pts": 6,
-            "gf": 51,
-            "gc": 53,
-            "dg": -2,
-            "pj": 4,
-            "ordenSorteo": 2,
-            "pg": 2
-          },
-          {
-            "name": "Equipo 18",
-            "pts": 5,
-            "gf": 43,
-            "gc": 57,
-            "dg": -14,
-            "pj": 4,
-            "ordenSorteo": 3,
-            "pg": 1
-          }
-        ],
-        "partidos": [
-          {
-            "numRonda": 1,
-            "encuentros": [
-              {
-                "home": "Equipo 41",
-                "away": "Equipo 30",
-                "golesHome": 15,
-                "golesAway": 8,
-                "campoId": 2,
-                "ordenGlobal": 39
-              },
-              {
-                "home": "Equipo 13",
-                "away": "Equipo 18",
-                "golesHome": 15,
-                "golesAway": 11,
-                "campoId": 3,
-                "ordenGlobal": 57
-              }
-            ]
-          },
-          {
-            "numRonda": 2,
-            "encuentros": [
-              {
-                "home": "Equipo 15",
-                "away": "Equipo 30",
-                "golesHome": 15,
-                "golesAway": 13,
-                "campoId": 0,
-                "ordenGlobal": 5
-              },
-              {
-                "home": "Equipo 41",
-                "away": "Equipo 13",
-                "golesHome": 15,
-                "golesAway": 8,
-                "campoId": 1,
-                "ordenGlobal": 24
-              }
-            ]
-          },
-          {
-            "numRonda": 3,
-            "encuentros": [
-              {
-                "home": "Equipo 15",
-                "away": "Equipo 18",
-                "golesHome": 15,
-                "golesAway": 8,
-                "campoId": 4,
-                "ordenGlobal": 82
-              },
-              {
-                "home": "Equipo 30",
-                "away": "Equipo 13",
-                "golesHome": 15,
-                "golesAway": 13,
-                "campoId": 5,
-                "ordenGlobal": 100
-              }
-            ]
-          },
-          {
-            "numRonda": 4,
-            "encuentros": [
-              {
-                "home": "Equipo 15",
-                "away": "Equipo 13",
-                "golesHome": 12,
-                "golesAway": 15,
-                "campoId": 2,
-                "ordenGlobal": 50
-              },
-              {
-                "home": "Equipo 18",
-                "away": "Equipo 41",
-                "golesHome": 15,
-                "golesAway": 12,
-                "campoId": 3,
-                "ordenGlobal": 68
-              }
-            ]
-          },
-          {
-            "numRonda": 5,
-            "encuentros": [
-              {
-                "home": "Equipo 15",
-                "away": "Equipo 41",
-                "golesHome": 11,
-                "golesAway": 15,
-                "campoId": 0,
-                "ordenGlobal": 16
-              },
-              {
-                "home": "Equipo 18",
-                "away": "Equipo 30",
-                "golesHome": 9,
-                "golesAway": 15,
-                "campoId": 1,
-                "ordenGlobal": 35
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "nombre": "Grupo F",
-        "equipos": [
-          {
-            "name": "Equipo 39",
-            "pts": 7,
-            "gf": 58,
-            "gc": 53,
-            "dg": 5,
-            "pj": 4,
-            "ordenSorteo": 3,
-            "pg": 3
-          },
-          {
-            "name": "Equipo 5",
-            "pts": 7,
-            "gf": 57,
-            "gc": 52,
-            "dg": 5,
-            "pj": 4,
-            "ordenSorteo": 0,
-            "pg": 3
-          },
-          {
-            "name": "Equipo 23",
-            "pts": 6,
-            "gf": 54,
-            "gc": 52,
-            "dg": 2,
-            "pj": 4,
-            "ordenSorteo": 4,
-            "pg": 2
-          },
-          {
-            "name": "Equipo 21",
-            "pts": 5,
-            "gf": 52,
-            "gc": 56,
-            "dg": -4,
-            "pj": 4,
-            "ordenSorteo": 1,
-            "pg": 1
-          },
-          {
-            "name": "Equipo 45",
-            "pts": 5,
-            "gf": 48,
-            "gc": 56,
-            "dg": -8,
-            "pj": 4,
-            "ordenSorteo": 2,
-            "pg": 1
-          }
-        ],
-        "partidos": [
-          {
-            "numRonda": 1,
-            "encuentros": [
-              {
-                "home": "Equipo 21",
-                "away": "Equipo 23",
-                "golesHome": 15,
-                "golesAway": 11,
-                "campoId": 4,
-                "ordenGlobal": 75
-              },
-              {
-                "home": "Equipo 45",
-                "away": "Equipo 39",
-                "golesHome": 12,
-                "golesAway": 15,
-                "campoId": 5,
-                "ordenGlobal": 93
-              }
-            ]
-          },
-          {
-            "numRonda": 2,
-            "encuentros": [
-              {
-                "home": "Equipo 5",
-                "away": "Equipo 23",
-                "golesHome": 12,
-                "golesAway": 15,
-                "campoId": 2,
-                "ordenGlobal": 43
-              },
-              {
-                "home": "Equipo 21",
-                "away": "Equipo 45",
-                "golesHome": 11,
-                "golesAway": 15,
-                "campoId": 3,
-                "ordenGlobal": 61
-              }
-            ]
-          },
-          {
-            "numRonda": 3,
-            "encuentros": [
-              {
-                "home": "Equipo 5",
-                "away": "Equipo 39",
-                "golesHome": 15,
-                "golesAway": 13,
-                "campoId": 0,
-                "ordenGlobal": 9
-              },
-              {
-                "home": "Equipo 23",
-                "away": "Equipo 45",
-                "golesHome": 15,
-                "golesAway": 10,
-                "campoId": 1,
-                "ordenGlobal": 28
-              }
-            ]
-          },
-          {
-            "numRonda": 4,
-            "encuentros": [
-              {
-                "home": "Equipo 5",
-                "away": "Equipo 45",
-                "golesHome": 15,
-                "golesAway": 11,
-                "campoId": 4,
-                "ordenGlobal": 86
-              },
-              {
-                "home": "Equipo 39",
-                "away": "Equipo 21",
-                "golesHome": 15,
-                "golesAway": 13,
-                "campoId": 5,
-                "ordenGlobal": 104
-              }
-            ]
-          },
-          {
-            "numRonda": 5,
-            "encuentros": [
-              {
-                "home": "Equipo 5",
-                "away": "Equipo 21",
-                "golesHome": 15,
-                "golesAway": 13,
-                "campoId": 2,
-                "ordenGlobal": 54
-              },
-              {
-                "home": "Equipo 39",
-                "away": "Equipo 23",
-                "golesHome": 15,
-                "golesAway": 13,
-                "campoId": 3,
-                "ordenGlobal": 72
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "nombre": "Grupo G",
-        "equipos": [
-          {
-            "name": "Equipo 16",
-            "pts": 8,
-            "gf": 60,
-            "gc": 50,
-            "dg": 10,
-            "pj": 4,
-            "ordenSorteo": 2,
             "pg": 4
           },
           {
-            "name": "Equipo 27",
-            "pts": 7,
-            "gf": 57,
-            "gc": 52,
-            "dg": 5,
-            "pj": 4,
-            "ordenSorteo": 4,
+            "name": "Equipo 28",
+            "pts": 8,
+            "gf": 66,
+            "gc": 59,
+            "dg": 7,
+            "pj": 5,
+            "ordenSorteo": 5,
             "pg": 3
           },
           {
-            "name": "Equipo 48",
-            "pts": 6,
-            "gf": 54,
-            "gc": 50,
-            "dg": 4,
-            "pj": 4,
-            "ordenSorteo": 1,
+            "name": "Equipo 50",
+            "pts": 8,
+            "gf": 67,
+            "gc": 61,
+            "dg": 6,
+            "pj": 5,
+            "ordenSorteo": 2,
+            "pg": 3
+          },
+          {
+            "name": "Equipo 1",
+            "pts": 8,
+            "gf": 66,
+            "gc": 64,
+            "dg": 2,
+            "pj": 5,
+            "ordenSorteo": 0,
+            "pg": 3
+          },
+          {
+            "name": "Equipo 9",
+            "pts": 7,
+            "gf": 62,
+            "gc": 66,
+            "dg": -4,
+            "pj": 5,
+            "ordenSorteo": 4,
             "pg": 2
           },
           {
-            "name": "Equipo 47",
+            "name": "Equipo 48",
             "pts": 5,
-            "gf": 50,
-            "gc": 57,
-            "dg": -7,
-            "pj": 4,
-            "ordenSorteo": 0,
-            "pg": 1
-          },
-          {
-            "name": "Equipo 31",
-            "pts": 4,
-            "gf": 48,
-            "gc": 60,
-            "dg": -12,
-            "pj": 4,
+            "gf": 49,
+            "gc": 75,
+            "dg": -26,
+            "pj": 5,
             "ordenSorteo": 3,
             "pg": 0
           }
@@ -1035,20 +73,28 @@
             "numRonda": 1,
             "encuentros": [
               {
-                "home": "Equipo 48",
-                "away": "Equipo 27",
-                "golesHome": 12,
+                "home": "Equipo 1",
+                "away": "Equipo 28",
+                "golesHome": 8,
                 "golesAway": 15,
                 "campoId": 0,
-                "ordenGlobal": 2
+                "ordenGlobal": 0
               },
               {
-                "home": "Equipo 16",
-                "away": "Equipo 31",
+                "home": "Equipo 22",
+                "away": "Equipo 9",
                 "golesHome": 15,
-                "golesAway": 13,
+                "golesAway": 11,
                 "campoId": 1,
-                "ordenGlobal": 21
+                "ordenGlobal": 24
+              },
+              {
+                "home": "Equipo 50",
+                "away": "Equipo 48",
+                "golesHome": 15,
+                "golesAway": 10,
+                "campoId": 2,
+                "ordenGlobal": 48
               }
             ]
           },
@@ -1056,20 +102,28 @@
             "numRonda": 2,
             "encuentros": [
               {
-                "home": "Equipo 47",
-                "away": "Equipo 27",
-                "golesHome": 13,
-                "golesAway": 15,
+                "home": "Equipo 1",
+                "away": "Equipo 9",
+                "golesHome": 15,
+                "golesAway": 13,
                 "campoId": 4,
-                "ordenGlobal": 79
+                "ordenGlobal": 98
               },
               {
-                "home": "Equipo 48",
-                "away": "Equipo 16",
-                "golesHome": 12,
-                "golesAway": 15,
+                "home": "Equipo 28",
+                "away": "Equipo 48",
+                "golesHome": 15,
+                "golesAway": 12,
                 "campoId": 5,
-                "ordenGlobal": 97
+                "ordenGlobal": 121
+              },
+              {
+                "home": "Equipo 22",
+                "away": "Equipo 50",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 0,
+                "ordenGlobal": 5
               }
             ]
           },
@@ -1077,20 +131,28 @@
             "numRonda": 3,
             "encuentros": [
               {
-                "home": "Equipo 47",
-                "away": "Equipo 31",
+                "home": "Equipo 1",
+                "away": "Equipo 48",
                 "golesHome": 15,
-                "golesAway": 12,
+                "golesAway": 8,
                 "campoId": 2,
-                "ordenGlobal": 47
+                "ordenGlobal": 57
               },
               {
-                "home": "Equipo 27",
-                "away": "Equipo 16",
-                "golesHome": 12,
+                "home": "Equipo 9",
+                "away": "Equipo 50",
+                "golesHome": 8,
                 "golesAway": 15,
                 "campoId": 3,
-                "ordenGlobal": 65
+                "ordenGlobal": 80
+              },
+              {
+                "home": "Equipo 28",
+                "away": "Equipo 22",
+                "golesHome": 11,
+                "golesAway": 15,
+                "campoId": 4,
+                "ordenGlobal": 103
               }
             ]
           },
@@ -1098,20 +160,28 @@
             "numRonda": 4,
             "encuentros": [
               {
-                "home": "Equipo 47",
-                "away": "Equipo 16",
+                "home": "Equipo 1",
+                "away": "Equipo 50",
                 "golesHome": 13,
                 "golesAway": 15,
                 "campoId": 0,
-                "ordenGlobal": 13
+                "ordenGlobal": 14
               },
               {
-                "home": "Equipo 31",
-                "away": "Equipo 48",
-                "golesHome": 11,
+                "home": "Equipo 48",
+                "away": "Equipo 22",
+                "golesHome": 8,
                 "golesAway": 15,
                 "campoId": 1,
-                "ordenGlobal": 32
+                "ordenGlobal": 38
+              },
+              {
+                "home": "Equipo 9",
+                "away": "Equipo 28",
+                "golesHome": 15,
+                "golesAway": 10,
+                "campoId": 2,
+                "ordenGlobal": 62
               }
             ]
           },
@@ -1119,20 +189,1300 @@
             "numRonda": 5,
             "encuentros": [
               {
-                "home": "Equipo 47",
-                "away": "Equipo 48",
-                "golesHome": 9,
-                "golesAway": 15,
+                "home": "Equipo 1",
+                "away": "Equipo 22",
+                "golesHome": 15,
+                "golesAway": 13,
                 "campoId": 4,
-                "ordenGlobal": 90
+                "ordenGlobal": 112
               },
               {
-                "home": "Equipo 31",
-                "away": "Equipo 27",
+                "home": "Equipo 50",
+                "away": "Equipo 28",
+                "golesHome": 9,
+                "golesAway": 15,
+                "campoId": 5,
+                "ordenGlobal": 135
+              },
+              {
+                "home": "Equipo 48",
+                "away": "Equipo 9",
+                "golesHome": 11,
+                "golesAway": 15,
+                "campoId": 0,
+                "ordenGlobal": 19
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Grupo B",
+        "equipos": [
+          {
+            "name": "Equipo 36",
+            "pts": 9,
+            "gf": 73,
+            "gc": 59,
+            "dg": 14,
+            "pj": 5,
+            "ordenSorteo": 4,
+            "pg": 4
+          },
+          {
+            "name": "Equipo 20",
+            "pts": 9,
+            "gf": 73,
+            "gc": 62,
+            "dg": 11,
+            "pj": 5,
+            "ordenSorteo": 5,
+            "pg": 4
+          },
+          {
+            "name": "Equipo 24",
+            "pts": 9,
+            "gf": 71,
+            "gc": 66,
+            "dg": 5,
+            "pj": 5,
+            "ordenSorteo": 0,
+            "pg": 4
+          },
+          {
+            "name": "Equipo 11",
+            "pts": 7,
+            "gf": 65,
+            "gc": 61,
+            "dg": 4,
+            "pj": 5,
+            "ordenSorteo": 3,
+            "pg": 2
+          },
+          {
+            "name": "Equipo 15",
+            "pts": 6,
+            "gf": 56,
+            "gc": 73,
+            "dg": -17,
+            "pj": 5,
+            "ordenSorteo": 1,
+            "pg": 1
+          },
+          {
+            "name": "Equipo 19",
+            "pts": 5,
+            "gf": 58,
+            "gc": 75,
+            "dg": -17,
+            "pj": 5,
+            "ordenSorteo": 2,
+            "pg": 0
+          }
+        ],
+        "partidos": [
+          {
+            "numRonda": 1,
+            "encuentros": [
+              {
+                "home": "Equipo 24",
+                "away": "Equipo 20",
+                "golesHome": 11,
+                "golesAway": 15,
+                "campoId": 3,
+                "ordenGlobal": 71
+              },
+              {
+                "home": "Equipo 15",
+                "away": "Equipo 36",
+                "golesHome": 8,
+                "golesAway": 15,
+                "campoId": 4,
+                "ordenGlobal": 94
+              },
+              {
+                "home": "Equipo 19",
+                "away": "Equipo 11",
+                "golesHome": 8,
+                "golesAway": 15,
+                "campoId": 5,
+                "ordenGlobal": 117
+              }
+            ]
+          },
+          {
+            "numRonda": 2,
+            "encuentros": [
+              {
+                "home": "Equipo 24",
+                "away": "Equipo 36",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 1,
+                "ordenGlobal": 29
+              },
+              {
+                "home": "Equipo 20",
+                "away": "Equipo 11",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 2,
+                "ordenGlobal": 53
+              },
+              {
+                "home": "Equipo 15",
+                "away": "Equipo 19",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 3,
+                "ordenGlobal": 76
+              }
+            ]
+          },
+          {
+            "numRonda": 3,
+            "encuentros": [
+              {
+                "home": "Equipo 24",
+                "away": "Equipo 11",
+                "golesHome": 15,
+                "golesAway": 12,
+                "campoId": 5,
+                "ordenGlobal": 126
+              },
+              {
+                "home": "Equipo 36",
+                "away": "Equipo 19",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 0,
+                "ordenGlobal": 10
+              },
+              {
+                "home": "Equipo 20",
+                "away": "Equipo 15",
+                "golesHome": 15,
+                "golesAway": 12,
+                "campoId": 1,
+                "ordenGlobal": 34
+              }
+            ]
+          },
+          {
+            "numRonda": 4,
+            "encuentros": [
+              {
+                "home": "Equipo 24",
+                "away": "Equipo 19",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 3,
+                "ordenGlobal": 85
+              },
+              {
+                "home": "Equipo 11",
+                "away": "Equipo 15",
+                "golesHome": 15,
+                "golesAway": 8,
+                "campoId": 4,
+                "ordenGlobal": 108
+              },
+              {
+                "home": "Equipo 36",
+                "away": "Equipo 20",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 5,
+                "ordenGlobal": 131
+              }
+            ]
+          },
+          {
+            "numRonda": 5,
+            "encuentros": [
+              {
+                "home": "Equipo 24",
+                "away": "Equipo 15",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 1,
+                "ordenGlobal": 43
+              },
+              {
+                "home": "Equipo 19",
+                "away": "Equipo 20",
+                "golesHome": 11,
+                "golesAway": 15,
+                "campoId": 2,
+                "ordenGlobal": 67
+              },
+              {
+                "home": "Equipo 11",
+                "away": "Equipo 36",
+                "golesHome": 10,
+                "golesAway": 15,
+                "campoId": 3,
+                "ordenGlobal": 90
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Grupo C",
+        "equipos": [
+          {
+            "name": "Equipo 12",
+            "pts": 8,
+            "gf": 67,
+            "gc": 58,
+            "dg": 9,
+            "pj": 5,
+            "ordenSorteo": 1,
+            "pg": 3
+          },
+          {
+            "name": "Equipo 14",
+            "pts": 8,
+            "gf": 68,
+            "gc": 67,
+            "dg": 1,
+            "pj": 5,
+            "ordenSorteo": 2,
+            "pg": 3
+          },
+          {
+            "name": "Equipo 17",
+            "pts": 8,
+            "gf": 62,
+            "gc": 64,
+            "dg": -2,
+            "pj": 5,
+            "ordenSorteo": 3,
+            "pg": 3
+          },
+          {
+            "name": "Equipo 13",
+            "pts": 8,
+            "gf": 66,
+            "gc": 69,
+            "dg": -3,
+            "pj": 5,
+            "ordenSorteo": 0,
+            "pg": 3
+          },
+          {
+            "name": "Equipo 8",
+            "pts": 7,
+            "gf": 64,
+            "gc": 62,
+            "dg": 2,
+            "pj": 5,
+            "ordenSorteo": 4,
+            "pg": 2
+          },
+          {
+            "name": "Equipo 52",
+            "pts": 6,
+            "gf": 61,
+            "gc": 68,
+            "dg": -7,
+            "pj": 5,
+            "ordenSorteo": 5,
+            "pg": 1
+          }
+        ],
+        "partidos": [
+          {
+            "numRonda": 1,
+            "encuentros": [
+              {
+                "home": "Equipo 13",
+                "away": "Equipo 52",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 0,
+                "ordenGlobal": 1
+              },
+              {
+                "home": "Equipo 12",
+                "away": "Equipo 8",
+                "golesHome": 9,
+                "golesAway": 15,
+                "campoId": 1,
+                "ordenGlobal": 25
+              },
+              {
+                "home": "Equipo 14",
+                "away": "Equipo 17",
+                "golesHome": 12,
+                "golesAway": 15,
+                "campoId": 2,
+                "ordenGlobal": 49
+              }
+            ]
+          },
+          {
+            "numRonda": 2,
+            "encuentros": [
+              {
+                "home": "Equipo 13",
+                "away": "Equipo 8",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 4,
+                "ordenGlobal": 99
+              },
+              {
+                "home": "Equipo 52",
+                "away": "Equipo 17",
                 "golesHome": 12,
                 "golesAway": 15,
                 "campoId": 5,
-                "ordenGlobal": 108
+                "ordenGlobal": 122
+              },
+              {
+                "home": "Equipo 12",
+                "away": "Equipo 14",
+                "golesHome": 15,
+                "golesAway": 11,
+                "campoId": 0,
+                "ordenGlobal": 6
+              }
+            ]
+          },
+          {
+            "numRonda": 3,
+            "encuentros": [
+              {
+                "home": "Equipo 13",
+                "away": "Equipo 17",
+                "golesHome": 10,
+                "golesAway": 15,
+                "campoId": 2,
+                "ordenGlobal": 58
+              },
+              {
+                "home": "Equipo 8",
+                "away": "Equipo 14",
+                "golesHome": 13,
+                "golesAway": 15,
+                "campoId": 3,
+                "ordenGlobal": 81
+              },
+              {
+                "home": "Equipo 52",
+                "away": "Equipo 12",
+                "golesHome": 8,
+                "golesAway": 15,
+                "campoId": 4,
+                "ordenGlobal": 104
+              }
+            ]
+          },
+          {
+            "numRonda": 4,
+            "encuentros": [
+              {
+                "home": "Equipo 13",
+                "away": "Equipo 14",
+                "golesHome": 11,
+                "golesAway": 15,
+                "campoId": 0,
+                "ordenGlobal": 15
+              },
+              {
+                "home": "Equipo 17",
+                "away": "Equipo 12",
+                "golesHome": 9,
+                "golesAway": 15,
+                "campoId": 1,
+                "ordenGlobal": 39
+              },
+              {
+                "home": "Equipo 8",
+                "away": "Equipo 52",
+                "golesHome": 8,
+                "golesAway": 15,
+                "campoId": 2,
+                "ordenGlobal": 63
+              }
+            ]
+          },
+          {
+            "numRonda": 5,
+            "encuentros": [
+              {
+                "home": "Equipo 13",
+                "away": "Equipo 12",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 4,
+                "ordenGlobal": 113
+              },
+              {
+                "home": "Equipo 14",
+                "away": "Equipo 52",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 5,
+                "ordenGlobal": 136
+              },
+              {
+                "home": "Equipo 17",
+                "away": "Equipo 8",
+                "golesHome": 8,
+                "golesAway": 15,
+                "campoId": 0,
+                "ordenGlobal": 20
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Grupo D",
+        "equipos": [
+          {
+            "name": "Equipo 2",
+            "pts": 9,
+            "gf": 73,
+            "gc": 60,
+            "dg": 13,
+            "pj": 5,
+            "ordenSorteo": 0,
+            "pg": 4
+          },
+          {
+            "name": "Equipo 51",
+            "pts": 8,
+            "gf": 70,
+            "gc": 64,
+            "dg": 6,
+            "pj": 5,
+            "ordenSorteo": 5,
+            "pg": 3
+          },
+          {
+            "name": "Equipo 26",
+            "pts": 8,
+            "gf": 62,
+            "gc": 67,
+            "dg": -5,
+            "pj": 5,
+            "ordenSorteo": 4,
+            "pg": 3
+          },
+          {
+            "name": "Equipo 39",
+            "pts": 7,
+            "gf": 69,
+            "gc": 71,
+            "dg": -2,
+            "pj": 5,
+            "ordenSorteo": 2,
+            "pg": 2
+          },
+          {
+            "name": "Equipo 41",
+            "pts": 7,
+            "gf": 63,
+            "gc": 70,
+            "dg": -7,
+            "pj": 5,
+            "ordenSorteo": 1,
+            "pg": 2
+          },
+          {
+            "name": "Equipo 46",
+            "pts": 6,
+            "gf": 63,
+            "gc": 68,
+            "dg": -5,
+            "pj": 5,
+            "ordenSorteo": 3,
+            "pg": 1
+          }
+        ],
+        "partidos": [
+          {
+            "numRonda": 1,
+            "encuentros": [
+              {
+                "home": "Equipo 2",
+                "away": "Equipo 51",
+                "golesHome": 13,
+                "golesAway": 15,
+                "campoId": 3,
+                "ordenGlobal": 72
+              },
+              {
+                "home": "Equipo 41",
+                "away": "Equipo 26",
+                "golesHome": 12,
+                "golesAway": 15,
+                "campoId": 4,
+                "ordenGlobal": 95
+              },
+              {
+                "home": "Equipo 39",
+                "away": "Equipo 46",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 5,
+                "ordenGlobal": 118
+              }
+            ]
+          },
+          {
+            "numRonda": 2,
+            "encuentros": [
+              {
+                "home": "Equipo 2",
+                "away": "Equipo 26",
+                "golesHome": 15,
+                "golesAway": 9,
+                "campoId": 1,
+                "ordenGlobal": 30
+              },
+              {
+                "home": "Equipo 51",
+                "away": "Equipo 46",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 2,
+                "ordenGlobal": 54
+              },
+              {
+                "home": "Equipo 41",
+                "away": "Equipo 39",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 3,
+                "ordenGlobal": 77
+              }
+            ]
+          },
+          {
+            "numRonda": 3,
+            "encuentros": [
+              {
+                "home": "Equipo 2",
+                "away": "Equipo 46",
+                "golesHome": 15,
+                "golesAway": 10,
+                "campoId": 5,
+                "ordenGlobal": 127
+              },
+              {
+                "home": "Equipo 26",
+                "away": "Equipo 39",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 0,
+                "ordenGlobal": 11
+              },
+              {
+                "home": "Equipo 51",
+                "away": "Equipo 41",
+                "golesHome": 15,
+                "golesAway": 8,
+                "campoId": 1,
+                "ordenGlobal": 35
+              }
+            ]
+          },
+          {
+            "numRonda": 4,
+            "encuentros": [
+              {
+                "home": "Equipo 2",
+                "away": "Equipo 39",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 3,
+                "ordenGlobal": 86
+              },
+              {
+                "home": "Equipo 46",
+                "away": "Equipo 41",
+                "golesHome": 12,
+                "golesAway": 15,
+                "campoId": 4,
+                "ordenGlobal": 109
+              },
+              {
+                "home": "Equipo 26",
+                "away": "Equipo 51",
+                "golesHome": 15,
+                "golesAway": 12,
+                "campoId": 5,
+                "ordenGlobal": 132
+              }
+            ]
+          },
+          {
+            "numRonda": 5,
+            "encuentros": [
+              {
+                "home": "Equipo 2",
+                "away": "Equipo 41",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 1,
+                "ordenGlobal": 44
+              },
+              {
+                "home": "Equipo 39",
+                "away": "Equipo 51",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 2,
+                "ordenGlobal": 68
+              },
+              {
+                "home": "Equipo 46",
+                "away": "Equipo 26",
+                "golesHome": 15,
+                "golesAway": 8,
+                "campoId": 3,
+                "ordenGlobal": 91
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Grupo E",
+        "equipos": [
+          {
+            "name": "Equipo 55",
+            "pts": 9,
+            "gf": 71,
+            "gc": 51,
+            "dg": 20,
+            "pj": 5,
+            "ordenSorteo": 0,
+            "pg": 4
+          },
+          {
+            "name": "Equipo 53",
+            "pts": 8,
+            "gf": 66,
+            "gc": 59,
+            "dg": 7,
+            "pj": 5,
+            "ordenSorteo": 3,
+            "pg": 3
+          },
+          {
+            "name": "Equipo 4",
+            "pts": 8,
+            "gf": 64,
+            "gc": 66,
+            "dg": -2,
+            "pj": 5,
+            "ordenSorteo": 5,
+            "pg": 3
+          },
+          {
+            "name": "Equipo 25",
+            "pts": 7,
+            "gf": 66,
+            "gc": 67,
+            "dg": -1,
+            "pj": 5,
+            "ordenSorteo": 1,
+            "pg": 2
+          },
+          {
+            "name": "Equipo 57",
+            "pts": 7,
+            "gf": 60,
+            "gc": 66,
+            "dg": -6,
+            "pj": 5,
+            "ordenSorteo": 2,
+            "pg": 2
+          },
+          {
+            "name": "Equipo 35",
+            "pts": 6,
+            "gf": 52,
+            "gc": 70,
+            "dg": -18,
+            "pj": 5,
+            "ordenSorteo": 4,
+            "pg": 1
+          }
+        ],
+        "partidos": [
+          {
+            "numRonda": 1,
+            "encuentros": [
+              {
+                "home": "Equipo 55",
+                "away": "Equipo 4",
+                "golesHome": 15,
+                "golesAway": 9,
+                "campoId": 0,
+                "ordenGlobal": 2
+              },
+              {
+                "home": "Equipo 25",
+                "away": "Equipo 35",
+                "golesHome": 15,
+                "golesAway": 11,
+                "campoId": 1,
+                "ordenGlobal": 26
+              },
+              {
+                "home": "Equipo 57",
+                "away": "Equipo 53",
+                "golesHome": 8,
+                "golesAway": 15,
+                "campoId": 2,
+                "ordenGlobal": 50
+              }
+            ]
+          },
+          {
+            "numRonda": 2,
+            "encuentros": [
+              {
+                "home": "Equipo 55",
+                "away": "Equipo 35",
+                "golesHome": 15,
+                "golesAway": 9,
+                "campoId": 4,
+                "ordenGlobal": 100
+              },
+              {
+                "home": "Equipo 4",
+                "away": "Equipo 53",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 5,
+                "ordenGlobal": 123
+              },
+              {
+                "home": "Equipo 25",
+                "away": "Equipo 57",
+                "golesHome": 12,
+                "golesAway": 15,
+                "campoId": 0,
+                "ordenGlobal": 7
+              }
+            ]
+          },
+          {
+            "numRonda": 3,
+            "encuentros": [
+              {
+                "home": "Equipo 55",
+                "away": "Equipo 53",
+                "golesHome": 15,
+                "golesAway": 8,
+                "campoId": 2,
+                "ordenGlobal": 59
+              },
+              {
+                "home": "Equipo 35",
+                "away": "Equipo 57",
+                "golesHome": 9,
+                "golesAway": 15,
+                "campoId": 3,
+                "ordenGlobal": 82
+              },
+              {
+                "home": "Equipo 4",
+                "away": "Equipo 25",
+                "golesHome": 15,
+                "golesAway": 11,
+                "campoId": 4,
+                "ordenGlobal": 105
+              }
+            ]
+          },
+          {
+            "numRonda": 4,
+            "encuentros": [
+              {
+                "home": "Equipo 55",
+                "away": "Equipo 57",
+                "golesHome": 15,
+                "golesAway": 10,
+                "campoId": 0,
+                "ordenGlobal": 16
+              },
+              {
+                "home": "Equipo 53",
+                "away": "Equipo 25",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 1,
+                "ordenGlobal": 40
+              },
+              {
+                "home": "Equipo 35",
+                "away": "Equipo 4",
+                "golesHome": 15,
+                "golesAway": 10,
+                "campoId": 2,
+                "ordenGlobal": 64
+              }
+            ]
+          },
+          {
+            "numRonda": 5,
+            "encuentros": [
+              {
+                "home": "Equipo 55",
+                "away": "Equipo 25",
+                "golesHome": 11,
+                "golesAway": 15,
+                "campoId": 4,
+                "ordenGlobal": 114
+              },
+              {
+                "home": "Equipo 57",
+                "away": "Equipo 4",
+                "golesHome": 12,
+                "golesAway": 15,
+                "campoId": 5,
+                "ordenGlobal": 137
+              },
+              {
+                "home": "Equipo 53",
+                "away": "Equipo 35",
+                "golesHome": 15,
+                "golesAway": 8,
+                "campoId": 0,
+                "ordenGlobal": 21
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Grupo F",
+        "equipos": [
+          {
+            "name": "Equipo 23",
+            "pts": 9,
+            "gf": 71,
+            "gc": 57,
+            "dg": 14,
+            "pj": 5,
+            "ordenSorteo": 2,
+            "pg": 4
+          },
+          {
+            "name": "Equipo 58",
+            "pts": 8,
+            "gf": 70,
+            "gc": 64,
+            "dg": 6,
+            "pj": 5,
+            "ordenSorteo": 5,
+            "pg": 3
+          },
+          {
+            "name": "Equipo 45",
+            "pts": 8,
+            "gf": 68,
+            "gc": 68,
+            "dg": 0,
+            "pj": 5,
+            "ordenSorteo": 0,
+            "pg": 3
+          },
+          {
+            "name": "Equipo 42",
+            "pts": 7,
+            "gf": 66,
+            "gc": 69,
+            "dg": -3,
+            "pj": 5,
+            "ordenSorteo": 1,
+            "pg": 2
+          },
+          {
+            "name": "Equipo 40",
+            "pts": 7,
+            "gf": 61,
+            "gc": 70,
+            "dg": -9,
+            "pj": 5,
+            "ordenSorteo": 3,
+            "pg": 2
+          },
+          {
+            "name": "Equipo 32",
+            "pts": 6,
+            "gf": 62,
+            "gc": 70,
+            "dg": -8,
+            "pj": 5,
+            "ordenSorteo": 4,
+            "pg": 1
+          }
+        ],
+        "partidos": [
+          {
+            "numRonda": 1,
+            "encuentros": [
+              {
+                "home": "Equipo 45",
+                "away": "Equipo 58",
+                "golesHome": 15,
+                "golesAway": 12,
+                "campoId": 3,
+                "ordenGlobal": 73
+              },
+              {
+                "home": "Equipo 42",
+                "away": "Equipo 32",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 4,
+                "ordenGlobal": 96
+              },
+              {
+                "home": "Equipo 23",
+                "away": "Equipo 40",
+                "golesHome": 15,
+                "golesAway": 8,
+                "campoId": 5,
+                "ordenGlobal": 119
+              }
+            ]
+          },
+          {
+            "numRonda": 2,
+            "encuentros": [
+              {
+                "home": "Equipo 45",
+                "away": "Equipo 32",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 1,
+                "ordenGlobal": 31
+              },
+              {
+                "home": "Equipo 58",
+                "away": "Equipo 40",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 2,
+                "ordenGlobal": 55
+              },
+              {
+                "home": "Equipo 42",
+                "away": "Equipo 23",
+                "golesHome": 15,
+                "golesAway": 11,
+                "campoId": 3,
+                "ordenGlobal": 78
+              }
+            ]
+          },
+          {
+            "numRonda": 3,
+            "encuentros": [
+              {
+                "home": "Equipo 45",
+                "away": "Equipo 40",
+                "golesHome": 12,
+                "golesAway": 15,
+                "campoId": 5,
+                "ordenGlobal": 128
+              },
+              {
+                "home": "Equipo 32",
+                "away": "Equipo 23",
+                "golesHome": 10,
+                "golesAway": 15,
+                "campoId": 0,
+                "ordenGlobal": 12
+              },
+              {
+                "home": "Equipo 58",
+                "away": "Equipo 42",
+                "golesHome": 15,
+                "golesAway": 10,
+                "campoId": 1,
+                "ordenGlobal": 36
+              }
+            ]
+          },
+          {
+            "numRonda": 4,
+            "encuentros": [
+              {
+                "home": "Equipo 45",
+                "away": "Equipo 23",
+                "golesHome": 11,
+                "golesAway": 15,
+                "campoId": 3,
+                "ordenGlobal": 87
+              },
+              {
+                "home": "Equipo 40",
+                "away": "Equipo 42",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 4,
+                "ordenGlobal": 110
+              },
+              {
+                "home": "Equipo 32",
+                "away": "Equipo 58",
+                "golesHome": 11,
+                "golesAway": 15,
+                "campoId": 5,
+                "ordenGlobal": 133
+              }
+            ]
+          },
+          {
+            "numRonda": 5,
+            "encuentros": [
+              {
+                "home": "Equipo 45",
+                "away": "Equipo 42",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 1,
+                "ordenGlobal": 45
+              },
+              {
+                "home": "Equipo 23",
+                "away": "Equipo 58",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 2,
+                "ordenGlobal": 69
+              },
+              {
+                "home": "Equipo 40",
+                "away": "Equipo 32",
+                "golesHome": 10,
+                "golesAway": 15,
+                "campoId": 3,
+                "ordenGlobal": 92
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Grupo G",
+        "equipos": [
+          {
+            "name": "Equipo 18",
+            "pts": 10,
+            "gf": 75,
+            "gc": 61,
+            "dg": 14,
+            "pj": 5,
+            "ordenSorteo": 0,
+            "pg": 5
+          },
+          {
+            "name": "Equipo 34",
+            "pts": 9,
+            "gf": 73,
+            "gc": 60,
+            "dg": 13,
+            "pj": 5,
+            "ordenSorteo": 4,
+            "pg": 4
+          },
+          {
+            "name": "Equipo 56",
+            "pts": 7,
+            "gf": 69,
+            "gc": 71,
+            "dg": -2,
+            "pj": 5,
+            "ordenSorteo": 2,
+            "pg": 2
+          },
+          {
+            "name": "Equipo 16",
+            "pts": 7,
+            "gf": 66,
+            "gc": 71,
+            "dg": -5,
+            "pj": 5,
+            "ordenSorteo": 3,
+            "pg": 2
+          },
+          {
+            "name": "Equipo 33",
+            "pts": 6,
+            "gf": 66,
+            "gc": 73,
+            "dg": -7,
+            "pj": 5,
+            "ordenSorteo": 1,
+            "pg": 1
+          },
+          {
+            "name": "Equipo 49",
+            "pts": 6,
+            "gf": 60,
+            "gc": 73,
+            "dg": -13,
+            "pj": 5,
+            "ordenSorteo": 5,
+            "pg": 1
+          }
+        ],
+        "partidos": [
+          {
+            "numRonda": 1,
+            "encuentros": [
+              {
+                "home": "Equipo 18",
+                "away": "Equipo 49",
+                "golesHome": 15,
+                "golesAway": 9,
+                "campoId": 0,
+                "ordenGlobal": 3
+              },
+              {
+                "home": "Equipo 33",
+                "away": "Equipo 34",
+                "golesHome": 12,
+                "golesAway": 15,
+                "campoId": 1,
+                "ordenGlobal": 27
+              },
+              {
+                "home": "Equipo 56",
+                "away": "Equipo 16",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 2,
+                "ordenGlobal": 51
+              }
+            ]
+          },
+          {
+            "numRonda": 2,
+            "encuentros": [
+              {
+                "home": "Equipo 18",
+                "away": "Equipo 34",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 4,
+                "ordenGlobal": 101
+              },
+              {
+                "home": "Equipo 49",
+                "away": "Equipo 16",
+                "golesHome": 13,
+                "golesAway": 15,
+                "campoId": 5,
+                "ordenGlobal": 124
+              },
+              {
+                "home": "Equipo 33",
+                "away": "Equipo 56",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 0,
+                "ordenGlobal": 8
+              }
+            ]
+          },
+          {
+            "numRonda": 3,
+            "encuentros": [
+              {
+                "home": "Equipo 18",
+                "away": "Equipo 16",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 2,
+                "ordenGlobal": 60
+              },
+              {
+                "home": "Equipo 34",
+                "away": "Equipo 56",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 3,
+                "ordenGlobal": 83
+              },
+              {
+                "home": "Equipo 49",
+                "away": "Equipo 33",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 4,
+                "ordenGlobal": 106
+              }
+            ]
+          },
+          {
+            "numRonda": 4,
+            "encuentros": [
+              {
+                "home": "Equipo 18",
+                "away": "Equipo 56",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 0,
+                "ordenGlobal": 17
+              },
+              {
+                "home": "Equipo 16",
+                "away": "Equipo 33",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 1,
+                "ordenGlobal": 41
+              },
+              {
+                "home": "Equipo 34",
+                "away": "Equipo 49",
+                "golesHome": 15,
+                "golesAway": 10,
+                "campoId": 2,
+                "ordenGlobal": 65
+              }
+            ]
+          },
+          {
+            "numRonda": 5,
+            "encuentros": [
+              {
+                "home": "Equipo 18",
+                "away": "Equipo 33",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 4,
+                "ordenGlobal": 115
+              },
+              {
+                "home": "Equipo 56",
+                "away": "Equipo 49",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 5,
+                "ordenGlobal": 138
+              },
+              {
+                "home": "Equipo 16",
+                "away": "Equipo 34",
+                "golesHome": 10,
+                "golesAway": 15,
+                "campoId": 0,
+                "ordenGlobal": 22
               }
             ]
           }
@@ -1142,51 +1492,263 @@
         "nombre": "Grupo H",
         "equipos": [
           {
-            "name": "Equipo 38",
-            "pts": 7,
-            "gf": 58,
-            "gc": 45,
-            "dg": 13,
-            "pj": 4,
-            "ordenSorteo": 4,
+            "name": "Equipo 21",
+            "pts": 9,
+            "gf": 72,
+            "gc": 61,
+            "dg": 11,
+            "pj": 5,
+            "ordenSorteo": 0,
+            "pg": 4
+          },
+          {
+            "name": "Equipo 6",
+            "pts": 8,
+            "gf": 70,
+            "gc": 59,
+            "dg": 11,
+            "pj": 5,
+            "ordenSorteo": 1,
             "pg": 3
           },
           {
-            "name": "Equipo 17",
-            "pts": 6,
-            "gf": 53,
-            "gc": 49,
-            "dg": 4,
-            "pj": 4,
-            "ordenSorteo": 3,
+            "name": "Equipo 10",
+            "pts": 8,
+            "gf": 67,
+            "gc": 65,
+            "dg": 2,
+            "pj": 5,
+            "ordenSorteo": 5,
+            "pg": 3
+          },
+          {
+            "name": "Equipo 43",
+            "pts": 7,
+            "gf": 67,
+            "gc": 71,
+            "dg": -4,
+            "pj": 5,
+            "ordenSorteo": 2,
             "pg": 2
           },
           {
             "name": "Equipo 54",
-            "pts": 6,
-            "gf": 51,
-            "gc": 56,
-            "dg": -5,
-            "pj": 4,
-            "ordenSorteo": 0,
+            "pts": 7,
+            "gf": 64,
+            "gc": 68,
+            "dg": -4,
+            "pj": 5,
+            "ordenSorteo": 3,
             "pg": 2
           },
           {
             "name": "Equipo 29",
             "pts": 6,
-            "gf": 46,
-            "gc": 53,
-            "dg": -7,
+            "gf": 55,
+            "gc": 71,
+            "dg": -16,
+            "pj": 5,
+            "ordenSorteo": 4,
+            "pg": 1
+          }
+        ],
+        "partidos": [
+          {
+            "numRonda": 1,
+            "encuentros": [
+              {
+                "home": "Equipo 21",
+                "away": "Equipo 10",
+                "golesHome": 15,
+                "golesAway": 9,
+                "campoId": 3,
+                "ordenGlobal": 74
+              },
+              {
+                "home": "Equipo 6",
+                "away": "Equipo 29",
+                "golesHome": 15,
+                "golesAway": 8,
+                "campoId": 4,
+                "ordenGlobal": 97
+              },
+              {
+                "home": "Equipo 43",
+                "away": "Equipo 54",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 5,
+                "ordenGlobal": 120
+              }
+            ]
+          },
+          {
+            "numRonda": 2,
+            "encuentros": [
+              {
+                "home": "Equipo 21",
+                "away": "Equipo 29",
+                "golesHome": 15,
+                "golesAway": 11,
+                "campoId": 1,
+                "ordenGlobal": 32
+              },
+              {
+                "home": "Equipo 10",
+                "away": "Equipo 54",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 2,
+                "ordenGlobal": 56
+              },
+              {
+                "home": "Equipo 6",
+                "away": "Equipo 43",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 3,
+                "ordenGlobal": 79
+              }
+            ]
+          },
+          {
+            "numRonda": 3,
+            "encuentros": [
+              {
+                "home": "Equipo 21",
+                "away": "Equipo 54",
+                "golesHome": 12,
+                "golesAway": 15,
+                "campoId": 5,
+                "ordenGlobal": 129
+              },
+              {
+                "home": "Equipo 29",
+                "away": "Equipo 43",
+                "golesHome": 15,
+                "golesAway": 11,
+                "campoId": 0,
+                "ordenGlobal": 13
+              },
+              {
+                "home": "Equipo 10",
+                "away": "Equipo 6",
+                "golesHome": 15,
+                "golesAway": 12,
+                "campoId": 1,
+                "ordenGlobal": 37
+              }
+            ]
+          },
+          {
+            "numRonda": 4,
+            "encuentros": [
+              {
+                "home": "Equipo 21",
+                "away": "Equipo 43",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 3,
+                "ordenGlobal": 88
+              },
+              {
+                "home": "Equipo 54",
+                "away": "Equipo 6",
+                "golesHome": 8,
+                "golesAway": 15,
+                "campoId": 4,
+                "ordenGlobal": 111
+              },
+              {
+                "home": "Equipo 29",
+                "away": "Equipo 10",
+                "golesHome": 10,
+                "golesAway": 15,
+                "campoId": 5,
+                "ordenGlobal": 134
+              }
+            ]
+          },
+          {
+            "numRonda": 5,
+            "encuentros": [
+              {
+                "home": "Equipo 21",
+                "away": "Equipo 6",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 1,
+                "ordenGlobal": 46
+              },
+              {
+                "home": "Equipo 43",
+                "away": "Equipo 10",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 2,
+                "ordenGlobal": 70
+              },
+              {
+                "home": "Equipo 54",
+                "away": "Equipo 29",
+                "golesHome": 15,
+                "golesAway": 11,
+                "campoId": 3,
+                "ordenGlobal": 93
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Grupo I",
+        "equipos": [
+          {
+            "name": "Equipo 27",
+            "pts": 7,
+            "gf": 58,
+            "gc": 49,
+            "dg": 9,
             "pj": 4,
             "ordenSorteo": 1,
+            "pg": 3
+          },
+          {
+            "name": "Equipo 7",
+            "pts": 7,
+            "gf": 53,
+            "gc": 50,
+            "dg": 3,
+            "pj": 4,
+            "ordenSorteo": 3,
+            "pg": 3
+          },
+          {
+            "name": "Equipo 5",
+            "pts": 6,
+            "gf": 54,
+            "gc": 54,
+            "dg": 0,
+            "pj": 4,
+            "ordenSorteo": 0,
             "pg": 2
           },
           {
-            "name": "Equipo 10",
+            "name": "Equipo 30",
             "pts": 5,
-            "gf": 53,
+            "gf": 50,
+            "gc": 53,
+            "dg": -3,
+            "pj": 4,
+            "ordenSorteo": 4,
+            "pg": 1
+          },
+          {
+            "name": "Equipo 38",
+            "pts": 5,
+            "gf": 49,
             "gc": 58,
-            "dg": -5,
+            "dg": -9,
             "pj": 4,
             "ordenSorteo": 2,
             "pg": 1
@@ -1197,20 +1759,20 @@
             "numRonda": 1,
             "encuentros": [
               {
-                "home": "Equipo 29",
-                "away": "Equipo 38",
-                "golesHome": 8,
-                "golesAway": 15,
-                "campoId": 2,
-                "ordenGlobal": 40
+                "home": "Equipo 27",
+                "away": "Equipo 30",
+                "golesHome": 15,
+                "golesAway": 11,
+                "campoId": 0,
+                "ordenGlobal": 4
               },
               {
-                "home": "Equipo 10",
-                "away": "Equipo 17",
-                "golesHome": 15,
-                "golesAway": 13,
-                "campoId": 3,
-                "ordenGlobal": 58
+                "home": "Equipo 38",
+                "away": "Equipo 7",
+                "golesHome": 11,
+                "golesAway": 15,
+                "campoId": 1,
+                "ordenGlobal": 28
               }
             ]
           },
@@ -1218,20 +1780,20 @@
             "numRonda": 2,
             "encuentros": [
               {
-                "home": "Equipo 54",
-                "away": "Equipo 38",
+                "home": "Equipo 5",
+                "away": "Equipo 30",
                 "golesHome": 15,
-                "golesAway": 13,
-                "campoId": 0,
-                "ordenGlobal": 6
+                "golesAway": 11,
+                "campoId": 4,
+                "ordenGlobal": 102
               },
               {
-                "home": "Equipo 29",
-                "away": "Equipo 10",
+                "home": "Equipo 27",
+                "away": "Equipo 38",
                 "golesHome": 15,
-                "golesAway": 13,
-                "campoId": 1,
-                "ordenGlobal": 25
+                "golesAway": 10,
+                "campoId": 5,
+                "ordenGlobal": 125
               }
             ]
           },
@@ -1239,20 +1801,20 @@
             "numRonda": 3,
             "encuentros": [
               {
-                "home": "Equipo 54",
-                "away": "Equipo 17",
+                "home": "Equipo 5",
+                "away": "Equipo 7",
                 "golesHome": 11,
                 "golesAway": 15,
-                "campoId": 4,
-                "ordenGlobal": 83
+                "campoId": 2,
+                "ordenGlobal": 61
               },
               {
-                "home": "Equipo 38",
-                "away": "Equipo 10",
-                "golesHome": 15,
-                "golesAway": 12,
-                "campoId": 5,
-                "ordenGlobal": 101
+                "home": "Equipo 30",
+                "away": "Equipo 38",
+                "golesHome": 13,
+                "golesAway": 15,
+                "campoId": 3,
+                "ordenGlobal": 84
               }
             ]
           },
@@ -1260,20 +1822,20 @@
             "numRonda": 4,
             "encuentros": [
               {
-                "home": "Equipo 54",
-                "away": "Equipo 10",
+                "home": "Equipo 5",
+                "away": "Equipo 38",
                 "golesHome": 15,
                 "golesAway": 13,
-                "campoId": 2,
-                "ordenGlobal": 51
+                "campoId": 0,
+                "ordenGlobal": 18
               },
               {
-                "home": "Equipo 17",
-                "away": "Equipo 29",
+                "home": "Equipo 7",
+                "away": "Equipo 27",
                 "golesHome": 15,
-                "golesAway": 8,
-                "campoId": 3,
-                "ordenGlobal": 69
+                "golesAway": 13,
+                "campoId": 1,
+                "ordenGlobal": 42
               }
             ]
           },
@@ -1281,73 +1843,73 @@
             "numRonda": 5,
             "encuentros": [
               {
-                "home": "Equipo 54",
-                "away": "Equipo 29",
-                "golesHome": 10,
+                "home": "Equipo 5",
+                "away": "Equipo 27",
+                "golesHome": 13,
                 "golesAway": 15,
-                "campoId": 0,
-                "ordenGlobal": 17
+                "campoId": 4,
+                "ordenGlobal": 116
               },
               {
-                "home": "Equipo 17",
-                "away": "Equipo 38",
-                "golesHome": 10,
+                "home": "Equipo 7",
+                "away": "Equipo 30",
+                "golesHome": 8,
                 "golesAway": 15,
-                "campoId": 1,
-                "ordenGlobal": 36
+                "campoId": 5,
+                "ordenGlobal": 139
               }
             ]
           }
         ]
       },
       {
-        "nombre": "Grupo I",
+        "nombre": "Grupo J",
         "equipos": [
           {
-            "name": "Equipo 9",
-            "pts": 7,
-            "gf": 54,
-            "gc": 47,
-            "dg": 7,
+            "name": "Equipo 44",
+            "pts": 8,
+            "gf": 60,
+            "gc": 44,
+            "dg": 16,
             "pj": 4,
-            "ordenSorteo": 3,
-            "pg": 3
+            "ordenSorteo": 1,
+            "pg": 4
           },
           {
-            "name": "Equipo 32",
+            "name": "Equipo 3",
             "pts": 6,
-            "gf": 55,
-            "gc": 51,
-            "dg": 4,
-            "pj": 4,
-            "ordenSorteo": 4,
-            "pg": 2
-          },
-          {
-            "name": "Equipo 12",
-            "pts": 6,
-            "gf": 54,
-            "gc": 54,
-            "dg": 0,
+            "gf": 56,
+            "gc": 55,
+            "dg": 1,
             "pj": 4,
             "ordenSorteo": 2,
             "pg": 2
           },
           {
-            "name": "Equipo 28",
+            "name": "Equipo 37",
             "pts": 6,
             "gf": 51,
-            "gc": 52,
-            "dg": -1,
+            "gc": 53,
+            "dg": -2,
             "pj": 4,
-            "ordenSorteo": 1,
+            "ordenSorteo": 4,
             "pg": 2
           },
           {
-            "name": "Equipo 24",
+            "name": "Equipo 31",
             "pts": 5,
-            "gf": 47,
-            "gc": 57,
+            "gf": 53,
+            "gc": 58,
+            "dg": -5,
+            "pj": 4,
+            "ordenSorteo": 3,
+            "pg": 1
+          },
+          {
+            "name": "Equipo 47",
+            "pts": 5,
+            "gf": 48,
+            "gc": 58,
             "dg": -10,
             "pj": 4,
             "ordenSorteo": 0,
@@ -1359,20 +1921,20 @@
             "numRonda": 1,
             "encuentros": [
               {
-                "home": "Equipo 28",
-                "away": "Equipo 32",
+                "home": "Equipo 44",
+                "away": "Equipo 37",
                 "golesHome": 15,
-                "golesAway": 13,
-                "campoId": 4,
-                "ordenGlobal": 76
+                "golesAway": 8,
+                "campoId": 2,
+                "ordenGlobal": 52
               },
               {
-                "home": "Equipo 12",
-                "away": "Equipo 9",
-                "golesHome": 12,
-                "golesAway": 15,
-                "campoId": 5,
-                "ordenGlobal": 94
+                "home": "Equipo 3",
+                "away": "Equipo 31",
+                "golesHome": 15,
+                "golesAway": 13,
+                "campoId": 3,
+                "ordenGlobal": 75
               }
             ]
           },
@@ -1380,365 +1942,41 @@
             "numRonda": 2,
             "encuentros": [
               {
-                "home": "Equipo 24",
-                "away": "Equipo 32",
-                "golesHome": 15,
-                "golesAway": 12,
-                "campoId": 2,
-                "ordenGlobal": 44
-              },
-              {
-                "home": "Equipo 28",
-                "away": "Equipo 12",
-                "golesHome": 11,
-                "golesAway": 15,
-                "campoId": 3,
-                "ordenGlobal": 62
-              }
-            ]
-          },
-          {
-            "numRonda": 3,
-            "encuentros": [
-              {
-                "home": "Equipo 24",
-                "away": "Equipo 9",
+                "home": "Equipo 47",
+                "away": "Equipo 37",
                 "golesHome": 10,
                 "golesAway": 15,
                 "campoId": 0,
-                "ordenGlobal": 10
+                "ordenGlobal": 9
               },
               {
-                "home": "Equipo 32",
-                "away": "Equipo 12",
-                "golesHome": 15,
-                "golesAway": 12,
-                "campoId": 1,
-                "ordenGlobal": 29
-              }
-            ]
-          },
-          {
-            "numRonda": 4,
-            "encuentros": [
-              {
-                "home": "Equipo 24",
-                "away": "Equipo 12",
-                "golesHome": 13,
-                "golesAway": 15,
-                "campoId": 4,
-                "ordenGlobal": 87
-              },
-              {
-                "home": "Equipo 9",
-                "away": "Equipo 28",
-                "golesHome": 15,
-                "golesAway": 10,
-                "campoId": 5,
-                "ordenGlobal": 105
-              }
-            ]
-          },
-          {
-            "numRonda": 5,
-            "encuentros": [
-              {
-                "home": "Equipo 24",
-                "away": "Equipo 28",
-                "golesHome": 9,
-                "golesAway": 15,
-                "campoId": 2,
-                "ordenGlobal": 55
-              },
-              {
-                "home": "Equipo 9",
-                "away": "Equipo 32",
-                "golesHome": 9,
-                "golesAway": 15,
-                "campoId": 3,
-                "ordenGlobal": 73
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "nombre": "Grupo J",
-        "equipos": [
-          {
-            "name": "Equipo 53",
-            "pts": 7,
-            "gf": 53,
-            "gc": 48,
-            "dg": 5,
-            "pj": 4,
-            "ordenSorteo": 4,
-            "pg": 3
-          },
-          {
-            "name": "Equipo 14",
-            "pts": 6,
-            "gf": 51,
-            "gc": 46,
-            "dg": 5,
-            "pj": 4,
-            "ordenSorteo": 1,
-            "pg": 2
-          },
-          {
-            "name": "Equipo 33",
-            "pts": 6,
-            "gf": 51,
-            "gc": 49,
-            "dg": 2,
-            "pj": 4,
-            "ordenSorteo": 0,
-            "pg": 2
-          },
-          {
-            "name": "Equipo 40",
-            "pts": 6,
-            "gf": 51,
-            "gc": 52,
-            "dg": -1,
-            "pj": 4,
-            "ordenSorteo": 2,
-            "pg": 2
-          },
-          {
-            "name": "Equipo 20",
-            "pts": 5,
-            "gf": 46,
-            "gc": 57,
-            "dg": -11,
-            "pj": 4,
-            "ordenSorteo": 3,
-            "pg": 1
-          }
-        ],
-        "partidos": [
-          {
-            "numRonda": 1,
-            "encuentros": [
-              {
-                "home": "Equipo 14",
-                "away": "Equipo 53",
-                "golesHome": 15,
-                "golesAway": 8,
-                "campoId": 0,
-                "ordenGlobal": 3
-              },
-              {
-                "home": "Equipo 40",
-                "away": "Equipo 20",
-                "golesHome": 15,
-                "golesAway": 10,
-                "campoId": 1,
-                "ordenGlobal": 22
-              }
-            ]
-          },
-          {
-            "numRonda": 2,
-            "encuentros": [
-              {
-                "home": "Equipo 33",
-                "away": "Equipo 53",
-                "golesHome": 9,
-                "golesAway": 15,
-                "campoId": 4,
-                "ordenGlobal": 80
-              },
-              {
-                "home": "Equipo 14",
-                "away": "Equipo 40",
-                "golesHome": 15,
-                "golesAway": 8,
-                "campoId": 5,
-                "ordenGlobal": 98
-              }
-            ]
-          },
-          {
-            "numRonda": 3,
-            "encuentros": [
-              {
-                "home": "Equipo 33",
-                "away": "Equipo 20",
-                "golesHome": 15,
-                "golesAway": 10,
-                "campoId": 2,
-                "ordenGlobal": 48
-              },
-              {
-                "home": "Equipo 53",
-                "away": "Equipo 40",
+                "home": "Equipo 44",
+                "away": "Equipo 3",
                 "golesHome": 15,
                 "golesAway": 13,
-                "campoId": 3,
-                "ordenGlobal": 66
-              }
-            ]
-          },
-          {
-            "numRonda": 4,
-            "encuentros": [
-              {
-                "home": "Equipo 33",
-                "away": "Equipo 40",
-                "golesHome": 12,
-                "golesAway": 15,
-                "campoId": 0,
-                "ordenGlobal": 14
-              },
-              {
-                "home": "Equipo 20",
-                "away": "Equipo 14",
-                "golesHome": 15,
-                "golesAway": 12,
                 "campoId": 1,
                 "ordenGlobal": 33
               }
             ]
           },
           {
-            "numRonda": 5,
-            "encuentros": [
-              {
-                "home": "Equipo 33",
-                "away": "Equipo 14",
-                "golesHome": 15,
-                "golesAway": 9,
-                "campoId": 4,
-                "ordenGlobal": 91
-              },
-              {
-                "home": "Equipo 20",
-                "away": "Equipo 53",
-                "golesHome": 11,
-                "golesAway": 15,
-                "campoId": 5,
-                "ordenGlobal": 109
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "nombre": "Grupo K",
-        "equipos": [
-          {
-            "name": "Equipo 51",
-            "pts": 7,
-            "gf": 58,
-            "gc": 44,
-            "dg": 14,
-            "pj": 4,
-            "ordenSorteo": 4,
-            "pg": 3
-          },
-          {
-            "name": "Equipo 55",
-            "pts": 7,
-            "gf": 58,
-            "gc": 47,
-            "dg": 11,
-            "pj": 4,
-            "ordenSorteo": 2,
-            "pg": 3
-          },
-          {
-            "name": "Equipo 50",
-            "pts": 7,
-            "gf": 54,
-            "gc": 49,
-            "dg": 5,
-            "pj": 4,
-            "ordenSorteo": 3,
-            "pg": 3
-          },
-          {
-            "name": "Equipo 22",
-            "pts": 5,
-            "gf": 41,
-            "gc": 57,
-            "dg": -16,
-            "pj": 4,
-            "ordenSorteo": 1,
-            "pg": 1
-          },
-          {
-            "name": "Equipo 49",
-            "pts": 4,
-            "gf": 46,
-            "gc": 60,
-            "dg": -14,
-            "pj": 4,
-            "ordenSorteo": 0,
-            "pg": 0
-          }
-        ],
-        "partidos": [
-          {
-            "numRonda": 1,
-            "encuentros": [
-              {
-                "home": "Equipo 22",
-                "away": "Equipo 51",
-                "golesHome": 8,
-                "golesAway": 15,
-                "campoId": 2,
-                "ordenGlobal": 41
-              },
-              {
-                "home": "Equipo 55",
-                "away": "Equipo 50",
-                "golesHome": 15,
-                "golesAway": 9,
-                "campoId": 3,
-                "ordenGlobal": 59
-              }
-            ]
-          },
-          {
-            "numRonda": 2,
-            "encuentros": [
-              {
-                "home": "Equipo 49",
-                "away": "Equipo 51",
-                "golesHome": 8,
-                "golesAway": 15,
-                "campoId": 0,
-                "ordenGlobal": 7
-              },
-              {
-                "home": "Equipo 22",
-                "away": "Equipo 55",
-                "golesHome": 10,
-                "golesAway": 15,
-                "campoId": 1,
-                "ordenGlobal": 26
-              }
-            ]
-          },
-          {
             "numRonda": 3,
             "encuentros": [
               {
-                "home": "Equipo 49",
-                "away": "Equipo 50",
-                "golesHome": 13,
-                "golesAway": 15,
+                "home": "Equipo 47",
+                "away": "Equipo 31",
+                "golesHome": 15,
+                "golesAway": 13,
                 "campoId": 4,
-                "ordenGlobal": 84
+                "ordenGlobal": 107
               },
               {
-                "home": "Equipo 51",
-                "away": "Equipo 55",
+                "home": "Equipo 37",
+                "away": "Equipo 3",
                 "golesHome": 15,
                 "golesAway": 13,
                 "campoId": 5,
-                "ordenGlobal": 102
+                "ordenGlobal": 130
               }
             ]
           },
@@ -1746,20 +1984,20 @@
             "numRonda": 4,
             "encuentros": [
               {
-                "home": "Equipo 49",
-                "away": "Equipo 55",
-                "golesHome": 13,
+                "home": "Equipo 47",
+                "away": "Equipo 3",
+                "golesHome": 12,
                 "golesAway": 15,
                 "campoId": 2,
-                "ordenGlobal": 52
+                "ordenGlobal": 66
               },
               {
-                "home": "Equipo 50",
-                "away": "Equipo 22",
-                "golesHome": 15,
-                "golesAway": 8,
+                "home": "Equipo 31",
+                "away": "Equipo 44",
+                "golesHome": 12,
+                "golesAway": 15,
                 "campoId": 3,
-                "ordenGlobal": 70
+                "ordenGlobal": 89
               }
             ]
           },
@@ -1767,20 +2005,20 @@
             "numRonda": 5,
             "encuentros": [
               {
-                "home": "Equipo 49",
-                "away": "Equipo 22",
-                "golesHome": 12,
+                "home": "Equipo 47",
+                "away": "Equipo 44",
+                "golesHome": 11,
                 "golesAway": 15,
                 "campoId": 0,
-                "ordenGlobal": 18
+                "ordenGlobal": 23
               },
               {
-                "home": "Equipo 50",
-                "away": "Equipo 51",
+                "home": "Equipo 31",
+                "away": "Equipo 37",
                 "golesHome": 15,
                 "golesAway": 13,
                 "campoId": 1,
-                "ordenGlobal": 37
+                "ordenGlobal": 47
               }
             ]
           }
@@ -1815,721 +2053,760 @@
     ],
     "lineasEquipos": [
       "Equipo 1",
-      "Equipo 2",
-      "Equipo 3",
-      "Equipo 4",
-      "Equipo 5",
-      "Equipo 6",
-      "Equipo 7",
-      "Equipo 8",
-      "Equipo 9",
-      "Equipo 10",
-      "Equipo 11",
-      "Equipo 12",
-      "Equipo 13",
-      "Equipo 14",
-      "Equipo 15",
-      "Equipo 16",
-      "Equipo 17",
-      "Equipo 18",
-      "Equipo 19",
-      "Equipo 20",
-      "Equipo 21",
-      "Equipo 22",
-      "Equipo 23",
       "Equipo 24",
+      "Equipo 13",
+      "Equipo 2",
+      "Equipo 55",
+      "Equipo 45",
+      "Equipo 18",
+      "Equipo 21",
+      "Equipo 5",
+      "Equipo 47",
+      "Equipo 22",
+      "Equipo 15",
+      "Equipo 12",
+      "Equipo 41",
       "Equipo 25",
-      "Equipo 26",
+      "Equipo 42",
+      "Equipo 33",
+      "Equipo 6",
       "Equipo 27",
-      "Equipo 28",
+      "Equipo 44",
+      "Equipo 50",
+      "Equipo 19",
+      "Equipo 14",
+      "Equipo 39",
+      "Equipo 57",
+      "Equipo 23",
+      "Equipo 56",
+      "Equipo 43",
+      "Equipo 38",
+      "Equipo 3",
+      "Equipo 48",
+      "Equipo 11",
+      "Equipo 17",
+      "Equipo 46",
+      "Equipo 53",
+      "Equipo 40",
+      "Equipo 16",
+      "Equipo 54",
+      "Equipo 7",
+      "Equipo 31",
+      "Equipo 9",
+      "Equipo 36",
+      "Equipo 8",
+      "Equipo 26",
+      "Equipo 35",
+      "Equipo 32",
+      "Equipo 34",
       "Equipo 29",
       "Equipo 30",
-      "Equipo 31",
-      "Equipo 32",
-      "Equipo 33",
-      "Equipo 34",
-      "Equipo 35",
-      "Equipo 36",
       "Equipo 37",
-      "Equipo 38",
-      "Equipo 39",
-      "Equipo 40",
-      "Equipo 41",
-      "Equipo 42",
-      "Equipo 43",
-      "Equipo 44",
-      "Equipo 45",
-      "Equipo 46",
-      "Equipo 47",
-      "Equipo 48",
-      "Equipo 49",
-      "Equipo 50",
-      "Equipo 51",
+      "Equipo 28",
+      "Equipo 20",
       "Equipo 52",
-      "Equipo 53",
-      "Equipo 54",
-      "Equipo 55"
+      "Equipo 51",
+      "Equipo 4",
+      "Equipo 58",
+      "Equipo 49",
+      "Equipo 10"
     ],
     "lastGlobalEq": [
       {
-        "name": "Equipo 16",
+        "name": "Equipo 44",
         "pts": 8,
         "gf": 60,
-        "gc": 50,
-        "dg": 10,
+        "gc": 44,
+        "dg": 16,
         "pj": 4,
-        "ordenSorteo": 2,
+        "ordenSorteo": 1,
         "pg": 4,
+        "grupo": "Grupo J",
+        "posGrupo": 1
+      },
+      {
+        "name": "Equipo 18",
+        "pts": 10,
+        "gf": 75,
+        "gc": 61,
+        "dg": 14,
+        "pj": 5,
+        "ordenSorteo": 0,
+        "pg": 5,
         "grupo": "Grupo G",
         "posGrupo": 1
       },
       {
-        "name": "Equipo 41",
-        "pts": 7,
-        "gf": 57,
-        "gc": 42,
-        "dg": 15,
-        "pj": 4,
-        "ordenSorteo": 1,
-        "pg": 3,
+        "name": "Equipo 55",
+        "pts": 9,
+        "gf": 71,
+        "gc": 51,
+        "dg": 20,
+        "pj": 5,
+        "ordenSorteo": 0,
+        "pg": 4,
         "grupo": "Grupo E",
         "posGrupo": 1
       },
       {
-        "name": "Equipo 51",
-        "pts": 7,
-        "gf": 58,
-        "gc": 44,
+        "name": "Equipo 22",
+        "pts": 9,
+        "gf": 73,
+        "gc": 58,
+        "dg": 15,
+        "pj": 5,
+        "ordenSorteo": 1,
+        "pg": 4,
+        "grupo": "Grupo A",
+        "posGrupo": 1
+      },
+      {
+        "name": "Equipo 36",
+        "pts": 9,
+        "gf": 73,
+        "gc": 59,
         "dg": 14,
-        "pj": 4,
+        "pj": 5,
         "ordenSorteo": 4,
-        "pg": 3,
-        "grupo": "Grupo K",
-        "posGrupo": 1
-      },
-      {
-        "name": "Equipo 38",
-        "pts": 7,
-        "gf": 58,
-        "gc": 45,
-        "dg": 13,
-        "pj": 4,
-        "ordenSorteo": 4,
-        "pg": 3,
-        "grupo": "Grupo H",
-        "posGrupo": 1
-      },
-      {
-        "name": "Equipo 1",
-        "pts": 7,
-        "gf": 58,
-        "gc": 46,
-        "dg": 12,
-        "pj": 4,
-        "ordenSorteo": 4,
-        "pg": 3,
+        "pg": 4,
         "grupo": "Grupo B",
         "posGrupo": 1
       },
       {
-        "name": "Equipo 55",
-        "pts": 7,
-        "gf": 58,
-        "gc": 47,
-        "dg": 11,
-        "pj": 4,
+        "name": "Equipo 23",
+        "pts": 9,
+        "gf": 71,
+        "gc": 57,
+        "dg": 14,
+        "pj": 5,
         "ordenSorteo": 2,
-        "pg": 3,
-        "grupo": "Grupo K",
-        "posGrupo": 2
+        "pg": 4,
+        "grupo": "Grupo F",
+        "posGrupo": 1
       },
       {
-        "name": "Equipo 3",
-        "pts": 7,
-        "gf": 55,
-        "gc": 46,
-        "dg": 9,
-        "pj": 4,
-        "ordenSorteo": 1,
-        "pg": 3,
+        "name": "Equipo 2",
+        "pts": 9,
+        "gf": 73,
+        "gc": 60,
+        "dg": 13,
+        "pj": 5,
+        "ordenSorteo": 0,
+        "pg": 4,
         "grupo": "Grupo D",
         "posGrupo": 1
       },
       {
-        "name": "Equipo 9",
-        "pts": 7,
-        "gf": 54,
-        "gc": 47,
-        "dg": 7,
-        "pj": 4,
-        "ordenSorteo": 3,
-        "pg": 3,
-        "grupo": "Grupo I",
+        "name": "Equipo 34",
+        "pts": 9,
+        "gf": 73,
+        "gc": 60,
+        "dg": 13,
+        "pj": 5,
+        "ordenSorteo": 4,
+        "pg": 4,
+        "grupo": "Grupo G",
+        "posGrupo": 2
+      },
+      {
+        "name": "Equipo 20",
+        "pts": 9,
+        "gf": 73,
+        "gc": 62,
+        "dg": 11,
+        "pj": 5,
+        "ordenSorteo": 5,
+        "pg": 4,
+        "grupo": "Grupo B",
+        "posGrupo": 2
+      },
+      {
+        "name": "Equipo 21",
+        "pts": 9,
+        "gf": 72,
+        "gc": 61,
+        "dg": 11,
+        "pj": 5,
+        "ordenSorteo": 0,
+        "pg": 4,
+        "grupo": "Grupo H",
         "posGrupo": 1
       },
       {
-        "name": "Equipo 46",
+        "name": "Equipo 24",
+        "pts": 9,
+        "gf": 71,
+        "gc": 66,
+        "dg": 5,
+        "pj": 5,
+        "ordenSorteo": 0,
+        "pg": 4,
+        "grupo": "Grupo B",
+        "posGrupo": 3
+      },
+      {
+        "name": "Equipo 27",
         "pts": 7,
         "gf": 58,
-        "gc": 52,
-        "dg": 6,
+        "gc": 49,
+        "dg": 9,
         "pj": 4,
-        "ordenSorteo": 3,
+        "ordenSorteo": 1,
         "pg": 3,
-        "grupo": "Grupo A",
+        "grupo": "Grupo I",
         "posGrupo": 1
       },
       {
         "name": "Equipo 7",
         "pts": 7,
         "gf": 53,
-        "gc": 47,
-        "dg": 6,
+        "gc": 50,
+        "dg": 3,
         "pj": 4,
-        "ordenSorteo": 0,
+        "ordenSorteo": 3,
+        "pg": 3,
+        "grupo": "Grupo I",
+        "posGrupo": 2
+      },
+      {
+        "name": "Equipo 6",
+        "pts": 8,
+        "gf": 70,
+        "gc": 59,
+        "dg": 11,
+        "pj": 5,
+        "ordenSorteo": 1,
+        "pg": 3,
+        "grupo": "Grupo H",
+        "posGrupo": 2
+      },
+      {
+        "name": "Equipo 12",
+        "pts": 8,
+        "gf": 67,
+        "gc": 58,
+        "dg": 9,
+        "pj": 5,
+        "ordenSorteo": 1,
+        "pg": 3,
+        "grupo": "Grupo C",
+        "posGrupo": 1
+      },
+      {
+        "name": "Equipo 28",
+        "pts": 8,
+        "gf": 66,
+        "gc": 59,
+        "dg": 7,
+        "pj": 5,
+        "ordenSorteo": 5,
         "pg": 3,
         "grupo": "Grupo A",
         "posGrupo": 2
       },
       {
-        "name": "Equipo 39",
-        "pts": 7,
-        "gf": 58,
-        "gc": 53,
-        "dg": 5,
-        "pj": 4,
+        "name": "Equipo 53",
+        "pts": 8,
+        "gf": 66,
+        "gc": 59,
+        "dg": 7,
+        "pj": 5,
         "ordenSorteo": 3,
         "pg": 3,
-        "grupo": "Grupo F",
-        "posGrupo": 1
-      },
-      {
-        "name": "Equipo 27",
-        "pts": 7,
-        "gf": 57,
-        "gc": 52,
-        "dg": 5,
-        "pj": 4,
-        "ordenSorteo": 4,
-        "pg": 3,
-        "grupo": "Grupo G",
+        "grupo": "Grupo E",
         "posGrupo": 2
       },
       {
-        "name": "Equipo 5",
-        "pts": 7,
-        "gf": 57,
-        "gc": 52,
-        "dg": 5,
-        "pj": 4,
-        "ordenSorteo": 0,
+        "name": "Equipo 51",
+        "pts": 8,
+        "gf": 70,
+        "gc": 64,
+        "dg": 6,
+        "pj": 5,
+        "ordenSorteo": 5,
+        "pg": 3,
+        "grupo": "Grupo D",
+        "posGrupo": 2
+      },
+      {
+        "name": "Equipo 58",
+        "pts": 8,
+        "gf": 70,
+        "gc": 64,
+        "dg": 6,
+        "pj": 5,
+        "ordenSorteo": 5,
         "pg": 3,
         "grupo": "Grupo F",
         "posGrupo": 2
       },
       {
         "name": "Equipo 50",
-        "pts": 7,
-        "gf": 54,
-        "gc": 49,
-        "dg": 5,
-        "pj": 4,
-        "ordenSorteo": 3,
-        "pg": 3,
-        "grupo": "Grupo K",
-        "posGrupo": 3
-      },
-      {
-        "name": "Equipo 53",
-        "pts": 7,
-        "gf": 53,
-        "gc": 48,
-        "dg": 5,
-        "pj": 4,
-        "ordenSorteo": 4,
-        "pg": 3,
-        "grupo": "Grupo J",
-        "posGrupo": 1
-      },
-      {
-        "name": "Equipo 8",
-        "pts": 7,
-        "gf": 54,
-        "gc": 50,
-        "dg": 4,
-        "pj": 4,
+        "pts": 8,
+        "gf": 67,
+        "gc": 61,
+        "dg": 6,
+        "pj": 5,
         "ordenSorteo": 2,
         "pg": 3,
-        "grupo": "Grupo B",
-        "posGrupo": 2
-      },
-      {
-        "name": "Equipo 2",
-        "pts": 6,
-        "gf": 55,
-        "gc": 50,
-        "dg": 5,
-        "pj": 4,
-        "ordenSorteo": 2,
-        "pg": 2,
         "grupo": "Grupo A",
         "posGrupo": 3
       },
       {
-        "name": "Equipo 52",
-        "pts": 6,
-        "gf": 54,
-        "gc": 49,
-        "dg": 5,
-        "pj": 4,
-        "ordenSorteo": 4,
-        "pg": 2,
-        "grupo": "Grupo C",
-        "posGrupo": 1
-      },
-      {
-        "name": "Equipo 14",
-        "pts": 6,
-        "gf": 51,
-        "gc": 46,
-        "dg": 5,
-        "pj": 4,
-        "ordenSorteo": 1,
-        "pg": 2,
-        "grupo": "Grupo J",
-        "posGrupo": 2
-      },
-      {
-        "name": "Equipo 32",
-        "pts": 6,
-        "gf": 55,
-        "gc": 51,
-        "dg": 4,
-        "pj": 4,
-        "ordenSorteo": 4,
-        "pg": 2,
-        "grupo": "Grupo I",
-        "posGrupo": 2
-      },
-      {
-        "name": "Equipo 48",
-        "pts": 6,
-        "gf": 54,
-        "gc": 50,
-        "dg": 4,
-        "pj": 4,
-        "ordenSorteo": 1,
-        "pg": 2,
-        "grupo": "Grupo G",
+        "name": "Equipo 10",
+        "pts": 8,
+        "gf": 67,
+        "gc": 65,
+        "dg": 2,
+        "pj": 5,
+        "ordenSorteo": 5,
+        "pg": 3,
+        "grupo": "Grupo H",
         "posGrupo": 3
       },
       {
-        "name": "Equipo 17",
-        "pts": 6,
-        "gf": 53,
-        "gc": 49,
-        "dg": 4,
-        "pj": 4,
-        "ordenSorteo": 3,
-        "pg": 2,
-        "grupo": "Grupo H",
-        "posGrupo": 2
+        "name": "Equipo 1",
+        "pts": 8,
+        "gf": 66,
+        "gc": 64,
+        "dg": 2,
+        "pj": 5,
+        "ordenSorteo": 0,
+        "pg": 3,
+        "grupo": "Grupo A",
+        "posGrupo": 4
       },
       {
-        "name": "Equipo 34",
-        "pts": 6,
-        "gf": 56,
-        "gc": 53,
-        "dg": 3,
-        "pj": 4,
-        "ordenSorteo": 3,
-        "pg": 2,
-        "grupo": "Grupo D",
-        "posGrupo": 2
-      },
-      {
-        "name": "Equipo 35",
-        "pts": 6,
-        "gf": 53,
-        "gc": 50,
-        "dg": 3,
-        "pj": 4,
+        "name": "Equipo 14",
+        "pts": 8,
+        "gf": 68,
+        "gc": 67,
+        "dg": 1,
+        "pj": 5,
         "ordenSorteo": 2,
-        "pg": 2,
+        "pg": 3,
         "grupo": "Grupo C",
         "posGrupo": 2
       },
       {
-        "name": "Equipo 23",
-        "pts": 6,
-        "gf": 54,
-        "gc": 52,
-        "dg": 2,
-        "pj": 4,
-        "ordenSorteo": 4,
-        "pg": 2,
+        "name": "Equipo 45",
+        "pts": 8,
+        "gf": 68,
+        "gc": 68,
+        "dg": 0,
+        "pj": 5,
+        "ordenSorteo": 0,
+        "pg": 3,
         "grupo": "Grupo F",
         "posGrupo": 3
       },
       {
-        "name": "Equipo 15",
-        "pts": 6,
-        "gf": 53,
-        "gc": 51,
-        "dg": 2,
-        "pj": 4,
-        "ordenSorteo": 0,
-        "pg": 2,
+        "name": "Equipo 4",
+        "pts": 8,
+        "gf": 64,
+        "gc": 66,
+        "dg": -2,
+        "pj": 5,
+        "ordenSorteo": 5,
+        "pg": 3,
         "grupo": "Grupo E",
-        "posGrupo": 2
+        "posGrupo": 3
       },
       {
-        "name": "Equipo 36",
-        "pts": 6,
-        "gf": 53,
-        "gc": 51,
-        "dg": 2,
-        "pj": 4,
-        "ordenSorteo": 2,
-        "pg": 2,
+        "name": "Equipo 17",
+        "pts": 8,
+        "gf": 62,
+        "gc": 64,
+        "dg": -2,
+        "pj": 5,
+        "ordenSorteo": 3,
+        "pg": 3,
+        "grupo": "Grupo C",
+        "posGrupo": 3
+      },
+      {
+        "name": "Equipo 13",
+        "pts": 8,
+        "gf": 66,
+        "gc": 69,
+        "dg": -3,
+        "pj": 5,
+        "ordenSorteo": 0,
+        "pg": 3,
+        "grupo": "Grupo C",
+        "posGrupo": 4
+      },
+      {
+        "name": "Equipo 26",
+        "pts": 8,
+        "gf": 62,
+        "gc": 67,
+        "dg": -5,
+        "pj": 5,
+        "ordenSorteo": 4,
+        "pg": 3,
         "grupo": "Grupo D",
         "posGrupo": 3
       },
       {
-        "name": "Equipo 33",
+        "name": "Equipo 3",
         "pts": 6,
-        "gf": 51,
-        "gc": 49,
-        "dg": 2,
+        "gf": 56,
+        "gc": 55,
+        "dg": 1,
         "pj": 4,
-        "ordenSorteo": 0,
+        "ordenSorteo": 2,
         "pg": 2,
         "grupo": "Grupo J",
-        "posGrupo": 3
+        "posGrupo": 2
       },
       {
-        "name": "Equipo 12",
+        "name": "Equipo 5",
         "pts": 6,
         "gf": 54,
         "gc": 54,
         "dg": 0,
         "pj": 4,
-        "ordenSorteo": 2,
+        "ordenSorteo": 0,
         "pg": 2,
         "grupo": "Grupo I",
         "posGrupo": 3
       },
       {
-        "name": "Equipo 44",
-        "pts": 6,
-        "gf": 52,
-        "gc": 52,
-        "dg": 0,
-        "pj": 4,
-        "ordenSorteo": 1,
-        "pg": 2,
-        "grupo": "Grupo C",
-        "posGrupo": 3
-      },
-      {
-        "name": "Equipo 26",
-        "pts": 6,
-        "gf": 54,
-        "gc": 55,
-        "dg": -1,
-        "pj": 4,
-        "ordenSorteo": 0,
-        "pg": 2,
-        "grupo": "Grupo C",
-        "posGrupo": 4
-      },
-      {
-        "name": "Equipo 28",
-        "pts": 6,
-        "gf": 51,
-        "gc": 52,
-        "dg": -1,
-        "pj": 4,
-        "ordenSorteo": 1,
-        "pg": 2,
-        "grupo": "Grupo I",
-        "posGrupo": 4
-      },
-      {
-        "name": "Equipo 30",
-        "pts": 6,
-        "gf": 51,
-        "gc": 52,
-        "dg": -1,
-        "pj": 4,
-        "ordenSorteo": 4,
-        "pg": 2,
-        "grupo": "Grupo E",
-        "posGrupo": 3
-      },
-      {
-        "name": "Equipo 40",
-        "pts": 6,
-        "gf": 51,
-        "gc": 52,
-        "dg": -1,
-        "pj": 4,
-        "ordenSorteo": 2,
-        "pg": 2,
-        "grupo": "Grupo J",
-        "posGrupo": 4
-      },
-      {
-        "name": "Equipo 6",
-        "pts": 6,
-        "gf": 54,
-        "gc": 56,
-        "dg": -2,
-        "pj": 4,
-        "ordenSorteo": 0,
-        "pg": 2,
-        "grupo": "Grupo B",
-        "posGrupo": 3
-      },
-      {
-        "name": "Equipo 13",
+        "name": "Equipo 37",
         "pts": 6,
         "gf": 51,
         "gc": 53,
         "dg": -2,
         "pj": 4,
-        "ordenSorteo": 2,
+        "ordenSorteo": 4,
         "pg": 2,
-        "grupo": "Grupo E",
-        "posGrupo": 4
-      },
-      {
-        "name": "Equipo 54",
-        "pts": 6,
-        "gf": 51,
-        "gc": 56,
-        "dg": -5,
-        "pj": 4,
-        "ordenSorteo": 0,
-        "pg": 2,
-        "grupo": "Grupo H",
+        "grupo": "Grupo J",
         "posGrupo": 3
       },
       {
         "name": "Equipo 11",
-        "pts": 6,
-        "gf": 49,
-        "gc": 56,
-        "dg": -7,
-        "pj": 4,
-        "ordenSorteo": 0,
+        "pts": 7,
+        "gf": 65,
+        "gc": 61,
+        "dg": 4,
+        "pj": 5,
+        "ordenSorteo": 3,
         "pg": 2,
-        "grupo": "Grupo D",
+        "grupo": "Grupo B",
         "posGrupo": 4
       },
       {
-        "name": "Equipo 37",
-        "pts": 6,
-        "gf": 48,
-        "gc": 55,
-        "dg": -7,
-        "pj": 4,
-        "ordenSorteo": 3,
+        "name": "Equipo 8",
+        "pts": 7,
+        "gf": 64,
+        "gc": 62,
+        "dg": 2,
+        "pj": 5,
+        "ordenSorteo": 4,
         "pg": 2,
         "grupo": "Grupo C",
         "posGrupo": 5
       },
       {
-        "name": "Equipo 29",
-        "pts": 6,
-        "gf": 46,
-        "gc": 53,
-        "dg": -7,
-        "pj": 4,
+        "name": "Equipo 25",
+        "pts": 7,
+        "gf": 66,
+        "gc": 67,
+        "dg": -1,
+        "pj": 5,
         "ordenSorteo": 1,
+        "pg": 2,
+        "grupo": "Grupo E",
+        "posGrupo": 4
+      },
+      {
+        "name": "Equipo 39",
+        "pts": 7,
+        "gf": 69,
+        "gc": 71,
+        "dg": -2,
+        "pj": 5,
+        "ordenSorteo": 2,
+        "pg": 2,
+        "grupo": "Grupo D",
+        "posGrupo": 4
+      },
+      {
+        "name": "Equipo 56",
+        "pts": 7,
+        "gf": 69,
+        "gc": 71,
+        "dg": -2,
+        "pj": 5,
+        "ordenSorteo": 2,
+        "pg": 2,
+        "grupo": "Grupo G",
+        "posGrupo": 3
+      },
+      {
+        "name": "Equipo 42",
+        "pts": 7,
+        "gf": 66,
+        "gc": 69,
+        "dg": -3,
+        "pj": 5,
+        "ordenSorteo": 1,
+        "pg": 2,
+        "grupo": "Grupo F",
+        "posGrupo": 4
+      },
+      {
+        "name": "Equipo 43",
+        "pts": 7,
+        "gf": 67,
+        "gc": 71,
+        "dg": -4,
+        "pj": 5,
+        "ordenSorteo": 2,
         "pg": 2,
         "grupo": "Grupo H",
         "posGrupo": 4
       },
       {
-        "name": "Equipo 4",
-        "pts": 5,
-        "gf": 51,
-        "gc": 53,
-        "dg": -2,
-        "pj": 4,
-        "ordenSorteo": 1,
-        "pg": 1,
-        "grupo": "Grupo B",
-        "posGrupo": 4
-      },
-      {
-        "name": "Equipo 21",
-        "pts": 5,
-        "gf": 52,
-        "gc": 56,
+        "name": "Equipo 54",
+        "pts": 7,
+        "gf": 64,
+        "gc": 68,
         "dg": -4,
-        "pj": 4,
-        "ordenSorteo": 1,
-        "pg": 1,
-        "grupo": "Grupo F",
+        "pj": 5,
+        "ordenSorteo": 3,
+        "pg": 2,
+        "grupo": "Grupo H",
+        "posGrupo": 5
+      },
+      {
+        "name": "Equipo 9",
+        "pts": 7,
+        "gf": 62,
+        "gc": 66,
+        "dg": -4,
+        "pj": 5,
+        "ordenSorteo": 4,
+        "pg": 2,
+        "grupo": "Grupo A",
+        "posGrupo": 5
+      },
+      {
+        "name": "Equipo 16",
+        "pts": 7,
+        "gf": 66,
+        "gc": 71,
+        "dg": -5,
+        "pj": 5,
+        "ordenSorteo": 3,
+        "pg": 2,
+        "grupo": "Grupo G",
         "posGrupo": 4
       },
       {
-        "name": "Equipo 10",
+        "name": "Equipo 57",
+        "pts": 7,
+        "gf": 60,
+        "gc": 66,
+        "dg": -6,
+        "pj": 5,
+        "ordenSorteo": 2,
+        "pg": 2,
+        "grupo": "Grupo E",
+        "posGrupo": 5
+      },
+      {
+        "name": "Equipo 41",
+        "pts": 7,
+        "gf": 63,
+        "gc": 70,
+        "dg": -7,
+        "pj": 5,
+        "ordenSorteo": 1,
+        "pg": 2,
+        "grupo": "Grupo D",
+        "posGrupo": 5
+      },
+      {
+        "name": "Equipo 40",
+        "pts": 7,
+        "gf": 61,
+        "gc": 70,
+        "dg": -9,
+        "pj": 5,
+        "ordenSorteo": 3,
+        "pg": 2,
+        "grupo": "Grupo F",
+        "posGrupo": 5
+      },
+      {
+        "name": "Equipo 30",
+        "pts": 5,
+        "gf": 50,
+        "gc": 53,
+        "dg": -3,
+        "pj": 4,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo I",
+        "posGrupo": 4
+      },
+      {
+        "name": "Equipo 31",
         "pts": 5,
         "gf": 53,
         "gc": 58,
         "dg": -5,
         "pj": 4,
-        "ordenSorteo": 2,
+        "ordenSorteo": 3,
         "pg": 1,
-        "grupo": "Grupo H",
-        "posGrupo": 5
-      },
-      {
-        "name": "Equipo 43",
-        "pts": 5,
-        "gf": 50,
-        "gc": 57,
-        "dg": -7,
-        "pj": 4,
-        "ordenSorteo": 4,
-        "pg": 1,
-        "grupo": "Grupo D",
-        "posGrupo": 5
-      },
-      {
-        "name": "Equipo 47",
-        "pts": 5,
-        "gf": 50,
-        "gc": 57,
-        "dg": -7,
-        "pj": 4,
-        "ordenSorteo": 0,
-        "pg": 1,
-        "grupo": "Grupo G",
+        "grupo": "Grupo J",
         "posGrupo": 4
       },
       {
-        "name": "Equipo 19",
+        "name": "Equipo 38",
         "pts": 5,
-        "gf": 50,
+        "gf": 49,
         "gc": 58,
-        "dg": -8,
-        "pj": 4,
-        "ordenSorteo": 4,
-        "pg": 1,
-        "grupo": "Grupo A",
-        "posGrupo": 4
-      },
-      {
-        "name": "Equipo 45",
-        "pts": 5,
-        "gf": 48,
-        "gc": 56,
-        "dg": -8,
-        "pj": 4,
-        "ordenSorteo": 2,
-        "pg": 1,
-        "grupo": "Grupo F",
-        "posGrupo": 5
-      },
-      {
-        "name": "Equipo 42",
-        "pts": 5,
-        "gf": 48,
-        "gc": 57,
         "dg": -9,
         "pj": 4,
-        "ordenSorteo": 1,
-        "pg": 1,
-        "grupo": "Grupo A",
-        "posGrupo": 5
-      },
-      {
-        "name": "Equipo 24",
-        "pts": 5,
-        "gf": 47,
-        "gc": 57,
-        "dg": -10,
-        "pj": 4,
-        "ordenSorteo": 0,
+        "ordenSorteo": 2,
         "pg": 1,
         "grupo": "Grupo I",
         "posGrupo": 5
       },
       {
-        "name": "Equipo 20",
+        "name": "Equipo 47",
         "pts": 5,
-        "gf": 46,
-        "gc": 57,
-        "dg": -11,
+        "gf": 48,
+        "gc": 58,
+        "dg": -10,
         "pj": 4,
-        "ordenSorteo": 3,
+        "ordenSorteo": 0,
         "pg": 1,
         "grupo": "Grupo J",
         "posGrupo": 5
       },
       {
-        "name": "Equipo 25",
-        "pts": 5,
-        "gf": 45,
-        "gc": 57,
-        "dg": -12,
-        "pj": 4,
+        "name": "Equipo 46",
+        "pts": 6,
+        "gf": 63,
+        "gc": 68,
+        "dg": -5,
+        "pj": 5,
         "ordenSorteo": 3,
+        "pg": 1,
+        "grupo": "Grupo D",
+        "posGrupo": 6
+      },
+      {
+        "name": "Equipo 33",
+        "pts": 6,
+        "gf": 66,
+        "gc": 73,
+        "dg": -7,
+        "pj": 5,
+        "ordenSorteo": 1,
+        "pg": 1,
+        "grupo": "Grupo G",
+        "posGrupo": 5
+      },
+      {
+        "name": "Equipo 52",
+        "pts": 6,
+        "gf": 61,
+        "gc": 68,
+        "dg": -7,
+        "pj": 5,
+        "ordenSorteo": 5,
+        "pg": 1,
+        "grupo": "Grupo C",
+        "posGrupo": 6
+      },
+      {
+        "name": "Equipo 32",
+        "pts": 6,
+        "gf": 62,
+        "gc": 70,
+        "dg": -8,
+        "pj": 5,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo F",
+        "posGrupo": 6
+      },
+      {
+        "name": "Equipo 49",
+        "pts": 6,
+        "gf": 60,
+        "gc": 73,
+        "dg": -13,
+        "pj": 5,
+        "ordenSorteo": 5,
+        "pg": 1,
+        "grupo": "Grupo G",
+        "posGrupo": 6
+      },
+      {
+        "name": "Equipo 29",
+        "pts": 6,
+        "gf": 55,
+        "gc": 71,
+        "dg": -16,
+        "pj": 5,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo H",
+        "posGrupo": 6
+      },
+      {
+        "name": "Equipo 15",
+        "pts": 6,
+        "gf": 56,
+        "gc": 73,
+        "dg": -17,
+        "pj": 5,
+        "ordenSorteo": 1,
         "pg": 1,
         "grupo": "Grupo B",
         "posGrupo": 5
       },
       {
-        "name": "Equipo 18",
-        "pts": 5,
-        "gf": 43,
-        "gc": 57,
-        "dg": -14,
-        "pj": 4,
-        "ordenSorteo": 3,
+        "name": "Equipo 35",
+        "pts": 6,
+        "gf": 52,
+        "gc": 70,
+        "dg": -18,
+        "pj": 5,
+        "ordenSorteo": 4,
         "pg": 1,
         "grupo": "Grupo E",
-        "posGrupo": 5
+        "posGrupo": 6
       },
       {
-        "name": "Equipo 22",
+        "name": "Equipo 19",
         "pts": 5,
-        "gf": 41,
-        "gc": 57,
-        "dg": -16,
-        "pj": 4,
-        "ordenSorteo": 1,
-        "pg": 1,
-        "grupo": "Grupo K",
-        "posGrupo": 4
+        "gf": 58,
+        "gc": 75,
+        "dg": -17,
+        "pj": 5,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo B",
+        "posGrupo": 6
       },
       {
-        "name": "Equipo 31",
-        "pts": 4,
-        "gf": 48,
-        "gc": 60,
-        "dg": -12,
-        "pj": 4,
+        "name": "Equipo 48",
+        "pts": 5,
+        "gf": 49,
+        "gc": 75,
+        "dg": -26,
+        "pj": 5,
         "ordenSorteo": 3,
         "pg": 0,
-        "grupo": "Grupo G",
-        "posGrupo": 5
-      },
-      {
-        "name": "Equipo 49",
-        "pts": 4,
-        "gf": 46,
-        "gc": 60,
-        "dg": -14,
-        "pj": 4,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo K",
-        "posGrupo": 5
+        "grupo": "Grupo A",
+        "posGrupo": 6
       }
     ],
     "tipoSistema": "grupos",
@@ -2542,30 +2819,26 @@
       "metodo": "global",
       "oro": {
         "activo": true,
-        "cantidad": 16,
+        "cantidad": 20,
         "tipo": "simple"
       },
       "plata": {
         "activo": true,
-        "cantidad": 16,
+        "cantidad": 20,
         "tipo": "simple"
       },
       "bronce": {
-        "activo": true,
+        "activo": false,
         "cantidad": 16,
         "tipo": "simple"
       }
     },
     "configViews": {
-      "partidos": "campos"
+      "partidos": "grupos"
     },
     "expandedPartidos": {
-      "campo_0": false,
-      "campo_1": false,
-      "campo_2": false,
-      "campo_3": false,
-      "campo_4": false,
-      "campo_5": false
+      "campo_0": true,
+      "grupo_0": true
     },
     "expandedClasificaciones": {
       "clasif_0": false
@@ -2573,33 +2846,37 @@
     "fasesFinales": {
       "oro": {
         "clasificados": [
-          "Equipo 16",
-          "Equipo 41",
-          "Equipo 51",
-          "Equipo 38",
-          "Equipo 1",
+          "Equipo 44",
+          "Equipo 18",
           "Equipo 55",
-          "Equipo 3",
-          "Equipo 9",
-          "Equipo 46",
-          "Equipo 7",
-          "Equipo 39",
+          "Equipo 22",
+          "Equipo 36",
+          "Equipo 23",
+          "Equipo 2",
+          "Equipo 34",
+          "Equipo 20",
+          "Equipo 21",
+          "Equipo 24",
           "Equipo 27",
-          "Equipo 5",
-          "Equipo 50",
+          "Equipo 7",
+          "Equipo 6",
+          "Equipo 12",
+          "Equipo 28",
           "Equipo 53",
-          "Equipo 8"
+          "Equipo 51",
+          "Equipo 58",
+          "Equipo 50"
         ],
         "tipo": "simple",
         "winners": [
           [
             {
-              "home": "Equipo 16",
-              "away": "Equipo 8",
+              "home": "Equipo 44",
+              "away": "DESCANSO",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 15,
+                  "aS": 0
                 },
                 {
                   "hS": "",
@@ -2613,7 +2890,102 @@
               "ordenFinal": 1
             },
             {
-              "home": "Equipo 51",
+              "home": "Equipo 55",
+              "away": "DESCANSO",
+              "sets": [
+                {
+                  "hS": 15,
+                  "aS": 0
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 2
+            },
+            {
+              "home": "Equipo 36",
+              "away": "DESCANSO",
+              "sets": [
+                {
+                  "hS": 15,
+                  "aS": 0
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 3
+            },
+            {
+              "home": "Equipo 2",
+              "away": "DESCANSO",
+              "sets": [
+                {
+                  "hS": 15,
+                  "aS": 0
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 4
+            },
+            {
+              "home": "Equipo 20",
+              "away": "DESCANSO",
+              "sets": [
+                {
+                  "hS": 15,
+                  "aS": 0
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 5
+            },
+            {
+              "home": "Equipo 24",
+              "away": "DESCANSO",
+              "sets": [
+                {
+                  "hS": 15,
+                  "aS": 0
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 6
+            },
+            {
+              "home": "Equipo 7",
               "away": "Equipo 50",
               "sets": [
                 {
@@ -2629,105 +3001,29 @@
                   "aS": ""
                 }
               ],
-              "ordenFinal": 2
-            },
-            {
-              "home": "Equipo 1",
-              "away": "Equipo 27",
-              "sets": [
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 3
-            },
-            {
-              "home": "Equipo 3",
-              "away": "Equipo 7",
-              "sets": [
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 4
-            },
-            {
-              "home": "Equipo 9",
-              "away": "Equipo 46",
-              "sets": [
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 5
-            },
-            {
-              "home": "Equipo 55",
-              "away": "Equipo 39",
-              "sets": [
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 6
-            },
-            {
-              "home": "Equipo 38",
-              "away": "Equipo 5",
-              "sets": [
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
               "ordenFinal": 7
             },
             {
-              "home": "Equipo 41",
+              "home": "Equipo 12",
+              "away": "Equipo 51",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 8
+            },
+            {
+              "home": "Equipo 28",
               "away": "Equipo 53",
               "sets": [
                 {
@@ -2743,594 +3039,11 @@
                   "aS": ""
                 }
               ],
-              "ordenFinal": 8
-            }
-          ],
-          [
-            {
-              "home": "",
-              "away": "",
-              "sets": [
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
               "ordenFinal": 9
-            },
-            {
-              "home": "",
-              "away": "",
-              "sets": [
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 10
-            },
-            {
-              "home": "",
-              "away": "",
-              "sets": [
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 11
-            },
-            {
-              "home": "",
-              "away": "",
-              "sets": [
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 12
-            }
-          ],
-          [
-            {
-              "home": "",
-              "away": "",
-              "sets": [
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 13
-            },
-            {
-              "home": "",
-              "away": "",
-              "sets": [
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 14
-            }
-          ],
-          [
-            {
-              "home": "",
-              "away": "",
-              "sets": [
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 15
-            }
-          ]
-        ],
-        "losers": [],
-        "size": 16,
-        "thirdPlaceMatch": {
-          "home": "",
-          "away": "",
-          "bo3": false,
-          "sets": [
-            {
-              "hS": "",
-              "aS": ""
-            },
-            {
-              "hS": "",
-              "aS": ""
-            },
-            {
-              "hS": "",
-              "aS": ""
-            }
-          ],
-          "ordenFinal": 17
-        },
-        "grandFinal": {
-          "home": "",
-          "away": "",
-          "bo3": false,
-          "sets": [
-            {
-              "hS": "",
-              "aS": ""
-            },
-            {
-              "hS": "",
-              "aS": ""
-            },
-            {
-              "hS": "",
-              "aS": ""
-            }
-          ],
-          "ordenFinal": 16
-        }
-      },
-      "plata": {
-        "clasificados": [
-          "Equipo 2",
-          "Equipo 52",
-          "Equipo 14",
-          "Equipo 32",
-          "Equipo 48",
-          "Equipo 17",
-          "Equipo 34",
-          "Equipo 35",
-          "Equipo 23",
-          "Equipo 15",
-          "Equipo 36",
-          "Equipo 33",
-          "Equipo 12",
-          "Equipo 44",
-          "Equipo 26",
-          "Equipo 28"
-        ],
-        "tipo": "simple",
-        "winners": [
-          [
-            {
-              "home": "Equipo 2",
-              "away": "Equipo 28",
-              "sets": [
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 1
-            },
-            {
-              "home": "Equipo 14",
-              "away": "Equipo 44",
-              "sets": [
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 2
-            },
-            {
-              "home": "Equipo 48",
-              "away": "Equipo 33",
-              "sets": [
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 3
-            },
-            {
-              "home": "Equipo 34",
-              "away": "Equipo 15",
-              "sets": [
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 4
-            },
-            {
-              "home": "Equipo 35",
-              "away": "Equipo 23",
-              "sets": [
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 5
-            },
-            {
-              "home": "Equipo 17",
-              "away": "Equipo 36",
-              "sets": [
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 6
-            },
-            {
-              "home": "Equipo 32",
-              "away": "Equipo 12",
-              "sets": [
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 7
-            },
-            {
-              "home": "Equipo 52",
-              "away": "Equipo 26",
-              "sets": [
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 8
-            }
-          ],
-          [
-            {
-              "home": "",
-              "away": "",
-              "sets": [
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 9
-            },
-            {
-              "home": "",
-              "away": "",
-              "sets": [
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 10
-            },
-            {
-              "home": "",
-              "away": "",
-              "sets": [
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 11
-            },
-            {
-              "home": "",
-              "away": "",
-              "sets": [
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 12
-            }
-          ],
-          [
-            {
-              "home": "",
-              "away": "",
-              "sets": [
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 13
-            },
-            {
-              "home": "",
-              "away": "",
-              "sets": [
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 14
-            }
-          ],
-          [
-            {
-              "home": "",
-              "away": "",
-              "sets": [
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 15
-            }
-          ]
-        ],
-        "losers": [],
-        "size": 16,
-        "thirdPlaceMatch": {
-          "home": "",
-          "away": "",
-          "bo3": false,
-          "sets": [
-            {
-              "hS": "",
-              "aS": ""
-            },
-            {
-              "hS": "",
-              "aS": ""
-            },
-            {
-              "hS": "",
-              "aS": ""
-            }
-          ],
-          "ordenFinal": 17
-        },
-        "grandFinal": {
-          "home": "",
-          "away": "",
-          "bo3": false,
-          "sets": [
-            {
-              "hS": "",
-              "aS": ""
-            },
-            {
-              "hS": "",
-              "aS": ""
-            },
-            {
-              "hS": "",
-              "aS": ""
-            }
-          ],
-          "ordenFinal": 16
-        }
-      },
-      "bronce": {
-        "clasificados": [
-          "Equipo 30",
-          "Equipo 40",
-          "Equipo 6",
-          "Equipo 13",
-          "Equipo 54",
-          "Equipo 11",
-          "Equipo 37",
-          "Equipo 29",
-          "Equipo 4",
-          "Equipo 21",
-          "Equipo 10",
-          "Equipo 43",
-          "Equipo 47",
-          "Equipo 19",
-          "Equipo 45",
-          "Equipo 42"
-        ],
-        "tipo": "simple",
-        "winners": [
-          [
-            {
-              "home": "Equipo 30",
-              "away": "Equipo 42",
-              "sets": [
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 1
             },
             {
               "home": "Equipo 6",
-              "away": "Equipo 19",
+              "away": "Equipo 58",
               "sets": [
                 {
                   "hS": "",
@@ -3345,11 +3058,127 @@
                   "aS": ""
                 }
               ],
-              "ordenFinal": 2
+              "ordenFinal": 10
             },
             {
-              "home": "Equipo 54",
-              "away": "Equipo 43",
+              "home": "Equipo 27",
+              "away": "DESCANSO",
+              "sets": [
+                {
+                  "hS": 15,
+                  "aS": 0
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 11
+            },
+            {
+              "home": "Equipo 21",
+              "away": "DESCANSO",
+              "sets": [
+                {
+                  "hS": 15,
+                  "aS": 0
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 12
+            },
+            {
+              "home": "Equipo 34",
+              "away": "DESCANSO",
+              "sets": [
+                {
+                  "hS": 15,
+                  "aS": 0
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 13
+            },
+            {
+              "home": "Equipo 23",
+              "away": "DESCANSO",
+              "sets": [
+                {
+                  "hS": 15,
+                  "aS": 0
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 14
+            },
+            {
+              "home": "Equipo 22",
+              "away": "DESCANSO",
+              "sets": [
+                {
+                  "hS": 15,
+                  "aS": 0
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 15
+            },
+            {
+              "home": "Equipo 18",
+              "away": "DESCANSO",
+              "sets": [
+                {
+                  "hS": 15,
+                  "aS": 0
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 16
+            }
+          ],
+          [
+            {
+              "home": "Equipo 44",
+              "away": "Equipo 55",
               "sets": [
                 {
                   "hS": "",
@@ -3364,10 +3193,86 @@
                   "aS": ""
                 }
               ],
-              "ordenFinal": 3
+              "ordenFinal": 17
             },
             {
-              "home": "Equipo 37",
+              "home": "Equipo 36",
+              "away": "Equipo 2",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 18
+            },
+            {
+              "home": "Equipo 20",
+              "away": "Equipo 24",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 19
+            },
+            {
+              "home": "",
+              "away": "",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 20
+            },
+            {
+              "home": "",
+              "away": "",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 21
+            },
+            {
+              "home": "Equipo 27",
               "away": "Equipo 21",
               "sets": [
                 {
@@ -3383,11 +3288,11 @@
                   "aS": ""
                 }
               ],
-              "ordenFinal": 4
+              "ordenFinal": 22
             },
             {
-              "home": "Equipo 29",
-              "away": "Equipo 4",
+              "home": "Equipo 34",
+              "away": "Equipo 23",
               "sets": [
                 {
                   "hS": "",
@@ -3402,11 +3307,11 @@
                   "aS": ""
                 }
               ],
-              "ordenFinal": 5
+              "ordenFinal": 23
             },
             {
-              "home": "Equipo 11",
-              "away": "Equipo 10",
+              "home": "Equipo 22",
+              "away": "Equipo 18",
               "sets": [
                 {
                   "hS": "",
@@ -3421,45 +3326,7 @@
                   "aS": ""
                 }
               ],
-              "ordenFinal": 6
-            },
-            {
-              "home": "Equipo 13",
-              "away": "Equipo 47",
-              "sets": [
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 7
-            },
-            {
-              "home": "Equipo 40",
-              "away": "Equipo 45",
-              "sets": [
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 8
+              "ordenFinal": 24
             }
           ],
           [
@@ -3480,7 +3347,7 @@
                   "aS": ""
                 }
               ],
-              "ordenFinal": 9
+              "ordenFinal": 25
             },
             {
               "home": "",
@@ -3499,7 +3366,7 @@
                   "aS": ""
                 }
               ],
-              "ordenFinal": 10
+              "ordenFinal": 26
             },
             {
               "home": "",
@@ -3518,7 +3385,7 @@
                   "aS": ""
                 }
               ],
-              "ordenFinal": 11
+              "ordenFinal": 27
             },
             {
               "home": "",
@@ -3537,7 +3404,7 @@
                   "aS": ""
                 }
               ],
-              "ordenFinal": 12
+              "ordenFinal": 28
             }
           ],
           [
@@ -3558,7 +3425,7 @@
                   "aS": ""
                 }
               ],
-              "ordenFinal": 13
+              "ordenFinal": 29
             },
             {
               "home": "",
@@ -3577,7 +3444,7 @@
                   "aS": ""
                 }
               ],
-              "ordenFinal": 14
+              "ordenFinal": 30
             }
           ],
           [
@@ -3598,12 +3465,12 @@
                   "aS": ""
                 }
               ],
-              "ordenFinal": 15
+              "ordenFinal": 31
             }
           ]
         ],
         "losers": [],
-        "size": 16,
+        "size": 32,
         "thirdPlaceMatch": {
           "home": "",
           "away": "",
@@ -3622,7 +3489,7 @@
               "aS": ""
             }
           ],
-          "ordenFinal": 17
+          "ordenFinal": 33
         },
         "grandFinal": {
           "home": "",
@@ -3642,672 +3509,1377 @@
               "aS": ""
             }
           ],
-          "ordenFinal": 16
+          "ordenFinal": 32
+        }
+      },
+      "plata": {
+        "clasificados": [
+          "Equipo 10",
+          "Equipo 1",
+          "Equipo 14",
+          "Equipo 45",
+          "Equipo 4",
+          "Equipo 17",
+          "Equipo 13",
+          "Equipo 26",
+          "Equipo 3",
+          "Equipo 5",
+          "Equipo 37",
+          "Equipo 11",
+          "Equipo 8",
+          "Equipo 25",
+          "Equipo 39",
+          "Equipo 56",
+          "Equipo 42",
+          "Equipo 43",
+          "Equipo 54",
+          "Equipo 9"
+        ],
+        "tipo": "simple",
+        "winners": [
+          [
+            {
+              "home": "Equipo 10",
+              "away": "DESCANSO",
+              "sets": [
+                {
+                  "hS": 15,
+                  "aS": 0
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 1
+            },
+            {
+              "home": "Equipo 14",
+              "away": "DESCANSO",
+              "sets": [
+                {
+                  "hS": 15,
+                  "aS": 0
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 2
+            },
+            {
+              "home": "Equipo 4",
+              "away": "DESCANSO",
+              "sets": [
+                {
+                  "hS": 15,
+                  "aS": 0
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 3
+            },
+            {
+              "home": "Equipo 13",
+              "away": "DESCANSO",
+              "sets": [
+                {
+                  "hS": 15,
+                  "aS": 0
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 4
+            },
+            {
+              "home": "Equipo 3",
+              "away": "DESCANSO",
+              "sets": [
+                {
+                  "hS": 15,
+                  "aS": 0
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 5
+            },
+            {
+              "home": "Equipo 37",
+              "away": "DESCANSO",
+              "sets": [
+                {
+                  "hS": 15,
+                  "aS": 0
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 6
+            },
+            {
+              "home": "Equipo 8",
+              "away": "Equipo 9",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 7
+            },
+            {
+              "home": "Equipo 39",
+              "away": "Equipo 43",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 8
+            },
+            {
+              "home": "Equipo 56",
+              "away": "Equipo 42",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 9
+            },
+            {
+              "home": "Equipo 25",
+              "away": "Equipo 54",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 10
+            },
+            {
+              "home": "Equipo 11",
+              "away": "DESCANSO",
+              "sets": [
+                {
+                  "hS": 15,
+                  "aS": 0
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 11
+            },
+            {
+              "home": "Equipo 5",
+              "away": "DESCANSO",
+              "sets": [
+                {
+                  "hS": 15,
+                  "aS": 0
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 12
+            },
+            {
+              "home": "Equipo 26",
+              "away": "DESCANSO",
+              "sets": [
+                {
+                  "hS": 15,
+                  "aS": 0
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 13
+            },
+            {
+              "home": "Equipo 17",
+              "away": "DESCANSO",
+              "sets": [
+                {
+                  "hS": 15,
+                  "aS": 0
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 14
+            },
+            {
+              "home": "Equipo 45",
+              "away": "DESCANSO",
+              "sets": [
+                {
+                  "hS": 15,
+                  "aS": 0
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 15
+            },
+            {
+              "home": "Equipo 1",
+              "away": "DESCANSO",
+              "sets": [
+                {
+                  "hS": 15,
+                  "aS": 0
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 16
+            }
+          ],
+          [
+            {
+              "home": "Equipo 10",
+              "away": "Equipo 14",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 17
+            },
+            {
+              "home": "Equipo 4",
+              "away": "Equipo 13",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 18
+            },
+            {
+              "home": "Equipo 3",
+              "away": "Equipo 37",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 19
+            },
+            {
+              "home": "",
+              "away": "",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 20
+            },
+            {
+              "home": "",
+              "away": "",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 21
+            },
+            {
+              "home": "Equipo 11",
+              "away": "Equipo 5",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 22
+            },
+            {
+              "home": "Equipo 26",
+              "away": "Equipo 17",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 23
+            },
+            {
+              "home": "Equipo 45",
+              "away": "Equipo 1",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 24
+            }
+          ],
+          [
+            {
+              "home": "",
+              "away": "",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 25
+            },
+            {
+              "home": "",
+              "away": "",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 26
+            },
+            {
+              "home": "",
+              "away": "",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 27
+            },
+            {
+              "home": "",
+              "away": "",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 28
+            }
+          ],
+          [
+            {
+              "home": "",
+              "away": "",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 29
+            },
+            {
+              "home": "",
+              "away": "",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 30
+            }
+          ],
+          [
+            {
+              "home": "",
+              "away": "",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 31
+            }
+          ]
+        ],
+        "losers": [],
+        "size": 32,
+        "thirdPlaceMatch": {
+          "home": "",
+          "away": "",
+          "bo3": false,
+          "sets": [
+            {
+              "hS": "",
+              "aS": ""
+            },
+            {
+              "hS": "",
+              "aS": ""
+            },
+            {
+              "hS": "",
+              "aS": ""
+            }
+          ],
+          "ordenFinal": 33
+        },
+        "grandFinal": {
+          "home": "",
+          "away": "",
+          "bo3": false,
+          "sets": [
+            {
+              "hS": "",
+              "aS": ""
+            },
+            {
+              "hS": "",
+              "aS": ""
+            },
+            {
+              "hS": "",
+              "aS": ""
+            }
+          ],
+          "ordenFinal": 32
         }
       }
     },
     "faseFinalActiva": "oro",
     "faseFinalGenerada": true,
+    "cfgNumGrupos": 10,
     "lastPosicionEq": [
       {
-        "name": "Equipo 16",
+        "name": "Equipo 44",
         "pts": 8,
         "gf": 60,
-        "gc": 50,
-        "dg": 10,
+        "gc": 44,
+        "dg": 16,
         "pj": 4,
-        "ordenSorteo": 2,
+        "ordenSorteo": 1,
         "pg": 4,
+        "grupo": "Grupo J",
+        "posGrupo": 1
+      },
+      {
+        "name": "Equipo 18",
+        "pts": 10,
+        "gf": 75,
+        "gc": 61,
+        "dg": 14,
+        "pj": 5,
+        "ordenSorteo": 0,
+        "pg": 5,
         "grupo": "Grupo G",
         "posGrupo": 1
       },
       {
-        "name": "Equipo 41",
-        "pts": 7,
-        "gf": 57,
-        "gc": 42,
-        "dg": 15,
-        "pj": 4,
-        "ordenSorteo": 1,
-        "pg": 3,
+        "name": "Equipo 55",
+        "pts": 9,
+        "gf": 71,
+        "gc": 51,
+        "dg": 20,
+        "pj": 5,
+        "ordenSorteo": 0,
+        "pg": 4,
         "grupo": "Grupo E",
         "posGrupo": 1
       },
       {
-        "name": "Equipo 51",
-        "pts": 7,
-        "gf": 58,
-        "gc": 44,
+        "name": "Equipo 22",
+        "pts": 9,
+        "gf": 73,
+        "gc": 58,
+        "dg": 15,
+        "pj": 5,
+        "ordenSorteo": 1,
+        "pg": 4,
+        "grupo": "Grupo A",
+        "posGrupo": 1
+      },
+      {
+        "name": "Equipo 36",
+        "pts": 9,
+        "gf": 73,
+        "gc": 59,
         "dg": 14,
-        "pj": 4,
+        "pj": 5,
         "ordenSorteo": 4,
-        "pg": 3,
-        "grupo": "Grupo K",
-        "posGrupo": 1
-      },
-      {
-        "name": "Equipo 38",
-        "pts": 7,
-        "gf": 58,
-        "gc": 45,
-        "dg": 13,
-        "pj": 4,
-        "ordenSorteo": 4,
-        "pg": 3,
-        "grupo": "Grupo H",
-        "posGrupo": 1
-      },
-      {
-        "name": "Equipo 1",
-        "pts": 7,
-        "gf": 58,
-        "gc": 46,
-        "dg": 12,
-        "pj": 4,
-        "ordenSorteo": 4,
-        "pg": 3,
+        "pg": 4,
         "grupo": "Grupo B",
         "posGrupo": 1
       },
       {
-        "name": "Equipo 3",
-        "pts": 7,
-        "gf": 55,
-        "gc": 46,
-        "dg": 9,
-        "pj": 4,
-        "ordenSorteo": 1,
-        "pg": 3,
+        "name": "Equipo 23",
+        "pts": 9,
+        "gf": 71,
+        "gc": 57,
+        "dg": 14,
+        "pj": 5,
+        "ordenSorteo": 2,
+        "pg": 4,
+        "grupo": "Grupo F",
+        "posGrupo": 1
+      },
+      {
+        "name": "Equipo 2",
+        "pts": 9,
+        "gf": 73,
+        "gc": 60,
+        "dg": 13,
+        "pj": 5,
+        "ordenSorteo": 0,
+        "pg": 4,
         "grupo": "Grupo D",
         "posGrupo": 1
       },
       {
-        "name": "Equipo 9",
+        "name": "Equipo 21",
+        "pts": 9,
+        "gf": 72,
+        "gc": 61,
+        "dg": 11,
+        "pj": 5,
+        "ordenSorteo": 0,
+        "pg": 4,
+        "grupo": "Grupo H",
+        "posGrupo": 1
+      },
+      {
+        "name": "Equipo 27",
         "pts": 7,
-        "gf": 54,
-        "gc": 47,
-        "dg": 7,
+        "gf": 58,
+        "gc": 49,
+        "dg": 9,
         "pj": 4,
-        "ordenSorteo": 3,
+        "ordenSorteo": 1,
         "pg": 3,
         "grupo": "Grupo I",
         "posGrupo": 1
       },
       {
-        "name": "Equipo 46",
-        "pts": 7,
-        "gf": 58,
-        "gc": 52,
-        "dg": 6,
-        "pj": 4,
-        "ordenSorteo": 3,
+        "name": "Equipo 12",
+        "pts": 8,
+        "gf": 67,
+        "gc": 58,
+        "dg": 9,
+        "pj": 5,
+        "ordenSorteo": 1,
         "pg": 3,
-        "grupo": "Grupo A",
-        "posGrupo": 1
-      },
-      {
-        "name": "Equipo 39",
-        "pts": 7,
-        "gf": 58,
-        "gc": 53,
-        "dg": 5,
-        "pj": 4,
-        "ordenSorteo": 3,
-        "pg": 3,
-        "grupo": "Grupo F",
-        "posGrupo": 1
-      },
-      {
-        "name": "Equipo 53",
-        "pts": 7,
-        "gf": 53,
-        "gc": 48,
-        "dg": 5,
-        "pj": 4,
-        "ordenSorteo": 4,
-        "pg": 3,
-        "grupo": "Grupo J",
-        "posGrupo": 1
-      },
-      {
-        "name": "Equipo 52",
-        "pts": 6,
-        "gf": 54,
-        "gc": 49,
-        "dg": 5,
-        "pj": 4,
-        "ordenSorteo": 4,
-        "pg": 2,
         "grupo": "Grupo C",
         "posGrupo": 1
       },
       {
-        "name": "Equipo 55",
-        "pts": 7,
-        "gf": 58,
-        "gc": 47,
+        "name": "Equipo 34",
+        "pts": 9,
+        "gf": 73,
+        "gc": 60,
+        "dg": 13,
+        "pj": 5,
+        "ordenSorteo": 4,
+        "pg": 4,
+        "grupo": "Grupo G",
+        "posGrupo": 2
+      },
+      {
+        "name": "Equipo 20",
+        "pts": 9,
+        "gf": 73,
+        "gc": 62,
         "dg": 11,
-        "pj": 4,
-        "ordenSorteo": 2,
-        "pg": 3,
-        "grupo": "Grupo K",
+        "pj": 5,
+        "ordenSorteo": 5,
+        "pg": 4,
+        "grupo": "Grupo B",
         "posGrupo": 2
       },
       {
         "name": "Equipo 7",
         "pts": 7,
         "gf": 53,
-        "gc": 47,
-        "dg": 6,
-        "pj": 4,
-        "ordenSorteo": 0,
-        "pg": 3,
-        "grupo": "Grupo A",
-        "posGrupo": 2
-      },
-      {
-        "name": "Equipo 27",
-        "pts": 7,
-        "gf": 57,
-        "gc": 52,
-        "dg": 5,
-        "pj": 4,
-        "ordenSorteo": 4,
-        "pg": 3,
-        "grupo": "Grupo G",
-        "posGrupo": 2
-      },
-      {
-        "name": "Equipo 5",
-        "pts": 7,
-        "gf": 57,
-        "gc": 52,
-        "dg": 5,
-        "pj": 4,
-        "ordenSorteo": 0,
-        "pg": 3,
-        "grupo": "Grupo F",
-        "posGrupo": 2
-      },
-      {
-        "name": "Equipo 8",
-        "pts": 7,
-        "gf": 54,
         "gc": 50,
-        "dg": 4,
+        "dg": 3,
         "pj": 4,
-        "ordenSorteo": 2,
+        "ordenSorteo": 3,
         "pg": 3,
-        "grupo": "Grupo B",
-        "posGrupo": 2
-      },
-      {
-        "name": "Equipo 14",
-        "pts": 6,
-        "gf": 51,
-        "gc": 46,
-        "dg": 5,
-        "pj": 4,
-        "ordenSorteo": 1,
-        "pg": 2,
-        "grupo": "Grupo J",
-        "posGrupo": 2
-      },
-      {
-        "name": "Equipo 32",
-        "pts": 6,
-        "gf": 55,
-        "gc": 51,
-        "dg": 4,
-        "pj": 4,
-        "ordenSorteo": 4,
-        "pg": 2,
         "grupo": "Grupo I",
         "posGrupo": 2
       },
       {
-        "name": "Equipo 17",
-        "pts": 6,
-        "gf": 53,
-        "gc": 49,
-        "dg": 4,
-        "pj": 4,
-        "ordenSorteo": 3,
-        "pg": 2,
+        "name": "Equipo 6",
+        "pts": 8,
+        "gf": 70,
+        "gc": 59,
+        "dg": 11,
+        "pj": 5,
+        "ordenSorteo": 1,
+        "pg": 3,
         "grupo": "Grupo H",
         "posGrupo": 2
       },
       {
-        "name": "Equipo 34",
-        "pts": 6,
-        "gf": 56,
-        "gc": 53,
-        "dg": 3,
-        "pj": 4,
+        "name": "Equipo 28",
+        "pts": 8,
+        "gf": 66,
+        "gc": 59,
+        "dg": 7,
+        "pj": 5,
+        "ordenSorteo": 5,
+        "pg": 3,
+        "grupo": "Grupo A",
+        "posGrupo": 2
+      },
+      {
+        "name": "Equipo 53",
+        "pts": 8,
+        "gf": 66,
+        "gc": 59,
+        "dg": 7,
+        "pj": 5,
         "ordenSorteo": 3,
-        "pg": 2,
-        "grupo": "Grupo D",
-        "posGrupo": 2
-      },
-      {
-        "name": "Equipo 35",
-        "pts": 6,
-        "gf": 53,
-        "gc": 50,
-        "dg": 3,
-        "pj": 4,
-        "ordenSorteo": 2,
-        "pg": 2,
-        "grupo": "Grupo C",
-        "posGrupo": 2
-      },
-      {
-        "name": "Equipo 15",
-        "pts": 6,
-        "gf": 53,
-        "gc": 51,
-        "dg": 2,
-        "pj": 4,
-        "ordenSorteo": 0,
-        "pg": 2,
+        "pg": 3,
         "grupo": "Grupo E",
         "posGrupo": 2
       },
       {
-        "name": "Equipo 50",
-        "pts": 7,
-        "gf": 54,
-        "gc": 49,
-        "dg": 5,
-        "pj": 4,
-        "ordenSorteo": 3,
+        "name": "Equipo 51",
+        "pts": 8,
+        "gf": 70,
+        "gc": 64,
+        "dg": 6,
+        "pj": 5,
+        "ordenSorteo": 5,
         "pg": 3,
-        "grupo": "Grupo K",
-        "posGrupo": 3
+        "grupo": "Grupo D",
+        "posGrupo": 2
       },
       {
-        "name": "Equipo 2",
+        "name": "Equipo 58",
+        "pts": 8,
+        "gf": 70,
+        "gc": 64,
+        "dg": 6,
+        "pj": 5,
+        "ordenSorteo": 5,
+        "pg": 3,
+        "grupo": "Grupo F",
+        "posGrupo": 2
+      },
+      {
+        "name": "Equipo 14",
+        "pts": 8,
+        "gf": 68,
+        "gc": 67,
+        "dg": 1,
+        "pj": 5,
+        "ordenSorteo": 2,
+        "pg": 3,
+        "grupo": "Grupo C",
+        "posGrupo": 2
+      },
+      {
+        "name": "Equipo 3",
         "pts": 6,
-        "gf": 55,
-        "gc": 50,
-        "dg": 5,
+        "gf": 56,
+        "gc": 55,
+        "dg": 1,
         "pj": 4,
         "ordenSorteo": 2,
         "pg": 2,
+        "grupo": "Grupo J",
+        "posGrupo": 2
+      },
+      {
+        "name": "Equipo 24",
+        "pts": 9,
+        "gf": 71,
+        "gc": 66,
+        "dg": 5,
+        "pj": 5,
+        "ordenSorteo": 0,
+        "pg": 4,
+        "grupo": "Grupo B",
+        "posGrupo": 3
+      },
+      {
+        "name": "Equipo 50",
+        "pts": 8,
+        "gf": 67,
+        "gc": 61,
+        "dg": 6,
+        "pj": 5,
+        "ordenSorteo": 2,
+        "pg": 3,
         "grupo": "Grupo A",
         "posGrupo": 3
       },
       {
-        "name": "Equipo 48",
-        "pts": 6,
-        "gf": 54,
-        "gc": 50,
-        "dg": 4,
-        "pj": 4,
-        "ordenSorteo": 1,
-        "pg": 2,
-        "grupo": "Grupo G",
+        "name": "Equipo 10",
+        "pts": 8,
+        "gf": 67,
+        "gc": 65,
+        "dg": 2,
+        "pj": 5,
+        "ordenSorteo": 5,
+        "pg": 3,
+        "grupo": "Grupo H",
         "posGrupo": 3
       },
       {
-        "name": "Equipo 23",
-        "pts": 6,
-        "gf": 54,
-        "gc": 52,
-        "dg": 2,
-        "pj": 4,
-        "ordenSorteo": 4,
-        "pg": 2,
+        "name": "Equipo 45",
+        "pts": 8,
+        "gf": 68,
+        "gc": 68,
+        "dg": 0,
+        "pj": 5,
+        "ordenSorteo": 0,
+        "pg": 3,
         "grupo": "Grupo F",
         "posGrupo": 3
       },
       {
-        "name": "Equipo 36",
-        "pts": 6,
-        "gf": 53,
-        "gc": 51,
-        "dg": 2,
-        "pj": 4,
-        "ordenSorteo": 2,
-        "pg": 2,
+        "name": "Equipo 4",
+        "pts": 8,
+        "gf": 64,
+        "gc": 66,
+        "dg": -2,
+        "pj": 5,
+        "ordenSorteo": 5,
+        "pg": 3,
+        "grupo": "Grupo E",
+        "posGrupo": 3
+      },
+      {
+        "name": "Equipo 17",
+        "pts": 8,
+        "gf": 62,
+        "gc": 64,
+        "dg": -2,
+        "pj": 5,
+        "ordenSorteo": 3,
+        "pg": 3,
+        "grupo": "Grupo C",
+        "posGrupo": 3
+      },
+      {
+        "name": "Equipo 26",
+        "pts": 8,
+        "gf": 62,
+        "gc": 67,
+        "dg": -5,
+        "pj": 5,
+        "ordenSorteo": 4,
+        "pg": 3,
         "grupo": "Grupo D",
         "posGrupo": 3
       },
       {
-        "name": "Equipo 33",
-        "pts": 6,
-        "gf": 51,
-        "gc": 49,
-        "dg": 2,
-        "pj": 4,
-        "ordenSorteo": 0,
-        "pg": 2,
-        "grupo": "Grupo J",
-        "posGrupo": 3
-      },
-      {
-        "name": "Equipo 12",
+        "name": "Equipo 5",
         "pts": 6,
         "gf": 54,
         "gc": 54,
         "dg": 0,
         "pj": 4,
-        "ordenSorteo": 2,
+        "ordenSorteo": 0,
         "pg": 2,
         "grupo": "Grupo I",
         "posGrupo": 3
       },
       {
-        "name": "Equipo 44",
-        "pts": 6,
-        "gf": 52,
-        "gc": 52,
-        "dg": 0,
-        "pj": 4,
-        "ordenSorteo": 1,
-        "pg": 2,
-        "grupo": "Grupo C",
-        "posGrupo": 3
-      },
-      {
-        "name": "Equipo 30",
-        "pts": 6,
-        "gf": 51,
-        "gc": 52,
-        "dg": -1,
-        "pj": 4,
-        "ordenSorteo": 4,
-        "pg": 2,
-        "grupo": "Grupo E",
-        "posGrupo": 3
-      },
-      {
-        "name": "Equipo 6",
-        "pts": 6,
-        "gf": 54,
-        "gc": 56,
-        "dg": -2,
-        "pj": 4,
-        "ordenSorteo": 0,
-        "pg": 2,
-        "grupo": "Grupo B",
-        "posGrupo": 3
-      },
-      {
-        "name": "Equipo 54",
-        "pts": 6,
-        "gf": 51,
-        "gc": 56,
-        "dg": -5,
-        "pj": 4,
-        "ordenSorteo": 0,
-        "pg": 2,
-        "grupo": "Grupo H",
-        "posGrupo": 3
-      },
-      {
-        "name": "Equipo 26",
-        "pts": 6,
-        "gf": 54,
-        "gc": 55,
-        "dg": -1,
-        "pj": 4,
-        "ordenSorteo": 0,
-        "pg": 2,
-        "grupo": "Grupo C",
-        "posGrupo": 4
-      },
-      {
-        "name": "Equipo 28",
-        "pts": 6,
-        "gf": 51,
-        "gc": 52,
-        "dg": -1,
-        "pj": 4,
-        "ordenSorteo": 1,
-        "pg": 2,
-        "grupo": "Grupo I",
-        "posGrupo": 4
-      },
-      {
-        "name": "Equipo 40",
-        "pts": 6,
-        "gf": 51,
-        "gc": 52,
-        "dg": -1,
-        "pj": 4,
-        "ordenSorteo": 2,
-        "pg": 2,
-        "grupo": "Grupo J",
-        "posGrupo": 4
-      },
-      {
-        "name": "Equipo 13",
+        "name": "Equipo 37",
         "pts": 6,
         "gf": 51,
         "gc": 53,
         "dg": -2,
         "pj": 4,
+        "ordenSorteo": 4,
+        "pg": 2,
+        "grupo": "Grupo J",
+        "posGrupo": 3
+      },
+      {
+        "name": "Equipo 56",
+        "pts": 7,
+        "gf": 69,
+        "gc": 71,
+        "dg": -2,
+        "pj": 5,
         "ordenSorteo": 2,
+        "pg": 2,
+        "grupo": "Grupo G",
+        "posGrupo": 3
+      },
+      {
+        "name": "Equipo 1",
+        "pts": 8,
+        "gf": 66,
+        "gc": 64,
+        "dg": 2,
+        "pj": 5,
+        "ordenSorteo": 0,
+        "pg": 3,
+        "grupo": "Grupo A",
+        "posGrupo": 4
+      },
+      {
+        "name": "Equipo 13",
+        "pts": 8,
+        "gf": 66,
+        "gc": 69,
+        "dg": -3,
+        "pj": 5,
+        "ordenSorteo": 0,
+        "pg": 3,
+        "grupo": "Grupo C",
+        "posGrupo": 4
+      },
+      {
+        "name": "Equipo 11",
+        "pts": 7,
+        "gf": 65,
+        "gc": 61,
+        "dg": 4,
+        "pj": 5,
+        "ordenSorteo": 3,
+        "pg": 2,
+        "grupo": "Grupo B",
+        "posGrupo": 4
+      },
+      {
+        "name": "Equipo 25",
+        "pts": 7,
+        "gf": 66,
+        "gc": 67,
+        "dg": -1,
+        "pj": 5,
+        "ordenSorteo": 1,
         "pg": 2,
         "grupo": "Grupo E",
         "posGrupo": 4
       },
       {
-        "name": "Equipo 11",
-        "pts": 6,
-        "gf": 49,
-        "gc": 56,
-        "dg": -7,
-        "pj": 4,
-        "ordenSorteo": 0,
+        "name": "Equipo 39",
+        "pts": 7,
+        "gf": 69,
+        "gc": 71,
+        "dg": -2,
+        "pj": 5,
+        "ordenSorteo": 2,
         "pg": 2,
         "grupo": "Grupo D",
         "posGrupo": 4
       },
       {
-        "name": "Equipo 29",
-        "pts": 6,
-        "gf": 46,
-        "gc": 53,
-        "dg": -7,
-        "pj": 4,
+        "name": "Equipo 42",
+        "pts": 7,
+        "gf": 66,
+        "gc": 69,
+        "dg": -3,
+        "pj": 5,
         "ordenSorteo": 1,
+        "pg": 2,
+        "grupo": "Grupo F",
+        "posGrupo": 4
+      },
+      {
+        "name": "Equipo 43",
+        "pts": 7,
+        "gf": 67,
+        "gc": 71,
+        "dg": -4,
+        "pj": 5,
+        "ordenSorteo": 2,
         "pg": 2,
         "grupo": "Grupo H",
         "posGrupo": 4
       },
       {
-        "name": "Equipo 4",
-        "pts": 5,
-        "gf": 51,
-        "gc": 53,
-        "dg": -2,
-        "pj": 4,
-        "ordenSorteo": 1,
-        "pg": 1,
-        "grupo": "Grupo B",
-        "posGrupo": 4
-      },
-      {
-        "name": "Equipo 21",
-        "pts": 5,
-        "gf": 52,
-        "gc": 56,
-        "dg": -4,
-        "pj": 4,
-        "ordenSorteo": 1,
-        "pg": 1,
-        "grupo": "Grupo F",
-        "posGrupo": 4
-      },
-      {
-        "name": "Equipo 47",
-        "pts": 5,
-        "gf": 50,
-        "gc": 57,
-        "dg": -7,
-        "pj": 4,
-        "ordenSorteo": 0,
-        "pg": 1,
+        "name": "Equipo 16",
+        "pts": 7,
+        "gf": 66,
+        "gc": 71,
+        "dg": -5,
+        "pj": 5,
+        "ordenSorteo": 3,
+        "pg": 2,
         "grupo": "Grupo G",
         "posGrupo": 4
       },
       {
-        "name": "Equipo 19",
+        "name": "Equipo 30",
         "pts": 5,
         "gf": 50,
-        "gc": 58,
-        "dg": -8,
+        "gc": 53,
+        "dg": -3,
         "pj": 4,
         "ordenSorteo": 4,
         "pg": 1,
-        "grupo": "Grupo A",
+        "grupo": "Grupo I",
         "posGrupo": 4
       },
       {
-        "name": "Equipo 22",
-        "pts": 5,
-        "gf": 41,
-        "gc": 57,
-        "dg": -16,
-        "pj": 4,
-        "ordenSorteo": 1,
-        "pg": 1,
-        "grupo": "Grupo K",
-        "posGrupo": 4
-      },
-      {
-        "name": "Equipo 37",
-        "pts": 6,
-        "gf": 48,
-        "gc": 55,
-        "dg": -7,
-        "pj": 4,
-        "ordenSorteo": 3,
-        "pg": 2,
-        "grupo": "Grupo C",
-        "posGrupo": 5
-      },
-      {
-        "name": "Equipo 10",
+        "name": "Equipo 31",
         "pts": 5,
         "gf": 53,
         "gc": 58,
         "dg": -5,
         "pj": 4,
-        "ordenSorteo": 2,
+        "ordenSorteo": 3,
         "pg": 1,
+        "grupo": "Grupo J",
+        "posGrupo": 4
+      },
+      {
+        "name": "Equipo 8",
+        "pts": 7,
+        "gf": 64,
+        "gc": 62,
+        "dg": 2,
+        "pj": 5,
+        "ordenSorteo": 4,
+        "pg": 2,
+        "grupo": "Grupo C",
+        "posGrupo": 5
+      },
+      {
+        "name": "Equipo 54",
+        "pts": 7,
+        "gf": 64,
+        "gc": 68,
+        "dg": -4,
+        "pj": 5,
+        "ordenSorteo": 3,
+        "pg": 2,
         "grupo": "Grupo H",
         "posGrupo": 5
       },
       {
-        "name": "Equipo 43",
-        "pts": 5,
-        "gf": 50,
-        "gc": 57,
-        "dg": -7,
-        "pj": 4,
+        "name": "Equipo 9",
+        "pts": 7,
+        "gf": 62,
+        "gc": 66,
+        "dg": -4,
+        "pj": 5,
         "ordenSorteo": 4,
-        "pg": 1,
-        "grupo": "Grupo D",
-        "posGrupo": 5
-      },
-      {
-        "name": "Equipo 45",
-        "pts": 5,
-        "gf": 48,
-        "gc": 56,
-        "dg": -8,
-        "pj": 4,
-        "ordenSorteo": 2,
-        "pg": 1,
-        "grupo": "Grupo F",
-        "posGrupo": 5
-      },
-      {
-        "name": "Equipo 42",
-        "pts": 5,
-        "gf": 48,
-        "gc": 57,
-        "dg": -9,
-        "pj": 4,
-        "ordenSorteo": 1,
-        "pg": 1,
+        "pg": 2,
         "grupo": "Grupo A",
         "posGrupo": 5
       },
       {
-        "name": "Equipo 24",
+        "name": "Equipo 57",
+        "pts": 7,
+        "gf": 60,
+        "gc": 66,
+        "dg": -6,
+        "pj": 5,
+        "ordenSorteo": 2,
+        "pg": 2,
+        "grupo": "Grupo E",
+        "posGrupo": 5
+      },
+      {
+        "name": "Equipo 41",
+        "pts": 7,
+        "gf": 63,
+        "gc": 70,
+        "dg": -7,
+        "pj": 5,
+        "ordenSorteo": 1,
+        "pg": 2,
+        "grupo": "Grupo D",
+        "posGrupo": 5
+      },
+      {
+        "name": "Equipo 40",
+        "pts": 7,
+        "gf": 61,
+        "gc": 70,
+        "dg": -9,
+        "pj": 5,
+        "ordenSorteo": 3,
+        "pg": 2,
+        "grupo": "Grupo F",
+        "posGrupo": 5
+      },
+      {
+        "name": "Equipo 38",
         "pts": 5,
-        "gf": 47,
-        "gc": 57,
-        "dg": -10,
+        "gf": 49,
+        "gc": 58,
+        "dg": -9,
         "pj": 4,
-        "ordenSorteo": 0,
+        "ordenSorteo": 2,
         "pg": 1,
         "grupo": "Grupo I",
         "posGrupo": 5
       },
       {
-        "name": "Equipo 20",
+        "name": "Equipo 47",
         "pts": 5,
-        "gf": 46,
-        "gc": 57,
-        "dg": -11,
+        "gf": 48,
+        "gc": 58,
+        "dg": -10,
         "pj": 4,
-        "ordenSorteo": 3,
+        "ordenSorteo": 0,
         "pg": 1,
         "grupo": "Grupo J",
         "posGrupo": 5
       },
       {
-        "name": "Equipo 25",
-        "pts": 5,
-        "gf": 45,
-        "gc": 57,
-        "dg": -12,
-        "pj": 4,
-        "ordenSorteo": 3,
+        "name": "Equipo 33",
+        "pts": 6,
+        "gf": 66,
+        "gc": 73,
+        "dg": -7,
+        "pj": 5,
+        "ordenSorteo": 1,
+        "pg": 1,
+        "grupo": "Grupo G",
+        "posGrupo": 5
+      },
+      {
+        "name": "Equipo 15",
+        "pts": 6,
+        "gf": 56,
+        "gc": 73,
+        "dg": -17,
+        "pj": 5,
+        "ordenSorteo": 1,
         "pg": 1,
         "grupo": "Grupo B",
         "posGrupo": 5
       },
       {
-        "name": "Equipo 18",
-        "pts": 5,
-        "gf": 43,
-        "gc": 57,
-        "dg": -14,
-        "pj": 4,
+        "name": "Equipo 46",
+        "pts": 6,
+        "gf": 63,
+        "gc": 68,
+        "dg": -5,
+        "pj": 5,
         "ordenSorteo": 3,
         "pg": 1,
-        "grupo": "Grupo E",
-        "posGrupo": 5
+        "grupo": "Grupo D",
+        "posGrupo": 6
       },
       {
-        "name": "Equipo 31",
-        "pts": 4,
-        "gf": 48,
-        "gc": 60,
-        "dg": -12,
-        "pj": 4,
-        "ordenSorteo": 3,
-        "pg": 0,
-        "grupo": "Grupo G",
-        "posGrupo": 5
+        "name": "Equipo 52",
+        "pts": 6,
+        "gf": 61,
+        "gc": 68,
+        "dg": -7,
+        "pj": 5,
+        "ordenSorteo": 5,
+        "pg": 1,
+        "grupo": "Grupo C",
+        "posGrupo": 6
+      },
+      {
+        "name": "Equipo 32",
+        "pts": 6,
+        "gf": 62,
+        "gc": 70,
+        "dg": -8,
+        "pj": 5,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo F",
+        "posGrupo": 6
       },
       {
         "name": "Equipo 49",
-        "pts": 4,
-        "gf": 46,
-        "gc": 60,
-        "dg": -14,
-        "pj": 4,
-        "ordenSorteo": 0,
+        "pts": 6,
+        "gf": 60,
+        "gc": 73,
+        "dg": -13,
+        "pj": 5,
+        "ordenSorteo": 5,
+        "pg": 1,
+        "grupo": "Grupo G",
+        "posGrupo": 6
+      },
+      {
+        "name": "Equipo 29",
+        "pts": 6,
+        "gf": 55,
+        "gc": 71,
+        "dg": -16,
+        "pj": 5,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo H",
+        "posGrupo": 6
+      },
+      {
+        "name": "Equipo 35",
+        "pts": 6,
+        "gf": 52,
+        "gc": 70,
+        "dg": -18,
+        "pj": 5,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo E",
+        "posGrupo": 6
+      },
+      {
+        "name": "Equipo 19",
+        "pts": 5,
+        "gf": 58,
+        "gc": 75,
+        "dg": -17,
+        "pj": 5,
+        "ordenSorteo": 2,
         "pg": 0,
-        "grupo": "Grupo K",
-        "posGrupo": 5
+        "grupo": "Grupo B",
+        "posGrupo": 6
+      },
+      {
+        "name": "Equipo 48",
+        "pts": 5,
+        "gf": 49,
+        "gc": 75,
+        "dg": -26,
+        "pj": 5,
+        "ordenSorteo": 3,
+        "pg": 0,
+        "grupo": "Grupo A",
+        "posGrupo": 6
       }
     ]
   }
