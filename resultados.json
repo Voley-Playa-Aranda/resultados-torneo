@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-07T18:04:47.147Z",
+  "publicadoEn": "2026-07-07T18:05:47.781Z",
   "intervaloSegundos": 60,
   "torneo": {
     "iniciado": true,
@@ -3219,8 +3219,8 @@
               "away": "Equipo 24",
               "sets": [
                 {
-                  "hS": 1,
-                  "aS": 1
+                  "hS": 20,
+                  "aS": 20
                 },
                 {
                   "hS": "",
