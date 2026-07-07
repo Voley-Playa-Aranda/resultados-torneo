@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-07T17:33:51.792Z",
+  "publicadoEn": "2026-07-07T17:34:51.792Z",
   "intervaloSegundos": 60,
   "torneo": {
     "iniciado": true,
@@ -2989,8 +2989,8 @@
               "away": "Equipo 50",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 15,
+                  "aS": 12
                 },
                 {
                   "hS": "",
@@ -3234,7 +3234,7 @@
               "ordenFinal": 19
             },
             {
-              "home": "",
+              "home": "Equipo 7",
               "away": "",
               "sets": [
                 {
@@ -4181,7 +4181,7 @@
         }
       }
     },
-    "faseFinalActiva": "plata",
+    "faseFinalActiva": "oro",
     "faseFinalGenerada": true,
     "cfgNumGrupos": 10,
     "lastPosicionEq": [
