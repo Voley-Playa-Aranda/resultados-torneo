@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-07T17:41:56.794Z",
+  "publicadoEn": "2026-07-07T17:43:51.788Z",
   "intervaloSegundos": 60,
   "torneo": {
     "iniciado": true,
@@ -3008,8 +3008,8 @@
               "away": "Equipo 51",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 1,
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -3235,7 +3235,7 @@
             },
             {
               "home": "Equipo 7",
-              "away": "",
+              "away": "Equipo 51",
               "sets": [
                 {
                   "hS": "",
