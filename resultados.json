@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T08:43:03.172Z",
+  "publicadoEn": "2026-07-11T08:45:03.156Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -1790,6 +1790,26 @@
         "nombre": "Grupo L",
         "equipos": [
           {
+            "name": "EL TAMAÑO NO IMPORTA",
+            "pts": 2,
+            "gf": 15,
+            "gc": 6,
+            "dg": 9,
+            "pj": 1,
+            "ordenSorteo": 1,
+            "pg": 1
+          },
+          {
+            "name": "LOS ROMPEBOLAS",
+            "pts": 1,
+            "gf": 6,
+            "gc": 15,
+            "dg": -9,
+            "pj": 1,
+            "ordenSorteo": 4,
+            "pg": 0
+          },
+          {
             "name": "ASÍ DE PEQUEÑITOS",
             "pts": 0,
             "gf": 0,
@@ -1797,26 +1817,6 @@
             "dg": 0,
             "pj": 0,
             "ordenSorteo": 2,
-            "pg": 0
-          },
-          {
-            "name": "EL TAMAÑO NO IMPORTA",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 1,
-            "pg": 0
-          },
-          {
-            "name": "LOS ROMPEBOLAS",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 4,
             "pg": 0
           },
           {
@@ -1847,8 +1847,8 @@
               {
                 "home": "EL TAMAÑO NO IMPORTA",
                 "away": "LOS ROMPEBOLAS",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 15,
+                "golesAway": 6,
                 "campoId": 5,
                 "ordenGlobal": 101
               },
@@ -1987,6 +1987,18 @@
         "ordenSorteo": 4,
         "pg": 1,
         "grupo": "Grupo A",
+        "posGrupo": 1
+      },
+      {
+        "name": "EL TAMAÑO NO IMPORTA",
+        "pts": 2,
+        "gf": 15,
+        "gc": 6,
+        "dg": 9,
+        "pj": 1,
+        "ordenSorteo": 1,
+        "pg": 1,
+        "grupo": "Grupo L",
         "posGrupo": 1
       },
       {
@@ -2182,6 +2194,18 @@
         "posGrupo": 2
       },
       {
+        "name": "LOS ROMPEBOLAS",
+        "pts": 1,
+        "gf": 6,
+        "gc": 15,
+        "dg": -9,
+        "pj": 1,
+        "ordenSorteo": 4,
+        "pg": 0,
+        "grupo": "Grupo L",
+        "posGrupo": 2
+      },
+      {
         "name": "SIN RED NO HAY PARAÍSO",
         "pts": 1,
         "gf": 3,
@@ -2215,7 +2239,7 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo L",
-        "posGrupo": 1
+        "posGrupo": 3
       },
       {
         "name": "ASOCIACIÓN DE DRAGONES AMERICANOS",
@@ -2300,18 +2324,6 @@
         "pg": 0,
         "grupo": "Grupo G",
         "posGrupo": 3
-      },
-      {
-        "name": "EL TAMAÑO NO IMPORTA",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 1,
-        "pg": 0,
-        "grupo": "Grupo L",
-        "posGrupo": 2
       },
       {
         "name": "GLUTEN FREE",
@@ -2420,18 +2432,6 @@
         "pg": 0,
         "grupo": "Grupo C",
         "posGrupo": 5
-      },
-      {
-        "name": "LOS ROMPEBOLAS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 4,
-        "pg": 0,
-        "grupo": "Grupo L",
-        "posGrupo": 3
       },
       {
         "name": "LOS ROOKIES",
@@ -2754,6 +2754,18 @@
         "posGrupo": 1
       },
       {
+        "name": "EL TAMAÑO NO IMPORTA",
+        "pts": 2,
+        "gf": 15,
+        "gc": 6,
+        "dg": 9,
+        "pj": 1,
+        "ordenSorteo": 1,
+        "pg": 1,
+        "grupo": "Grupo L",
+        "posGrupo": 1
+      },
+      {
         "name": "KINDER SORPRESA",
         "pts": 2,
         "gf": 15,
@@ -2859,18 +2871,6 @@
         "ordenSorteo": 4,
         "pg": 0,
         "grupo": "Grupo E",
-        "posGrupo": 1
-      },
-      {
-        "name": "ASÍ DE PEQUEÑITOS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo L",
         "posGrupo": 1
       },
       {
@@ -2982,6 +2982,18 @@
         "posGrupo": 2
       },
       {
+        "name": "LOS ROMPEBOLAS",
+        "pts": 1,
+        "gf": 6,
+        "gc": 15,
+        "dg": -9,
+        "pj": 1,
+        "ordenSorteo": 4,
+        "pg": 0,
+        "grupo": "Grupo L",
+        "posGrupo": 2
+      },
+      {
         "name": "SIN RED NO HAY PARAÍSO",
         "pts": 1,
         "gf": 3,
@@ -3006,18 +3018,6 @@
         "posGrupo": 2
       },
       {
-        "name": "EL TAMAÑO NO IMPORTA",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 1,
-        "pg": 0,
-        "grupo": "Grupo L",
-        "posGrupo": 2
-      },
-      {
         "name": "LOS ROOKIES",
         "pts": 0,
         "gf": 0,
@@ -3028,6 +3028,18 @@
         "pg": 0,
         "grupo": "Grupo J",
         "posGrupo": 2
+      },
+      {
+        "name": "ASÍ DE PEQUEÑITOS",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo L",
+        "posGrupo": 3
       },
       {
         "name": "ASOCIACIÓN DE DRAGONES AMERICANOS",
@@ -3123,18 +3135,6 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo I",
-        "posGrupo": 3
-      },
-      {
-        "name": "LOS ROMPEBOLAS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 4,
-        "pg": 0,
-        "grupo": "Grupo L",
         "posGrupo": 3
       },
       {
