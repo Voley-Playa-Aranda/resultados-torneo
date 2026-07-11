@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T11:09:03.989Z",
+  "publicadoEn": "2026-07-11T11:11:03.163Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -2727,7 +2727,7 @@
     },
     "expandedPartidos": {
       "grupo_4": false,
-      "campo_4": true,
+      "campo_4": false,
       "campo_0": false,
       "campo_3": false,
       "campo_1": false,
