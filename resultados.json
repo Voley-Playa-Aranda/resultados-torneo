@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T08:21:03.162Z",
+  "publicadoEn": "2026-07-11T08:23:04.029Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -332,12 +332,22 @@
         "nombre": "Grupo C",
         "equipos": [
           {
+            "name": "LOS GOMELLANOS",
+            "pts": 2,
+            "gf": 15,
+            "gc": 7,
+            "dg": 8,
+            "pj": 1,
+            "ordenSorteo": 1,
+            "pg": 1
+          },
+          {
             "name": "CARCAJADA",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
+            "pts": 1,
+            "gf": 7,
+            "gc": 15,
+            "dg": -8,
+            "pj": 1,
             "ordenSorteo": 4,
             "pg": 0
           },
@@ -370,16 +380,6 @@
             "pj": 0,
             "ordenSorteo": 0,
             "pg": 0
-          },
-          {
-            "name": "LOS GOMELLANOS",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 1,
-            "pg": 0
           }
         ],
         "partidos": [
@@ -389,8 +389,8 @@
               {
                 "home": "LOS GOMELLANOS",
                 "away": "CARCAJADA",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 15,
+                "golesAway": 7,
                 "campoId": 2,
                 "ordenGlobal": 40
               },
@@ -1990,6 +1990,30 @@
         "posGrupo": 1
       },
       {
+        "name": "LOS GOMELLANOS",
+        "pts": 2,
+        "gf": 15,
+        "gc": 7,
+        "dg": 8,
+        "pj": 1,
+        "ordenSorteo": 1,
+        "pg": 1,
+        "grupo": "Grupo C",
+        "posGrupo": 1
+      },
+      {
+        "name": "CARCAJADA",
+        "pts": 1,
+        "gf": 7,
+        "gc": 15,
+        "dg": -8,
+        "pj": 1,
+        "ordenSorteo": 4,
+        "pg": 0,
+        "grupo": "Grupo C",
+        "posGrupo": 2
+      },
+      {
         "name": "SIN RED NO HAY PARAÍSO",
         "pts": 1,
         "gf": 3,
@@ -2060,18 +2084,6 @@
         "pg": 0,
         "grupo": "Grupo F",
         "posGrupo": 2
-      },
-      {
-        "name": "CARCAJADA",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 4,
-        "pg": 0,
-        "grupo": "Grupo C",
-        "posGrupo": 1
       },
       {
         "name": "CENTAUROS",
@@ -2263,7 +2275,7 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo C",
-        "posGrupo": 2
+        "posGrupo": 3
       },
       {
         "name": "KINDER SORPRESA",
@@ -2347,7 +2359,7 @@
         "ordenSorteo": 3,
         "pg": 0,
         "grupo": "Grupo C",
-        "posGrupo": 3
+        "posGrupo": 4
       },
       {
         "name": "LOS CERDITOS FIESTEROS",
@@ -2357,18 +2369,6 @@
         "dg": 0,
         "pj": 0,
         "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo C",
-        "posGrupo": 4
-      },
-      {
-        "name": "LOS GOMELLANOS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo C",
         "posGrupo": 5
@@ -2753,6 +2753,18 @@
         "posGrupo": 1
       },
       {
+        "name": "LOS GOMELLANOS",
+        "pts": 2,
+        "gf": 15,
+        "gc": 7,
+        "dg": 8,
+        "pj": 1,
+        "ordenSorteo": 1,
+        "pg": 1,
+        "grupo": "Grupo C",
+        "posGrupo": 1
+      },
+      {
         "name": "ABANTO",
         "pts": 0,
         "gf": 0,
@@ -2798,18 +2810,6 @@
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo K",
-        "posGrupo": 1
-      },
-      {
-        "name": "CARCAJADA",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 4,
-        "pg": 0,
-        "grupo": "Grupo C",
         "posGrupo": 1
       },
       {
@@ -2883,6 +2883,18 @@
         "pg": 0,
         "grupo": "Grupo I",
         "posGrupo": 1
+      },
+      {
+        "name": "CARCAJADA",
+        "pts": 1,
+        "gf": 7,
+        "gc": 15,
+        "dg": -8,
+        "pj": 1,
+        "ordenSorteo": 4,
+        "pg": 0,
+        "grupo": "Grupo C",
+        "posGrupo": 2
       },
       {
         "name": "SIN RED NO HAY PARAÍSO",
@@ -2993,18 +3005,6 @@
         "posGrupo": 2
       },
       {
-        "name": "KIKOÑAZO",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo C",
-        "posGrupo": 2
-      },
-      {
         "name": "LO VEO CLARO",
         "pts": 0,
         "gf": 0,
@@ -3053,6 +3053,18 @@
         "posGrupo": 3
       },
       {
+        "name": "KIKOÑAZO",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo C",
+        "posGrupo": 3
+      },
+      {
         "name": "KINDER SORPRESA",
         "pts": 0,
         "gf": 0,
@@ -3086,18 +3098,6 @@
         "ordenSorteo": 4,
         "pg": 0,
         "grupo": "Grupo I",
-        "posGrupo": 3
-      },
-      {
-        "name": "LOS CARIÑITOS BOSTONCITOS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 3,
-        "pg": 0,
-        "grupo": "Grupo C",
         "posGrupo": 3
       },
       {
@@ -3197,13 +3197,13 @@
         "posGrupo": 4
       },
       {
-        "name": "LOS CERDITOS FIESTEROS",
+        "name": "LOS CARIÑITOS BOSTONCITOS",
         "pts": 0,
         "gf": 0,
         "gc": 0,
         "dg": 0,
         "pj": 0,
-        "ordenSorteo": 0,
+        "ordenSorteo": 3,
         "pg": 0,
         "grupo": "Grupo C",
         "posGrupo": 4
@@ -3317,13 +3317,13 @@
         "posGrupo": 4
       },
       {
-        "name": "LOS GOMELLANOS",
+        "name": "LOS CERDITOS FIESTEROS",
         "pts": 0,
         "gf": 0,
         "gc": 0,
         "dg": 0,
         "pj": 0,
-        "ordenSorteo": 1,
+        "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo C",
         "posGrupo": 5
