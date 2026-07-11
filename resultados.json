@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T08:31:03.150Z",
+  "publicadoEn": "2026-07-11T08:33:03.170Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -495,12 +495,22 @@
         "equipos": [
           {
             "name": "GANAMOS Y NOS VAMOS",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
+            "pts": 2,
+            "gf": 15,
+            "gc": 11,
+            "dg": 4,
+            "pj": 1,
             "ordenSorteo": 4,
+            "pg": 1
+          },
+          {
+            "name": "MANCHESTER PITY",
+            "pts": 1,
+            "gf": 11,
+            "gc": 15,
+            "dg": -4,
+            "pj": 1,
+            "ordenSorteo": 1,
             "pg": 0
           },
           {
@@ -511,16 +521,6 @@
             "dg": 0,
             "pj": 0,
             "ordenSorteo": 2,
-            "pg": 0
-          },
-          {
-            "name": "MANCHESTER PITY",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 1,
             "pg": 0
           },
           {
@@ -551,8 +551,8 @@
               {
                 "home": "MANCHESTER PITY",
                 "away": "GANAMOS Y NOS VAMOS",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 11,
+                "golesAway": 15,
                 "campoId": 3,
                 "ordenGlobal": 60
               },
@@ -1629,12 +1629,22 @@
         "equipos": [
           {
             "name": "ASTON BIRRAS",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
+            "pts": 2,
+            "gf": 15,
+            "gc": 12,
+            "dg": 3,
+            "pj": 1,
             "ordenSorteo": 1,
+            "pg": 1
+          },
+          {
+            "name": "LA CASITA",
+            "pts": 1,
+            "gf": 12,
+            "gc": 15,
+            "dg": -3,
+            "pj": 1,
+            "ordenSorteo": 4,
             "pg": 0
           },
           {
@@ -1658,16 +1668,6 @@
             "pg": 0
           },
           {
-            "name": "LA CASITA",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 4,
-            "pg": 0
-          },
-          {
             "name": "ROYALEROS",
             "pts": 0,
             "gf": 0,
@@ -1685,8 +1685,8 @@
               {
                 "home": "ASTON BIRRAS",
                 "away": "LA CASITA",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 15,
+                "golesAway": 12,
                 "campoId": 4,
                 "ordenGlobal": 81
               },
@@ -2002,6 +2002,30 @@
         "posGrupo": 1
       },
       {
+        "name": "GANAMOS Y NOS VAMOS",
+        "pts": 2,
+        "gf": 15,
+        "gc": 11,
+        "dg": 4,
+        "pj": 1,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo D",
+        "posGrupo": 1
+      },
+      {
+        "name": "ASTON BIRRAS",
+        "pts": 2,
+        "gf": 15,
+        "gc": 12,
+        "dg": 3,
+        "pj": 1,
+        "ordenSorteo": 1,
+        "pg": 1,
+        "grupo": "Grupo K",
+        "posGrupo": 1
+      },
+      {
         "name": "PROHIBIDO DIVERTIRSE",
         "pts": 2,
         "gf": 16,
@@ -2047,6 +2071,30 @@
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo B",
+        "posGrupo": 2
+      },
+      {
+        "name": "LA CASITA",
+        "pts": 1,
+        "gf": 12,
+        "gc": 15,
+        "dg": -3,
+        "pj": 1,
+        "ordenSorteo": 4,
+        "pg": 0,
+        "grupo": "Grupo K",
+        "posGrupo": 2
+      },
+      {
+        "name": "MANCHESTER PITY",
+        "pts": 1,
+        "gf": 11,
+        "gc": 15,
+        "dg": -4,
+        "pj": 1,
+        "ordenSorteo": 1,
+        "pg": 0,
+        "grupo": "Grupo D",
         "posGrupo": 2
       },
       {
@@ -2108,18 +2156,6 @@
         "pg": 0,
         "grupo": "Grupo F",
         "posGrupo": 3
-      },
-      {
-        "name": "ASTON BIRRAS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 1,
-        "pg": 0,
-        "grupo": "Grupo K",
-        "posGrupo": 1
       },
       {
         "name": "CAÍDA LIBRE VOLEY",
@@ -2230,18 +2266,6 @@
         "posGrupo": 2
       },
       {
-        "name": "GANAMOS Y NOS VAMOS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 4,
-        "pg": 0,
-        "grupo": "Grupo D",
-        "posGrupo": 1
-      },
-      {
         "name": "GLUTEN FREE",
         "pts": 0,
         "gf": 0,
@@ -2251,7 +2275,7 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo K",
-        "posGrupo": 2
+        "posGrupo": 3
       },
       {
         "name": "GORRO DE PISCINA NEGRO",
@@ -2287,7 +2311,7 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo D",
-        "posGrupo": 2
+        "posGrupo": 3
       },
       {
         "name": "KIKOÑAZO",
@@ -2321,18 +2345,6 @@
         "dg": 0,
         "pj": 0,
         "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo K",
-        "posGrupo": 3
-      },
-      {
-        "name": "LA CASITA",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 4,
         "pg": 0,
         "grupo": "Grupo K",
         "posGrupo": 4
@@ -2443,18 +2455,6 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo E",
-        "posGrupo": 3
-      },
-      {
-        "name": "MANCHESTER PITY",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 1,
-        "pg": 0,
-        "grupo": "Grupo D",
         "posGrupo": 3
       },
       {
@@ -2732,7 +2732,7 @@
       "campo_3": false,
       "campo_1": false,
       "campo_2": false,
-      "campo_5": true,
+      "campo_5": false,
       "grupo_0": false
     },
     "expandedClasificaciones": {},
@@ -2763,6 +2763,30 @@
         "ordenSorteo": 1,
         "pg": 1,
         "grupo": "Grupo C",
+        "posGrupo": 1
+      },
+      {
+        "name": "GANAMOS Y NOS VAMOS",
+        "pts": 2,
+        "gf": 15,
+        "gc": 11,
+        "dg": 4,
+        "pj": 1,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo D",
+        "posGrupo": 1
+      },
+      {
+        "name": "ASTON BIRRAS",
+        "pts": 2,
+        "gf": 15,
+        "gc": 12,
+        "dg": 3,
+        "pj": 1,
+        "ordenSorteo": 1,
+        "pg": 1,
+        "grupo": "Grupo K",
         "posGrupo": 1
       },
       {
@@ -2814,18 +2838,6 @@
         "posGrupo": 1
       },
       {
-        "name": "ASTON BIRRAS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 1,
-        "pg": 0,
-        "grupo": "Grupo K",
-        "posGrupo": 1
-      },
-      {
         "name": "CHACALES",
         "pts": 0,
         "gf": 0,
@@ -2862,18 +2874,6 @@
         "posGrupo": 1
       },
       {
-        "name": "GANAMOS Y NOS VAMOS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 4,
-        "pg": 0,
-        "grupo": "Grupo D",
-        "posGrupo": 1
-      },
-      {
         "name": "LAS LEYENDAS NUNCA MUEREN",
         "pts": 0,
         "gf": 0,
@@ -2907,6 +2907,30 @@
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo B",
+        "posGrupo": 2
+      },
+      {
+        "name": "LA CASITA",
+        "pts": 1,
+        "gf": 12,
+        "gc": 15,
+        "dg": -3,
+        "pj": 1,
+        "ordenSorteo": 4,
+        "pg": 0,
+        "grupo": "Grupo K",
+        "posGrupo": 2
+      },
+      {
+        "name": "MANCHESTER PITY",
+        "pts": 1,
+        "gf": 11,
+        "gc": 15,
+        "dg": -4,
+        "pj": 1,
+        "ordenSorteo": 1,
+        "pg": 0,
+        "grupo": "Grupo D",
         "posGrupo": 2
       },
       {
@@ -2970,18 +2994,6 @@
         "posGrupo": 2
       },
       {
-        "name": "GLUTEN FREE",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo K",
-        "posGrupo": 2
-      },
-      {
         "name": "GORRO DE PISCINA NEGRO",
         "pts": 0,
         "gf": 0,
@@ -2991,18 +3003,6 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo H",
-        "posGrupo": 2
-      },
-      {
-        "name": "KARIBE VÓLEIBOL",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo D",
         "posGrupo": 2
       },
       {
@@ -3054,6 +3054,18 @@
         "posGrupo": 3
       },
       {
+        "name": "GLUTEN FREE",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo K",
+        "posGrupo": 3
+      },
+      {
         "name": "GUSANOS GAFONES",
         "pts": 0,
         "gf": 0,
@@ -3063,6 +3075,18 @@
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo H",
+        "posGrupo": 3
+      },
+      {
+        "name": "KARIBE VÓLEIBOL",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo D",
         "posGrupo": 3
       },
       {
@@ -3087,18 +3111,6 @@
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo G",
-        "posGrupo": 3
-      },
-      {
-        "name": "LA BATALLA DE LOS PELOS BASTARDOS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo K",
         "posGrupo": 3
       },
       {
@@ -3150,18 +3162,6 @@
         "posGrupo": 3
       },
       {
-        "name": "MANCHESTER PITY",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 1,
-        "pg": 0,
-        "grupo": "Grupo D",
-        "posGrupo": 3
-      },
-      {
         "name": "NOTTINGHAN PRISAS",
         "pts": 0,
         "gf": 0,
@@ -3186,13 +3186,13 @@
         "posGrupo": 4
       },
       {
-        "name": "LA CASITA",
+        "name": "LA BATALLA DE LOS PELOS BASTARDOS",
         "pts": 0,
         "gf": 0,
         "gc": 0,
         "dg": 0,
         "pj": 0,
-        "ordenSorteo": 4,
+        "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo K",
         "posGrupo": 4
