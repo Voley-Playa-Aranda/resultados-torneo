@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T11:03:03.168Z",
+  "publicadoEn": "2026-07-11T11:05:04.034Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -495,21 +495,21 @@
         "equipos": [
           {
             "name": "KARIBE VÓLEIBOL",
-            "pts": 4,
-            "gf": 30,
-            "gc": 16,
-            "dg": 14,
-            "pj": 2,
+            "pts": 6,
+            "gf": 45,
+            "gc": 29,
+            "dg": 16,
+            "pj": 3,
             "ordenSorteo": 2,
-            "pg": 2
+            "pg": 3
           },
           {
             "name": "GANAMOS Y NOS VAMOS",
-            "pts": 4,
-            "gf": 30,
-            "gc": 21,
-            "dg": 9,
-            "pj": 2,
+            "pts": 5,
+            "gf": 43,
+            "gc": 36,
+            "dg": 7,
+            "pj": 3,
             "ordenSorteo": 4,
             "pg": 2
           },
@@ -601,8 +601,8 @@
               {
                 "home": "GANAMOS Y NOS VAMOS",
                 "away": "KARIBE VÓLEIBOL",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 13,
+                "golesAway": 15,
                 "campoId": 3,
                 "ordenGlobal": 70
               }
@@ -981,13 +981,13 @@
         "equipos": [
           {
             "name": "EL CONVENTO DE SANTA TERESA",
-            "pts": 6,
-            "gf": 45,
-            "gc": 10,
-            "dg": 35,
-            "pj": 3,
+            "pts": 8,
+            "gf": 60,
+            "gc": 12,
+            "dg": 48,
+            "pj": 4,
             "ordenSorteo": 2,
-            "pg": 3
+            "pg": 4
           },
           {
             "name": "MENESTRA CON GINEBRA",
@@ -1021,11 +1021,11 @@
           },
           {
             "name": "RECEPCIÓN OPCIONAL",
-            "pts": 2,
-            "gf": 22,
-            "gc": 33,
-            "dg": -11,
-            "pj": 2,
+            "pts": 3,
+            "gf": 24,
+            "gc": 48,
+            "dg": -24,
+            "pj": 3,
             "ordenSorteo": 0,
             "pg": 0
           }
@@ -1100,8 +1100,8 @@
               {
                 "home": "RECEPCIÓN OPCIONAL",
                 "away": "EL CONVENTO DE SANTA TERESA",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 2,
+                "golesAway": 15,
                 "campoId": 0,
                 "ordenGlobal": 13
               },
@@ -1979,13 +1979,13 @@
     "lastGlobalEq": [
       {
         "name": "EL CONVENTO DE SANTA TERESA",
-        "pts": 6,
-        "gf": 45,
-        "gc": 10,
-        "dg": 35,
-        "pj": 3,
+        "pts": 8,
+        "gf": 60,
+        "gc": 12,
+        "dg": 48,
+        "pj": 4,
         "ordenSorteo": 2,
-        "pg": 3,
+        "pg": 4,
         "grupo": "Grupo G",
         "posGrupo": 1
       },
@@ -2062,18 +2062,6 @@
         "posGrupo": 1
       },
       {
-        "name": "KARIBE VÓLEIBOL",
-        "pts": 4,
-        "gf": 30,
-        "gc": 16,
-        "dg": 14,
-        "pj": 2,
-        "ordenSorteo": 2,
-        "pg": 2,
-        "grupo": "Grupo D",
-        "posGrupo": 1
-      },
-      {
         "name": "LOS GOMELLANOS",
         "pts": 4,
         "gf": 30,
@@ -2110,6 +2098,18 @@
         "posGrupo": 2
       },
       {
+        "name": "KARIBE VÓLEIBOL",
+        "pts": 6,
+        "gf": 45,
+        "gc": 29,
+        "dg": 16,
+        "pj": 3,
+        "ordenSorteo": 2,
+        "pg": 3,
+        "grupo": "Grupo D",
+        "posGrupo": 1
+      },
+      {
         "name": "EL CLAN DE LOS LOZANO",
         "pts": 4,
         "gf": 33,
@@ -2131,18 +2131,6 @@
         "ordenSorteo": 1,
         "pg": 2,
         "grupo": "Grupo H",
-        "posGrupo": 2
-      },
-      {
-        "name": "GANAMOS Y NOS VAMOS",
-        "pts": 4,
-        "gf": 30,
-        "gc": 21,
-        "dg": 9,
-        "pj": 2,
-        "ordenSorteo": 4,
-        "pg": 2,
-        "grupo": "Grupo D",
         "posGrupo": 2
       },
       {
@@ -2191,6 +2179,18 @@
         "ordenSorteo": 2,
         "pg": 2,
         "grupo": "Grupo C",
+        "posGrupo": 2
+      },
+      {
+        "name": "GANAMOS Y NOS VAMOS",
+        "pts": 5,
+        "gf": 43,
+        "gc": 36,
+        "dg": 7,
+        "pj": 3,
+        "ordenSorteo": 4,
+        "pg": 2,
+        "grupo": "Grupo D",
         "posGrupo": 2
       },
       {
@@ -2578,18 +2578,6 @@
         "posGrupo": 4
       },
       {
-        "name": "RECEPCIÓN OPCIONAL",
-        "pts": 2,
-        "gf": 22,
-        "gc": 33,
-        "dg": -11,
-        "pj": 2,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo G",
-        "posGrupo": 5
-      },
-      {
         "name": "MBONANIS TEAM",
         "pts": 3,
         "gf": 31,
@@ -2647,6 +2635,18 @@
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo D",
+        "posGrupo": 5
+      },
+      {
+        "name": "RECEPCIÓN OPCIONAL",
+        "pts": 3,
+        "gf": 24,
+        "gc": 48,
+        "dg": -24,
+        "pj": 3,
+        "ordenSorteo": 0,
+        "pg": 0,
+        "grupo": "Grupo G",
         "posGrupo": 5
       },
       {
@@ -2728,7 +2728,7 @@
     "expandedPartidos": {
       "grupo_4": false,
       "campo_4": false,
-      "campo_0": true,
+      "campo_0": false,
       "campo_3": false,
       "campo_1": false,
       "campo_2": false,
@@ -2756,13 +2756,13 @@
     "lastPosicionEq": [
       {
         "name": "EL CONVENTO DE SANTA TERESA",
-        "pts": 6,
-        "gf": 45,
-        "gc": 10,
-        "dg": 35,
-        "pj": 3,
+        "pts": 8,
+        "gf": 60,
+        "gc": 12,
+        "dg": 48,
+        "pj": 4,
         "ordenSorteo": 2,
-        "pg": 3,
+        "pg": 4,
         "grupo": "Grupo G",
         "posGrupo": 1
       },
@@ -2839,18 +2839,6 @@
         "posGrupo": 1
       },
       {
-        "name": "KARIBE VÓLEIBOL",
-        "pts": 4,
-        "gf": 30,
-        "gc": 16,
-        "dg": 14,
-        "pj": 2,
-        "ordenSorteo": 2,
-        "pg": 2,
-        "grupo": "Grupo D",
-        "posGrupo": 1
-      },
-      {
         "name": "LOS GOMELLANOS",
         "pts": 4,
         "gf": 30,
@@ -2872,6 +2860,18 @@
         "ordenSorteo": 3,
         "pg": 2,
         "grupo": "Grupo B",
+        "posGrupo": 1
+      },
+      {
+        "name": "KARIBE VÓLEIBOL",
+        "pts": 6,
+        "gf": 45,
+        "gc": 29,
+        "dg": 16,
+        "pj": 3,
+        "ordenSorteo": 2,
+        "pg": 3,
+        "grupo": "Grupo D",
         "posGrupo": 1
       },
       {
@@ -2923,18 +2923,6 @@
         "posGrupo": 2
       },
       {
-        "name": "GANAMOS Y NOS VAMOS",
-        "pts": 4,
-        "gf": 30,
-        "gc": 21,
-        "dg": 9,
-        "pj": 2,
-        "ordenSorteo": 4,
-        "pg": 2,
-        "grupo": "Grupo D",
-        "posGrupo": 2
-      },
-      {
         "name": "PROHIBIDO DIVERTIRSE",
         "pts": 4,
         "gf": 31,
@@ -2956,6 +2944,18 @@
         "ordenSorteo": 2,
         "pg": 2,
         "grupo": "Grupo C",
+        "posGrupo": 2
+      },
+      {
+        "name": "GANAMOS Y NOS VAMOS",
+        "pts": 5,
+        "gf": 43,
+        "gc": 36,
+        "dg": 7,
+        "pj": 3,
+        "ordenSorteo": 4,
+        "pg": 2,
+        "grupo": "Grupo D",
         "posGrupo": 2
       },
       {
@@ -3355,18 +3355,6 @@
         "posGrupo": 5
       },
       {
-        "name": "RECEPCIÓN OPCIONAL",
-        "pts": 2,
-        "gf": 22,
-        "gc": 33,
-        "dg": -11,
-        "pj": 2,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo G",
-        "posGrupo": 5
-      },
-      {
         "name": "MBONANIS TEAM",
         "pts": 3,
         "gf": 31,
@@ -3424,6 +3412,18 @@
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo D",
+        "posGrupo": 5
+      },
+      {
+        "name": "RECEPCIÓN OPCIONAL",
+        "pts": 3,
+        "gf": 24,
+        "gc": 48,
+        "dg": -24,
+        "pj": 3,
+        "ordenSorteo": 0,
+        "pg": 0,
+        "grupo": "Grupo G",
         "posGrupo": 5
       },
       {
