@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T11:31:03.172Z",
+  "publicadoEn": "2026-07-11T11:33:03.160Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -495,13 +495,13 @@
         "equipos": [
           {
             "name": "KARIBE VÓLEIBOL",
-            "pts": 6,
-            "gf": 45,
-            "gc": 29,
-            "dg": 16,
-            "pj": 3,
+            "pts": 8,
+            "gf": 60,
+            "gc": 37,
+            "dg": 23,
+            "pj": 4,
             "ordenSorteo": 2,
-            "pg": 3
+            "pg": 4
           },
           {
             "name": "GANAMOS Y NOS VAMOS",
@@ -515,11 +515,11 @@
           },
           {
             "name": "NOS FUIMOS",
-            "pts": 3,
-            "gf": 26,
-            "gc": 29,
-            "dg": -3,
-            "pj": 2,
+            "pts": 4,
+            "gf": 34,
+            "gc": 44,
+            "dg": -10,
+            "pj": 3,
             "ordenSorteo": 0,
             "pg": 1
           },
@@ -614,8 +614,8 @@
               {
                 "home": "NOS FUIMOS",
                 "away": "KARIBE VÓLEIBOL",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 8,
+                "golesAway": 15,
                 "campoId": 3,
                 "ordenGlobal": 72
               },
@@ -2086,6 +2086,18 @@
         "posGrupo": 1
       },
       {
+        "name": "KARIBE VÓLEIBOL",
+        "pts": 8,
+        "gf": 60,
+        "gc": 37,
+        "dg": 23,
+        "pj": 4,
+        "ordenSorteo": 2,
+        "pg": 4,
+        "grupo": "Grupo D",
+        "posGrupo": 1
+      },
+      {
         "name": "GLUTEN FREE",
         "pts": 6,
         "gf": 45,
@@ -2095,18 +2107,6 @@
         "ordenSorteo": 2,
         "pg": 3,
         "grupo": "Grupo K",
-        "posGrupo": 1
-      },
-      {
-        "name": "KARIBE VÓLEIBOL",
-        "pts": 6,
-        "gf": 45,
-        "gc": 29,
-        "dg": 16,
-        "pj": 3,
-        "ordenSorteo": 2,
-        "pg": 3,
-        "grupo": "Grupo D",
         "posGrupo": 1
       },
       {
@@ -2374,18 +2374,6 @@
         "posGrupo": 4
       },
       {
-        "name": "NOS FUIMOS",
-        "pts": 3,
-        "gf": 26,
-        "gc": 29,
-        "dg": -3,
-        "pj": 2,
-        "ordenSorteo": 0,
-        "pg": 1,
-        "grupo": "Grupo D",
-        "posGrupo": 3
-      },
-      {
         "name": "ROYALEROS",
         "pts": 3,
         "gf": 21,
@@ -2516,6 +2504,18 @@
         "pg": 1,
         "grupo": "Grupo L",
         "posGrupo": 4
+      },
+      {
+        "name": "NOS FUIMOS",
+        "pts": 4,
+        "gf": 34,
+        "gc": 44,
+        "dg": -10,
+        "pj": 3,
+        "ordenSorteo": 0,
+        "pg": 1,
+        "grupo": "Grupo D",
+        "posGrupo": 3
       },
       {
         "name": "CV SIESTA",
@@ -2851,6 +2851,18 @@
         "posGrupo": 1
       },
       {
+        "name": "KARIBE VÓLEIBOL",
+        "pts": 8,
+        "gf": 60,
+        "gc": 37,
+        "dg": 23,
+        "pj": 4,
+        "ordenSorteo": 2,
+        "pg": 4,
+        "grupo": "Grupo D",
+        "posGrupo": 1
+      },
+      {
         "name": "GLUTEN FREE",
         "pts": 6,
         "gf": 45,
@@ -2860,18 +2872,6 @@
         "ordenSorteo": 2,
         "pg": 3,
         "grupo": "Grupo K",
-        "posGrupo": 1
-      },
-      {
-        "name": "KARIBE VÓLEIBOL",
-        "pts": 6,
-        "gf": 45,
-        "gc": 29,
-        "dg": 16,
-        "pj": 3,
-        "ordenSorteo": 2,
-        "pg": 3,
-        "grupo": "Grupo D",
         "posGrupo": 1
       },
       {
@@ -3139,18 +3139,6 @@
         "posGrupo": 3
       },
       {
-        "name": "NOS FUIMOS",
-        "pts": 3,
-        "gf": 26,
-        "gc": 29,
-        "dg": -3,
-        "pj": 2,
-        "ordenSorteo": 0,
-        "pg": 1,
-        "grupo": "Grupo D",
-        "posGrupo": 3
-      },
-      {
         "name": "KINDER SORPRESA",
         "pts": 3,
         "gf": 17,
@@ -3184,6 +3172,18 @@
         "ordenSorteo": 0,
         "pg": 1,
         "grupo": "Grupo A",
+        "posGrupo": 3
+      },
+      {
+        "name": "NOS FUIMOS",
+        "pts": 4,
+        "gf": 34,
+        "gc": 44,
+        "dg": -10,
+        "pj": 3,
+        "ordenSorteo": 0,
+        "pg": 1,
+        "grupo": "Grupo D",
         "posGrupo": 3
       },
       {
