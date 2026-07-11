@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T14:23:04.035Z",
+  "publicadoEn": "2026-07-11T14:33:03.168Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -2861,8 +2861,8 @@
               "away": "MALITOS",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 6,
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -2880,8 +2880,8 @@
               "away": "GANAMOS Y NOS VAMOS",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 5,
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -3125,8 +3125,8 @@
               "ordenFinal": 18
             },
             {
-              "home": "",
-              "away": "",
+              "home": "MALITOS",
+              "away": "GANAMOS Y NOS VAMOS",
               "sets": [
                 {
                   "hS": "",
@@ -3533,8 +3533,8 @@
               "away": "MANCHESTER PITY JR",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 15,
+                  "aS": 6
                 },
                 {
                   "hS": "",
@@ -3552,8 +3552,8 @@
               "away": "PINO JACINTO",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 15,
+                  "aS": 5
                 },
                 {
                   "hS": "",
@@ -3797,8 +3797,8 @@
               "ordenFinal": 18
             },
             {
-              "home": "",
-              "away": "",
+              "home": "CHUPYGRASKA",
+              "away": "ROYALEROS",
               "sets": [
                 {
                   "hS": "",
@@ -4155,8 +4155,8 @@
               "away": "SIN RED NO HAY PARAÍSO",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 15,
+                  "aS": 5
                 },
                 {
                   "hS": "",
@@ -4174,8 +4174,8 @@
               "away": "GORRO DE PISCINA NEGRO",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 0,
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -4286,8 +4286,8 @@
               "ordenFinal": 9
             },
             {
-              "home": "",
-              "away": "",
+              "home": "MBONANIS TEAM",
+              "away": "GORRO DE PISCINA NEGRO",
               "sets": [
                 {
                   "hS": "",
@@ -4449,7 +4449,7 @@
         }
       }
     },
-    "faseFinalActiva": "oro",
+    "faseFinalActiva": "bronce",
     "faseFinalGenerada": true,
     "cfgNumGrupos": 12,
     "lastPosicionEq": [
