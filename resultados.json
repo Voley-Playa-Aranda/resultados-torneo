@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T10:37:03.163Z",
+  "publicadoEn": "2026-07-11T10:39:04.346Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -981,13 +981,13 @@
         "equipos": [
           {
             "name": "EL CONVENTO DE SANTA TERESA",
-            "pts": 4,
-            "gf": 30,
-            "gc": 5,
-            "dg": 25,
-            "pj": 2,
+            "pts": 6,
+            "gf": 45,
+            "gc": 10,
+            "dg": 35,
+            "pj": 3,
             "ordenSorteo": 2,
-            "pg": 2
+            "pg": 3
           },
           {
             "name": "MENESTRA CON GINEBRA",
@@ -1011,11 +1011,11 @@
           },
           {
             "name": "CV SIESTA",
-            "pts": 3,
-            "gf": 25,
-            "gc": 31,
-            "dg": -6,
-            "pj": 2,
+            "pts": 4,
+            "gf": 30,
+            "gc": 46,
+            "dg": -16,
+            "pj": 3,
             "ordenSorteo": 4,
             "pg": 1
           },
@@ -1087,8 +1087,8 @@
               {
                 "home": "CV SIESTA",
                 "away": "EL CONVENTO DE SANTA TERESA",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 5,
+                "golesAway": 15,
                 "campoId": 0,
                 "ordenGlobal": 11
               }
@@ -1639,11 +1639,11 @@
           },
           {
             "name": "LA BATALLA DE LOS PELOS BASTARDOS",
-            "pts": 2,
-            "gf": 15,
-            "gc": 10,
-            "dg": 5,
-            "pj": 1,
+            "pts": 3,
+            "gf": 24,
+            "gc": 25,
+            "dg": -1,
+            "pj": 2,
             "ordenSorteo": 0,
             "pg": 1
           },
@@ -1658,6 +1658,16 @@
             "pg": 1
           },
           {
+            "name": "ROYALEROS",
+            "pts": 3,
+            "gf": 21,
+            "gc": 24,
+            "dg": -3,
+            "pj": 2,
+            "ordenSorteo": 3,
+            "pg": 1
+          },
+          {
             "name": "LA CASITA",
             "pts": 2,
             "gf": 22,
@@ -1665,16 +1675,6 @@
             "dg": -8,
             "pj": 2,
             "ordenSorteo": 4,
-            "pg": 0
-          },
-          {
-            "name": "ROYALEROS",
-            "pts": 1,
-            "gf": 6,
-            "gc": 15,
-            "dg": -9,
-            "pj": 1,
-            "ordenSorteo": 3,
             "pg": 0
           }
         ],
@@ -1727,8 +1727,8 @@
               {
                 "home": "LA BATALLA DE LOS PELOS BASTARDOS",
                 "away": "ROYALEROS",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 9,
+                "golesAway": 15,
                 "campoId": 4,
                 "ordenGlobal": 89
               },
@@ -1979,13 +1979,13 @@
     "lastGlobalEq": [
       {
         "name": "EL CONVENTO DE SANTA TERESA",
-        "pts": 4,
-        "gf": 30,
-        "gc": 5,
-        "dg": 25,
-        "pj": 2,
+        "pts": 6,
+        "gf": 45,
+        "gc": 10,
+        "dg": 35,
+        "pj": 3,
         "ordenSorteo": 2,
-        "pg": 2,
+        "pg": 3,
         "grupo": "Grupo G",
         "posGrupo": 1
       },
@@ -2131,18 +2131,6 @@
         "ordenSorteo": 1,
         "pg": 2,
         "grupo": "Grupo H",
-        "posGrupo": 2
-      },
-      {
-        "name": "LA BATALLA DE LOS PELOS BASTARDOS",
-        "pts": 2,
-        "gf": 15,
-        "gc": 10,
-        "dg": 5,
-        "pj": 1,
-        "ordenSorteo": 0,
-        "pg": 1,
-        "grupo": "Grupo K",
         "posGrupo": 2
       },
       {
@@ -2350,6 +2338,18 @@
         "posGrupo": 4
       },
       {
+        "name": "LA BATALLA DE LOS PELOS BASTARDOS",
+        "pts": 3,
+        "gf": 24,
+        "gc": 25,
+        "dg": -1,
+        "pj": 2,
+        "ordenSorteo": 0,
+        "pg": 1,
+        "grupo": "Grupo K",
+        "posGrupo": 2
+      },
+      {
         "name": "ASTON BIRRAS",
         "pts": 3,
         "gf": 25,
@@ -2384,6 +2384,18 @@
         "pg": 1,
         "grupo": "Grupo D",
         "posGrupo": 3
+      },
+      {
+        "name": "ROYALEROS",
+        "pts": 3,
+        "gf": 21,
+        "gc": 24,
+        "dg": -3,
+        "pj": 2,
+        "ordenSorteo": 3,
+        "pg": 1,
+        "grupo": "Grupo K",
+        "posGrupo": 4
       },
       {
         "name": "MENESTRA CON GINEBRA",
@@ -2446,18 +2458,6 @@
         "posGrupo": 3
       },
       {
-        "name": "CV SIESTA",
-        "pts": 3,
-        "gf": 25,
-        "gc": 31,
-        "dg": -6,
-        "pj": 2,
-        "ordenSorteo": 4,
-        "pg": 1,
-        "grupo": "Grupo G",
-        "posGrupo": 4
-      },
-      {
         "name": "CHUPYGRASKA",
         "pts": 3,
         "gf": 22,
@@ -2492,6 +2492,18 @@
         "pg": 1,
         "grupo": "Grupo A",
         "posGrupo": 3
+      },
+      {
+        "name": "CV SIESTA",
+        "pts": 4,
+        "gf": 30,
+        "gc": 46,
+        "dg": -16,
+        "pj": 3,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo G",
+        "posGrupo": 4
       },
       {
         "name": "CENTAUROS",
@@ -2551,7 +2563,7 @@
         "ordenSorteo": 4,
         "pg": 0,
         "grupo": "Grupo K",
-        "posGrupo": 4
+        "posGrupo": 5
       },
       {
         "name": "RIÑONES DE LECHE",
@@ -2659,18 +2671,6 @@
         "ordenSorteo": 3,
         "pg": 0,
         "grupo": "Grupo F",
-        "posGrupo": 5
-      },
-      {
-        "name": "ROYALEROS",
-        "pts": 1,
-        "gf": 6,
-        "gc": 15,
-        "dg": -9,
-        "pj": 1,
-        "ordenSorteo": 3,
-        "pg": 0,
-        "grupo": "Grupo K",
         "posGrupo": 5
       },
       {
@@ -2728,7 +2728,7 @@
     "expandedPartidos": {
       "grupo_4": false,
       "campo_4": false,
-      "campo_0": false,
+      "campo_0": true,
       "campo_3": false,
       "campo_1": false,
       "campo_2": false,
@@ -2743,13 +2743,13 @@
     "lastPosicionEq": [
       {
         "name": "EL CONVENTO DE SANTA TERESA",
-        "pts": 4,
-        "gf": 30,
-        "gc": 5,
-        "dg": 25,
-        "pj": 2,
+        "pts": 6,
+        "gf": 45,
+        "gc": 10,
+        "dg": 35,
+        "pj": 3,
         "ordenSorteo": 2,
-        "pg": 2,
+        "pg": 3,
         "grupo": "Grupo G",
         "posGrupo": 1
       },
@@ -2910,18 +2910,6 @@
         "posGrupo": 2
       },
       {
-        "name": "LA BATALLA DE LOS PELOS BASTARDOS",
-        "pts": 2,
-        "gf": 15,
-        "gc": 10,
-        "dg": 5,
-        "pj": 1,
-        "ordenSorteo": 0,
-        "pg": 1,
-        "grupo": "Grupo K",
-        "posGrupo": 2
-      },
-      {
         "name": "GANAMOS Y NOS VAMOS",
         "pts": 4,
         "gf": 30,
@@ -3015,6 +3003,18 @@
         "ordenSorteo": 0,
         "pg": 1,
         "grupo": "Grupo E",
+        "posGrupo": 2
+      },
+      {
+        "name": "LA BATALLA DE LOS PELOS BASTARDOS",
+        "pts": 3,
+        "gf": 24,
+        "gc": 25,
+        "dg": -1,
+        "pj": 2,
+        "ordenSorteo": 0,
+        "pg": 1,
+        "grupo": "Grupo K",
         "posGrupo": 2
       },
       {
@@ -3210,6 +3210,18 @@
         "posGrupo": 4
       },
       {
+        "name": "ROYALEROS",
+        "pts": 3,
+        "gf": 21,
+        "gc": 24,
+        "dg": -3,
+        "pj": 2,
+        "ordenSorteo": 3,
+        "pg": 1,
+        "grupo": "Grupo K",
+        "posGrupo": 4
+      },
+      {
         "name": "CARCAJADA",
         "pts": 3,
         "gf": 22,
@@ -3234,18 +3246,6 @@
         "posGrupo": 4
       },
       {
-        "name": "CV SIESTA",
-        "pts": 3,
-        "gf": 25,
-        "gc": 31,
-        "dg": -6,
-        "pj": 2,
-        "ordenSorteo": 4,
-        "pg": 1,
-        "grupo": "Grupo G",
-        "posGrupo": 4
-      },
-      {
         "name": "MANCHESTER PITY JR",
         "pts": 3,
         "gf": 18,
@@ -3255,6 +3255,18 @@
         "ordenSorteo": 1,
         "pg": 1,
         "grupo": "Grupo E",
+        "posGrupo": 4
+      },
+      {
+        "name": "CV SIESTA",
+        "pts": 4,
+        "gf": 30,
+        "gc": 46,
+        "dg": -16,
+        "pj": 3,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo G",
         "posGrupo": 4
       },
       {
@@ -3294,18 +3306,6 @@
         "posGrupo": 4
       },
       {
-        "name": "LA CASITA",
-        "pts": 2,
-        "gf": 22,
-        "gc": 30,
-        "dg": -8,
-        "pj": 2,
-        "ordenSorteo": 4,
-        "pg": 0,
-        "grupo": "Grupo K",
-        "posGrupo": 4
-      },
-      {
         "name": "RIÑONES DE LECHE",
         "pts": 2,
         "gf": 20,
@@ -3327,6 +3327,18 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo E",
+        "posGrupo": 5
+      },
+      {
+        "name": "LA CASITA",
+        "pts": 2,
+        "gf": 22,
+        "gc": 30,
+        "dg": -8,
+        "pj": 2,
+        "ordenSorteo": 4,
+        "pg": 0,
+        "grupo": "Grupo K",
         "posGrupo": 5
       },
       {
@@ -3423,18 +3435,6 @@
         "ordenSorteo": 3,
         "pg": 0,
         "grupo": "Grupo F",
-        "posGrupo": 5
-      },
-      {
-        "name": "ROYALEROS",
-        "pts": 1,
-        "gf": 6,
-        "gc": 15,
-        "dg": -9,
-        "pj": 1,
-        "ordenSorteo": 3,
-        "pg": 0,
-        "grupo": "Grupo K",
         "posGrupo": 5
       },
       {
