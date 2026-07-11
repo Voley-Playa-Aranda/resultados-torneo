@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T09:05:03.171Z",
+  "publicadoEn": "2026-07-11T09:07:03.157Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -1142,6 +1142,16 @@
         "nombre": "Grupo H",
         "equipos": [
           {
+            "name": "PRESS PANZA",
+            "pts": 2,
+            "gf": 15,
+            "gc": 5,
+            "dg": 10,
+            "pj": 1,
+            "ordenSorteo": 3,
+            "pg": 1
+          },
+          {
             "name": "GUSANOS GAFONES",
             "pts": 2,
             "gf": 15,
@@ -1163,22 +1173,12 @@
           },
           {
             "name": "GORRO DE PISCINA NEGRO",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
+            "pts": 1,
+            "gf": 5,
+            "gc": 15,
+            "dg": -10,
+            "pj": 1,
             "ordenSorteo": 2,
-            "pg": 0
-          },
-          {
-            "name": "PRESS PANZA",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 3,
             "pg": 0
           },
           {
@@ -1207,8 +1207,8 @@
               {
                 "home": "GORRO DE PISCINA NEGRO",
                 "away": "PRESS PANZA",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 5,
+                "golesAway": 15,
                 "campoId": 1,
                 "ordenGlobal": 23
               }
@@ -1790,6 +1790,16 @@
         "nombre": "Grupo L",
         "equipos": [
           {
+            "name": "ASÍ DE PEQUEÑITOS",
+            "pts": 2,
+            "gf": 15,
+            "gc": 5,
+            "dg": 10,
+            "pj": 1,
+            "ordenSorteo": 2,
+            "pg": 1
+          },
+          {
             "name": "EL TAMAÑO NO IMPORTA",
             "pts": 2,
             "gf": 15,
@@ -1810,22 +1820,12 @@
             "pg": 0
           },
           {
-            "name": "ASÍ DE PEQUEÑITOS",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 2,
-            "pg": 0
-          },
-          {
             "name": "TE EMPAQUETO",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
+            "pts": 1,
+            "gf": 5,
+            "gc": 15,
+            "dg": -10,
+            "pj": 1,
             "ordenSorteo": 3,
             "pg": 0
           },
@@ -1855,8 +1855,8 @@
               {
                 "home": "ASÍ DE PEQUEÑITOS",
                 "away": "TE EMPAQUETO",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 15,
+                "golesAway": 5,
                 "campoId": 5,
                 "ordenGlobal": 103
               }
@@ -2014,6 +2014,18 @@
         "posGrupo": 1
       },
       {
+        "name": "ASÍ DE PEQUEÑITOS",
+        "pts": 2,
+        "gf": 15,
+        "gc": 5,
+        "dg": 10,
+        "pj": 1,
+        "ordenSorteo": 2,
+        "pg": 1,
+        "grupo": "Grupo L",
+        "posGrupo": 1
+      },
+      {
         "name": "ASOCIACIÓN DE DRAGONES AMERICANOS",
         "pts": 2,
         "gf": 15,
@@ -2026,6 +2038,18 @@
         "posGrupo": 1
       },
       {
+        "name": "PRESS PANZA",
+        "pts": 2,
+        "gf": 15,
+        "gc": 5,
+        "dg": 10,
+        "pj": 1,
+        "ordenSorteo": 3,
+        "pg": 1,
+        "grupo": "Grupo H",
+        "posGrupo": 1
+      },
+      {
         "name": "EL TAMAÑO NO IMPORTA",
         "pts": 2,
         "gf": 15,
@@ -2035,7 +2059,7 @@
         "ordenSorteo": 1,
         "pg": 1,
         "grupo": "Grupo L",
-        "posGrupo": 1
+        "posGrupo": 2
       },
       {
         "name": "NOTTINGHAN PRISAS",
@@ -2143,7 +2167,7 @@
         "ordenSorteo": 1,
         "pg": 1,
         "grupo": "Grupo H",
-        "posGrupo": 1
+        "posGrupo": 2
       },
       {
         "name": "MALITOS",
@@ -2263,7 +2287,7 @@
         "ordenSorteo": 4,
         "pg": 0,
         "grupo": "Grupo H",
-        "posGrupo": 2
+        "posGrupo": 3
       },
       {
         "name": "LA CASITA",
@@ -2359,7 +2383,7 @@
         "ordenSorteo": 4,
         "pg": 0,
         "grupo": "Grupo L",
-        "posGrupo": 2
+        "posGrupo": 3
       },
       {
         "name": "MBONANIS TEAM",
@@ -2398,6 +2422,30 @@
         "posGrupo": 4
       },
       {
+        "name": "GORRO DE PISCINA NEGRO",
+        "pts": 1,
+        "gf": 5,
+        "gc": 15,
+        "dg": -10,
+        "pj": 1,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo H",
+        "posGrupo": 4
+      },
+      {
+        "name": "TE EMPAQUETO",
+        "pts": 1,
+        "gf": 5,
+        "gc": 15,
+        "dg": -10,
+        "pj": 1,
+        "ordenSorteo": 3,
+        "pg": 0,
+        "grupo": "Grupo L",
+        "posGrupo": 4
+      },
+      {
         "name": "MANCHESTER PITY JR",
         "pts": 1,
         "gf": 3,
@@ -2432,18 +2480,6 @@
         "pg": 0,
         "grupo": "Grupo A",
         "posGrupo": 4
-      },
-      {
-        "name": "ASÍ DE PEQUEÑITOS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo L",
-        "posGrupo": 3
       },
       {
         "name": "CHACALES",
@@ -2491,18 +2527,6 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo K",
-        "posGrupo": 3
-      },
-      {
-        "name": "GORRO DE PISCINA NEGRO",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo H",
         "posGrupo": 3
       },
       {
@@ -2578,18 +2602,6 @@
         "posGrupo": 5
       },
       {
-        "name": "PRESS PANZA",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 3,
-        "pg": 0,
-        "grupo": "Grupo H",
-        "posGrupo": 4
-      },
-      {
         "name": "RECEPCIÓN OPCIONAL",
         "pts": 0,
         "gf": 0,
@@ -2659,18 +2671,6 @@
         "ordenSorteo": 3,
         "pg": 0,
         "grupo": "Grupo J",
-        "posGrupo": 4
-      },
-      {
-        "name": "TE EMPAQUETO",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 3,
-        "pg": 0,
-        "grupo": "Grupo L",
         "posGrupo": 4
       },
       {
@@ -2778,6 +2778,18 @@
         "posGrupo": 1
       },
       {
+        "name": "ASÍ DE PEQUEÑITOS",
+        "pts": 2,
+        "gf": 15,
+        "gc": 5,
+        "dg": 10,
+        "pj": 1,
+        "ordenSorteo": 2,
+        "pg": 1,
+        "grupo": "Grupo L",
+        "posGrupo": 1
+      },
+      {
         "name": "ASOCIACIÓN DE DRAGONES AMERICANOS",
         "pts": 2,
         "gf": 15,
@@ -2790,15 +2802,15 @@
         "posGrupo": 1
       },
       {
-        "name": "EL TAMAÑO NO IMPORTA",
+        "name": "PRESS PANZA",
         "pts": 2,
         "gf": 15,
-        "gc": 6,
-        "dg": 9,
+        "gc": 5,
+        "dg": 10,
         "pj": 1,
-        "ordenSorteo": 1,
+        "ordenSorteo": 3,
         "pg": 1,
-        "grupo": "Grupo L",
+        "grupo": "Grupo H",
         "posGrupo": 1
       },
       {
@@ -2862,18 +2874,6 @@
         "posGrupo": 1
       },
       {
-        "name": "GUSANOS GAFONES",
-        "pts": 2,
-        "gf": 15,
-        "gc": 12,
-        "dg": 3,
-        "pj": 1,
-        "ordenSorteo": 1,
-        "pg": 1,
-        "grupo": "Grupo H",
-        "posGrupo": 1
-      },
-      {
         "name": "MALITOS",
         "pts": 2,
         "gf": 15,
@@ -2884,6 +2884,18 @@
         "pg": 1,
         "grupo": "Grupo J",
         "posGrupo": 1
+      },
+      {
+        "name": "EL TAMAÑO NO IMPORTA",
+        "pts": 2,
+        "gf": 15,
+        "gc": 6,
+        "dg": 9,
+        "pj": 1,
+        "ordenSorteo": 1,
+        "pg": 1,
+        "grupo": "Grupo L",
+        "posGrupo": 2
       },
       {
         "name": "NOTTINGHAN PRISAS",
@@ -2919,6 +2931,18 @@
         "ordenSorteo": 2,
         "pg": 1,
         "grupo": "Grupo D",
+        "posGrupo": 2
+      },
+      {
+        "name": "GUSANOS GAFONES",
+        "pts": 2,
+        "gf": 15,
+        "gc": 12,
+        "dg": 3,
+        "pj": 1,
+        "ordenSorteo": 1,
+        "pg": 1,
+        "grupo": "Grupo H",
         "posGrupo": 2
       },
       {
@@ -2970,18 +2994,6 @@
         "posGrupo": 2
       },
       {
-        "name": "EL PODER DE LA PIEDRA",
-        "pts": 1,
-        "gf": 12,
-        "gc": 15,
-        "dg": -3,
-        "pj": 1,
-        "ordenSorteo": 4,
-        "pg": 0,
-        "grupo": "Grupo H",
-        "posGrupo": 2
-      },
-      {
         "name": "LA CASITA",
         "pts": 1,
         "gf": 12,
@@ -3015,18 +3027,6 @@
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo I",
-        "posGrupo": 2
-      },
-      {
-        "name": "LOS ROMPEBOLAS",
-        "pts": 1,
-        "gf": 6,
-        "gc": 15,
-        "dg": -9,
-        "pj": 1,
-        "ordenSorteo": 4,
-        "pg": 0,
-        "grupo": "Grupo L",
         "posGrupo": 2
       },
       {
@@ -3078,6 +3078,18 @@
         "posGrupo": 3
       },
       {
+        "name": "EL PODER DE LA PIEDRA",
+        "pts": 1,
+        "gf": 12,
+        "gc": 15,
+        "dg": -3,
+        "pj": 1,
+        "ordenSorteo": 4,
+        "pg": 0,
+        "grupo": "Grupo H",
+        "posGrupo": 3
+      },
+      {
         "name": "MANCHESTER PITY",
         "pts": 1,
         "gf": 11,
@@ -3102,6 +3114,18 @@
         "posGrupo": 3
       },
       {
+        "name": "LOS ROMPEBOLAS",
+        "pts": 1,
+        "gf": 6,
+        "gc": 15,
+        "dg": -9,
+        "pj": 1,
+        "ordenSorteo": 4,
+        "pg": 0,
+        "grupo": "Grupo L",
+        "posGrupo": 3
+      },
+      {
         "name": "PINO JACINTO",
         "pts": 1,
         "gf": 6,
@@ -3111,18 +3135,6 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo A",
-        "posGrupo": 3
-      },
-      {
-        "name": "ASÍ DE PEQUEÑITOS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo L",
         "posGrupo": 3
       },
       {
@@ -3147,18 +3159,6 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo K",
-        "posGrupo": 3
-      },
-      {
-        "name": "GORRO DE PISCINA NEGRO",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo H",
         "posGrupo": 3
       },
       {
@@ -3222,6 +3222,30 @@
         "posGrupo": 4
       },
       {
+        "name": "GORRO DE PISCINA NEGRO",
+        "pts": 1,
+        "gf": 5,
+        "gc": 15,
+        "dg": -10,
+        "pj": 1,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo H",
+        "posGrupo": 4
+      },
+      {
+        "name": "TE EMPAQUETO",
+        "pts": 1,
+        "gf": 5,
+        "gc": 15,
+        "dg": -10,
+        "pj": 1,
+        "ordenSorteo": 3,
+        "pg": 0,
+        "grupo": "Grupo L",
+        "posGrupo": 4
+      },
+      {
         "name": "MANCHESTER PITY JR",
         "pts": 1,
         "gf": 3,
@@ -3282,18 +3306,6 @@
         "posGrupo": 4
       },
       {
-        "name": "PRESS PANZA",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 3,
-        "pg": 0,
-        "grupo": "Grupo H",
-        "posGrupo": 4
-      },
-      {
         "name": "SUBESELA AL HEAVY",
         "pts": 0,
         "gf": 0,
@@ -3303,18 +3315,6 @@
         "ordenSorteo": 3,
         "pg": 0,
         "grupo": "Grupo J",
-        "posGrupo": 4
-      },
-      {
-        "name": "TE EMPAQUETO",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 3,
-        "pg": 0,
-        "grupo": "Grupo L",
         "posGrupo": 4
       },
       {
