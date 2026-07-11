@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T09:39:03.173Z",
+  "publicadoEn": "2026-07-11T09:41:03.160Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -1811,13 +1811,13 @@
           },
           {
             "name": "LOS ROMPEBOLAS",
-            "pts": 1,
-            "gf": 6,
-            "gc": 15,
-            "dg": -9,
-            "pj": 1,
+            "pts": 3,
+            "gf": 21,
+            "gc": 20,
+            "dg": 1,
+            "pj": 2,
             "ordenSorteo": 4,
-            "pg": 0
+            "pg": 1
           },
           {
             "name": "TE EMPAQUETO",
@@ -1831,11 +1831,11 @@
           },
           {
             "name": "VODKA JUNIORS",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
+            "pts": 1,
+            "gf": 5,
+            "gc": 15,
+            "dg": -10,
+            "pj": 1,
             "ordenSorteo": 0,
             "pg": 0
           }
@@ -1868,8 +1868,8 @@
               {
                 "home": "VODKA JUNIORS",
                 "away": "LOS ROMPEBOLAS",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 5,
+                "golesAway": 15,
                 "campoId": 5,
                 "ordenGlobal": 105
               },
@@ -2302,6 +2302,18 @@
         "posGrupo": 3
       },
       {
+        "name": "LOS ROMPEBOLAS",
+        "pts": 3,
+        "gf": 21,
+        "gc": 20,
+        "dg": 1,
+        "pj": 2,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo L",
+        "posGrupo": 3
+      },
+      {
         "name": "LOS BURPEES BOYS BYIMPROVEFIT",
         "pts": 3,
         "gf": 23,
@@ -2554,18 +2566,6 @@
         "posGrupo": 4
       },
       {
-        "name": "LOS ROMPEBOLAS",
-        "pts": 1,
-        "gf": 6,
-        "gc": 15,
-        "dg": -9,
-        "pj": 1,
-        "ordenSorteo": 4,
-        "pg": 0,
-        "grupo": "Grupo L",
-        "posGrupo": 3
-      },
-      {
         "name": "MBONANIS TEAM",
         "pts": 1,
         "gf": 6,
@@ -2626,6 +2626,18 @@
         "posGrupo": 4
       },
       {
+        "name": "VODKA JUNIORS",
+        "pts": 1,
+        "gf": 5,
+        "gc": 15,
+        "dg": -10,
+        "pj": 1,
+        "ordenSorteo": 0,
+        "pg": 0,
+        "grupo": "Grupo L",
+        "posGrupo": 5
+      },
+      {
         "name": "MANCHESTER PITY JR",
         "pts": 1,
         "gf": 3,
@@ -2671,18 +2683,6 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo K",
-        "posGrupo": 5
-      },
-      {
-        "name": "VODKA JUNIORS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo L",
         "posGrupo": 5
       },
       {
@@ -3066,6 +3066,18 @@
         "posGrupo": 3
       },
       {
+        "name": "LOS ROMPEBOLAS",
+        "pts": 3,
+        "gf": 21,
+        "gc": 20,
+        "dg": 1,
+        "pj": 2,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo L",
+        "posGrupo": 3
+      },
+      {
         "name": "LOS BURPEES BOYS BYIMPROVEFIT",
         "pts": 3,
         "gf": 23,
@@ -3159,18 +3171,6 @@
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo D",
-        "posGrupo": 3
-      },
-      {
-        "name": "LOS ROMPEBOLAS",
-        "pts": 1,
-        "gf": 6,
-        "gc": 15,
-        "dg": -9,
-        "pj": 1,
-        "ordenSorteo": 4,
-        "pg": 0,
-        "grupo": "Grupo L",
         "posGrupo": 3
       },
       {
@@ -3390,6 +3390,18 @@
         "posGrupo": 5
       },
       {
+        "name": "VODKA JUNIORS",
+        "pts": 1,
+        "gf": 5,
+        "gc": 15,
+        "dg": -10,
+        "pj": 1,
+        "ordenSorteo": 0,
+        "pg": 0,
+        "grupo": "Grupo L",
+        "posGrupo": 5
+      },
+      {
         "name": "MANCHESTER PITY JR",
         "pts": 1,
         "gf": 3,
@@ -3435,18 +3447,6 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo K",
-        "posGrupo": 5
-      },
-      {
-        "name": "VODKA JUNIORS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo L",
         "posGrupo": 5
       },
       {
