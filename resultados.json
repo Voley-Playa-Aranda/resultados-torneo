@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T09:13:03.159Z",
+  "publicadoEn": "2026-07-11T09:15:03.158Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -1628,6 +1628,16 @@
         "nombre": "Grupo K",
         "equipos": [
           {
+            "name": "GLUTEN FREE",
+            "pts": 2,
+            "gf": 15,
+            "gc": 6,
+            "dg": 9,
+            "pj": 1,
+            "ordenSorteo": 2,
+            "pg": 1
+          },
+          {
             "name": "ASTON BIRRAS",
             "pts": 2,
             "gf": 15,
@@ -1648,13 +1658,13 @@
             "pg": 0
           },
           {
-            "name": "GLUTEN FREE",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 2,
+            "name": "ROYALEROS",
+            "pts": 1,
+            "gf": 6,
+            "gc": 15,
+            "dg": -9,
+            "pj": 1,
+            "ordenSorteo": 3,
             "pg": 0
           },
           {
@@ -1665,16 +1675,6 @@
             "dg": 0,
             "pj": 0,
             "ordenSorteo": 0,
-            "pg": 0
-          },
-          {
-            "name": "ROYALEROS",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 3,
             "pg": 0
           }
         ],
@@ -1693,8 +1693,8 @@
               {
                 "home": "GLUTEN FREE",
                 "away": "ROYALEROS",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 15,
+                "golesAway": 6,
                 "campoId": 4,
                 "ordenGlobal": 83
               }
@@ -2050,6 +2050,18 @@
         "posGrupo": 2
       },
       {
+        "name": "GLUTEN FREE",
+        "pts": 2,
+        "gf": 15,
+        "gc": 6,
+        "dg": 9,
+        "pj": 1,
+        "ordenSorteo": 2,
+        "pg": 1,
+        "grupo": "Grupo K",
+        "posGrupo": 1
+      },
+      {
         "name": "NOTTINGHAN PRISAS",
         "pts": 2,
         "gf": 15,
@@ -2167,7 +2179,7 @@
         "ordenSorteo": 1,
         "pg": 1,
         "grupo": "Grupo K",
-        "posGrupo": 1
+        "posGrupo": 2
       },
       {
         "name": "GUSANOS GAFONES",
@@ -2323,7 +2335,7 @@
         "ordenSorteo": 4,
         "pg": 0,
         "grupo": "Grupo K",
-        "posGrupo": 2
+        "posGrupo": 3
       },
       {
         "name": "LOS ROOKIES",
@@ -2446,6 +2458,18 @@
         "posGrupo": 4
       },
       {
+        "name": "ROYALEROS",
+        "pts": 1,
+        "gf": 6,
+        "gc": 15,
+        "dg": -9,
+        "pj": 1,
+        "ordenSorteo": 3,
+        "pg": 0,
+        "grupo": "Grupo K",
+        "posGrupo": 4
+      },
+      {
         "name": "CAÍDA LIBRE VOLEY",
         "pts": 1,
         "gf": 5,
@@ -2554,18 +2578,6 @@
         "posGrupo": 5
       },
       {
-        "name": "GLUTEN FREE",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo K",
-        "posGrupo": 3
-      },
-      {
         "name": "LA BATALLA DE LOS PELOS BASTARDOS",
         "pts": 0,
         "gf": 0,
@@ -2575,7 +2587,7 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo K",
-        "posGrupo": 4
+        "posGrupo": 5
       },
       {
         "name": "LO VEO CLARO",
@@ -2647,18 +2659,6 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo H",
-        "posGrupo": 5
-      },
-      {
-        "name": "ROYALEROS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 3,
-        "pg": 0,
-        "grupo": "Grupo K",
         "posGrupo": 5
       },
       {
@@ -2802,6 +2802,18 @@
         "posGrupo": 1
       },
       {
+        "name": "GLUTEN FREE",
+        "pts": 2,
+        "gf": 15,
+        "gc": 6,
+        "dg": 9,
+        "pj": 1,
+        "ordenSorteo": 2,
+        "pg": 1,
+        "grupo": "Grupo K",
+        "posGrupo": 1
+      },
+      {
         "name": "NOTTINGHAN PRISAS",
         "pts": 2,
         "gf": 15,
@@ -2859,18 +2871,6 @@
         "ordenSorteo": 4,
         "pg": 1,
         "grupo": "Grupo D",
-        "posGrupo": 1
-      },
-      {
-        "name": "ASTON BIRRAS",
-        "pts": 2,
-        "gf": 15,
-        "gc": 12,
-        "dg": 3,
-        "pj": 1,
-        "ordenSorteo": 1,
-        "pg": 1,
-        "grupo": "Grupo K",
         "posGrupo": 1
       },
       {
@@ -2946,6 +2946,18 @@
         "posGrupo": 2
       },
       {
+        "name": "ASTON BIRRAS",
+        "pts": 2,
+        "gf": 15,
+        "gc": 12,
+        "dg": 3,
+        "pj": 1,
+        "ordenSorteo": 1,
+        "pg": 1,
+        "grupo": "Grupo K",
+        "posGrupo": 2
+      },
+      {
         "name": "GUSANOS GAFONES",
         "pts": 2,
         "gf": 15,
@@ -3003,18 +3015,6 @@
         "ordenSorteo": 2,
         "pg": 1,
         "grupo": "Grupo C",
-        "posGrupo": 2
-      },
-      {
-        "name": "LA CASITA",
-        "pts": 1,
-        "gf": 12,
-        "gc": 15,
-        "dg": -3,
-        "pj": 1,
-        "ordenSorteo": 4,
-        "pg": 0,
-        "grupo": "Grupo K",
         "posGrupo": 2
       },
       {
@@ -3102,6 +3102,18 @@
         "posGrupo": 3
       },
       {
+        "name": "LA CASITA",
+        "pts": 1,
+        "gf": 12,
+        "gc": 15,
+        "dg": -3,
+        "pj": 1,
+        "ordenSorteo": 4,
+        "pg": 0,
+        "grupo": "Grupo K",
+        "posGrupo": 3
+      },
+      {
         "name": "MANCHESTER PITY",
         "pts": 1,
         "gf": 11,
@@ -3159,18 +3171,6 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo J",
-        "posGrupo": 3
-      },
-      {
-        "name": "GLUTEN FREE",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo K",
         "posGrupo": 3
       },
       {
@@ -3234,6 +3234,18 @@
         "posGrupo": 4
       },
       {
+        "name": "ROYALEROS",
+        "pts": 1,
+        "gf": 6,
+        "gc": 15,
+        "dg": -9,
+        "pj": 1,
+        "ordenSorteo": 3,
+        "pg": 0,
+        "grupo": "Grupo K",
+        "posGrupo": 4
+      },
+      {
         "name": "CAÍDA LIBRE VOLEY",
         "pts": 1,
         "gf": 5,
@@ -3294,18 +3306,6 @@
         "posGrupo": 4
       },
       {
-        "name": "LA BATALLA DE LOS PELOS BASTARDOS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo K",
-        "posGrupo": 4
-      },
-      {
         "name": "SUBESELA AL HEAVY",
         "pts": 0,
         "gf": 0,
@@ -3351,6 +3351,18 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo F",
+        "posGrupo": 5
+      },
+      {
+        "name": "LA BATALLA DE LOS PELOS BASTARDOS",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 0,
+        "pg": 0,
+        "grupo": "Grupo K",
         "posGrupo": 5
       },
       {
@@ -3423,18 +3435,6 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo H",
-        "posGrupo": 5
-      },
-      {
-        "name": "ROYALEROS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 3,
-        "pg": 0,
-        "grupo": "Grupo K",
         "posGrupo": 5
       },
       {
