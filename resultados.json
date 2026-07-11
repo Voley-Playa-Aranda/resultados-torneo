@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T12:13:03.157Z",
+  "publicadoEn": "2026-07-11T12:15:03.172Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -181,13 +181,13 @@
           },
           {
             "name": "DEMENCIA PERMANENTE CYL",
-            "pts": 5,
-            "gf": 42,
-            "gc": 32,
-            "dg": 10,
-            "pj": 3,
+            "pts": 7,
+            "gf": 57,
+            "gc": 44,
+            "dg": 13,
+            "pj": 4,
             "ordenSorteo": 0,
-            "pg": 2
+            "pg": 3
           },
           {
             "name": "CORCHOPANES",
@@ -201,11 +201,11 @@
           },
           {
             "name": "PESOS PESADOS",
-            "pts": 4,
-            "gf": 37,
-            "gc": 46,
-            "dg": -9,
-            "pj": 3,
+            "pts": 5,
+            "gf": 49,
+            "gc": 61,
+            "dg": -12,
+            "pj": 4,
             "ordenSorteo": 1,
             "pg": 1
           },
@@ -311,8 +311,8 @@
               {
                 "home": "DEMENCIA PERMANENTE CYL",
                 "away": "PESOS PESADOS",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 15,
+                "golesAway": 12,
                 "campoId": 1,
                 "ordenGlobal": 36
               },
@@ -2122,6 +2122,18 @@
         "posGrupo": 2
       },
       {
+        "name": "DEMENCIA PERMANENTE CYL",
+        "pts": 7,
+        "gf": 57,
+        "gc": 44,
+        "dg": 13,
+        "pj": 4,
+        "ordenSorteo": 0,
+        "pg": 3,
+        "grupo": "Grupo B",
+        "posGrupo": 2
+      },
+      {
         "name": "EL CLAN DE LOS LOZANO",
         "pts": 7,
         "gf": 62,
@@ -2180,18 +2192,6 @@
         "pg": 2,
         "grupo": "Grupo H",
         "posGrupo": 3
-      },
-      {
-        "name": "DEMENCIA PERMANENTE CYL",
-        "pts": 5,
-        "gf": 42,
-        "gc": 32,
-        "dg": 10,
-        "pj": 3,
-        "ordenSorteo": 0,
-        "pg": 2,
-        "grupo": "Grupo B",
-        "posGrupo": 2
       },
       {
         "name": "GANAMOS Y NOS VAMOS",
@@ -2458,18 +2458,6 @@
         "posGrupo": 4
       },
       {
-        "name": "PESOS PESADOS",
-        "pts": 4,
-        "gf": 37,
-        "gc": 46,
-        "dg": -9,
-        "pj": 3,
-        "ordenSorteo": 1,
-        "pg": 1,
-        "grupo": "Grupo B",
-        "posGrupo": 4
-      },
-      {
         "name": "LOS ROMPEBOLAS",
         "pts": 4,
         "gf": 26,
@@ -2552,6 +2540,18 @@
         "pg": 1,
         "grupo": "Grupo C",
         "posGrupo": 5
+      },
+      {
+        "name": "PESOS PESADOS",
+        "pts": 5,
+        "gf": 49,
+        "gc": 61,
+        "dg": -12,
+        "pj": 4,
+        "ordenSorteo": 1,
+        "pg": 1,
+        "grupo": "Grupo B",
+        "posGrupo": 4
       },
       {
         "name": "PINO JACINTO",
@@ -2730,8 +2730,8 @@
       "campo_4": false,
       "campo_0": false,
       "campo_3": false,
-      "campo_1": false,
-      "campo_2": true,
+      "campo_1": true,
+      "campo_2": false,
       "campo_5": false,
       "grupo_0": false
     },
@@ -2911,6 +2911,18 @@
         "posGrupo": 2
       },
       {
+        "name": "DEMENCIA PERMANENTE CYL",
+        "pts": 7,
+        "gf": 57,
+        "gc": 44,
+        "dg": 13,
+        "pj": 4,
+        "ordenSorteo": 0,
+        "pg": 3,
+        "grupo": "Grupo B",
+        "posGrupo": 2
+      },
+      {
         "name": "PROHIBIDO DIVERTIRSE",
         "pts": 7,
         "gf": 57,
@@ -2944,18 +2956,6 @@
         "ordenSorteo": 0,
         "pg": 2,
         "grupo": "Grupo E",
-        "posGrupo": 2
-      },
-      {
-        "name": "DEMENCIA PERMANENTE CYL",
-        "pts": 5,
-        "gf": 42,
-        "gc": 32,
-        "dg": 10,
-        "pj": 3,
-        "ordenSorteo": 0,
-        "pg": 2,
-        "grupo": "Grupo B",
         "posGrupo": 2
       },
       {
@@ -3235,18 +3235,6 @@
         "posGrupo": 4
       },
       {
-        "name": "PESOS PESADOS",
-        "pts": 4,
-        "gf": 37,
-        "gc": 46,
-        "dg": -9,
-        "pj": 3,
-        "ordenSorteo": 1,
-        "pg": 1,
-        "grupo": "Grupo B",
-        "posGrupo": 4
-      },
-      {
         "name": "LOS ROMPEBOLAS",
         "pts": 4,
         "gf": 26,
@@ -3316,6 +3304,18 @@
         "ordenSorteo": 2,
         "pg": 1,
         "grupo": "Grupo J",
+        "posGrupo": 4
+      },
+      {
+        "name": "PESOS PESADOS",
+        "pts": 5,
+        "gf": 49,
+        "gc": 61,
+        "dg": -12,
+        "pj": 4,
+        "ordenSorteo": 1,
+        "pg": 1,
+        "grupo": "Grupo B",
         "posGrupo": 4
       },
       {
