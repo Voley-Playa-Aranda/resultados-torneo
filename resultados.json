@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T09:27:03.164Z",
+  "publicadoEn": "2026-07-11T09:29:03.157Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -657,13 +657,13 @@
         "equipos": [
           {
             "name": "ABANTO",
-            "pts": 2,
-            "gf": 15,
-            "gc": 3,
-            "dg": 12,
-            "pj": 1,
+            "pts": 4,
+            "gf": 30,
+            "gc": 11,
+            "dg": 19,
+            "pj": 2,
             "ordenSorteo": 4,
-            "pg": 1
+            "pg": 2
           },
           {
             "name": "CHUPYGRASKA",
@@ -686,6 +686,16 @@
             "pg": 0
           },
           {
+            "name": "PEGRILOSAS",
+            "pts": 1,
+            "gf": 8,
+            "gc": 15,
+            "dg": -7,
+            "pj": 1,
+            "ordenSorteo": 0,
+            "pg": 0
+          },
+          {
             "name": "MANCHESTER PITY JR",
             "pts": 1,
             "gf": 3,
@@ -693,16 +703,6 @@
             "dg": -12,
             "pj": 1,
             "ordenSorteo": 1,
-            "pg": 0
-          },
-          {
-            "name": "PEGRILOSAS",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 0,
             "pg": 0
           }
         ],
@@ -734,8 +734,8 @@
               {
                 "home": "PEGRILOSAS",
                 "away": "ABANTO",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 8,
+                "golesAway": 15,
                 "campoId": 4,
                 "ordenGlobal": 84
               },
@@ -896,7 +896,7 @@
               {
                 "home": "EL CLAN DE LOS LOZANO",
                 "away": "CENTAUROS",
-                "golesHome": "",
+                "golesHome": 18,
                 "golesAway": "",
                 "campoId": 5,
                 "ordenGlobal": 104
@@ -1978,18 +1978,6 @@
     "lineasEquipos": [],
     "lastGlobalEq": [
       {
-        "name": "ABANTO",
-        "pts": 2,
-        "gf": 15,
-        "gc": 3,
-        "dg": 12,
-        "pj": 1,
-        "ordenSorteo": 4,
-        "pg": 1,
-        "grupo": "Grupo E",
-        "posGrupo": 1
-      },
-      {
         "name": "EL CONVENTO DE SANTA TERESA",
         "pts": 2,
         "gf": 15,
@@ -2035,6 +2023,18 @@
         "ordenSorteo": 3,
         "pg": 1,
         "grupo": "Grupo H",
+        "posGrupo": 1
+      },
+      {
+        "name": "ABANTO",
+        "pts": 4,
+        "gf": 30,
+        "gc": 11,
+        "dg": 19,
+        "pj": 2,
+        "ordenSorteo": 4,
+        "pg": 2,
+        "grupo": "Grupo E",
         "posGrupo": 1
       },
       {
@@ -2482,6 +2482,18 @@
         "posGrupo": 4
       },
       {
+        "name": "PEGRILOSAS",
+        "pts": 1,
+        "gf": 8,
+        "gc": 15,
+        "dg": -7,
+        "pj": 1,
+        "ordenSorteo": 0,
+        "pg": 0,
+        "grupo": "Grupo E",
+        "posGrupo": 4
+      },
+      {
         "name": "LOS ROMPEBOLAS",
         "pts": 1,
         "gf": 6,
@@ -2575,7 +2587,7 @@
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo E",
-        "posGrupo": 4
+        "posGrupo": 5
       },
       {
         "name": "MENESTRA CON GINEBRA",
@@ -2647,18 +2659,6 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo D",
-        "posGrupo": 5
-      },
-      {
-        "name": "PEGRILOSAS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo E",
         "posGrupo": 5
       },
       {
@@ -2732,7 +2732,7 @@
       "campo_3": false,
       "campo_1": false,
       "campo_2": false,
-      "campo_5": false,
+      "campo_5": true,
       "grupo_0": false
     },
     "expandedClasificaciones": {},
@@ -2741,18 +2741,6 @@
     "faseFinalGenerada": false,
     "cfgNumGrupos": 12,
     "lastPosicionEq": [
-      {
-        "name": "ABANTO",
-        "pts": 2,
-        "gf": 15,
-        "gc": 3,
-        "dg": 12,
-        "pj": 1,
-        "ordenSorteo": 4,
-        "pg": 1,
-        "grupo": "Grupo E",
-        "posGrupo": 1
-      },
       {
         "name": "EL CONVENTO DE SANTA TERESA",
         "pts": 2,
@@ -2799,6 +2787,18 @@
         "ordenSorteo": 3,
         "pg": 1,
         "grupo": "Grupo H",
+        "posGrupo": 1
+      },
+      {
+        "name": "ABANTO",
+        "pts": 4,
+        "gf": 30,
+        "gc": 11,
+        "dg": 19,
+        "pj": 2,
+        "ordenSorteo": 4,
+        "pg": 2,
+        "grupo": "Grupo E",
         "posGrupo": 1
       },
       {
@@ -3246,6 +3246,18 @@
         "posGrupo": 4
       },
       {
+        "name": "PEGRILOSAS",
+        "pts": 1,
+        "gf": 8,
+        "gc": 15,
+        "dg": -7,
+        "pj": 1,
+        "ordenSorteo": 0,
+        "pg": 0,
+        "grupo": "Grupo E",
+        "posGrupo": 4
+      },
+      {
         "name": "PINO JACINTO",
         "pts": 1,
         "gf": 6,
@@ -3306,18 +3318,6 @@
         "posGrupo": 4
       },
       {
-        "name": "MANCHESTER PITY JR",
-        "pts": 1,
-        "gf": 3,
-        "gc": 15,
-        "dg": -12,
-        "pj": 1,
-        "ordenSorteo": 1,
-        "pg": 0,
-        "grupo": "Grupo E",
-        "posGrupo": 4
-      },
-      {
         "name": "LOS CERDITOS FIESTEROS",
         "pts": 1,
         "gf": 11,
@@ -3339,6 +3339,18 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo B",
+        "posGrupo": 5
+      },
+      {
+        "name": "MANCHESTER PITY JR",
+        "pts": 1,
+        "gf": 3,
+        "gc": 15,
+        "dg": -12,
+        "pj": 1,
+        "ordenSorteo": 1,
+        "pg": 0,
+        "grupo": "Grupo E",
         "posGrupo": 5
       },
       {
@@ -3411,18 +3423,6 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo D",
-        "posGrupo": 5
-      },
-      {
-        "name": "PEGRILOSAS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo E",
         "posGrupo": 5
       },
       {
