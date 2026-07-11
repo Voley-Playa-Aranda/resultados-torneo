@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T08:29:03.171Z",
+  "publicadoEn": "2026-07-11T08:31:03.150Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -818,6 +818,26 @@
         "nombre": "Grupo F",
         "equipos": [
           {
+            "name": "PROHIBIDO DIVERTIRSE",
+            "pts": 2,
+            "gf": 16,
+            "gc": 14,
+            "dg": 2,
+            "pj": 1,
+            "ordenSorteo": 1,
+            "pg": 1
+          },
+          {
+            "name": "CENTAUROS",
+            "pts": 1,
+            "gf": 14,
+            "gc": 16,
+            "dg": -2,
+            "pj": 1,
+            "ordenSorteo": 4,
+            "pg": 0
+          },
+          {
             "name": "ASOCIACIÓN DE DRAGONES AMERICANOS",
             "pts": 0,
             "gf": 0,
@@ -838,16 +858,6 @@
             "pg": 0
           },
           {
-            "name": "CENTAUROS",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 4,
-            "pg": 0
-          },
-          {
             "name": "EL CLAN DE LOS LOZANO",
             "pts": 0,
             "gf": 0,
@@ -855,16 +865,6 @@
             "dg": 0,
             "pj": 0,
             "ordenSorteo": 0,
-            "pg": 0
-          },
-          {
-            "name": "PROHIBIDO DIVERTIRSE",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 1,
             "pg": 0
           }
         ],
@@ -875,8 +875,8 @@
               {
                 "home": "PROHIBIDO DIVERTIRSE",
                 "away": "CENTAUROS",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 16,
+                "golesAway": 14,
                 "campoId": 5,
                 "ordenGlobal": 100
               },
@@ -2002,6 +2002,18 @@
         "posGrupo": 1
       },
       {
+        "name": "PROHIBIDO DIVERTIRSE",
+        "pts": 2,
+        "gf": 16,
+        "gc": 14,
+        "dg": 2,
+        "pj": 1,
+        "ordenSorteo": 1,
+        "pg": 1,
+        "grupo": "Grupo F",
+        "posGrupo": 1
+      },
+      {
         "name": "CORCHOPANES",
         "pts": 2,
         "gf": 15,
@@ -2012,6 +2024,18 @@
         "pg": 1,
         "grupo": "Grupo B",
         "posGrupo": 1
+      },
+      {
+        "name": "CENTAUROS",
+        "pts": 1,
+        "gf": 14,
+        "gc": 16,
+        "dg": -2,
+        "pj": 1,
+        "ordenSorteo": 4,
+        "pg": 0,
+        "grupo": "Grupo F",
+        "posGrupo": 2
       },
       {
         "name": "PESOS PESADOS",
@@ -2083,7 +2107,7 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo F",
-        "posGrupo": 1
+        "posGrupo": 3
       },
       {
         "name": "ASTON BIRRAS",
@@ -2107,19 +2131,7 @@
         "ordenSorteo": 3,
         "pg": 0,
         "grupo": "Grupo F",
-        "posGrupo": 2
-      },
-      {
-        "name": "CENTAUROS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 4,
-        "pg": 0,
-        "grupo": "Grupo F",
-        "posGrupo": 3
+        "posGrupo": 4
       },
       {
         "name": "CHACALES",
@@ -2179,7 +2191,7 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo F",
-        "posGrupo": 4
+        "posGrupo": 5
       },
       {
         "name": "EL CONVENTO DE SANTA TERESA",
@@ -2552,18 +2564,6 @@
         "pg": 0,
         "grupo": "Grupo H",
         "posGrupo": 4
-      },
-      {
-        "name": "PROHIBIDO DIVERTIRSE",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 1,
-        "pg": 0,
-        "grupo": "Grupo F",
-        "posGrupo": 5
       },
       {
         "name": "RECEPCIÓN OPCIONAL",
@@ -2732,7 +2732,7 @@
       "campo_3": false,
       "campo_1": false,
       "campo_2": false,
-      "campo_5": false,
+      "campo_5": true,
       "grupo_0": false
     },
     "expandedClasificaciones": {},
@@ -2763,6 +2763,18 @@
         "ordenSorteo": 1,
         "pg": 1,
         "grupo": "Grupo C",
+        "posGrupo": 1
+      },
+      {
+        "name": "PROHIBIDO DIVERTIRSE",
+        "pts": 2,
+        "gf": 16,
+        "gc": 14,
+        "dg": 2,
+        "pj": 1,
+        "ordenSorteo": 1,
+        "pg": 1,
+        "grupo": "Grupo F",
         "posGrupo": 1
       },
       {
@@ -2799,18 +2811,6 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo L",
-        "posGrupo": 1
-      },
-      {
-        "name": "ASOCIACIÓN DE DRAGONES AMERICANOS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo F",
         "posGrupo": 1
       },
       {
@@ -2886,6 +2886,18 @@
         "posGrupo": 1
       },
       {
+        "name": "CENTAUROS",
+        "pts": 1,
+        "gf": 14,
+        "gc": 16,
+        "dg": -2,
+        "pj": 1,
+        "ordenSorteo": 4,
+        "pg": 0,
+        "grupo": "Grupo F",
+        "posGrupo": 2
+      },
+      {
         "name": "PESOS PESADOS",
         "pts": 1,
         "gf": 13,
@@ -2919,18 +2931,6 @@
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo A",
-        "posGrupo": 2
-      },
-      {
-        "name": "CAÍDA LIBRE VOLEY",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 3,
-        "pg": 0,
-        "grupo": "Grupo F",
         "posGrupo": 2
       },
       {
@@ -3030,13 +3030,13 @@
         "posGrupo": 2
       },
       {
-        "name": "CENTAUROS",
+        "name": "ASOCIACIÓN DE DRAGONES AMERICANOS",
         "pts": 0,
         "gf": 0,
         "gc": 0,
         "dg": 0,
         "pj": 0,
-        "ordenSorteo": 4,
+        "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo F",
         "posGrupo": 3
@@ -3174,13 +3174,13 @@
         "posGrupo": 3
       },
       {
-        "name": "EL CLAN DE LOS LOZANO",
+        "name": "CAÍDA LIBRE VOLEY",
         "pts": 0,
         "gf": 0,
         "gc": 0,
         "dg": 0,
         "pj": 0,
-        "ordenSorteo": 0,
+        "ordenSorteo": 3,
         "pg": 0,
         "grupo": "Grupo F",
         "posGrupo": 4
@@ -3318,6 +3318,18 @@
         "posGrupo": 4
       },
       {
+        "name": "EL CLAN DE LOS LOZANO",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 0,
+        "pg": 0,
+        "grupo": "Grupo F",
+        "posGrupo": 5
+      },
+      {
         "name": "LOS CERDITOS FIESTEROS",
         "pts": 0,
         "gf": 0,
@@ -3339,18 +3351,6 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo E",
-        "posGrupo": 5
-      },
-      {
-        "name": "PROHIBIDO DIVERTIRSE",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 1,
-        "pg": 0,
-        "grupo": "Grupo F",
         "posGrupo": 5
       },
       {
