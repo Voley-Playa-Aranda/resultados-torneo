@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T08:37:03.161Z",
+  "publicadoEn": "2026-07-11T08:39:03.171Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -980,12 +980,22 @@
         "nombre": "Grupo G",
         "equipos": [
           {
+            "name": "KINDER SORPRESA",
+            "pts": 2,
+            "gf": 15,
+            "gc": 7,
+            "dg": 8,
+            "pj": 1,
+            "ordenSorteo": 1,
+            "pg": 1
+          },
+          {
             "name": "CV SIESTA",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
+            "pts": 1,
+            "gf": 7,
+            "gc": 15,
+            "dg": -8,
+            "pj": 1,
             "ordenSorteo": 4,
             "pg": 0
           },
@@ -997,16 +1007,6 @@
             "dg": 0,
             "pj": 0,
             "ordenSorteo": 2,
-            "pg": 0
-          },
-          {
-            "name": "KINDER SORPRESA",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 1,
             "pg": 0
           },
           {
@@ -1037,8 +1037,8 @@
               {
                 "home": "KINDER SORPRESA",
                 "away": "CV SIESTA",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 15,
+                "golesAway": 7,
                 "campoId": 0,
                 "ordenGlobal": 1
               },
@@ -1990,6 +1990,18 @@
         "posGrupo": 1
       },
       {
+        "name": "KINDER SORPRESA",
+        "pts": 2,
+        "gf": 15,
+        "gc": 7,
+        "dg": 8,
+        "pj": 1,
+        "ordenSorteo": 1,
+        "pg": 1,
+        "grupo": "Grupo G",
+        "posGrupo": 1
+      },
+      {
         "name": "LOS GOMELLANOS",
         "pts": 2,
         "gf": 15,
@@ -2110,6 +2122,18 @@
         "posGrupo": 2
       },
       {
+        "name": "CV SIESTA",
+        "pts": 1,
+        "gf": 7,
+        "gc": 15,
+        "dg": -8,
+        "pj": 1,
+        "ordenSorteo": 4,
+        "pg": 0,
+        "grupo": "Grupo G",
+        "posGrupo": 2
+      },
+      {
         "name": "SIN RED NO HAY PARAÍSO",
         "pts": 1,
         "gf": 3,
@@ -2194,18 +2218,6 @@
         "posGrupo": 2
       },
       {
-        "name": "CV SIESTA",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 4,
-        "pg": 0,
-        "grupo": "Grupo G",
-        "posGrupo": 1
-      },
-      {
         "name": "DEMENCIA PERMANENTE CYL",
         "pts": 0,
         "gf": 0,
@@ -2239,7 +2251,7 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo G",
-        "posGrupo": 2
+        "posGrupo": 3
       },
       {
         "name": "EL PODER DE LA PIEDRA",
@@ -2323,18 +2335,6 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo C",
-        "posGrupo": 3
-      },
-      {
-        "name": "KINDER SORPRESA",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 1,
-        "pg": 0,
-        "grupo": "Grupo G",
         "posGrupo": 3
       },
       {
@@ -2731,7 +2731,7 @@
       "campo_0": false,
       "campo_3": false,
       "campo_1": false,
-      "campo_2": false,
+      "campo_2": true,
       "campo_5": false,
       "grupo_0": false
     },
@@ -2751,6 +2751,18 @@
         "ordenSorteo": 4,
         "pg": 1,
         "grupo": "Grupo A",
+        "posGrupo": 1
+      },
+      {
+        "name": "KINDER SORPRESA",
+        "pts": 2,
+        "gf": 15,
+        "gc": 7,
+        "dg": 8,
+        "pj": 1,
+        "ordenSorteo": 1,
+        "pg": 1,
+        "grupo": "Grupo G",
         "posGrupo": 1
       },
       {
@@ -2850,18 +2862,6 @@
         "posGrupo": 1
       },
       {
-        "name": "CV SIESTA",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 4,
-        "pg": 0,
-        "grupo": "Grupo G",
-        "posGrupo": 1
-      },
-      {
         "name": "EL PODER DE LA PIEDRA",
         "pts": 0,
         "gf": 0,
@@ -2946,6 +2946,18 @@
         "posGrupo": 2
       },
       {
+        "name": "CV SIESTA",
+        "pts": 1,
+        "gf": 7,
+        "gc": 15,
+        "dg": -8,
+        "pj": 1,
+        "ordenSorteo": 4,
+        "pg": 0,
+        "grupo": "Grupo G",
+        "posGrupo": 2
+      },
+      {
         "name": "SIN RED NO HAY PARAÍSO",
         "pts": 1,
         "gf": 3,
@@ -2967,18 +2979,6 @@
         "ordenSorteo": 3,
         "pg": 0,
         "grupo": "Grupo E",
-        "posGrupo": 2
-      },
-      {
-        "name": "EL CONVENTO DE SANTA TERESA",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo G",
         "posGrupo": 2
       },
       {
@@ -3054,6 +3054,18 @@
         "posGrupo": 3
       },
       {
+        "name": "EL CONVENTO DE SANTA TERESA",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo G",
+        "posGrupo": 3
+      },
+      {
         "name": "GLUTEN FREE",
         "pts": 0,
         "gf": 0,
@@ -3099,18 +3111,6 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo C",
-        "posGrupo": 3
-      },
-      {
-        "name": "KINDER SORPRESA",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 1,
-        "pg": 0,
-        "grupo": "Grupo G",
         "posGrupo": 3
       },
       {
