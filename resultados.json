@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T10:39:04.346Z",
+  "publicadoEn": "2026-07-11T10:41:03.161Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -342,6 +342,16 @@
             "pg": 2
           },
           {
+            "name": "KIKOÑAZO",
+            "pts": 5,
+            "gf": 39,
+            "gc": 31,
+            "dg": 8,
+            "pj": 3,
+            "ordenSorteo": 2,
+            "pg": 2
+          },
+          {
             "name": "LOS CARIÑITOS BOSTONCITOS",
             "pts": 3,
             "gf": 28,
@@ -352,22 +362,12 @@
             "pg": 1
           },
           {
-            "name": "KIKOÑAZO",
-            "pts": 3,
-            "gf": 24,
-            "gc": 28,
-            "dg": -4,
-            "pj": 2,
-            "ordenSorteo": 2,
-            "pg": 1
-          },
-          {
             "name": "CARCAJADA",
-            "pts": 3,
-            "gf": 22,
-            "gc": 26,
-            "dg": -4,
-            "pj": 2,
+            "pts": 4,
+            "gf": 25,
+            "gc": 41,
+            "dg": -16,
+            "pj": 3,
             "ordenSorteo": 4,
             "pg": 1
           },
@@ -439,8 +439,8 @@
               {
                 "home": "CARCAJADA",
                 "away": "KIKOÑAZO",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 3,
+                "golesAway": 15,
                 "campoId": 2,
                 "ordenGlobal": 50
               }
@@ -2182,6 +2182,18 @@
         "posGrupo": 2
       },
       {
+        "name": "KIKOÑAZO",
+        "pts": 5,
+        "gf": 39,
+        "gc": 31,
+        "dg": 8,
+        "pj": 3,
+        "ordenSorteo": 2,
+        "pg": 2,
+        "grupo": "Grupo C",
+        "posGrupo": 2
+      },
+      {
         "name": "CHACALES",
         "pts": 3,
         "gf": 30,
@@ -2203,7 +2215,7 @@
         "ordenSorteo": 3,
         "pg": 1,
         "grupo": "Grupo C",
-        "posGrupo": 2
+        "posGrupo": 3
       },
       {
         "name": "ASOCIACIÓN DE DRAGONES AMERICANOS",
@@ -2410,30 +2422,6 @@
         "posGrupo": 2
       },
       {
-        "name": "KIKOÑAZO",
-        "pts": 3,
-        "gf": 24,
-        "gc": 28,
-        "dg": -4,
-        "pj": 2,
-        "ordenSorteo": 2,
-        "pg": 1,
-        "grupo": "Grupo C",
-        "posGrupo": 3
-      },
-      {
-        "name": "CARCAJADA",
-        "pts": 3,
-        "gf": 22,
-        "gc": 26,
-        "dg": -4,
-        "pj": 2,
-        "ordenSorteo": 4,
-        "pg": 1,
-        "grupo": "Grupo C",
-        "posGrupo": 4
-      },
-      {
         "name": "CORCHOPANES",
         "pts": 3,
         "gf": 23,
@@ -2503,6 +2491,18 @@
         "ordenSorteo": 4,
         "pg": 1,
         "grupo": "Grupo G",
+        "posGrupo": 4
+      },
+      {
+        "name": "CARCAJADA",
+        "pts": 4,
+        "gf": 25,
+        "gc": 41,
+        "dg": -16,
+        "pj": 3,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo C",
         "posGrupo": 4
       },
       {
@@ -2728,7 +2728,7 @@
     "expandedPartidos": {
       "grupo_4": false,
       "campo_4": false,
-      "campo_0": true,
+      "campo_0": false,
       "campo_3": false,
       "campo_1": false,
       "campo_2": false,
@@ -2946,14 +2946,14 @@
         "posGrupo": 2
       },
       {
-        "name": "LOS CARIÑITOS BOSTONCITOS",
-        "pts": 3,
-        "gf": 28,
-        "gc": 22,
-        "dg": 6,
-        "pj": 2,
-        "ordenSorteo": 3,
-        "pg": 1,
+        "name": "KIKOÑAZO",
+        "pts": 5,
+        "gf": 39,
+        "gc": 31,
+        "dg": 8,
+        "pj": 3,
+        "ordenSorteo": 2,
+        "pg": 2,
         "grupo": "Grupo C",
         "posGrupo": 2
       },
@@ -3042,6 +3042,18 @@
         "posGrupo": 3
       },
       {
+        "name": "LOS CARIÑITOS BOSTONCITOS",
+        "pts": 3,
+        "gf": 28,
+        "gc": 22,
+        "dg": 6,
+        "pj": 2,
+        "ordenSorteo": 3,
+        "pg": 1,
+        "grupo": "Grupo C",
+        "posGrupo": 3
+      },
+      {
         "name": "ASOCIACIÓN DE DRAGONES AMERICANOS",
         "pts": 3,
         "gf": 26,
@@ -3123,18 +3135,6 @@
         "ordenSorteo": 0,
         "pg": 1,
         "grupo": "Grupo D",
-        "posGrupo": 3
-      },
-      {
-        "name": "KIKOÑAZO",
-        "pts": 3,
-        "gf": 24,
-        "gc": 28,
-        "dg": -4,
-        "pj": 2,
-        "ordenSorteo": 2,
-        "pg": 1,
-        "grupo": "Grupo C",
         "posGrupo": 3
       },
       {
@@ -3222,18 +3222,6 @@
         "posGrupo": 4
       },
       {
-        "name": "CARCAJADA",
-        "pts": 3,
-        "gf": 22,
-        "gc": 26,
-        "dg": -4,
-        "pj": 2,
-        "ordenSorteo": 4,
-        "pg": 1,
-        "grupo": "Grupo C",
-        "posGrupo": 4
-      },
-      {
         "name": "CORCHOPANES",
         "pts": 3,
         "gf": 23,
@@ -3267,6 +3255,18 @@
         "ordenSorteo": 4,
         "pg": 1,
         "grupo": "Grupo G",
+        "posGrupo": 4
+      },
+      {
+        "name": "CARCAJADA",
+        "pts": 4,
+        "gf": 25,
+        "gc": 41,
+        "dg": -16,
+        "pj": 3,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo C",
         "posGrupo": 4
       },
       {
