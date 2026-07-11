@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T08:53:03.171Z",
+  "publicadoEn": "2026-07-11T08:55:03.171Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -818,6 +818,16 @@
         "nombre": "Grupo F",
         "equipos": [
           {
+            "name": "ASOCIACIÓN DE DRAGONES AMERICANOS",
+            "pts": 2,
+            "gf": 15,
+            "gc": 5,
+            "dg": 10,
+            "pj": 1,
+            "ordenSorteo": 2,
+            "pg": 1
+          },
+          {
             "name": "PROHIBIDO DIVERTIRSE",
             "pts": 2,
             "gf": 16,
@@ -838,22 +848,12 @@
             "pg": 0
           },
           {
-            "name": "ASOCIACIÓN DE DRAGONES AMERICANOS",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 2,
-            "pg": 0
-          },
-          {
             "name": "CAÍDA LIBRE VOLEY",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
+            "pts": 1,
+            "gf": 5,
+            "gc": 15,
+            "dg": -10,
+            "pj": 1,
             "ordenSorteo": 3,
             "pg": 0
           },
@@ -883,8 +883,8 @@
               {
                 "home": "ASOCIACIÓN DE DRAGONES AMERICANOS",
                 "away": "CAÍDA LIBRE VOLEY",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 15,
+                "golesAway": 5,
                 "campoId": 5,
                 "ordenGlobal": 102
               }
@@ -1990,6 +1990,18 @@
         "posGrupo": 1
       },
       {
+        "name": "ASOCIACIÓN DE DRAGONES AMERICANOS",
+        "pts": 2,
+        "gf": 15,
+        "gc": 5,
+        "dg": 10,
+        "pj": 1,
+        "ordenSorteo": 2,
+        "pg": 1,
+        "grupo": "Grupo F",
+        "posGrupo": 1
+      },
+      {
         "name": "EL TAMAÑO NO IMPORTA",
         "pts": 2,
         "gf": 15,
@@ -2119,7 +2131,7 @@
         "ordenSorteo": 1,
         "pg": 1,
         "grupo": "Grupo F",
-        "posGrupo": 1
+        "posGrupo": 2
       },
       {
         "name": "CORCHOPANES",
@@ -2143,7 +2155,7 @@
         "ordenSorteo": 4,
         "pg": 0,
         "grupo": "Grupo F",
-        "posGrupo": 2
+        "posGrupo": 3
       },
       {
         "name": "MAMAHOUS",
@@ -2278,6 +2290,18 @@
         "posGrupo": 3
       },
       {
+        "name": "CAÍDA LIBRE VOLEY",
+        "pts": 1,
+        "gf": 5,
+        "gc": 15,
+        "dg": -10,
+        "pj": 1,
+        "ordenSorteo": 3,
+        "pg": 0,
+        "grupo": "Grupo F",
+        "posGrupo": 4
+      },
+      {
         "name": "SIN RED NO HAY PARAÍSO",
         "pts": 1,
         "gf": 3,
@@ -2312,30 +2336,6 @@
         "pg": 0,
         "grupo": "Grupo L",
         "posGrupo": 3
-      },
-      {
-        "name": "ASOCIACIÓN DE DRAGONES AMERICANOS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo F",
-        "posGrupo": 3
-      },
-      {
-        "name": "CAÍDA LIBRE VOLEY",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 3,
-        "pg": 0,
-        "grupo": "Grupo F",
-        "posGrupo": 4
       },
       {
         "name": "CHACALES",
@@ -2754,6 +2754,18 @@
         "posGrupo": 1
       },
       {
+        "name": "ASOCIACIÓN DE DRAGONES AMERICANOS",
+        "pts": 2,
+        "gf": 15,
+        "gc": 5,
+        "dg": 10,
+        "pj": 1,
+        "ordenSorteo": 2,
+        "pg": 1,
+        "grupo": "Grupo F",
+        "posGrupo": 1
+      },
+      {
         "name": "EL TAMAÑO NO IMPORTA",
         "pts": 2,
         "gf": 15,
@@ -2862,18 +2874,6 @@
         "posGrupo": 1
       },
       {
-        "name": "PROHIBIDO DIVERTIRSE",
-        "pts": 2,
-        "gf": 16,
-        "gc": 14,
-        "dg": 2,
-        "pj": 1,
-        "ordenSorteo": 1,
-        "pg": 1,
-        "grupo": "Grupo F",
-        "posGrupo": 1
-      },
-      {
         "name": "CORCHOPANES",
         "pts": 2,
         "gf": 15,
@@ -2898,14 +2898,14 @@
         "posGrupo": 2
       },
       {
-        "name": "CENTAUROS",
-        "pts": 1,
-        "gf": 14,
-        "gc": 16,
-        "dg": -2,
+        "name": "PROHIBIDO DIVERTIRSE",
+        "pts": 2,
+        "gf": 16,
+        "gc": 14,
+        "dg": 2,
         "pj": 1,
-        "ordenSorteo": 4,
-        "pg": 0,
+        "ordenSorteo": 1,
+        "pg": 1,
         "grupo": "Grupo F",
         "posGrupo": 2
       },
@@ -3030,6 +3030,18 @@
         "posGrupo": 2
       },
       {
+        "name": "CENTAUROS",
+        "pts": 1,
+        "gf": 14,
+        "gc": 16,
+        "dg": -2,
+        "pj": 1,
+        "ordenSorteo": 4,
+        "pg": 0,
+        "grupo": "Grupo F",
+        "posGrupo": 3
+      },
+      {
         "name": "PINO JACINTO",
         "pts": 1,
         "gf": 6,
@@ -3063,18 +3075,6 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo L",
-        "posGrupo": 3
-      },
-      {
-        "name": "ASOCIACIÓN DE DRAGONES AMERICANOS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo F",
         "posGrupo": 3
       },
       {
@@ -3174,6 +3174,18 @@
         "posGrupo": 3
       },
       {
+        "name": "CAÍDA LIBRE VOLEY",
+        "pts": 1,
+        "gf": 5,
+        "gc": 15,
+        "dg": -10,
+        "pj": 1,
+        "ordenSorteo": 3,
+        "pg": 0,
+        "grupo": "Grupo F",
+        "posGrupo": 4
+      },
+      {
         "name": "SIN RED NO HAY PARAÍSO",
         "pts": 1,
         "gf": 3,
@@ -3183,18 +3195,6 @@
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo A",
-        "posGrupo": 4
-      },
-      {
-        "name": "CAÍDA LIBRE VOLEY",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 3,
-        "pg": 0,
-        "grupo": "Grupo F",
         "posGrupo": 4
       },
       {
