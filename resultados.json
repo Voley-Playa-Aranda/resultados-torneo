@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T12:37:03.158Z",
+  "publicadoEn": "2026-07-11T12:39:03.160Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -2705,20 +2705,20 @@
       "numRondas": 0
     },
     "configFinal": {
-      "metodo": "global",
+      "metodo": "grupo",
       "oro": {
         "activo": true,
-        "cantidad": 16,
+        "cantidad": 24,
         "tipo": "simple"
       },
       "plata": {
         "activo": true,
-        "cantidad": 16,
+        "cantidad": 24,
         "tipo": "simple"
       },
       "bronce": {
         "activo": true,
-        "cantidad": 16,
+        "cantidad": 12,
         "tipo": "simple"
       }
     },
@@ -2727,7 +2727,7 @@
     },
     "expandedPartidos": {
       "grupo_4": false,
-      "campo_4": true,
+      "campo_4": false,
       "campo_0": false,
       "campo_3": false,
       "campo_1": false,
