@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T12:47:03.158Z",
+  "publicadoEn": "2026-07-11T12:49:03.162Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -657,13 +657,13 @@
         "equipos": [
           {
             "name": "ABANTO",
-            "pts": 6,
-            "gf": 45,
-            "gc": 15,
-            "dg": 30,
-            "pj": 3,
+            "pts": 8,
+            "gf": 60,
+            "gc": 22,
+            "dg": 38,
+            "pj": 4,
             "ordenSorteo": 4,
-            "pg": 3
+            "pg": 4
           },
           {
             "name": "PEGRILOSAS",
@@ -677,11 +677,11 @@
           },
           {
             "name": "CHUPYGRASKA",
-            "pts": 5,
-            "gf": 37,
-            "gc": 32,
-            "dg": 5,
-            "pj": 3,
+            "pts": 6,
+            "gf": 44,
+            "gc": 47,
+            "dg": -3,
+            "pj": 4,
             "ordenSorteo": 3,
             "pg": 2
           },
@@ -805,8 +805,8 @@
               {
                 "home": "CHUPYGRASKA",
                 "away": "ABANTO",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 7,
+                "golesAway": 15,
                 "campoId": 4,
                 "ordenGlobal": 98
               }
@@ -1800,16 +1800,6 @@
             "pg": 4
           },
           {
-            "name": "TE EMPAQUETO",
-            "pts": 5,
-            "gf": 35,
-            "gc": 33,
-            "dg": 2,
-            "pj": 3,
-            "ordenSorteo": 3,
-            "pg": 2
-          },
-          {
             "name": "EL TAMAÑO NO IMPORTA",
             "pts": 6,
             "gf": 52,
@@ -1820,14 +1810,24 @@
             "pg": 2
           },
           {
+            "name": "TE EMPAQUETO",
+            "pts": 6,
+            "gf": 45,
+            "gc": 48,
+            "dg": -3,
+            "pj": 4,
+            "ordenSorteo": 3,
+            "pg": 2
+          },
+          {
             "name": "LOS ROMPEBOLAS",
-            "pts": 4,
-            "gf": 26,
-            "gc": 35,
-            "dg": -9,
-            "pj": 3,
+            "pts": 6,
+            "gf": 41,
+            "gc": 45,
+            "dg": -4,
+            "pj": 4,
             "ordenSorteo": 4,
-            "pg": 1
+            "pg": 2
           },
           {
             "name": "VODKA JUNIORS",
@@ -1939,8 +1939,8 @@
               {
                 "home": "TE EMPAQUETO",
                 "away": "LOS ROMPEBOLAS",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 10,
+                "golesAway": 15,
                 "campoId": 5,
                 "ordenGlobal": 119
               }
@@ -1991,13 +1991,13 @@
       },
       {
         "name": "ABANTO",
-        "pts": 6,
-        "gf": 45,
-        "gc": 15,
-        "dg": 30,
-        "pj": 3,
+        "pts": 8,
+        "gf": 60,
+        "gc": 22,
+        "dg": 38,
+        "pj": 4,
         "ordenSorteo": 4,
-        "pg": 3,
+        "pg": 4,
         "grupo": "Grupo E",
         "posGrupo": 1
       },
@@ -2242,30 +2242,6 @@
         "posGrupo": 2
       },
       {
-        "name": "CHUPYGRASKA",
-        "pts": 5,
-        "gf": 37,
-        "gc": 32,
-        "dg": 5,
-        "pj": 3,
-        "ordenSorteo": 3,
-        "pg": 2,
-        "grupo": "Grupo E",
-        "posGrupo": 3
-      },
-      {
-        "name": "TE EMPAQUETO",
-        "pts": 5,
-        "gf": 35,
-        "gc": 33,
-        "dg": 2,
-        "pj": 3,
-        "ordenSorteo": 3,
-        "pg": 2,
-        "grupo": "Grupo L",
-        "posGrupo": 2
-      },
-      {
         "name": "SOWCAUTION",
         "pts": 5,
         "gf": 36,
@@ -2335,7 +2311,7 @@
         "ordenSorteo": 1,
         "pg": 2,
         "grupo": "Grupo L",
-        "posGrupo": 3
+        "posGrupo": 2
       },
       {
         "name": "LA BATALLA DE LOS PELOS BASTARDOS",
@@ -2386,6 +2362,30 @@
         "posGrupo": 3
       },
       {
+        "name": "TE EMPAQUETO",
+        "pts": 6,
+        "gf": 45,
+        "gc": 48,
+        "dg": -3,
+        "pj": 4,
+        "ordenSorteo": 3,
+        "pg": 2,
+        "grupo": "Grupo L",
+        "posGrupo": 3
+      },
+      {
+        "name": "CHUPYGRASKA",
+        "pts": 6,
+        "gf": 44,
+        "gc": 47,
+        "dg": -3,
+        "pj": 4,
+        "ordenSorteo": 3,
+        "pg": 2,
+        "grupo": "Grupo E",
+        "posGrupo": 3
+      },
+      {
         "name": "CORCHOPANES",
         "pts": 6,
         "gf": 48,
@@ -2396,6 +2396,18 @@
         "pg": 2,
         "grupo": "Grupo B",
         "posGrupo": 3
+      },
+      {
+        "name": "LOS ROMPEBOLAS",
+        "pts": 6,
+        "gf": 41,
+        "gc": 45,
+        "dg": -4,
+        "pj": 4,
+        "ordenSorteo": 4,
+        "pg": 2,
+        "grupo": "Grupo L",
+        "posGrupo": 4
       },
       {
         "name": "ZEMEN UP",
@@ -2420,18 +2432,6 @@
         "pg": 1,
         "grupo": "Grupo D",
         "posGrupo": 3
-      },
-      {
-        "name": "LOS ROMPEBOLAS",
-        "pts": 4,
-        "gf": 26,
-        "gc": 35,
-        "dg": -9,
-        "pj": 3,
-        "ordenSorteo": 4,
-        "pg": 1,
-        "grupo": "Grupo L",
-        "posGrupo": 4
       },
       {
         "name": "CHACALES",
@@ -2768,13 +2768,13 @@
       },
       {
         "name": "ABANTO",
-        "pts": 6,
-        "gf": 45,
-        "gc": 15,
-        "dg": 30,
-        "pj": 3,
+        "pts": 8,
+        "gf": 60,
+        "gc": 22,
+        "dg": 38,
+        "pj": 4,
         "ordenSorteo": 4,
-        "pg": 3,
+        "pg": 4,
         "grupo": "Grupo E",
         "posGrupo": 1
       },
@@ -3007,18 +3007,6 @@
         "posGrupo": 2
       },
       {
-        "name": "TE EMPAQUETO",
-        "pts": 5,
-        "gf": 35,
-        "gc": 33,
-        "dg": 2,
-        "pj": 3,
-        "ordenSorteo": 3,
-        "pg": 2,
-        "grupo": "Grupo L",
-        "posGrupo": 2
-      },
-      {
         "name": "ROYALEROS",
         "pts": 5,
         "gf": 36,
@@ -3043,6 +3031,18 @@
         "posGrupo": 2
       },
       {
+        "name": "EL TAMAÑO NO IMPORTA",
+        "pts": 6,
+        "gf": 52,
+        "gc": 44,
+        "dg": 8,
+        "pj": 4,
+        "ordenSorteo": 1,
+        "pg": 2,
+        "grupo": "Grupo L",
+        "posGrupo": 2
+      },
+      {
         "name": "PRESS PANZA",
         "pts": 5,
         "gf": 42,
@@ -3052,18 +3052,6 @@
         "ordenSorteo": 3,
         "pg": 2,
         "grupo": "Grupo H",
-        "posGrupo": 3
-      },
-      {
-        "name": "CHUPYGRASKA",
-        "pts": 5,
-        "gf": 37,
-        "gc": 32,
-        "dg": 5,
-        "pj": 3,
-        "ordenSorteo": 3,
-        "pg": 2,
-        "grupo": "Grupo E",
         "posGrupo": 3
       },
       {
@@ -3103,18 +3091,6 @@
         "posGrupo": 3
       },
       {
-        "name": "EL TAMAÑO NO IMPORTA",
-        "pts": 6,
-        "gf": 52,
-        "gc": 44,
-        "dg": 8,
-        "pj": 4,
-        "ordenSorteo": 1,
-        "pg": 2,
-        "grupo": "Grupo L",
-        "posGrupo": 3
-      },
-      {
         "name": "LA BATALLA DE LOS PELOS BASTARDOS",
         "pts": 6,
         "gf": 49,
@@ -3148,6 +3124,30 @@
         "ordenSorteo": 2,
         "pg": 2,
         "grupo": "Grupo C",
+        "posGrupo": 3
+      },
+      {
+        "name": "TE EMPAQUETO",
+        "pts": 6,
+        "gf": 45,
+        "gc": 48,
+        "dg": -3,
+        "pj": 4,
+        "ordenSorteo": 3,
+        "pg": 2,
+        "grupo": "Grupo L",
+        "posGrupo": 3
+      },
+      {
+        "name": "CHUPYGRASKA",
+        "pts": 6,
+        "gf": 44,
+        "gc": 47,
+        "dg": -3,
+        "pj": 4,
+        "ordenSorteo": 3,
+        "pg": 2,
+        "grupo": "Grupo E",
         "posGrupo": 3
       },
       {
@@ -3200,13 +3200,13 @@
       },
       {
         "name": "LOS ROMPEBOLAS",
-        "pts": 4,
-        "gf": 26,
-        "gc": 35,
-        "dg": -9,
-        "pj": 3,
+        "pts": 6,
+        "gf": 41,
+        "gc": 45,
+        "dg": -4,
+        "pj": 4,
         "ordenSorteo": 4,
-        "pg": 1,
+        "pg": 2,
         "grupo": "Grupo L",
         "posGrupo": 4
       },
