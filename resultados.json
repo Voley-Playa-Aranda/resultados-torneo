@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T09:21:03.162Z",
+  "publicadoEn": "2026-07-11T09:23:03.161Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -180,12 +180,22 @@
             "pg": 1
           },
           {
-            "name": "CORCHOPANES",
+            "name": "DEMENCIA PERMANENTE CYL",
             "pts": 2,
             "gf": 15,
-            "gc": 13,
-            "dg": 2,
+            "gc": 8,
+            "dg": 7,
             "pj": 1,
+            "ordenSorteo": 0,
+            "pg": 1
+          },
+          {
+            "name": "CORCHOPANES",
+            "pts": 3,
+            "gf": 23,
+            "gc": 28,
+            "dg": -5,
+            "pj": 2,
             "ordenSorteo": 4,
             "pg": 1
           },
@@ -207,16 +217,6 @@
             "dg": -9,
             "pj": 1,
             "ordenSorteo": 2,
-            "pg": 0
-          },
-          {
-            "name": "DEMENCIA PERMANENTE CYL",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 0,
             "pg": 0
           }
         ],
@@ -248,8 +248,8 @@
               {
                 "home": "DEMENCIA PERMANENTE CYL",
                 "away": "CORCHOPANES",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 15,
+                "golesAway": 8,
                 "campoId": 1,
                 "ordenGlobal": 24
               },
@@ -2110,6 +2110,18 @@
         "posGrupo": 1
       },
       {
+        "name": "DEMENCIA PERMANENTE CYL",
+        "pts": 2,
+        "gf": 15,
+        "gc": 8,
+        "dg": 7,
+        "pj": 1,
+        "ordenSorteo": 0,
+        "pg": 1,
+        "grupo": "Grupo B",
+        "posGrupo": 2
+      },
+      {
         "name": "LOS BURPEES BOYS BYIMPROVEFIT",
         "pts": 2,
         "gf": 15,
@@ -2242,18 +2254,6 @@
         "posGrupo": 2
       },
       {
-        "name": "CORCHOPANES",
-        "pts": 2,
-        "gf": 15,
-        "gc": 13,
-        "dg": 2,
-        "pj": 1,
-        "ordenSorteo": 4,
-        "pg": 1,
-        "grupo": "Grupo B",
-        "posGrupo": 2
-      },
-      {
         "name": "KIKOÑAZO",
         "pts": 2,
         "gf": 15,
@@ -2275,6 +2275,18 @@
         "ordenSorteo": 4,
         "pg": 1,
         "grupo": "Grupo C",
+        "posGrupo": 3
+      },
+      {
+        "name": "CORCHOPANES",
+        "pts": 3,
+        "gf": 23,
+        "gc": 28,
+        "dg": -5,
+        "pj": 2,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo B",
         "posGrupo": 3
       },
       {
@@ -2335,7 +2347,7 @@
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo B",
-        "posGrupo": 3
+        "posGrupo": 4
       },
       {
         "name": "STREET VOLLEY",
@@ -2479,7 +2491,7 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo B",
-        "posGrupo": 4
+        "posGrupo": 5
       },
       {
         "name": "PINO JACINTO",
@@ -2575,18 +2587,6 @@
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo A",
-        "posGrupo": 5
-      },
-      {
-        "name": "DEMENCIA PERMANENTE CYL",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo B",
         "posGrupo": 5
       },
       {
@@ -2730,7 +2730,7 @@
       "campo_4": false,
       "campo_0": false,
       "campo_3": false,
-      "campo_1": true,
+      "campo_1": false,
       "campo_2": false,
       "campo_5": false,
       "grupo_0": false
@@ -2910,6 +2910,18 @@
         "posGrupo": 2
       },
       {
+        "name": "DEMENCIA PERMANENTE CYL",
+        "pts": 2,
+        "gf": 15,
+        "gc": 8,
+        "dg": 7,
+        "pj": 1,
+        "ordenSorteo": 0,
+        "pg": 1,
+        "grupo": "Grupo B",
+        "posGrupo": 2
+      },
+      {
         "name": "SOWCAUTION",
         "pts": 2,
         "gf": 15,
@@ -3006,18 +3018,6 @@
         "posGrupo": 2
       },
       {
-        "name": "CORCHOPANES",
-        "pts": 2,
-        "gf": 15,
-        "gc": 13,
-        "dg": 2,
-        "pj": 1,
-        "ordenSorteo": 4,
-        "pg": 1,
-        "grupo": "Grupo B",
-        "posGrupo": 2
-      },
-      {
         "name": "KIKOÑAZO",
         "pts": 2,
         "gf": 15,
@@ -3039,6 +3039,18 @@
         "ordenSorteo": 4,
         "pg": 1,
         "grupo": "Grupo C",
+        "posGrupo": 3
+      },
+      {
+        "name": "CORCHOPANES",
+        "pts": 3,
+        "gf": 23,
+        "gc": 28,
+        "dg": -5,
+        "pj": 2,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo B",
         "posGrupo": 3
       },
       {
@@ -3075,18 +3087,6 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo E",
-        "posGrupo": 3
-      },
-      {
-        "name": "PESOS PESADOS",
-        "pts": 1,
-        "gf": 13,
-        "gc": 15,
-        "dg": -2,
-        "pj": 1,
-        "ordenSorteo": 1,
-        "pg": 0,
-        "grupo": "Grupo B",
         "posGrupo": 3
       },
       {
@@ -3186,6 +3186,18 @@
         "posGrupo": 4
       },
       {
+        "name": "PESOS PESADOS",
+        "pts": 1,
+        "gf": 13,
+        "gc": 15,
+        "dg": -2,
+        "pj": 1,
+        "ordenSorteo": 1,
+        "pg": 0,
+        "grupo": "Grupo B",
+        "posGrupo": 4
+      },
+      {
         "name": "LOS ROOKIES",
         "pts": 1,
         "gf": 12,
@@ -3219,18 +3231,6 @@
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo I",
-        "posGrupo": 4
-      },
-      {
-        "name": "MBONANIS TEAM",
-        "pts": 1,
-        "gf": 6,
-        "gc": 15,
-        "dg": -9,
-        "pj": 1,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo B",
         "posGrupo": 4
       },
       {
@@ -3330,6 +3330,18 @@
         "posGrupo": 5
       },
       {
+        "name": "MBONANIS TEAM",
+        "pts": 1,
+        "gf": 6,
+        "gc": 15,
+        "dg": -9,
+        "pj": 1,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo B",
+        "posGrupo": 5
+      },
+      {
         "name": "SIN RED NO HAY PARAÍSO",
         "pts": 1,
         "gf": 3,
@@ -3339,18 +3351,6 @@
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo A",
-        "posGrupo": 5
-      },
-      {
-        "name": "DEMENCIA PERMANENTE CYL",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo B",
         "posGrupo": 5
       },
       {
