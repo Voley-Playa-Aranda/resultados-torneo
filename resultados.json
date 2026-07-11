@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T12:07:03.170Z",
+  "publicadoEn": "2026-07-11T12:09:03.153Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -8,23 +8,23 @@
         "nombre": "Grupo A",
         "equipos": [
           {
-            "name": "NOTTINGHAN PRISAS",
-            "pts": 6,
-            "gf": 45,
-            "gc": 19,
-            "dg": 26,
-            "pj": 3,
-            "ordenSorteo": 3,
-            "pg": 3
+            "name": "VOLCADOS",
+            "pts": 8,
+            "gf": 60,
+            "gc": 32,
+            "dg": 28,
+            "pj": 4,
+            "ordenSorteo": 4,
+            "pg": 4
           },
           {
-            "name": "VOLCADOS",
-            "pts": 6,
-            "gf": 45,
-            "gc": 23,
-            "dg": 22,
-            "pj": 3,
-            "ordenSorteo": 4,
+            "name": "NOTTINGHAN PRISAS",
+            "pts": 7,
+            "gf": 54,
+            "gc": 34,
+            "dg": 20,
+            "pj": 4,
+            "ordenSorteo": 3,
             "pg": 3
           },
           {
@@ -157,8 +157,8 @@
               {
                 "home": "NOTTINGHAN PRISAS",
                 "away": "VOLCADOS",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 9,
+                "golesAway": 15,
                 "campoId": 0,
                 "ordenGlobal": 18
               }
@@ -333,13 +333,13 @@
         "equipos": [
           {
             "name": "LOS GOMELLANOS",
-            "pts": 6,
-            "gf": 45,
-            "gc": 29,
-            "dg": 16,
-            "pj": 3,
+            "pts": 8,
+            "gf": 60,
+            "gc": 38,
+            "dg": 22,
+            "pj": 4,
             "ordenSorteo": 1,
-            "pg": 3
+            "pg": 4
           },
           {
             "name": "KIKOÑAZO",
@@ -362,16 +362,6 @@
             "pg": 1
           },
           {
-            "name": "LOS CERDITOS FIESTEROS",
-            "pts": 4,
-            "gf": 33,
-            "gc": 37,
-            "dg": -4,
-            "pj": 3,
-            "ordenSorteo": 0,
-            "pg": 1
-          },
-          {
             "name": "CARCAJADA",
             "pts": 4,
             "gf": 25,
@@ -379,6 +369,16 @@
             "dg": -16,
             "pj": 3,
             "ordenSorteo": 4,
+            "pg": 1
+          },
+          {
+            "name": "LOS CERDITOS FIESTEROS",
+            "pts": 5,
+            "gf": 42,
+            "gc": 52,
+            "dg": -10,
+            "pj": 4,
+            "ordenSorteo": 0,
             "pg": 1
           }
         ],
@@ -473,8 +473,8 @@
               {
                 "home": "LOS CERDITOS FIESTEROS",
                 "away": "LOS GOMELLANOS",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 9,
+                "golesAway": 15,
                 "campoId": 2,
                 "ordenGlobal": 56
               },
@@ -2026,30 +2026,6 @@
         "posGrupo": 1
       },
       {
-        "name": "NOTTINGHAN PRISAS",
-        "pts": 6,
-        "gf": 45,
-        "gc": 19,
-        "dg": 26,
-        "pj": 3,
-        "ordenSorteo": 3,
-        "pg": 3,
-        "grupo": "Grupo A",
-        "posGrupo": 1
-      },
-      {
-        "name": "VOLCADOS",
-        "pts": 6,
-        "gf": 45,
-        "gc": 23,
-        "dg": 22,
-        "pj": 3,
-        "ordenSorteo": 4,
-        "pg": 3,
-        "grupo": "Grupo A",
-        "posGrupo": 2
-      },
-      {
         "name": "TE MIRO Y TE BLOQUEO",
         "pts": 6,
         "gf": 45,
@@ -2059,6 +2035,18 @@
         "ordenSorteo": 3,
         "pg": 3,
         "grupo": "Grupo B",
+        "posGrupo": 1
+      },
+      {
+        "name": "VOLCADOS",
+        "pts": 8,
+        "gf": 60,
+        "gc": 32,
+        "dg": 28,
+        "pj": 4,
+        "ordenSorteo": 4,
+        "pg": 4,
+        "grupo": "Grupo A",
         "posGrupo": 1
       },
       {
@@ -2075,13 +2063,13 @@
       },
       {
         "name": "LOS GOMELLANOS",
-        "pts": 6,
-        "gf": 45,
-        "gc": 29,
-        "dg": 16,
-        "pj": 3,
+        "pts": 8,
+        "gf": 60,
+        "gc": 38,
+        "dg": 22,
+        "pj": 4,
         "ordenSorteo": 1,
-        "pg": 3,
+        "pg": 4,
         "grupo": "Grupo C",
         "posGrupo": 1
       },
@@ -2132,6 +2120,18 @@
         "pg": 3,
         "grupo": "Grupo F",
         "posGrupo": 1
+      },
+      {
+        "name": "NOTTINGHAN PRISAS",
+        "pts": 7,
+        "gf": 54,
+        "gc": 34,
+        "dg": 20,
+        "pj": 4,
+        "ordenSorteo": 3,
+        "pg": 3,
+        "grupo": "Grupo A",
+        "posGrupo": 2
       },
       {
         "name": "EL PODER DE LA PIEDRA",
@@ -2446,18 +2446,6 @@
         "posGrupo": 3
       },
       {
-        "name": "LOS CERDITOS FIESTEROS",
-        "pts": 4,
-        "gf": 33,
-        "gc": 37,
-        "dg": -4,
-        "pj": 3,
-        "ordenSorteo": 0,
-        "pg": 1,
-        "grupo": "Grupo C",
-        "posGrupo": 4
-      },
-      {
         "name": "LA BATALLA DE LOS PELOS BASTARDOS",
         "pts": 4,
         "gf": 34,
@@ -2527,7 +2515,7 @@
         "ordenSorteo": 4,
         "pg": 1,
         "grupo": "Grupo C",
-        "posGrupo": 5
+        "posGrupo": 4
       },
       {
         "name": "MANCHESTER PITY JR",
@@ -2552,6 +2540,18 @@
         "pg": 1,
         "grupo": "Grupo J",
         "posGrupo": 4
+      },
+      {
+        "name": "LOS CERDITOS FIESTEROS",
+        "pts": 5,
+        "gf": 42,
+        "gc": 52,
+        "dg": -10,
+        "pj": 4,
+        "ordenSorteo": 0,
+        "pg": 1,
+        "grupo": "Grupo C",
+        "posGrupo": 5
       },
       {
         "name": "PINO JACINTO",
@@ -2731,7 +2731,7 @@
       "campo_0": false,
       "campo_3": false,
       "campo_1": false,
-      "campo_2": false,
+      "campo_2": true,
       "campo_5": false,
       "grupo_0": false
     },
@@ -2803,18 +2803,6 @@
         "posGrupo": 1
       },
       {
-        "name": "NOTTINGHAN PRISAS",
-        "pts": 6,
-        "gf": 45,
-        "gc": 19,
-        "dg": 26,
-        "pj": 3,
-        "ordenSorteo": 3,
-        "pg": 3,
-        "grupo": "Grupo A",
-        "posGrupo": 1
-      },
-      {
         "name": "TE MIRO Y TE BLOQUEO",
         "pts": 6,
         "gf": 45,
@@ -2824,6 +2812,18 @@
         "ordenSorteo": 3,
         "pg": 3,
         "grupo": "Grupo B",
+        "posGrupo": 1
+      },
+      {
+        "name": "VOLCADOS",
+        "pts": 8,
+        "gf": 60,
+        "gc": 32,
+        "dg": 28,
+        "pj": 4,
+        "ordenSorteo": 4,
+        "pg": 4,
+        "grupo": "Grupo A",
         "posGrupo": 1
       },
       {
@@ -2840,13 +2840,13 @@
       },
       {
         "name": "LOS GOMELLANOS",
-        "pts": 6,
-        "gf": 45,
-        "gc": 29,
-        "dg": 16,
-        "pj": 3,
+        "pts": 8,
+        "gf": 60,
+        "gc": 38,
+        "dg": 22,
+        "pj": 4,
         "ordenSorteo": 1,
-        "pg": 3,
+        "pg": 4,
         "grupo": "Grupo C",
         "posGrupo": 1
       },
@@ -2899,13 +2899,13 @@
         "posGrupo": 1
       },
       {
-        "name": "VOLCADOS",
-        "pts": 6,
-        "gf": 45,
-        "gc": 23,
-        "dg": 22,
-        "pj": 3,
-        "ordenSorteo": 4,
+        "name": "NOTTINGHAN PRISAS",
+        "pts": 7,
+        "gf": 54,
+        "gc": 34,
+        "dg": 20,
+        "pj": 4,
+        "ordenSorteo": 3,
         "pg": 3,
         "grupo": "Grupo A",
         "posGrupo": 2
@@ -3223,18 +3223,6 @@
         "posGrupo": 4
       },
       {
-        "name": "LOS CERDITOS FIESTEROS",
-        "pts": 4,
-        "gf": 33,
-        "gc": 37,
-        "dg": -4,
-        "pj": 3,
-        "ordenSorteo": 0,
-        "pg": 1,
-        "grupo": "Grupo C",
-        "posGrupo": 4
-      },
-      {
         "name": "LA BATALLA DE LOS PELOS BASTARDOS",
         "pts": 4,
         "gf": 34,
@@ -3295,6 +3283,18 @@
         "posGrupo": 4
       },
       {
+        "name": "CARCAJADA",
+        "pts": 4,
+        "gf": 25,
+        "gc": 41,
+        "dg": -16,
+        "pj": 3,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo C",
+        "posGrupo": 4
+      },
+      {
         "name": "MANCHESTER PITY JR",
         "pts": 4,
         "gf": 21,
@@ -3331,13 +3331,13 @@
         "posGrupo": 4
       },
       {
-        "name": "CARCAJADA",
-        "pts": 4,
-        "gf": 25,
-        "gc": 41,
-        "dg": -16,
-        "pj": 3,
-        "ordenSorteo": 4,
+        "name": "LOS CERDITOS FIESTEROS",
+        "pts": 5,
+        "gf": 42,
+        "gc": 52,
+        "dg": -10,
+        "pj": 4,
+        "ordenSorteo": 0,
         "pg": 1,
         "grupo": "Grupo C",
         "posGrupo": 5
