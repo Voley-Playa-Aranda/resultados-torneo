@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T14:37:04.039Z",
+  "publicadoEn": "2026-07-11T14:39:03.160Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -3571,8 +3571,8 @@
               "away": "MANCHESTER PITY",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 15,
+                  "aS": 7
                 },
                 {
                   "hS": "",
@@ -3816,7 +3816,7 @@
               "ordenFinal": 19
             },
             {
-              "home": "",
+              "home": "ASOCIACIÓN DE DRAGONES AMERICANOS",
               "away": "",
               "sets": [
                 {
@@ -4449,7 +4449,7 @@
         }
       }
     },
-    "faseFinalActiva": "oro",
+    "faseFinalActiva": "plata",
     "faseFinalGenerada": true,
     "cfgNumGrupos": 12,
     "lastPosicionEq": [
