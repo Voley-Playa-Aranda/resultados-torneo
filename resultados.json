@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T08:39:03.171Z",
+  "publicadoEn": "2026-07-11T08:41:03.164Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -1304,6 +1304,26 @@
         "nombre": "Grupo I",
         "equipos": [
           {
+            "name": "LOS BURPEES BOYS BYIMPROVEFIT",
+            "pts": 2,
+            "gf": 15,
+            "gc": 8,
+            "dg": 7,
+            "pj": 1,
+            "ordenSorteo": 4,
+            "pg": 1
+          },
+          {
+            "name": "MAS SUELO QUE VÓLEY",
+            "pts": 1,
+            "gf": 8,
+            "gc": 15,
+            "dg": -7,
+            "pj": 1,
+            "ordenSorteo": 1,
+            "pg": 0
+          },
+          {
             "name": "LAS LEYENDAS NUNCA MUEREN",
             "pts": 0,
             "gf": 0,
@@ -1324,26 +1344,6 @@
             "pg": 0
           },
           {
-            "name": "LOS BURPEES BOYS BYIMPROVEFIT",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 4,
-            "pg": 0
-          },
-          {
-            "name": "MAS SUELO QUE VÓLEY",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 1,
-            "pg": 0
-          },
-          {
             "name": "SOWCAUTION",
             "pts": 0,
             "gf": 0,
@@ -1361,8 +1361,8 @@
               {
                 "home": "MAS SUELO QUE VÓLEY",
                 "away": "LOS BURPEES BOYS BYIMPROVEFIT",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 8,
+                "golesAway": 15,
                 "campoId": 2,
                 "ordenGlobal": 41
               },
@@ -2014,6 +2014,18 @@
         "posGrupo": 1
       },
       {
+        "name": "LOS BURPEES BOYS BYIMPROVEFIT",
+        "pts": 2,
+        "gf": 15,
+        "gc": 8,
+        "dg": 7,
+        "pj": 1,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo I",
+        "posGrupo": 1
+      },
+      {
         "name": "GANAMOS Y NOS VAMOS",
         "pts": 2,
         "gf": 15,
@@ -2107,6 +2119,18 @@
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo D",
+        "posGrupo": 2
+      },
+      {
+        "name": "MAS SUELO QUE VÓLEY",
+        "pts": 1,
+        "gf": 8,
+        "gc": 15,
+        "dg": -7,
+        "pj": 1,
+        "ordenSorteo": 1,
+        "pg": 0,
+        "grupo": "Grupo I",
         "posGrupo": 2
       },
       {
@@ -2359,7 +2383,7 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo I",
-        "posGrupo": 1
+        "posGrupo": 3
       },
       {
         "name": "LO VEO CLARO",
@@ -2371,19 +2395,7 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo I",
-        "posGrupo": 2
-      },
-      {
-        "name": "LOS BURPEES BOYS BYIMPROVEFIT",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 4,
-        "pg": 0,
-        "grupo": "Grupo I",
-        "posGrupo": 3
+        "posGrupo": 4
       },
       {
         "name": "LOS CARIÑITOS BOSTONCITOS",
@@ -2467,18 +2479,6 @@
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo E",
-        "posGrupo": 4
-      },
-      {
-        "name": "MAS SUELO QUE VÓLEY",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 1,
-        "pg": 0,
-        "grupo": "Grupo I",
         "posGrupo": 4
       },
       {
@@ -2731,7 +2731,7 @@
       "campo_0": false,
       "campo_3": false,
       "campo_1": false,
-      "campo_2": true,
+      "campo_2": false,
       "campo_5": false,
       "grupo_0": false
     },
@@ -2775,6 +2775,18 @@
         "ordenSorteo": 1,
         "pg": 1,
         "grupo": "Grupo C",
+        "posGrupo": 1
+      },
+      {
+        "name": "LOS BURPEES BOYS BYIMPROVEFIT",
+        "pts": 2,
+        "gf": 15,
+        "gc": 8,
+        "dg": 7,
+        "pj": 1,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo I",
         "posGrupo": 1
       },
       {
@@ -2874,18 +2886,6 @@
         "posGrupo": 1
       },
       {
-        "name": "LAS LEYENDAS NUNCA MUEREN",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo I",
-        "posGrupo": 1
-      },
-      {
         "name": "CENTAUROS",
         "pts": 1,
         "gf": 14,
@@ -2931,6 +2931,18 @@
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo D",
+        "posGrupo": 2
+      },
+      {
+        "name": "MAS SUELO QUE VÓLEY",
+        "pts": 1,
+        "gf": 8,
+        "gc": 15,
+        "dg": -7,
+        "pj": 1,
+        "ordenSorteo": 1,
+        "pg": 0,
+        "grupo": "Grupo I",
         "posGrupo": 2
       },
       {
@@ -3003,18 +3015,6 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo H",
-        "posGrupo": 2
-      },
-      {
-        "name": "LO VEO CLARO",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo I",
         "posGrupo": 2
       },
       {
@@ -3114,13 +3114,13 @@
         "posGrupo": 3
       },
       {
-        "name": "LOS BURPEES BOYS BYIMPROVEFIT",
+        "name": "LAS LEYENDAS NUNCA MUEREN",
         "pts": 0,
         "gf": 0,
         "gc": 0,
         "dg": 0,
         "pj": 0,
-        "ordenSorteo": 4,
+        "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo I",
         "posGrupo": 3
@@ -3198,6 +3198,18 @@
         "posGrupo": 4
       },
       {
+        "name": "LO VEO CLARO",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 0,
+        "pg": 0,
+        "grupo": "Grupo I",
+        "posGrupo": 4
+      },
+      {
         "name": "LOS CARIÑITOS BOSTONCITOS",
         "pts": 0,
         "gf": 0,
@@ -3219,18 +3231,6 @@
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo E",
-        "posGrupo": 4
-      },
-      {
-        "name": "MAS SUELO QUE VÓLEY",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 1,
-        "pg": 0,
-        "grupo": "Grupo I",
         "posGrupo": 4
       },
       {
