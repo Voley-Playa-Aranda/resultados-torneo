@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T11:37:03.160Z",
+  "publicadoEn": "2026-07-11T11:39:03.171Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -298,7 +298,7 @@
               {
                 "home": "TE MIRO Y TE BLOQUEO",
                 "away": "PESOS PESADOS",
-                "golesHome": "",
+                "golesHome": 15,
                 "golesAway": "",
                 "campoId": 1,
                 "ordenGlobal": 34
@@ -1629,23 +1629,13 @@
         "equipos": [
           {
             "name": "GLUTEN FREE",
-            "pts": 6,
-            "gf": 45,
-            "gc": 29,
-            "dg": 16,
-            "pj": 3,
+            "pts": 8,
+            "gf": 60,
+            "gc": 39,
+            "dg": 21,
+            "pj": 4,
             "ordenSorteo": 2,
-            "pg": 3
-          },
-          {
-            "name": "LA BATALLA DE LOS PELOS BASTARDOS",
-            "pts": 3,
-            "gf": 24,
-            "gc": 25,
-            "dg": -1,
-            "pj": 2,
-            "ordenSorteo": 0,
-            "pg": 1
+            "pg": 4
           },
           {
             "name": "ASTON BIRRAS",
@@ -1665,6 +1655,16 @@
             "dg": -3,
             "pj": 2,
             "ordenSorteo": 3,
+            "pg": 1
+          },
+          {
+            "name": "LA BATALLA DE LOS PELOS BASTARDOS",
+            "pts": 4,
+            "gf": 34,
+            "gc": 40,
+            "dg": -6,
+            "pj": 3,
+            "ordenSorteo": 0,
             "pg": 1
           },
           {
@@ -1748,8 +1748,8 @@
               {
                 "home": "LA BATALLA DE LOS PELOS BASTARDOS",
                 "away": "GLUTEN FREE",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 10,
+                "golesAway": 15,
                 "campoId": 4,
                 "ordenGlobal": 93
               },
@@ -2086,18 +2086,6 @@
         "posGrupo": 1
       },
       {
-        "name": "GLUTEN FREE",
-        "pts": 6,
-        "gf": 45,
-        "gc": 29,
-        "dg": 16,
-        "pj": 3,
-        "ordenSorteo": 2,
-        "pg": 3,
-        "grupo": "Grupo K",
-        "posGrupo": 1
-      },
-      {
         "name": "LOS GOMELLANOS",
         "pts": 6,
         "gf": 45,
@@ -2107,6 +2095,18 @@
         "ordenSorteo": 1,
         "pg": 3,
         "grupo": "Grupo C",
+        "posGrupo": 1
+      },
+      {
+        "name": "GLUTEN FREE",
+        "pts": 8,
+        "gf": 60,
+        "gc": 39,
+        "dg": 21,
+        "pj": 4,
+        "ordenSorteo": 2,
+        "pg": 4,
+        "grupo": "Grupo K",
         "posGrupo": 1
       },
       {
@@ -2326,18 +2326,6 @@
         "posGrupo": 3
       },
       {
-        "name": "LA BATALLA DE LOS PELOS BASTARDOS",
-        "pts": 3,
-        "gf": 24,
-        "gc": 25,
-        "dg": -1,
-        "pj": 2,
-        "ordenSorteo": 0,
-        "pg": 1,
-        "grupo": "Grupo K",
-        "posGrupo": 2
-      },
-      {
         "name": "ASTON BIRRAS",
         "pts": 3,
         "gf": 25,
@@ -2347,7 +2335,7 @@
         "ordenSorteo": 1,
         "pg": 1,
         "grupo": "Grupo K",
-        "posGrupo": 3
+        "posGrupo": 2
       },
       {
         "name": "ZEMEN UP",
@@ -2383,7 +2371,7 @@
         "ordenSorteo": 3,
         "pg": 1,
         "grupo": "Grupo K",
-        "posGrupo": 4
+        "posGrupo": 3
       },
       {
         "name": "CHUPYGRASKA",
@@ -2479,6 +2467,18 @@
         "ordenSorteo": 0,
         "pg": 1,
         "grupo": "Grupo C",
+        "posGrupo": 4
+      },
+      {
+        "name": "LA BATALLA DE LOS PELOS BASTARDOS",
+        "pts": 4,
+        "gf": 34,
+        "gc": 40,
+        "dg": -6,
+        "pj": 3,
+        "ordenSorteo": 0,
+        "pg": 1,
+        "grupo": "Grupo K",
         "posGrupo": 4
       },
       {
@@ -2730,7 +2730,7 @@
       "campo_4": false,
       "campo_0": false,
       "campo_3": false,
-      "campo_1": false,
+      "campo_1": true,
       "campo_2": false,
       "campo_5": false,
       "grupo_0": false
@@ -2851,18 +2851,6 @@
         "posGrupo": 1
       },
       {
-        "name": "GLUTEN FREE",
-        "pts": 6,
-        "gf": 45,
-        "gc": 29,
-        "dg": 16,
-        "pj": 3,
-        "ordenSorteo": 2,
-        "pg": 3,
-        "grupo": "Grupo K",
-        "posGrupo": 1
-      },
-      {
         "name": "LOS GOMELLANOS",
         "pts": 6,
         "gf": 45,
@@ -2872,6 +2860,18 @@
         "ordenSorteo": 1,
         "pg": 3,
         "grupo": "Grupo C",
+        "posGrupo": 1
+      },
+      {
+        "name": "GLUTEN FREE",
+        "pts": 8,
+        "gf": 60,
+        "gc": 39,
+        "dg": 21,
+        "pj": 4,
+        "ordenSorteo": 2,
+        "pg": 4,
+        "grupo": "Grupo K",
         "posGrupo": 1
       },
       {
@@ -3031,13 +3031,13 @@
         "posGrupo": 2
       },
       {
-        "name": "LA BATALLA DE LOS PELOS BASTARDOS",
+        "name": "ASTON BIRRAS",
         "pts": 3,
-        "gf": 24,
-        "gc": 25,
-        "dg": -1,
+        "gf": 25,
+        "gc": 27,
+        "dg": -2,
         "pj": 2,
-        "ordenSorteo": 0,
+        "ordenSorteo": 1,
         "pg": 1,
         "grupo": "Grupo K",
         "posGrupo": 2
@@ -3103,18 +3103,6 @@
         "posGrupo": 3
       },
       {
-        "name": "ASTON BIRRAS",
-        "pts": 3,
-        "gf": 25,
-        "gc": 27,
-        "dg": -2,
-        "pj": 2,
-        "ordenSorteo": 1,
-        "pg": 1,
-        "grupo": "Grupo K",
-        "posGrupo": 3
-      },
-      {
         "name": "ZEMEN UP",
         "pts": 3,
         "gf": 24,
@@ -3124,6 +3112,18 @@
         "ordenSorteo": 0,
         "pg": 1,
         "grupo": "Grupo J",
+        "posGrupo": 3
+      },
+      {
+        "name": "ROYALEROS",
+        "pts": 3,
+        "gf": 21,
+        "gc": 24,
+        "dg": -3,
+        "pj": 2,
+        "ordenSorteo": 3,
+        "pg": 1,
+        "grupo": "Grupo K",
         "posGrupo": 3
       },
       {
@@ -3211,18 +3211,6 @@
         "posGrupo": 4
       },
       {
-        "name": "ROYALEROS",
-        "pts": 3,
-        "gf": 21,
-        "gc": 24,
-        "dg": -3,
-        "pj": 2,
-        "ordenSorteo": 3,
-        "pg": 1,
-        "grupo": "Grupo K",
-        "posGrupo": 4
-      },
-      {
         "name": "MANCHESTER PITY JR",
         "pts": 3,
         "gf": 18,
@@ -3280,6 +3268,18 @@
         "ordenSorteo": 0,
         "pg": 1,
         "grupo": "Grupo C",
+        "posGrupo": 4
+      },
+      {
+        "name": "LA BATALLA DE LOS PELOS BASTARDOS",
+        "pts": 4,
+        "gf": 34,
+        "gc": 40,
+        "dg": -6,
+        "pj": 3,
+        "ordenSorteo": 0,
+        "pg": 1,
+        "grupo": "Grupo K",
         "posGrupo": 4
       },
       {
