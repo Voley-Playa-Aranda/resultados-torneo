@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T09:55:03.161Z",
+  "publicadoEn": "2026-07-11T09:57:03.161Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -676,12 +676,22 @@
             "pg": 1
           },
           {
+            "name": "MANCHESTER PITY JR",
+            "pts": 3,
+            "gf": 18,
+            "gc": 28,
+            "dg": -10,
+            "pj": 2,
+            "ordenSorteo": 1,
+            "pg": 1
+          },
+          {
             "name": "MAMAHOUS",
-            "pts": 1,
-            "gf": 14,
-            "gc": 16,
-            "dg": -2,
-            "pj": 1,
+            "pts": 2,
+            "gf": 27,
+            "gc": 31,
+            "dg": -4,
+            "pj": 2,
             "ordenSorteo": 2,
             "pg": 0
           },
@@ -693,16 +703,6 @@
             "dg": -7,
             "pj": 1,
             "ordenSorteo": 0,
-            "pg": 0
-          },
-          {
-            "name": "MANCHESTER PITY JR",
-            "pts": 1,
-            "gf": 3,
-            "gc": 15,
-            "dg": -12,
-            "pj": 1,
-            "ordenSorteo": 1,
             "pg": 0
           }
         ],
@@ -742,8 +742,8 @@
               {
                 "home": "MANCHESTER PITY JR",
                 "away": "MAMAHOUS",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 15,
+                "golesAway": 13,
                 "campoId": 4,
                 "ordenGlobal": 86
               }
@@ -2398,6 +2398,18 @@
         "posGrupo": 3
       },
       {
+        "name": "MANCHESTER PITY JR",
+        "pts": 3,
+        "gf": 18,
+        "gc": 28,
+        "dg": -10,
+        "pj": 2,
+        "ordenSorteo": 1,
+        "pg": 1,
+        "grupo": "Grupo E",
+        "posGrupo": 3
+      },
+      {
         "name": "RECEPCIÓN OPCIONAL",
         "pts": 1,
         "gf": 16,
@@ -2435,15 +2447,15 @@
       },
       {
         "name": "MAMAHOUS",
-        "pts": 1,
-        "gf": 14,
-        "gc": 16,
-        "dg": -2,
-        "pj": 1,
+        "pts": 2,
+        "gf": 27,
+        "gc": 31,
+        "dg": -4,
+        "pj": 2,
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo E",
-        "posGrupo": 3
+        "posGrupo": 4
       },
       {
         "name": "LOS CARIÑITOS BOSTONCITOS",
@@ -2599,7 +2611,7 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo E",
-        "posGrupo": 4
+        "posGrupo": 5
       },
       {
         "name": "ROYALEROS",
@@ -2659,18 +2671,6 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo L",
-        "posGrupo": 5
-      },
-      {
-        "name": "MANCHESTER PITY JR",
-        "pts": 1,
-        "gf": 3,
-        "gc": 15,
-        "dg": -12,
-        "pj": 1,
-        "ordenSorteo": 1,
-        "pg": 0,
-        "grupo": "Grupo E",
         "posGrupo": 5
       },
       {
@@ -3150,14 +3150,14 @@
         "posGrupo": 3
       },
       {
-        "name": "MAMAHOUS",
-        "pts": 1,
-        "gf": 14,
-        "gc": 16,
-        "dg": -2,
-        "pj": 1,
-        "ordenSorteo": 2,
-        "pg": 0,
+        "name": "MANCHESTER PITY JR",
+        "pts": 3,
+        "gf": 18,
+        "gc": 28,
+        "dg": -10,
+        "pj": 2,
+        "ordenSorteo": 1,
+        "pg": 1,
         "grupo": "Grupo E",
         "posGrupo": 3
       },
@@ -3219,6 +3219,18 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo J",
+        "posGrupo": 4
+      },
+      {
+        "name": "MAMAHOUS",
+        "pts": 2,
+        "gf": 27,
+        "gc": 31,
+        "dg": -4,
+        "pj": 2,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo E",
         "posGrupo": 4
       },
       {
@@ -3294,18 +3306,6 @@
         "posGrupo": 4
       },
       {
-        "name": "PEGRILOSAS",
-        "pts": 1,
-        "gf": 8,
-        "gc": 15,
-        "dg": -7,
-        "pj": 1,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo E",
-        "posGrupo": 4
-      },
-      {
         "name": "TE EMPAQUETO",
         "pts": 1,
         "gf": 5,
@@ -3378,6 +3378,18 @@
         "posGrupo": 5
       },
       {
+        "name": "PEGRILOSAS",
+        "pts": 1,
+        "gf": 8,
+        "gc": 15,
+        "dg": -7,
+        "pj": 1,
+        "ordenSorteo": 0,
+        "pg": 0,
+        "grupo": "Grupo E",
+        "posGrupo": 5
+      },
+      {
         "name": "ROYALEROS",
         "pts": 1,
         "gf": 6,
@@ -3423,18 +3435,6 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo L",
-        "posGrupo": 5
-      },
-      {
-        "name": "MANCHESTER PITY JR",
-        "pts": 1,
-        "gf": 3,
-        "gc": 15,
-        "dg": -12,
-        "pj": 1,
-        "ordenSorteo": 1,
-        "pg": 0,
-        "grupo": "Grupo E",
         "posGrupo": 5
       },
       {
