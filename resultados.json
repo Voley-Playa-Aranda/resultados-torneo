@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T12:27:03.157Z",
+  "publicadoEn": "2026-07-11T12:29:04.039Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -524,24 +524,24 @@
             "pg": 1
           },
           {
-            "name": "NOS FUIMOS",
-            "pts": 4,
-            "gf": 34,
-            "gc": 44,
-            "dg": -10,
-            "pj": 3,
-            "ordenSorteo": 0,
+            "name": "MANCHESTER PITY",
+            "pts": 5,
+            "gf": 41,
+            "gc": 52,
+            "dg": -11,
+            "pj": 4,
+            "ordenSorteo": 1,
             "pg": 1
           },
           {
-            "name": "MANCHESTER PITY",
-            "pts": 3,
-            "gf": 26,
-            "gc": 45,
-            "dg": -19,
-            "pj": 3,
-            "ordenSorteo": 1,
-            "pg": 0
+            "name": "NOS FUIMOS",
+            "pts": 5,
+            "gf": 41,
+            "gc": 59,
+            "dg": -18,
+            "pj": 4,
+            "ordenSorteo": 0,
+            "pg": 1
           }
         ],
         "partidos": [
@@ -636,7 +636,7 @@
                 "home": "NOS FUIMOS",
                 "away": "MANCHESTER PITY",
                 "golesHome": 7,
-                "golesAway": "",
+                "golesAway": 15,
                 "campoId": 3,
                 "ordenGlobal": 76
               },
@@ -2446,18 +2446,6 @@
         "posGrupo": 4
       },
       {
-        "name": "NOS FUIMOS",
-        "pts": 4,
-        "gf": 34,
-        "gc": 44,
-        "dg": -10,
-        "pj": 3,
-        "ordenSorteo": 0,
-        "pg": 1,
-        "grupo": "Grupo D",
-        "posGrupo": 4
-      },
-      {
         "name": "CARCAJADA",
         "pts": 4,
         "gf": 25,
@@ -2518,6 +2506,18 @@
         "posGrupo": 4
       },
       {
+        "name": "MANCHESTER PITY",
+        "pts": 5,
+        "gf": 41,
+        "gc": 52,
+        "dg": -11,
+        "pj": 4,
+        "ordenSorteo": 1,
+        "pg": 1,
+        "grupo": "Grupo D",
+        "posGrupo": 4
+      },
+      {
         "name": "PESOS PESADOS",
         "pts": 5,
         "gf": 49,
@@ -2540,6 +2540,18 @@
         "pg": 1,
         "grupo": "Grupo A",
         "posGrupo": 4
+      },
+      {
+        "name": "NOS FUIMOS",
+        "pts": 5,
+        "gf": 41,
+        "gc": 59,
+        "dg": -18,
+        "pj": 4,
+        "ordenSorteo": 0,
+        "pg": 1,
+        "grupo": "Grupo D",
+        "posGrupo": 5
       },
       {
         "name": "CV SIESTA",
@@ -2587,18 +2599,6 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo B",
-        "posGrupo": 5
-      },
-      {
-        "name": "MANCHESTER PITY",
-        "pts": 3,
-        "gf": 26,
-        "gc": 45,
-        "dg": -19,
-        "pj": 3,
-        "ordenSorteo": 1,
-        "pg": 0,
-        "grupo": "Grupo D",
         "posGrupo": 5
       },
       {
@@ -2729,7 +2729,7 @@
       "grupo_4": false,
       "campo_4": false,
       "campo_0": false,
-      "campo_3": true,
+      "campo_3": false,
       "campo_1": false,
       "campo_2": false,
       "campo_5": false,
@@ -3223,18 +3223,6 @@
         "posGrupo": 4
       },
       {
-        "name": "NOS FUIMOS",
-        "pts": 4,
-        "gf": 34,
-        "gc": 44,
-        "dg": -10,
-        "pj": 3,
-        "ordenSorteo": 0,
-        "pg": 1,
-        "grupo": "Grupo D",
-        "posGrupo": 4
-      },
-      {
         "name": "CARCAJADA",
         "pts": 4,
         "gf": 25,
@@ -3280,6 +3268,18 @@
         "ordenSorteo": 1,
         "pg": 1,
         "grupo": "Grupo I",
+        "posGrupo": 4
+      },
+      {
+        "name": "MANCHESTER PITY",
+        "pts": 5,
+        "gf": 41,
+        "gc": 52,
+        "dg": -11,
+        "pj": 4,
+        "ordenSorteo": 1,
+        "pg": 1,
+        "grupo": "Grupo D",
         "posGrupo": 4
       },
       {
@@ -3343,6 +3343,18 @@
         "posGrupo": 5
       },
       {
+        "name": "NOS FUIMOS",
+        "pts": 5,
+        "gf": 41,
+        "gc": 59,
+        "dg": -18,
+        "pj": 4,
+        "ordenSorteo": 0,
+        "pg": 1,
+        "grupo": "Grupo D",
+        "posGrupo": 5
+      },
+      {
         "name": "LA CASITA",
         "pts": 3,
         "gf": 35,
@@ -3364,18 +3376,6 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo B",
-        "posGrupo": 5
-      },
-      {
-        "name": "MANCHESTER PITY",
-        "pts": 3,
-        "gf": 26,
-        "gc": 45,
-        "dg": -19,
-        "pj": 3,
-        "ordenSorteo": 1,
-        "pg": 0,
-        "grupo": "Grupo D",
         "posGrupo": 5
       },
       {
