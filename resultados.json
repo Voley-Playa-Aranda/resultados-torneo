@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T12:43:03.158Z",
+  "publicadoEn": "2026-07-11T12:45:03.158Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -2730,7 +2730,7 @@
       "campo_4": false,
       "campo_0": false,
       "campo_3": false,
-      "campo_1": true,
+      "campo_1": false,
       "campo_2": false,
       "campo_5": false,
       "grupo_0": false
