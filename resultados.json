@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T10:21:03.164Z",
+  "publicadoEn": "2026-07-11T10:23:03.164Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -666,12 +666,22 @@
             "pg": 2
           },
           {
-            "name": "CHUPYGRASKA",
-            "pts": 2,
-            "gf": 16,
-            "gc": 14,
+            "name": "PEGRILOSAS",
+            "pts": 3,
+            "gf": 23,
+            "gc": 21,
             "dg": 2,
-            "pj": 1,
+            "pj": 2,
+            "ordenSorteo": 0,
+            "pg": 1
+          },
+          {
+            "name": "CHUPYGRASKA",
+            "pts": 3,
+            "gf": 22,
+            "gc": 29,
+            "dg": -7,
+            "pj": 2,
             "ordenSorteo": 3,
             "pg": 1
           },
@@ -693,16 +703,6 @@
             "dg": -4,
             "pj": 2,
             "ordenSorteo": 2,
-            "pg": 0
-          },
-          {
-            "name": "PEGRILOSAS",
-            "pts": 1,
-            "gf": 8,
-            "gc": 15,
-            "dg": -7,
-            "pj": 1,
-            "ordenSorteo": 0,
             "pg": 0
           }
         ],
@@ -755,8 +755,8 @@
               {
                 "home": "PEGRILOSAS",
                 "away": "CHUPYGRASKA",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 15,
+                "golesAway": 6,
                 "campoId": 4,
                 "ordenGlobal": 88
               },
@@ -818,6 +818,16 @@
         "nombre": "Grupo F",
         "equipos": [
           {
+            "name": "EL CLAN DE LOS LOZANO",
+            "pts": 4,
+            "gf": 33,
+            "gc": 23,
+            "dg": 10,
+            "pj": 2,
+            "ordenSorteo": 0,
+            "pg": 2
+          },
+          {
             "name": "PROHIBIDO DIVERTIRSE",
             "pts": 4,
             "gf": 31,
@@ -826,16 +836,6 @@
             "pj": 2,
             "ordenSorteo": 1,
             "pg": 2
-          },
-          {
-            "name": "EL CLAN DE LOS LOZANO",
-            "pts": 2,
-            "gf": 18,
-            "gc": 16,
-            "dg": 2,
-            "pj": 1,
-            "ordenSorteo": 0,
-            "pg": 1
           },
           {
             "name": "ASOCIACIÓN DE DRAGONES AMERICANOS",
@@ -859,11 +859,11 @@
           },
           {
             "name": "CAÍDA LIBRE VOLEY",
-            "pts": 1,
-            "gf": 5,
-            "gc": 15,
-            "dg": -10,
-            "pj": 1,
+            "pts": 2,
+            "gf": 12,
+            "gc": 30,
+            "dg": -18,
+            "pj": 2,
             "ordenSorteo": 3,
             "pg": 0
           }
@@ -917,8 +917,8 @@
               {
                 "home": "EL CLAN DE LOS LOZANO",
                 "away": "CAÍDA LIBRE VOLEY",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 15,
+                "golesAway": 7,
                 "campoId": 5,
                 "ordenGlobal": 108
               },
@@ -2122,6 +2122,18 @@
         "posGrupo": 2
       },
       {
+        "name": "EL CLAN DE LOS LOZANO",
+        "pts": 4,
+        "gf": 33,
+        "gc": 23,
+        "dg": 10,
+        "pj": 2,
+        "ordenSorteo": 0,
+        "pg": 2,
+        "grupo": "Grupo F",
+        "posGrupo": 1
+      },
+      {
         "name": "GUSANOS GAFONES",
         "pts": 4,
         "gf": 30,
@@ -2179,18 +2191,6 @@
         "ordenSorteo": 1,
         "pg": 2,
         "grupo": "Grupo F",
-        "posGrupo": 1
-      },
-      {
-        "name": "EL CLAN DE LOS LOZANO",
-        "pts": 2,
-        "gf": 18,
-        "gc": 16,
-        "dg": 2,
-        "pj": 1,
-        "ordenSorteo": 0,
-        "pg": 1,
-        "grupo": "Grupo F",
         "posGrupo": 2
       },
       {
@@ -2203,18 +2203,6 @@
         "ordenSorteo": 3,
         "pg": 1,
         "grupo": "Grupo J",
-        "posGrupo": 2
-      },
-      {
-        "name": "CHUPYGRASKA",
-        "pts": 2,
-        "gf": 16,
-        "gc": 14,
-        "dg": 2,
-        "pj": 1,
-        "ordenSorteo": 3,
-        "pg": 1,
-        "grupo": "Grupo E",
         "posGrupo": 2
       },
       {
@@ -2312,6 +2300,18 @@
         "pg": 1,
         "grupo": "Grupo I",
         "posGrupo": 3
+      },
+      {
+        "name": "PEGRILOSAS",
+        "pts": 3,
+        "gf": 23,
+        "gc": 21,
+        "dg": 2,
+        "pj": 2,
+        "ordenSorteo": 0,
+        "pg": 1,
+        "grupo": "Grupo E",
+        "posGrupo": 2
       },
       {
         "name": "LOS ROMPEBOLAS",
@@ -2446,6 +2446,18 @@
         "posGrupo": 4
       },
       {
+        "name": "CHUPYGRASKA",
+        "pts": 3,
+        "gf": 22,
+        "gc": 29,
+        "dg": -7,
+        "pj": 2,
+        "ordenSorteo": 3,
+        "pg": 1,
+        "grupo": "Grupo E",
+        "posGrupo": 3
+      },
+      {
         "name": "MANCHESTER PITY JR",
         "pts": 3,
         "gf": 18,
@@ -2455,7 +2467,7 @@
         "ordenSorteo": 1,
         "pg": 1,
         "grupo": "Grupo E",
-        "posGrupo": 3
+        "posGrupo": 4
       },
       {
         "name": "CENTAUROS",
@@ -2479,7 +2491,7 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo E",
-        "posGrupo": 4
+        "posGrupo": 5
       },
       {
         "name": "STREET VOLLEY",
@@ -2602,18 +2614,6 @@
         "posGrupo": 5
       },
       {
-        "name": "PEGRILOSAS",
-        "pts": 1,
-        "gf": 8,
-        "gc": 15,
-        "dg": -7,
-        "pj": 1,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo E",
-        "posGrupo": 5
-      },
-      {
         "name": "LAS LEYENDAS NUNCA MUEREN",
         "pts": 2,
         "gf": 14,
@@ -2638,6 +2638,18 @@
         "posGrupo": 5
       },
       {
+        "name": "CAÍDA LIBRE VOLEY",
+        "pts": 2,
+        "gf": 12,
+        "gc": 30,
+        "dg": -18,
+        "pj": 2,
+        "ordenSorteo": 3,
+        "pg": 0,
+        "grupo": "Grupo F",
+        "posGrupo": 5
+      },
+      {
         "name": "ROYALEROS",
         "pts": 1,
         "gf": 6,
@@ -2647,18 +2659,6 @@
         "ordenSorteo": 3,
         "pg": 0,
         "grupo": "Grupo K",
-        "posGrupo": 5
-      },
-      {
-        "name": "CAÍDA LIBRE VOLEY",
-        "pts": 1,
-        "gf": 5,
-        "gc": 15,
-        "dg": -10,
-        "pj": 1,
-        "ordenSorteo": 3,
-        "pg": 0,
-        "grupo": "Grupo F",
         "posGrupo": 5
       },
       {
@@ -2862,6 +2862,18 @@
         "posGrupo": 1
       },
       {
+        "name": "EL CLAN DE LOS LOZANO",
+        "pts": 4,
+        "gf": 33,
+        "gc": 23,
+        "dg": 10,
+        "pj": 2,
+        "ordenSorteo": 0,
+        "pg": 2,
+        "grupo": "Grupo F",
+        "posGrupo": 1
+      },
+      {
         "name": "ZEMEN UP",
         "pts": 2,
         "gf": 15,
@@ -2871,18 +2883,6 @@
         "ordenSorteo": 0,
         "pg": 1,
         "grupo": "Grupo J",
-        "posGrupo": 1
-      },
-      {
-        "name": "PROHIBIDO DIVERTIRSE",
-        "pts": 4,
-        "gf": 31,
-        "gc": 25,
-        "dg": 6,
-        "pj": 2,
-        "ordenSorteo": 1,
-        "pg": 2,
-        "grupo": "Grupo F",
         "posGrupo": 1
       },
       {
@@ -2946,14 +2946,14 @@
         "posGrupo": 2
       },
       {
-        "name": "EL CLAN DE LOS LOZANO",
-        "pts": 2,
-        "gf": 18,
-        "gc": 16,
-        "dg": 2,
-        "pj": 1,
-        "ordenSorteo": 0,
-        "pg": 1,
+        "name": "PROHIBIDO DIVERTIRSE",
+        "pts": 4,
+        "gf": 31,
+        "gc": 25,
+        "dg": 6,
+        "pj": 2,
+        "ordenSorteo": 1,
+        "pg": 2,
         "grupo": "Grupo F",
         "posGrupo": 2
       },
@@ -2967,18 +2967,6 @@
         "ordenSorteo": 3,
         "pg": 1,
         "grupo": "Grupo J",
-        "posGrupo": 2
-      },
-      {
-        "name": "CHUPYGRASKA",
-        "pts": 2,
-        "gf": 16,
-        "gc": 14,
-        "dg": 2,
-        "pj": 1,
-        "ordenSorteo": 3,
-        "pg": 1,
-        "grupo": "Grupo E",
         "posGrupo": 2
       },
       {
@@ -3015,6 +3003,18 @@
         "ordenSorteo": 1,
         "pg": 1,
         "grupo": "Grupo L",
+        "posGrupo": 2
+      },
+      {
+        "name": "PEGRILOSAS",
+        "pts": 3,
+        "gf": 23,
+        "gc": 21,
+        "dg": 2,
+        "pj": 2,
+        "ordenSorteo": 0,
+        "pg": 1,
+        "grupo": "Grupo E",
         "posGrupo": 2
       },
       {
@@ -3150,13 +3150,13 @@
         "posGrupo": 3
       },
       {
-        "name": "MANCHESTER PITY JR",
+        "name": "CHUPYGRASKA",
         "pts": 3,
-        "gf": 18,
-        "gc": 28,
-        "dg": -10,
+        "gf": 22,
+        "gc": 29,
+        "dg": -7,
         "pj": 2,
-        "ordenSorteo": 1,
+        "ordenSorteo": 3,
         "pg": 1,
         "grupo": "Grupo E",
         "posGrupo": 3
@@ -3234,6 +3234,18 @@
         "posGrupo": 4
       },
       {
+        "name": "MANCHESTER PITY JR",
+        "pts": 3,
+        "gf": 18,
+        "gc": 28,
+        "dg": -10,
+        "pj": 2,
+        "ordenSorteo": 1,
+        "pg": 1,
+        "grupo": "Grupo E",
+        "posGrupo": 4
+      },
+      {
         "name": "CENTAUROS",
         "pts": 2,
         "gf": 30,
@@ -3243,18 +3255,6 @@
         "ordenSorteo": 4,
         "pg": 0,
         "grupo": "Grupo F",
-        "posGrupo": 4
-      },
-      {
-        "name": "MAMAHOUS",
-        "pts": 2,
-        "gf": 27,
-        "gc": 31,
-        "dg": -4,
-        "pj": 2,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo E",
         "posGrupo": 4
       },
       {
@@ -3318,6 +3318,18 @@
         "posGrupo": 4
       },
       {
+        "name": "MAMAHOUS",
+        "pts": 2,
+        "gf": 27,
+        "gc": 31,
+        "dg": -4,
+        "pj": 2,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo E",
+        "posGrupo": 5
+      },
+      {
         "name": "MBONANIS TEAM",
         "pts": 2,
         "gf": 22,
@@ -3378,18 +3390,6 @@
         "posGrupo": 5
       },
       {
-        "name": "PEGRILOSAS",
-        "pts": 1,
-        "gf": 8,
-        "gc": 15,
-        "dg": -7,
-        "pj": 1,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo E",
-        "posGrupo": 5
-      },
-      {
         "name": "LAS LEYENDAS NUNCA MUEREN",
         "pts": 2,
         "gf": 14,
@@ -3414,6 +3414,18 @@
         "posGrupo": 5
       },
       {
+        "name": "CAÍDA LIBRE VOLEY",
+        "pts": 2,
+        "gf": 12,
+        "gc": 30,
+        "dg": -18,
+        "pj": 2,
+        "ordenSorteo": 3,
+        "pg": 0,
+        "grupo": "Grupo F",
+        "posGrupo": 5
+      },
+      {
         "name": "ROYALEROS",
         "pts": 1,
         "gf": 6,
@@ -3423,18 +3435,6 @@
         "ordenSorteo": 3,
         "pg": 0,
         "grupo": "Grupo K",
-        "posGrupo": 5
-      },
-      {
-        "name": "CAÍDA LIBRE VOLEY",
-        "pts": 1,
-        "gf": 5,
-        "gc": 15,
-        "dg": -10,
-        "pj": 1,
-        "ordenSorteo": 3,
-        "pg": 0,
-        "grupo": "Grupo F",
         "posGrupo": 5
       },
       {
