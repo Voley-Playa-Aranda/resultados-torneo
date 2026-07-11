@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T11:47:03.172Z",
+  "publicadoEn": "2026-07-11T11:49:03.172Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -1487,21 +1487,21 @@
           },
           {
             "name": "ZEMEN UP",
-            "pts": 3,
-            "gf": 24,
-            "gc": 26,
-            "dg": -2,
-            "pj": 2,
+            "pts": 5,
+            "gf": 39,
+            "gc": 35,
+            "dg": 4,
+            "pj": 3,
             "ordenSorteo": 0,
-            "pg": 1
+            "pg": 2
           },
           {
             "name": "CHACALES",
-            "pts": 4,
-            "gf": 39,
-            "gc": 38,
-            "dg": 1,
-            "pj": 3,
+            "pts": 5,
+            "gf": 48,
+            "gc": 53,
+            "dg": -5,
+            "pj": 4,
             "ordenSorteo": 2,
             "pg": 1
           },
@@ -1586,8 +1586,8 @@
               {
                 "home": "ZEMEN UP",
                 "away": "CHACALES",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 15,
+                "golesAway": 9,
                 "campoId": 3,
                 "ordenGlobal": 73
               },
@@ -2230,6 +2230,18 @@
         "posGrupo": 2
       },
       {
+        "name": "ZEMEN UP",
+        "pts": 5,
+        "gf": 39,
+        "gc": 35,
+        "dg": 4,
+        "pj": 3,
+        "ordenSorteo": 0,
+        "pg": 2,
+        "grupo": "Grupo J",
+        "posGrupo": 3
+      },
+      {
         "name": "CORCHOPANES",
         "pts": 5,
         "gf": 38,
@@ -2338,18 +2350,6 @@
         "posGrupo": 2
       },
       {
-        "name": "ZEMEN UP",
-        "pts": 3,
-        "gf": 24,
-        "gc": 26,
-        "dg": -2,
-        "pj": 2,
-        "ordenSorteo": 0,
-        "pg": 1,
-        "grupo": "Grupo J",
-        "posGrupo": 3
-      },
-      {
         "name": "SOWCAUTION",
         "pts": 3,
         "gf": 21,
@@ -2419,18 +2419,6 @@
         "ordenSorteo": 4,
         "pg": 1,
         "grupo": "Grupo F",
-        "posGrupo": 4
-      },
-      {
-        "name": "CHACALES",
-        "pts": 4,
-        "gf": 39,
-        "gc": 38,
-        "dg": 1,
-        "pj": 3,
-        "ordenSorteo": 2,
-        "pg": 1,
-        "grupo": "Grupo J",
         "posGrupo": 4
       },
       {
@@ -2540,6 +2528,18 @@
         "pg": 1,
         "grupo": "Grupo C",
         "posGrupo": 5
+      },
+      {
+        "name": "CHACALES",
+        "pts": 5,
+        "gf": 48,
+        "gc": 53,
+        "dg": -5,
+        "pj": 4,
+        "ordenSorteo": 2,
+        "pg": 1,
+        "grupo": "Grupo J",
+        "posGrupo": 4
       },
       {
         "name": "PINO JACINTO",
@@ -2732,7 +2732,7 @@
       "campo_3": false,
       "campo_1": false,
       "campo_2": false,
-      "campo_5": true,
+      "campo_5": false,
       "grupo_0": false
     },
     "expandedClasificaciones": {
@@ -3055,6 +3055,18 @@
         "posGrupo": 3
       },
       {
+        "name": "ZEMEN UP",
+        "pts": 5,
+        "gf": 39,
+        "gc": 35,
+        "dg": 4,
+        "pj": 3,
+        "ordenSorteo": 0,
+        "pg": 2,
+        "grupo": "Grupo J",
+        "posGrupo": 3
+      },
+      {
         "name": "CORCHOPANES",
         "pts": 5,
         "gf": 38,
@@ -3112,18 +3124,6 @@
         "ordenSorteo": 3,
         "pg": 1,
         "grupo": "Grupo L",
-        "posGrupo": 3
-      },
-      {
-        "name": "ZEMEN UP",
-        "pts": 3,
-        "gf": 24,
-        "gc": 26,
-        "dg": -2,
-        "pj": 2,
-        "ordenSorteo": 0,
-        "pg": 1,
-        "grupo": "Grupo J",
         "posGrupo": 3
       },
       {
@@ -3223,18 +3223,6 @@
         "posGrupo": 4
       },
       {
-        "name": "CHACALES",
-        "pts": 4,
-        "gf": 39,
-        "gc": 38,
-        "dg": 1,
-        "pj": 3,
-        "ordenSorteo": 2,
-        "pg": 1,
-        "grupo": "Grupo J",
-        "posGrupo": 4
-      },
-      {
         "name": "RIÑONES DE LECHE",
         "pts": 4,
         "gf": 35,
@@ -3304,6 +3292,18 @@
         "ordenSorteo": 4,
         "pg": 1,
         "grupo": "Grupo G",
+        "posGrupo": 4
+      },
+      {
+        "name": "CHACALES",
+        "pts": 5,
+        "gf": 48,
+        "gc": 53,
+        "dg": -5,
+        "pj": 4,
+        "ordenSorteo": 2,
+        "pg": 1,
+        "grupo": "Grupo J",
         "posGrupo": 4
       },
       {
