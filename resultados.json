@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T12:19:03.171Z",
+  "publicadoEn": "2026-07-11T12:21:03.160Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -667,13 +667,13 @@
           },
           {
             "name": "PEGRILOSAS",
-            "pts": 5,
-            "gf": 38,
-            "gc": 24,
-            "dg": 14,
-            "pj": 3,
+            "pts": 7,
+            "gf": 53,
+            "gc": 26,
+            "dg": 27,
+            "pj": 4,
             "ordenSorteo": 0,
-            "pg": 2
+            "pg": 3
           },
           {
             "name": "CHUPYGRASKA",
@@ -687,11 +687,11 @@
           },
           {
             "name": "MANCHESTER PITY JR",
-            "pts": 4,
-            "gf": 21,
-            "gc": 43,
-            "dg": -22,
-            "pj": 3,
+            "pts": 5,
+            "gf": 23,
+            "gc": 58,
+            "dg": -35,
+            "pj": 4,
             "ordenSorteo": 1,
             "pg": 1
           },
@@ -797,8 +797,8 @@
               {
                 "home": "PEGRILOSAS",
                 "away": "MANCHESTER PITY JR",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 15,
+                "golesAway": 2,
                 "campoId": 4,
                 "ordenGlobal": 96
               },
@@ -2110,6 +2110,18 @@
         "posGrupo": 1
       },
       {
+        "name": "PEGRILOSAS",
+        "pts": 7,
+        "gf": 53,
+        "gc": 26,
+        "dg": 27,
+        "pj": 4,
+        "ordenSorteo": 0,
+        "pg": 3,
+        "grupo": "Grupo E",
+        "posGrupo": 2
+      },
+      {
         "name": "NOTTINGHAN PRISAS",
         "pts": 7,
         "gf": 54,
@@ -2179,18 +2191,6 @@
         "ordenSorteo": 4,
         "pg": 2,
         "grupo": "Grupo H",
-        "posGrupo": 2
-      },
-      {
-        "name": "PEGRILOSAS",
-        "pts": 5,
-        "gf": 38,
-        "gc": 24,
-        "dg": 14,
-        "pj": 3,
-        "ordenSorteo": 0,
-        "pg": 2,
-        "grupo": "Grupo E",
         "posGrupo": 2
       },
       {
@@ -2494,18 +2494,6 @@
         "posGrupo": 4
       },
       {
-        "name": "MANCHESTER PITY JR",
-        "pts": 4,
-        "gf": 21,
-        "gc": 43,
-        "dg": -22,
-        "pj": 3,
-        "ordenSorteo": 1,
-        "pg": 1,
-        "grupo": "Grupo E",
-        "posGrupo": 4
-      },
-      {
         "name": "CHACALES",
         "pts": 5,
         "gf": 48,
@@ -2563,6 +2551,18 @@
         "ordenSorteo": 4,
         "pg": 1,
         "grupo": "Grupo G",
+        "posGrupo": 4
+      },
+      {
+        "name": "MANCHESTER PITY JR",
+        "pts": 5,
+        "gf": 23,
+        "gc": 58,
+        "dg": -35,
+        "pj": 4,
+        "ordenSorteo": 1,
+        "pg": 1,
+        "grupo": "Grupo E",
         "posGrupo": 4
       },
       {
@@ -2728,7 +2728,7 @@
     "expandedPartidos": {
       "grupo_4": false,
       "campo_4": false,
-      "campo_0": true,
+      "campo_0": false,
       "campo_3": false,
       "campo_1": false,
       "campo_2": false,
@@ -2899,6 +2899,18 @@
         "posGrupo": 1
       },
       {
+        "name": "PEGRILOSAS",
+        "pts": 7,
+        "gf": 53,
+        "gc": 26,
+        "dg": 27,
+        "pj": 4,
+        "ordenSorteo": 0,
+        "pg": 3,
+        "grupo": "Grupo E",
+        "posGrupo": 2
+      },
+      {
         "name": "NOTTINGHAN PRISAS",
         "pts": 7,
         "gf": 54,
@@ -2956,18 +2968,6 @@
         "ordenSorteo": 4,
         "pg": 2,
         "grupo": "Grupo H",
-        "posGrupo": 2
-      },
-      {
-        "name": "PEGRILOSAS",
-        "pts": 5,
-        "gf": 38,
-        "gc": 24,
-        "dg": 14,
-        "pj": 3,
-        "ordenSorteo": 0,
-        "pg": 2,
-        "grupo": "Grupo E",
         "posGrupo": 2
       },
       {
@@ -3271,18 +3271,6 @@
         "posGrupo": 4
       },
       {
-        "name": "MANCHESTER PITY JR",
-        "pts": 4,
-        "gf": 21,
-        "gc": 43,
-        "dg": -22,
-        "pj": 3,
-        "ordenSorteo": 1,
-        "pg": 1,
-        "grupo": "Grupo E",
-        "posGrupo": 4
-      },
-      {
         "name": "CHACALES",
         "pts": 5,
         "gf": 48,
@@ -3328,6 +3316,18 @@
         "ordenSorteo": 4,
         "pg": 1,
         "grupo": "Grupo G",
+        "posGrupo": 4
+      },
+      {
+        "name": "MANCHESTER PITY JR",
+        "pts": 5,
+        "gf": 23,
+        "gc": 58,
+        "dg": -35,
+        "pj": 4,
+        "ordenSorteo": 1,
+        "pg": 1,
+        "grupo": "Grupo E",
         "posGrupo": 4
       },
       {
