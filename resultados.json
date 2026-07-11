@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T09:53:03.160Z",
+  "publicadoEn": "2026-07-11T09:55:03.161Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -818,14 +818,14 @@
         "nombre": "Grupo F",
         "equipos": [
           {
-            "name": "ASOCIACIÓN DE DRAGONES AMERICANOS",
-            "pts": 2,
-            "gf": 15,
-            "gc": 5,
-            "dg": 10,
-            "pj": 1,
-            "ordenSorteo": 2,
-            "pg": 1
+            "name": "PROHIBIDO DIVERTIRSE",
+            "pts": 4,
+            "gf": 31,
+            "gc": 25,
+            "dg": 6,
+            "pj": 2,
+            "ordenSorteo": 1,
+            "pg": 2
           },
           {
             "name": "EL CLAN DE LOS LOZANO",
@@ -838,13 +838,13 @@
             "pg": 1
           },
           {
-            "name": "PROHIBIDO DIVERTIRSE",
-            "pts": 2,
-            "gf": 16,
-            "gc": 14,
-            "dg": 2,
-            "pj": 1,
-            "ordenSorteo": 1,
+            "name": "ASOCIACIÓN DE DRAGONES AMERICANOS",
+            "pts": 3,
+            "gf": 26,
+            "gc": 20,
+            "dg": 6,
+            "pj": 2,
+            "ordenSorteo": 2,
             "pg": 1
           },
           {
@@ -904,8 +904,8 @@
               {
                 "home": "PROHIBIDO DIVERTIRSE",
                 "away": "ASOCIACIÓN DE DRAGONES AMERICANOS",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 15,
+                "golesAway": 11,
                 "campoId": 5,
                 "ordenGlobal": 106
               }
@@ -2002,18 +2002,6 @@
         "posGrupo": 1
       },
       {
-        "name": "ASOCIACIÓN DE DRAGONES AMERICANOS",
-        "pts": 2,
-        "gf": 15,
-        "gc": 5,
-        "dg": 10,
-        "pj": 1,
-        "ordenSorteo": 2,
-        "pg": 1,
-        "grupo": "Grupo F",
-        "posGrupo": 1
-      },
-      {
         "name": "PRESS PANZA",
         "pts": 2,
         "gf": 15,
@@ -2194,6 +2182,18 @@
         "posGrupo": 1
       },
       {
+        "name": "PROHIBIDO DIVERTIRSE",
+        "pts": 4,
+        "gf": 31,
+        "gc": 25,
+        "dg": 6,
+        "pj": 2,
+        "ordenSorteo": 1,
+        "pg": 2,
+        "grupo": "Grupo F",
+        "posGrupo": 1
+      },
+      {
         "name": "ASTON BIRRAS",
         "pts": 2,
         "gf": 15,
@@ -2254,13 +2254,13 @@
         "posGrupo": 2
       },
       {
-        "name": "PROHIBIDO DIVERTIRSE",
-        "pts": 2,
-        "gf": 16,
-        "gc": 14,
-        "dg": 2,
-        "pj": 1,
-        "ordenSorteo": 1,
+        "name": "ASOCIACIÓN DE DRAGONES AMERICANOS",
+        "pts": 3,
+        "gf": 26,
+        "gc": 20,
+        "dg": 6,
+        "pj": 2,
+        "ordenSorteo": 2,
         "pg": 1,
         "grupo": "Grupo F",
         "posGrupo": 3
@@ -2766,18 +2766,6 @@
         "posGrupo": 1
       },
       {
-        "name": "ASOCIACIÓN DE DRAGONES AMERICANOS",
-        "pts": 2,
-        "gf": 15,
-        "gc": 5,
-        "dg": 10,
-        "pj": 1,
-        "ordenSorteo": 2,
-        "pg": 1,
-        "grupo": "Grupo F",
-        "posGrupo": 1
-      },
-      {
         "name": "PRESS PANZA",
         "pts": 2,
         "gf": 15,
@@ -2883,6 +2871,18 @@
         "ordenSorteo": 0,
         "pg": 1,
         "grupo": "Grupo J",
+        "posGrupo": 1
+      },
+      {
+        "name": "PROHIBIDO DIVERTIRSE",
+        "pts": 4,
+        "gf": 31,
+        "gc": 25,
+        "dg": 6,
+        "pj": 2,
+        "ordenSorteo": 1,
+        "pg": 2,
+        "grupo": "Grupo F",
         "posGrupo": 1
       },
       {
@@ -3042,13 +3042,13 @@
         "posGrupo": 3
       },
       {
-        "name": "PROHIBIDO DIVERTIRSE",
-        "pts": 2,
-        "gf": 16,
-        "gc": 14,
-        "dg": 2,
-        "pj": 1,
-        "ordenSorteo": 1,
+        "name": "ASOCIACIÓN DE DRAGONES AMERICANOS",
+        "pts": 3,
+        "gf": 26,
+        "gc": 20,
+        "dg": 6,
+        "pj": 2,
+        "ordenSorteo": 2,
         "pg": 1,
         "grupo": "Grupo F",
         "posGrupo": 3
