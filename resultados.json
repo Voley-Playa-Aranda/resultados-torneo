@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T10:11:03.157Z",
+  "publicadoEn": "2026-07-11T10:13:03.171Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -342,6 +342,16 @@
             "pg": 2
           },
           {
+            "name": "LOS CARIÑITOS BOSTONCITOS",
+            "pts": 3,
+            "gf": 28,
+            "gc": 22,
+            "dg": 6,
+            "pj": 2,
+            "ordenSorteo": 3,
+            "pg": 1
+          },
+          {
             "name": "KIKOÑAZO",
             "pts": 3,
             "gf": 24,
@@ -362,22 +372,12 @@
             "pg": 1
           },
           {
-            "name": "LOS CARIÑITOS BOSTONCITOS",
-            "pts": 1,
-            "gf": 13,
-            "gc": 15,
-            "dg": -2,
-            "pj": 1,
-            "ordenSorteo": 3,
-            "pg": 0
-          },
-          {
             "name": "LOS CERDITOS FIESTEROS",
-            "pts": 1,
-            "gf": 11,
-            "gc": 15,
-            "dg": -4,
-            "pj": 1,
+            "pts": 2,
+            "gf": 18,
+            "gc": 30,
+            "dg": -12,
+            "pj": 2,
             "ordenSorteo": 0,
             "pg": 0
           }
@@ -431,8 +431,8 @@
               {
                 "home": "LOS CERDITOS FIESTEROS",
                 "away": "LOS CARIÑITOS BOSTONCITOS",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 7,
+                "golesAway": 15,
                 "campoId": 2,
                 "ordenGlobal": 48
               },
@@ -2230,6 +2230,18 @@
         "posGrupo": 2
       },
       {
+        "name": "LOS CARIÑITOS BOSTONCITOS",
+        "pts": 3,
+        "gf": 28,
+        "gc": 22,
+        "dg": 6,
+        "pj": 2,
+        "ordenSorteo": 3,
+        "pg": 1,
+        "grupo": "Grupo C",
+        "posGrupo": 2
+      },
+      {
         "name": "ASOCIACIÓN DE DRAGONES AMERICANOS",
         "pts": 3,
         "gf": 26,
@@ -2359,7 +2371,7 @@
         "ordenSorteo": 2,
         "pg": 1,
         "grupo": "Grupo C",
-        "posGrupo": 2
+        "posGrupo": 3
       },
       {
         "name": "CARCAJADA",
@@ -2371,7 +2383,7 @@
         "ordenSorteo": 4,
         "pg": 1,
         "grupo": "Grupo C",
-        "posGrupo": 3
+        "posGrupo": 4
       },
       {
         "name": "CORCHOPANES",
@@ -2470,18 +2482,6 @@
         "posGrupo": 4
       },
       {
-        "name": "LOS CARIÑITOS BOSTONCITOS",
-        "pts": 1,
-        "gf": 13,
-        "gc": 15,
-        "dg": -2,
-        "pj": 1,
-        "ordenSorteo": 3,
-        "pg": 0,
-        "grupo": "Grupo C",
-        "posGrupo": 4
-      },
-      {
         "name": "STREET VOLLEY",
         "pts": 2,
         "gf": 26,
@@ -2516,18 +2516,6 @@
         "pg": 0,
         "grupo": "Grupo K",
         "posGrupo": 4
-      },
-      {
-        "name": "LOS CERDITOS FIESTEROS",
-        "pts": 1,
-        "gf": 11,
-        "gc": 15,
-        "dg": -4,
-        "pj": 1,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo C",
-        "posGrupo": 5
       },
       {
         "name": "TIERRA LLAMANDO A JUAN CARLOS",
@@ -2575,6 +2563,18 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo B",
+        "posGrupo": 5
+      },
+      {
+        "name": "LOS CERDITOS FIESTEROS",
+        "pts": 2,
+        "gf": 18,
+        "gc": 30,
+        "dg": -12,
+        "pj": 2,
+        "ordenSorteo": 0,
+        "pg": 0,
+        "grupo": "Grupo C",
         "posGrupo": 5
       },
       {
@@ -2731,7 +2731,7 @@
       "campo_0": false,
       "campo_3": false,
       "campo_1": false,
-      "campo_2": true,
+      "campo_2": false,
       "campo_5": false,
       "grupo_0": false
     },
@@ -2994,6 +2994,18 @@
         "posGrupo": 2
       },
       {
+        "name": "LOS CARIÑITOS BOSTONCITOS",
+        "pts": 3,
+        "gf": 28,
+        "gc": 22,
+        "dg": 6,
+        "pj": 2,
+        "ordenSorteo": 3,
+        "pg": 1,
+        "grupo": "Grupo C",
+        "posGrupo": 2
+      },
+      {
         "name": "EL TAMAÑO NO IMPORTA",
         "pts": 3,
         "gf": 24,
@@ -3003,18 +3015,6 @@
         "ordenSorteo": 1,
         "pg": 1,
         "grupo": "Grupo L",
-        "posGrupo": 2
-      },
-      {
-        "name": "KIKOÑAZO",
-        "pts": 3,
-        "gf": 24,
-        "gc": 28,
-        "dg": -4,
-        "pj": 2,
-        "ordenSorteo": 2,
-        "pg": 1,
-        "grupo": "Grupo C",
         "posGrupo": 2
       },
       {
@@ -3126,13 +3126,13 @@
         "posGrupo": 3
       },
       {
-        "name": "CARCAJADA",
+        "name": "KIKOÑAZO",
         "pts": 3,
-        "gf": 22,
-        "gc": 26,
+        "gf": 24,
+        "gc": 28,
         "dg": -4,
         "pj": 2,
-        "ordenSorteo": 4,
+        "ordenSorteo": 2,
         "pg": 1,
         "grupo": "Grupo C",
         "posGrupo": 3
@@ -3183,6 +3183,18 @@
         "ordenSorteo": 4,
         "pg": 1,
         "grupo": "Grupo I",
+        "posGrupo": 4
+      },
+      {
+        "name": "CARCAJADA",
+        "pts": 3,
+        "gf": 22,
+        "gc": 26,
+        "dg": -4,
+        "pj": 2,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo C",
         "posGrupo": 4
       },
       {
@@ -3243,18 +3255,6 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo E",
-        "posGrupo": 4
-      },
-      {
-        "name": "LOS CARIÑITOS BOSTONCITOS",
-        "pts": 1,
-        "gf": 13,
-        "gc": 15,
-        "dg": -2,
-        "pj": 1,
-        "ordenSorteo": 3,
-        "pg": 0,
-        "grupo": "Grupo C",
         "posGrupo": 4
       },
       {
@@ -3330,18 +3330,6 @@
         "posGrupo": 5
       },
       {
-        "name": "LOS CERDITOS FIESTEROS",
-        "pts": 1,
-        "gf": 11,
-        "gc": 15,
-        "dg": -4,
-        "pj": 1,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo C",
-        "posGrupo": 5
-      },
-      {
         "name": "MBONANIS TEAM",
         "pts": 2,
         "gf": 22,
@@ -3351,6 +3339,18 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo B",
+        "posGrupo": 5
+      },
+      {
+        "name": "LOS CERDITOS FIESTEROS",
+        "pts": 2,
+        "gf": 18,
+        "gc": 30,
+        "dg": -12,
+        "pj": 2,
+        "ordenSorteo": 0,
+        "pg": 0,
+        "grupo": "Grupo C",
         "posGrupo": 5
       },
       {
