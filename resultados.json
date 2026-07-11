@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T15:31:03.172Z",
+  "publicadoEn": "2026-07-11T15:33:03.162Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -3763,8 +3763,8 @@
               "away": "EL PODER DE LA PIEDRA",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 16,
+                  "aS": 14
                 },
                 {
                   "hS": "",
@@ -3913,7 +3913,7 @@
           ],
           [
             {
-              "home": "",
+              "home": "STREET VOLLEY",
               "away": "",
               "sets": [
                 {
@@ -4449,7 +4449,7 @@
         }
       }
     },
-    "faseFinalActiva": "oro",
+    "faseFinalActiva": "plata",
     "faseFinalGenerada": true,
     "cfgNumGrupos": 12,
     "lastPosicionEq": [
