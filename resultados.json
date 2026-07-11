@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T12:15:03.172Z",
+  "publicadoEn": "2026-07-11T12:17:03.157Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -1467,13 +1467,13 @@
         "equipos": [
           {
             "name": "SUBESELA AL HEAVY",
-            "pts": 4,
-            "gf": 32,
-            "gc": 24,
-            "dg": 8,
-            "pj": 2,
+            "pts": 6,
+            "gf": 47,
+            "gc": 29,
+            "dg": 18,
+            "pj": 3,
             "ordenSorteo": 3,
-            "pg": 2
+            "pg": 3
           },
           {
             "name": "MALITOS",
@@ -1507,11 +1507,11 @@
           },
           {
             "name": "LOS ROOKIES",
-            "pts": 2,
-            "gf": 18,
-            "gc": 30,
-            "dg": -12,
-            "pj": 2,
+            "pts": 3,
+            "gf": 23,
+            "gc": 45,
+            "dg": -22,
+            "pj": 3,
             "ordenSorteo": 1,
             "pg": 0
           }
@@ -1594,8 +1594,8 @@
               {
                 "home": "SUBESELA AL HEAVY",
                 "away": "LOS ROOKIES",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 15,
+                "golesAway": 5,
                 "campoId": 3,
                 "ordenGlobal": 75
               }
@@ -2050,6 +2050,18 @@
         "posGrupo": 1
       },
       {
+        "name": "SUBESELA AL HEAVY",
+        "pts": 6,
+        "gf": 47,
+        "gc": 29,
+        "dg": 18,
+        "pj": 3,
+        "ordenSorteo": 3,
+        "pg": 3,
+        "grupo": "Grupo J",
+        "posGrupo": 1
+      },
+      {
         "name": "KARIBE VÓLEIBOL",
         "pts": 8,
         "gf": 60,
@@ -2095,18 +2107,6 @@
         "ordenSorteo": 1,
         "pg": 3,
         "grupo": "Grupo H",
-        "posGrupo": 1
-      },
-      {
-        "name": "SUBESELA AL HEAVY",
-        "pts": 4,
-        "gf": 32,
-        "gc": 24,
-        "dg": 8,
-        "pj": 2,
-        "ordenSorteo": 3,
-        "pg": 2,
-        "grupo": "Grupo J",
         "posGrupo": 1
       },
       {
@@ -2590,18 +2590,6 @@
         "posGrupo": 5
       },
       {
-        "name": "LOS ROOKIES",
-        "pts": 2,
-        "gf": 18,
-        "gc": 30,
-        "dg": -12,
-        "pj": 2,
-        "ordenSorteo": 1,
-        "pg": 0,
-        "grupo": "Grupo J",
-        "posGrupo": 5
-      },
-      {
         "name": "MANCHESTER PITY",
         "pts": 3,
         "gf": 26,
@@ -2623,6 +2611,18 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo E",
+        "posGrupo": 5
+      },
+      {
+        "name": "LOS ROOKIES",
+        "pts": 3,
+        "gf": 23,
+        "gc": 45,
+        "dg": -22,
+        "pj": 3,
+        "ordenSorteo": 1,
+        "pg": 0,
+        "grupo": "Grupo J",
         "posGrupo": 5
       },
       {
@@ -2729,8 +2729,8 @@
       "grupo_4": false,
       "campo_4": false,
       "campo_0": false,
-      "campo_3": false,
-      "campo_1": true,
+      "campo_3": true,
+      "campo_1": false,
       "campo_2": false,
       "campo_5": false,
       "grupo_0": false
@@ -2827,6 +2827,18 @@
         "posGrupo": 1
       },
       {
+        "name": "SUBESELA AL HEAVY",
+        "pts": 6,
+        "gf": 47,
+        "gc": 29,
+        "dg": 18,
+        "pj": 3,
+        "ordenSorteo": 3,
+        "pg": 3,
+        "grupo": "Grupo J",
+        "posGrupo": 1
+      },
+      {
         "name": "KARIBE VÓLEIBOL",
         "pts": 8,
         "gf": 60,
@@ -2872,18 +2884,6 @@
         "ordenSorteo": 1,
         "pg": 3,
         "grupo": "Grupo H",
-        "posGrupo": 1
-      },
-      {
-        "name": "SUBESELA AL HEAVY",
-        "pts": 4,
-        "gf": 32,
-        "gc": 24,
-        "dg": 8,
-        "pj": 2,
-        "ordenSorteo": 3,
-        "pg": 2,
-        "grupo": "Grupo J",
         "posGrupo": 1
       },
       {
@@ -3367,18 +3367,6 @@
         "posGrupo": 5
       },
       {
-        "name": "LOS ROOKIES",
-        "pts": 2,
-        "gf": 18,
-        "gc": 30,
-        "dg": -12,
-        "pj": 2,
-        "ordenSorteo": 1,
-        "pg": 0,
-        "grupo": "Grupo J",
-        "posGrupo": 5
-      },
-      {
         "name": "MANCHESTER PITY",
         "pts": 3,
         "gf": 26,
@@ -3400,6 +3388,18 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo E",
+        "posGrupo": 5
+      },
+      {
+        "name": "LOS ROOKIES",
+        "pts": 3,
+        "gf": 23,
+        "gc": 45,
+        "dg": -22,
+        "pj": 3,
+        "ordenSorteo": 1,
+        "pg": 0,
+        "grupo": "Grupo J",
         "posGrupo": 5
       },
       {
