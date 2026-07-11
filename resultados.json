@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T08:59:03.163Z",
+  "publicadoEn": "2026-07-11T09:01:03.157Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -656,6 +656,16 @@
         "nombre": "Grupo E",
         "equipos": [
           {
+            "name": "ABANTO",
+            "pts": 2,
+            "gf": 15,
+            "gc": 3,
+            "dg": 12,
+            "pj": 1,
+            "ordenSorteo": 4,
+            "pg": 1
+          },
+          {
             "name": "CHUPYGRASKA",
             "pts": 2,
             "gf": 16,
@@ -676,22 +686,12 @@
             "pg": 0
           },
           {
-            "name": "ABANTO",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 4,
-            "pg": 0
-          },
-          {
             "name": "MANCHESTER PITY JR",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
+            "pts": 1,
+            "gf": 3,
+            "gc": 15,
+            "dg": -12,
+            "pj": 1,
             "ordenSorteo": 1,
             "pg": 0
           },
@@ -713,8 +713,8 @@
               {
                 "home": "MANCHESTER PITY JR",
                 "away": "ABANTO",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 3,
+                "golesAway": 15,
                 "campoId": 4,
                 "ordenGlobal": 80
               },
@@ -980,6 +980,16 @@
         "nombre": "Grupo G",
         "equipos": [
           {
+            "name": "EL CONVENTO DE SANTA TERESA",
+            "pts": 2,
+            "gf": 15,
+            "gc": 3,
+            "dg": 12,
+            "pj": 1,
+            "ordenSorteo": 2,
+            "pg": 1
+          },
+          {
             "name": "KINDER SORPRESA",
             "pts": 2,
             "gf": 15,
@@ -1000,22 +1010,12 @@
             "pg": 0
           },
           {
-            "name": "EL CONVENTO DE SANTA TERESA",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 2,
-            "pg": 0
-          },
-          {
             "name": "MENESTRA CON GINEBRA",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
+            "pts": 1,
+            "gf": 3,
+            "gc": 15,
+            "dg": -12,
+            "pj": 1,
             "ordenSorteo": 3,
             "pg": 0
           },
@@ -1045,8 +1045,8 @@
               {
                 "home": "EL CONVENTO DE SANTA TERESA",
                 "away": "MENESTRA CON GINEBRA",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 15,
+                "golesAway": 3,
                 "campoId": 0,
                 "ordenGlobal": 3
               }
@@ -1978,6 +1978,30 @@
     "lineasEquipos": [],
     "lastGlobalEq": [
       {
+        "name": "ABANTO",
+        "pts": 2,
+        "gf": 15,
+        "gc": 3,
+        "dg": 12,
+        "pj": 1,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo E",
+        "posGrupo": 1
+      },
+      {
+        "name": "EL CONVENTO DE SANTA TERESA",
+        "pts": 2,
+        "gf": 15,
+        "gc": 3,
+        "dg": 12,
+        "pj": 1,
+        "ordenSorteo": 2,
+        "pg": 1,
+        "grupo": "Grupo G",
+        "posGrupo": 1
+      },
+      {
         "name": "VOLCADOS",
         "pts": 2,
         "gf": 15,
@@ -2047,7 +2071,7 @@
         "ordenSorteo": 1,
         "pg": 1,
         "grupo": "Grupo G",
-        "posGrupo": 1
+        "posGrupo": 2
       },
       {
         "name": "LOS GOMELLANOS",
@@ -2131,7 +2155,7 @@
         "ordenSorteo": 3,
         "pg": 1,
         "grupo": "Grupo E",
-        "posGrupo": 1
+        "posGrupo": 2
       },
       {
         "name": "PROHIBIDO DIVERTIRSE",
@@ -2191,7 +2215,7 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo E",
-        "posGrupo": 2
+        "posGrupo": 3
       },
       {
         "name": "LOS CARIÑITOS BOSTONCITOS",
@@ -2299,7 +2323,7 @@
         "ordenSorteo": 4,
         "pg": 0,
         "grupo": "Grupo G",
-        "posGrupo": 2
+        "posGrupo": 3
       },
       {
         "name": "LOS ROMPEBOLAS",
@@ -2350,6 +2374,30 @@
         "posGrupo": 4
       },
       {
+        "name": "MANCHESTER PITY JR",
+        "pts": 1,
+        "gf": 3,
+        "gc": 15,
+        "dg": -12,
+        "pj": 1,
+        "ordenSorteo": 1,
+        "pg": 0,
+        "grupo": "Grupo E",
+        "posGrupo": 4
+      },
+      {
+        "name": "MENESTRA CON GINEBRA",
+        "pts": 1,
+        "gf": 3,
+        "gc": 15,
+        "dg": -12,
+        "pj": 1,
+        "ordenSorteo": 3,
+        "pg": 0,
+        "grupo": "Grupo G",
+        "posGrupo": 4
+      },
+      {
         "name": "SIN RED NO HAY PARAÍSO",
         "pts": 1,
         "gf": 3,
@@ -2360,18 +2408,6 @@
         "pg": 0,
         "grupo": "Grupo A",
         "posGrupo": 4
-      },
-      {
-        "name": "ABANTO",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 4,
-        "pg": 0,
-        "grupo": "Grupo E",
-        "posGrupo": 3
       },
       {
         "name": "ASÍ DE PEQUEÑITOS",
@@ -2420,18 +2456,6 @@
         "pg": 0,
         "grupo": "Grupo F",
         "posGrupo": 5
-      },
-      {
-        "name": "EL CONVENTO DE SANTA TERESA",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo G",
-        "posGrupo": 3
       },
       {
         "name": "GLUTEN FREE",
@@ -2516,30 +2540,6 @@
         "pg": 0,
         "grupo": "Grupo C",
         "posGrupo": 5
-      },
-      {
-        "name": "MANCHESTER PITY JR",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 1,
-        "pg": 0,
-        "grupo": "Grupo E",
-        "posGrupo": 4
-      },
-      {
-        "name": "MENESTRA CON GINEBRA",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 3,
-        "pg": 0,
-        "grupo": "Grupo G",
-        "posGrupo": 4
       },
       {
         "name": "NOS FUIMOS",
@@ -2742,6 +2742,30 @@
     "cfgNumGrupos": 12,
     "lastPosicionEq": [
       {
+        "name": "ABANTO",
+        "pts": 2,
+        "gf": 15,
+        "gc": 3,
+        "dg": 12,
+        "pj": 1,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo E",
+        "posGrupo": 1
+      },
+      {
+        "name": "EL CONVENTO DE SANTA TERESA",
+        "pts": 2,
+        "gf": 15,
+        "gc": 3,
+        "dg": 12,
+        "pj": 1,
+        "ordenSorteo": 2,
+        "pg": 1,
+        "grupo": "Grupo G",
+        "posGrupo": 1
+      },
+      {
         "name": "VOLCADOS",
         "pts": 2,
         "gf": 15,
@@ -2787,18 +2811,6 @@
         "ordenSorteo": 3,
         "pg": 1,
         "grupo": "Grupo B",
-        "posGrupo": 1
-      },
-      {
-        "name": "KINDER SORPRESA",
-        "pts": 2,
-        "gf": 15,
-        "gc": 7,
-        "dg": 8,
-        "pj": 1,
-        "ordenSorteo": 1,
-        "pg": 1,
-        "grupo": "Grupo G",
         "posGrupo": 1
       },
       {
@@ -2874,18 +2886,6 @@
         "posGrupo": 1
       },
       {
-        "name": "CHUPYGRASKA",
-        "pts": 2,
-        "gf": 16,
-        "gc": 14,
-        "dg": 2,
-        "pj": 1,
-        "ordenSorteo": 3,
-        "pg": 1,
-        "grupo": "Grupo E",
-        "posGrupo": 1
-      },
-      {
         "name": "NOTTINGHAN PRISAS",
         "pts": 2,
         "gf": 15,
@@ -2895,6 +2895,30 @@
         "ordenSorteo": 3,
         "pg": 1,
         "grupo": "Grupo A",
+        "posGrupo": 2
+      },
+      {
+        "name": "KINDER SORPRESA",
+        "pts": 2,
+        "gf": 15,
+        "gc": 7,
+        "dg": 8,
+        "pj": 1,
+        "ordenSorteo": 1,
+        "pg": 1,
+        "grupo": "Grupo G",
+        "posGrupo": 2
+      },
+      {
+        "name": "CHUPYGRASKA",
+        "pts": 2,
+        "gf": 16,
+        "gc": 14,
+        "dg": 2,
+        "pj": 1,
+        "ordenSorteo": 3,
+        "pg": 1,
+        "grupo": "Grupo E",
         "posGrupo": 2
       },
       {
@@ -2931,18 +2955,6 @@
         "ordenSorteo": 2,
         "pg": 1,
         "grupo": "Grupo C",
-        "posGrupo": 2
-      },
-      {
-        "name": "MAMAHOUS",
-        "pts": 1,
-        "gf": 14,
-        "gc": 16,
-        "dg": -2,
-        "pj": 1,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo E",
         "posGrupo": 2
       },
       {
@@ -3006,18 +3018,6 @@
         "posGrupo": 2
       },
       {
-        "name": "CV SIESTA",
-        "pts": 1,
-        "gf": 7,
-        "gc": 15,
-        "dg": -8,
-        "pj": 1,
-        "ordenSorteo": 4,
-        "pg": 0,
-        "grupo": "Grupo G",
-        "posGrupo": 2
-      },
-      {
         "name": "LOS ROMPEBOLAS",
         "pts": 1,
         "gf": 6,
@@ -3039,6 +3039,18 @@
         "ordenSorteo": 4,
         "pg": 0,
         "grupo": "Grupo F",
+        "posGrupo": 3
+      },
+      {
+        "name": "MAMAHOUS",
+        "pts": 1,
+        "gf": 14,
+        "gc": 16,
+        "dg": -2,
+        "pj": 1,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo E",
         "posGrupo": 3
       },
       {
@@ -3066,6 +3078,18 @@
         "posGrupo": 3
       },
       {
+        "name": "CV SIESTA",
+        "pts": 1,
+        "gf": 7,
+        "gc": 15,
+        "dg": -8,
+        "pj": 1,
+        "ordenSorteo": 4,
+        "pg": 0,
+        "grupo": "Grupo G",
+        "posGrupo": 3
+      },
+      {
         "name": "PINO JACINTO",
         "pts": 1,
         "gf": 6,
@@ -3075,18 +3099,6 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo A",
-        "posGrupo": 3
-      },
-      {
-        "name": "ABANTO",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 4,
-        "pg": 0,
-        "grupo": "Grupo E",
         "posGrupo": 3
       },
       {
@@ -3111,18 +3123,6 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo J",
-        "posGrupo": 3
-      },
-      {
-        "name": "EL CONVENTO DE SANTA TERESA",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo G",
         "posGrupo": 3
       },
       {
@@ -3210,6 +3210,30 @@
         "posGrupo": 4
       },
       {
+        "name": "MANCHESTER PITY JR",
+        "pts": 1,
+        "gf": 3,
+        "gc": 15,
+        "dg": -12,
+        "pj": 1,
+        "ordenSorteo": 1,
+        "pg": 0,
+        "grupo": "Grupo E",
+        "posGrupo": 4
+      },
+      {
+        "name": "MENESTRA CON GINEBRA",
+        "pts": 1,
+        "gf": 3,
+        "gc": 15,
+        "dg": -12,
+        "pj": 1,
+        "ordenSorteo": 3,
+        "pg": 0,
+        "grupo": "Grupo G",
+        "posGrupo": 4
+      },
+      {
         "name": "SIN RED NO HAY PARAÍSO",
         "pts": 1,
         "gf": 3,
@@ -3243,30 +3267,6 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo I",
-        "posGrupo": 4
-      },
-      {
-        "name": "MANCHESTER PITY JR",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 1,
-        "pg": 0,
-        "grupo": "Grupo E",
-        "posGrupo": 4
-      },
-      {
-        "name": "MENESTRA CON GINEBRA",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 3,
-        "pg": 0,
-        "grupo": "Grupo G",
         "posGrupo": 4
       },
       {
