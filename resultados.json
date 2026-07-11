@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T16:01:03.163Z",
+  "publicadoEn": "2026-07-11T16:07:03.151Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -3129,8 +3129,8 @@
               "away": "GANAMOS Y NOS VAMOS",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 14,
+                  "aS": 16
                 },
                 {
                   "hS": "",
@@ -3224,8 +3224,8 @@
               "away": "ABANTO",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 15,
+                  "aS": 12
                 },
                 {
                   "hS": "",
@@ -3260,7 +3260,7 @@
               "ordenFinal": 25
             },
             {
-              "home": "",
+              "home": "GANAMOS Y NOS VAMOS",
               "away": "",
               "sets": [
                 {
@@ -3299,7 +3299,7 @@
             },
             {
               "home": "KARIBE VÓLEIBOL",
-              "away": "",
+              "away": "LO VEO CLARO",
               "sets": [
                 {
                   "hS": "",
@@ -3801,8 +3801,8 @@
               "away": "ROYALEROS",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 8,
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -3932,7 +3932,7 @@
               "ordenFinal": 25
             },
             {
-              "home": "",
+              "home": "ROYALEROS",
               "away": "",
               "sets": [
                 {
@@ -4449,7 +4449,7 @@
         }
       }
     },
-    "faseFinalActiva": "plata",
+    "faseFinalActiva": "oro",
     "faseFinalGenerada": true,
     "cfgNumGrupos": 12,
     "lastPosicionEq": [
