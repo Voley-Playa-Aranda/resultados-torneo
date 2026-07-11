@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T09:01:03.157Z",
+  "publicadoEn": "2026-07-11T09:03:03.170Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -504,6 +504,16 @@
             "pg": 1
           },
           {
+            "name": "KARIBE VÓLEIBOL",
+            "pts": 2,
+            "gf": 15,
+            "gc": 11,
+            "dg": 4,
+            "pj": 1,
+            "ordenSorteo": 2,
+            "pg": 1
+          },
+          {
             "name": "MANCHESTER PITY",
             "pts": 1,
             "gf": 11,
@@ -514,13 +524,13 @@
             "pg": 0
           },
           {
-            "name": "KARIBE VÓLEIBOL",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 2,
+            "name": "TIERRA LLAMANDO A JUAN CARLOS",
+            "pts": 1,
+            "gf": 11,
+            "gc": 15,
+            "dg": -4,
+            "pj": 1,
+            "ordenSorteo": 3,
             "pg": 0
           },
           {
@@ -531,16 +541,6 @@
             "dg": 0,
             "pj": 0,
             "ordenSorteo": 0,
-            "pg": 0
-          },
-          {
-            "name": "TIERRA LLAMANDO A JUAN CARLOS",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 3,
             "pg": 0
           }
         ],
@@ -559,8 +559,8 @@
               {
                 "home": "KARIBE VÓLEIBOL",
                 "away": "TIERRA LLAMANDO A JUAN CARLOS",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 15,
+                "golesAway": 11,
                 "campoId": 3,
                 "ordenGlobal": 62
               }
@@ -2110,6 +2110,18 @@
         "posGrupo": 1
       },
       {
+        "name": "KARIBE VÓLEIBOL",
+        "pts": 2,
+        "gf": 15,
+        "gc": 11,
+        "dg": 4,
+        "pj": 1,
+        "ordenSorteo": 2,
+        "pg": 1,
+        "grupo": "Grupo D",
+        "posGrupo": 2
+      },
+      {
         "name": "ASTON BIRRAS",
         "pts": 2,
         "gf": 15,
@@ -2287,7 +2299,19 @@
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo D",
-        "posGrupo": 2
+        "posGrupo": 3
+      },
+      {
+        "name": "TIERRA LLAMANDO A JUAN CARLOS",
+        "pts": 1,
+        "gf": 11,
+        "gc": 15,
+        "dg": -4,
+        "pj": 1,
+        "ordenSorteo": 3,
+        "pg": 0,
+        "grupo": "Grupo D",
+        "posGrupo": 4
       },
       {
         "name": "MAS SUELO QUE VÓLEY",
@@ -2482,18 +2506,6 @@
         "posGrupo": 3
       },
       {
-        "name": "KARIBE VÓLEIBOL",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo D",
-        "posGrupo": 3
-      },
-      {
         "name": "LA BATALLA DE LOS PELOS BASTARDOS",
         "pts": 0,
         "gf": 0,
@@ -2551,7 +2563,7 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo D",
-        "posGrupo": 4
+        "posGrupo": 5
       },
       {
         "name": "PEGRILOSAS",
@@ -2660,18 +2672,6 @@
         "pg": 0,
         "grupo": "Grupo L",
         "posGrupo": 4
-      },
-      {
-        "name": "TIERRA LLAMANDO A JUAN CARLOS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 3,
-        "pg": 0,
-        "grupo": "Grupo D",
-        "posGrupo": 5
       },
       {
         "name": "VODKA JUNIORS",
@@ -2910,6 +2910,18 @@
         "posGrupo": 2
       },
       {
+        "name": "KARIBE VÓLEIBOL",
+        "pts": 2,
+        "gf": 15,
+        "gc": 11,
+        "dg": 4,
+        "pj": 1,
+        "ordenSorteo": 2,
+        "pg": 1,
+        "grupo": "Grupo D",
+        "posGrupo": 2
+      },
+      {
         "name": "CHUPYGRASKA",
         "pts": 2,
         "gf": 16,
@@ -2994,18 +3006,6 @@
         "posGrupo": 2
       },
       {
-        "name": "MANCHESTER PITY",
-        "pts": 1,
-        "gf": 11,
-        "gc": 15,
-        "dg": -4,
-        "pj": 1,
-        "ordenSorteo": 1,
-        "pg": 0,
-        "grupo": "Grupo D",
-        "posGrupo": 2
-      },
-      {
         "name": "MAS SUELO QUE VÓLEY",
         "pts": 1,
         "gf": 8,
@@ -3075,6 +3075,18 @@
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo B",
+        "posGrupo": 3
+      },
+      {
+        "name": "MANCHESTER PITY",
+        "pts": 1,
+        "gf": 11,
+        "gc": 15,
+        "dg": -4,
+        "pj": 1,
+        "ordenSorteo": 1,
+        "pg": 0,
+        "grupo": "Grupo D",
         "posGrupo": 3
       },
       {
@@ -3150,18 +3162,6 @@
         "posGrupo": 3
       },
       {
-        "name": "KARIBE VÓLEIBOL",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo D",
-        "posGrupo": 3
-      },
-      {
         "name": "LAS LEYENDAS NUNCA MUEREN",
         "pts": 0,
         "gf": 0,
@@ -3172,6 +3172,18 @@
         "pg": 0,
         "grupo": "Grupo I",
         "posGrupo": 3
+      },
+      {
+        "name": "TIERRA LLAMANDO A JUAN CARLOS",
+        "pts": 1,
+        "gf": 11,
+        "gc": 15,
+        "dg": -4,
+        "pj": 1,
+        "ordenSorteo": 3,
+        "pg": 0,
+        "grupo": "Grupo D",
+        "posGrupo": 4
       },
       {
         "name": "CARCAJADA",
@@ -3270,18 +3282,6 @@
         "posGrupo": 4
       },
       {
-        "name": "NOS FUIMOS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo D",
-        "posGrupo": 4
-      },
-      {
         "name": "PRESS PANZA",
         "pts": 0,
         "gf": 0,
@@ -3354,6 +3354,18 @@
         "posGrupo": 5
       },
       {
+        "name": "NOS FUIMOS",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 0,
+        "pg": 0,
+        "grupo": "Grupo D",
+        "posGrupo": 5
+      },
+      {
         "name": "PEGRILOSAS",
         "pts": 0,
         "gf": 0,
@@ -3423,18 +3435,6 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo A",
-        "posGrupo": 5
-      },
-      {
-        "name": "TIERRA LLAMANDO A JUAN CARLOS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 3,
-        "pg": 0,
-        "grupo": "Grupo D",
         "posGrupo": 5
       },
       {
