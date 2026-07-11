@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T11:43:03.160Z",
+  "publicadoEn": "2026-07-11T11:45:03.161Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -29,13 +29,13 @@
           },
           {
             "name": "STREET VOLLEY",
-            "pts": 4,
-            "gf": 41,
-            "gc": 35,
-            "dg": 6,
-            "pj": 3,
+            "pts": 6,
+            "gf": 56,
+            "gc": 36,
+            "dg": 20,
+            "pj": 4,
             "ordenSorteo": 0,
-            "pg": 1
+            "pg": 2
           },
           {
             "name": "PINO JACINTO",
@@ -49,11 +49,11 @@
           },
           {
             "name": "SIN RED NO HAY PARAÍSO",
-            "pts": 3,
-            "gf": 6,
-            "gc": 45,
-            "dg": -39,
-            "pj": 3,
+            "pts": 4,
+            "gf": 7,
+            "gc": 60,
+            "dg": -53,
+            "pj": 4,
             "ordenSorteo": 1,
             "pg": 0
           }
@@ -149,8 +149,8 @@
               {
                 "home": "STREET VOLLEY",
                 "away": "SIN RED NO HAY PARAÍSO",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 15,
+                "golesAway": 1,
                 "campoId": 0,
                 "ordenGlobal": 16
               },
@@ -2254,6 +2254,18 @@
         "posGrupo": 2
       },
       {
+        "name": "STREET VOLLEY",
+        "pts": 6,
+        "gf": 56,
+        "gc": 36,
+        "dg": 20,
+        "pj": 4,
+        "ordenSorteo": 0,
+        "pg": 2,
+        "grupo": "Grupo A",
+        "posGrupo": 3
+      },
+      {
         "name": "EL TAMAÑO NO IMPORTA",
         "pts": 3,
         "gf": 24,
@@ -2384,18 +2396,6 @@
         "pg": 1,
         "grupo": "Grupo E",
         "posGrupo": 4
-      },
-      {
-        "name": "STREET VOLLEY",
-        "pts": 4,
-        "gf": 41,
-        "gc": 35,
-        "dg": 6,
-        "pj": 3,
-        "ordenSorteo": 0,
-        "pg": 1,
-        "grupo": "Grupo A",
-        "posGrupo": 3
       },
       {
         "name": "LOS CARIÑITOS BOSTONCITOS",
@@ -2687,11 +2687,11 @@
       },
       {
         "name": "SIN RED NO HAY PARAÍSO",
-        "pts": 3,
-        "gf": 6,
-        "gc": 45,
-        "dg": -39,
-        "pj": 3,
+        "pts": 4,
+        "gf": 7,
+        "gc": 60,
+        "dg": -53,
+        "pj": 4,
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo A",
@@ -2732,7 +2732,7 @@
       "campo_3": false,
       "campo_1": false,
       "campo_2": false,
-      "campo_5": false,
+      "campo_5": true,
       "grupo_0": false
     },
     "expandedClasificaciones": {
@@ -3067,6 +3067,18 @@
         "posGrupo": 3
       },
       {
+        "name": "STREET VOLLEY",
+        "pts": 6,
+        "gf": 56,
+        "gc": 36,
+        "dg": 20,
+        "pj": 4,
+        "ordenSorteo": 0,
+        "pg": 2,
+        "grupo": "Grupo A",
+        "posGrupo": 3
+      },
+      {
         "name": "MAS SUELO QUE VÓLEY",
         "pts": 3,
         "gf": 23,
@@ -3136,18 +3148,6 @@
         "ordenSorteo": 3,
         "pg": 1,
         "grupo": "Grupo E",
-        "posGrupo": 3
-      },
-      {
-        "name": "STREET VOLLEY",
-        "pts": 4,
-        "gf": 41,
-        "gc": 35,
-        "dg": 6,
-        "pj": 3,
-        "ordenSorteo": 0,
-        "pg": 1,
-        "grupo": "Grupo A",
         "posGrupo": 3
       },
       {
@@ -3464,11 +3464,11 @@
       },
       {
         "name": "SIN RED NO HAY PARAÍSO",
-        "pts": 3,
-        "gf": 6,
-        "gc": 45,
-        "dg": -39,
-        "pj": 3,
+        "pts": 4,
+        "gf": 7,
+        "gc": 60,
+        "dg": -53,
+        "pj": 4,
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo A",
