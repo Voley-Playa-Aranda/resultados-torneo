@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T15:45:04.030Z",
+  "publicadoEn": "2026-07-11T15:47:03.153Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -3110,8 +3110,8 @@
               "away": "TE MIRO Y TE BLOQUEO",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 9,
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -3242,7 +3242,7 @@
           [
             {
               "home": "EL CONVENTO DE SANTA TERESA",
-              "away": "",
+              "away": "TE MIRO Y TE BLOQUEO",
               "sets": [
                 {
                   "hS": "",
