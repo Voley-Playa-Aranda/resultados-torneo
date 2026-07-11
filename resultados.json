@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T09:35:03.158Z",
+  "publicadoEn": "2026-07-11T09:37:03.150Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -28,6 +28,16 @@
             "pg": 2
           },
           {
+            "name": "PINO JACINTO",
+            "pts": 3,
+            "gf": 21,
+            "gc": 18,
+            "dg": 3,
+            "pj": 2,
+            "ordenSorteo": 2,
+            "pg": 1
+          },
+          {
             "name": "STREET VOLLEY",
             "pts": 1,
             "gf": 13,
@@ -38,22 +48,12 @@
             "pg": 0
           },
           {
-            "name": "PINO JACINTO",
-            "pts": 1,
-            "gf": 6,
-            "gc": 15,
-            "dg": -9,
-            "pj": 1,
-            "ordenSorteo": 2,
-            "pg": 0
-          },
-          {
             "name": "SIN RED NO HAY PARAÍSO",
-            "pts": 1,
-            "gf": 3,
-            "gc": 15,
-            "dg": -12,
-            "pj": 1,
+            "pts": 2,
+            "gf": 6,
+            "gc": 30,
+            "dg": -24,
+            "pj": 2,
             "ordenSorteo": 1,
             "pg": 0
           }
@@ -94,8 +94,8 @@
               {
                 "home": "SIN RED NO HAY PARAÍSO",
                 "away": "PINO JACINTO",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 3,
+                "golesAway": 15,
                 "campoId": 0,
                 "ordenGlobal": 6
               }
@@ -2278,6 +2278,18 @@
         "posGrupo": 2
       },
       {
+        "name": "PINO JACINTO",
+        "pts": 3,
+        "gf": 21,
+        "gc": 18,
+        "dg": 3,
+        "pj": 2,
+        "ordenSorteo": 2,
+        "pg": 1,
+        "grupo": "Grupo A",
+        "posGrupo": 3
+      },
+      {
         "name": "EL PODER DE LA PIEDRA",
         "pts": 3,
         "gf": 27,
@@ -2419,7 +2431,7 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo A",
-        "posGrupo": 3
+        "posGrupo": 4
       },
       {
         "name": "LA CASITA",
@@ -2554,18 +2566,6 @@
         "posGrupo": 5
       },
       {
-        "name": "PINO JACINTO",
-        "pts": 1,
-        "gf": 6,
-        "gc": 15,
-        "dg": -9,
-        "pj": 1,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo A",
-        "posGrupo": 4
-      },
-      {
         "name": "ROYALEROS",
         "pts": 1,
         "gf": 6,
@@ -2639,11 +2639,11 @@
       },
       {
         "name": "SIN RED NO HAY PARAÍSO",
-        "pts": 1,
-        "gf": 3,
-        "gc": 15,
-        "dg": -12,
-        "pj": 1,
+        "pts": 2,
+        "gf": 6,
+        "gc": 30,
+        "dg": -24,
+        "pj": 2,
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo A",
@@ -2729,7 +2729,7 @@
       "grupo_4": false,
       "campo_4": false,
       "campo_0": false,
-      "campo_3": false,
+      "campo_3": true,
       "campo_1": false,
       "campo_2": false,
       "campo_5": false,
@@ -3042,6 +3042,18 @@
         "posGrupo": 3
       },
       {
+        "name": "PINO JACINTO",
+        "pts": 3,
+        "gf": 21,
+        "gc": 18,
+        "dg": 3,
+        "pj": 2,
+        "ordenSorteo": 2,
+        "pg": 1,
+        "grupo": "Grupo A",
+        "posGrupo": 3
+      },
+      {
         "name": "EL PODER DE LA PIEDRA",
         "pts": 3,
         "gf": 27,
@@ -3123,18 +3135,6 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo E",
-        "posGrupo": 3
-      },
-      {
-        "name": "STREET VOLLEY",
-        "pts": 1,
-        "gf": 13,
-        "gc": 15,
-        "dg": -2,
-        "pj": 1,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo A",
         "posGrupo": 3
       },
       {
@@ -3222,6 +3222,18 @@
         "posGrupo": 4
       },
       {
+        "name": "STREET VOLLEY",
+        "pts": 1,
+        "gf": 13,
+        "gc": 15,
+        "dg": -2,
+        "pj": 1,
+        "ordenSorteo": 0,
+        "pg": 0,
+        "grupo": "Grupo A",
+        "posGrupo": 4
+      },
+      {
         "name": "LOS ROOKIES",
         "pts": 1,
         "gf": 12,
@@ -3279,18 +3291,6 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo E",
-        "posGrupo": 4
-      },
-      {
-        "name": "PINO JACINTO",
-        "pts": 1,
-        "gf": 6,
-        "gc": 15,
-        "dg": -9,
-        "pj": 1,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo A",
         "posGrupo": 4
       },
       {
@@ -3403,11 +3403,11 @@
       },
       {
         "name": "SIN RED NO HAY PARAÍSO",
-        "pts": 1,
-        "gf": 3,
-        "gc": 15,
-        "dg": -12,
-        "pj": 1,
+        "pts": 2,
+        "gf": 6,
+        "gc": 30,
+        "dg": -24,
+        "pj": 2,
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo A",
