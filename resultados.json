@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T09:11:04.044Z",
+  "publicadoEn": "2026-07-11T09:13:03.159Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -7,16 +7,6 @@
       {
         "nombre": "Grupo A",
         "equipos": [
-          {
-            "name": "VOLCADOS",
-            "pts": 2,
-            "gf": 15,
-            "gc": 3,
-            "dg": 12,
-            "pj": 1,
-            "ordenSorteo": 4,
-            "pg": 1
-          },
           {
             "name": "NOTTINGHAN PRISAS",
             "pts": 2,
@@ -26,6 +16,26 @@
             "pj": 1,
             "ordenSorteo": 3,
             "pg": 1
+          },
+          {
+            "name": "VOLCADOS",
+            "pts": 4,
+            "gf": 30,
+            "gc": 16,
+            "dg": 14,
+            "pj": 2,
+            "ordenSorteo": 4,
+            "pg": 2
+          },
+          {
+            "name": "STREET VOLLEY",
+            "pts": 1,
+            "gf": 13,
+            "gc": 15,
+            "dg": -2,
+            "pj": 1,
+            "ordenSorteo": 0,
+            "pg": 0
           },
           {
             "name": "PINO JACINTO",
@@ -45,16 +55,6 @@
             "dg": -12,
             "pj": 1,
             "ordenSorteo": 1,
-            "pg": 0
-          },
-          {
-            "name": "STREET VOLLEY",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 0,
             "pg": 0
           }
         ],
@@ -86,8 +86,8 @@
               {
                 "home": "STREET VOLLEY",
                 "away": "VOLCADOS",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 13,
+                "golesAway": 15,
                 "campoId": 0,
                 "ordenGlobal": 4
               },
@@ -2002,18 +2002,6 @@
         "posGrupo": 1
       },
       {
-        "name": "VOLCADOS",
-        "pts": 2,
-        "gf": 15,
-        "gc": 3,
-        "dg": 12,
-        "pj": 1,
-        "ordenSorteo": 4,
-        "pg": 1,
-        "grupo": "Grupo A",
-        "posGrupo": 1
-      },
-      {
         "name": "ASÍ DE PEQUEÑITOS",
         "pts": 2,
         "gf": 15,
@@ -2071,7 +2059,7 @@
         "ordenSorteo": 3,
         "pg": 1,
         "grupo": "Grupo A",
-        "posGrupo": 2
+        "posGrupo": 1
       },
       {
         "name": "TE MIRO Y TE BLOQUEO",
@@ -2131,6 +2119,18 @@
         "ordenSorteo": 3,
         "pg": 1,
         "grupo": "Grupo I",
+        "posGrupo": 2
+      },
+      {
+        "name": "VOLCADOS",
+        "pts": 4,
+        "gf": 30,
+        "gc": 16,
+        "dg": 14,
+        "pj": 2,
+        "ordenSorteo": 4,
+        "pg": 2,
+        "grupo": "Grupo A",
         "posGrupo": 2
       },
       {
@@ -2290,6 +2290,18 @@
         "posGrupo": 3
       },
       {
+        "name": "STREET VOLLEY",
+        "pts": 1,
+        "gf": 13,
+        "gc": 15,
+        "dg": -2,
+        "pj": 1,
+        "ordenSorteo": 0,
+        "pg": 0,
+        "grupo": "Grupo A",
+        "posGrupo": 3
+      },
+      {
         "name": "EL PODER DE LA PIEDRA",
         "pts": 1,
         "gf": 12,
@@ -2431,7 +2443,7 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo A",
-        "posGrupo": 3
+        "posGrupo": 4
       },
       {
         "name": "CAÍDA LIBRE VOLEY",
@@ -2503,7 +2515,7 @@
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo A",
-        "posGrupo": 4
+        "posGrupo": 5
       },
       {
         "name": "CHACALES",
@@ -2647,18 +2659,6 @@
         "ordenSorteo": 3,
         "pg": 0,
         "grupo": "Grupo K",
-        "posGrupo": 5
-      },
-      {
-        "name": "STREET VOLLEY",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo A",
         "posGrupo": 5
       },
       {
@@ -2766,18 +2766,6 @@
         "posGrupo": 1
       },
       {
-        "name": "VOLCADOS",
-        "pts": 2,
-        "gf": 15,
-        "gc": 3,
-        "dg": 12,
-        "pj": 1,
-        "ordenSorteo": 4,
-        "pg": 1,
-        "grupo": "Grupo A",
-        "posGrupo": 1
-      },
-      {
         "name": "ASÍ DE PEQUEÑITOS",
         "pts": 2,
         "gf": 15,
@@ -2811,6 +2799,18 @@
         "ordenSorteo": 3,
         "pg": 1,
         "grupo": "Grupo H",
+        "posGrupo": 1
+      },
+      {
+        "name": "NOTTINGHAN PRISAS",
+        "pts": 2,
+        "gf": 15,
+        "gc": 6,
+        "dg": 9,
+        "pj": 1,
+        "ordenSorteo": 3,
+        "pg": 1,
+        "grupo": "Grupo A",
         "posGrupo": 1
       },
       {
@@ -2898,18 +2898,6 @@
         "posGrupo": 2
       },
       {
-        "name": "NOTTINGHAN PRISAS",
-        "pts": 2,
-        "gf": 15,
-        "gc": 6,
-        "dg": 9,
-        "pj": 1,
-        "ordenSorteo": 3,
-        "pg": 1,
-        "grupo": "Grupo A",
-        "posGrupo": 2
-      },
-      {
         "name": "KINDER SORPRESA",
         "pts": 2,
         "gf": 15,
@@ -2931,6 +2919,18 @@
         "ordenSorteo": 3,
         "pg": 1,
         "grupo": "Grupo I",
+        "posGrupo": 2
+      },
+      {
+        "name": "VOLCADOS",
+        "pts": 4,
+        "gf": 30,
+        "gc": 16,
+        "dg": 14,
+        "pj": 2,
+        "ordenSorteo": 4,
+        "pg": 2,
+        "grupo": "Grupo A",
         "posGrupo": 2
       },
       {
@@ -3078,6 +3078,18 @@
         "posGrupo": 3
       },
       {
+        "name": "STREET VOLLEY",
+        "pts": 1,
+        "gf": 13,
+        "gc": 15,
+        "dg": -2,
+        "pj": 1,
+        "ordenSorteo": 0,
+        "pg": 0,
+        "grupo": "Grupo A",
+        "posGrupo": 3
+      },
+      {
         "name": "EL PODER DE LA PIEDRA",
         "pts": 1,
         "gf": 12,
@@ -3135,18 +3147,6 @@
         "ordenSorteo": 4,
         "pg": 0,
         "grupo": "Grupo L",
-        "posGrupo": 3
-      },
-      {
-        "name": "PINO JACINTO",
-        "pts": 1,
-        "gf": 6,
-        "gc": 15,
-        "dg": -9,
-        "pj": 1,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo A",
         "posGrupo": 3
       },
       {
@@ -3222,6 +3222,18 @@
         "posGrupo": 4
       },
       {
+        "name": "PINO JACINTO",
+        "pts": 1,
+        "gf": 6,
+        "gc": 15,
+        "dg": -9,
+        "pj": 1,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo A",
+        "posGrupo": 4
+      },
+      {
         "name": "CAÍDA LIBRE VOLEY",
         "pts": 1,
         "gf": 5,
@@ -3282,18 +3294,6 @@
         "posGrupo": 4
       },
       {
-        "name": "SIN RED NO HAY PARAÍSO",
-        "pts": 1,
-        "gf": 3,
-        "gc": 15,
-        "dg": -12,
-        "pj": 1,
-        "ordenSorteo": 1,
-        "pg": 0,
-        "grupo": "Grupo A",
-        "posGrupo": 4
-      },
-      {
         "name": "LA BATALLA DE LOS PELOS BASTARDOS",
         "pts": 0,
         "gf": 0,
@@ -3316,6 +3316,18 @@
         "pg": 0,
         "grupo": "Grupo J",
         "posGrupo": 4
+      },
+      {
+        "name": "SIN RED NO HAY PARAÍSO",
+        "pts": 1,
+        "gf": 3,
+        "gc": 15,
+        "dg": -12,
+        "pj": 1,
+        "ordenSorteo": 1,
+        "pg": 0,
+        "grupo": "Grupo A",
+        "posGrupo": 5
       },
       {
         "name": "DEMENCIA PERMANENTE CYL",
@@ -3423,18 +3435,6 @@
         "ordenSorteo": 3,
         "pg": 0,
         "grupo": "Grupo K",
-        "posGrupo": 5
-      },
-      {
-        "name": "STREET VOLLEY",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo A",
         "posGrupo": 5
       },
       {
