@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T16:29:03.157Z",
+  "publicadoEn": "2026-07-11T16:31:03.161Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -3186,8 +3186,8 @@
               "away": "GLUTEN FREE",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 9,
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -3280,7 +3280,7 @@
             },
             {
               "home": "DEMENCIA PERMANENTE CYL",
-              "away": "",
+              "away": "GLUTEN FREE",
               "sets": [
                 {
                   "hS": "",
@@ -4433,8 +4433,8 @@
           "bo3": false,
           "sets": [
             {
-              "hS": "",
-              "aS": ""
+              "hS": 16,
+              "aS": 14
             },
             {
               "hS": "",
@@ -4449,7 +4449,7 @@
         }
       }
     },
-    "faseFinalActiva": "plata",
+    "faseFinalActiva": "oro",
     "faseFinalGenerada": true,
     "cfgNumGrupos": 12,
     "lastPosicionEq": [
