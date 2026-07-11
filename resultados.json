@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T09:37:03.150Z",
+  "publicadoEn": "2026-07-11T09:39:03.173Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -495,13 +495,13 @@
         "equipos": [
           {
             "name": "GANAMOS Y NOS VAMOS",
-            "pts": 2,
-            "gf": 15,
-            "gc": 11,
-            "dg": 4,
-            "pj": 1,
+            "pts": 4,
+            "gf": 30,
+            "gc": 21,
+            "dg": 9,
+            "pj": 2,
             "ordenSorteo": 4,
-            "pg": 1
+            "pg": 2
           },
           {
             "name": "KARIBE VÓLEIBOL",
@@ -535,11 +535,11 @@
           },
           {
             "name": "NOS FUIMOS",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
+            "pts": 1,
+            "gf": 10,
+            "gc": 15,
+            "dg": -5,
+            "pj": 1,
             "ordenSorteo": 0,
             "pg": 0
           }
@@ -572,8 +572,8 @@
               {
                 "home": "NOS FUIMOS",
                 "away": "GANAMOS Y NOS VAMOS",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 10,
+                "golesAway": 15,
                 "campoId": 3,
                 "ordenGlobal": 64
               },
@@ -2159,13 +2159,13 @@
       },
       {
         "name": "GANAMOS Y NOS VAMOS",
-        "pts": 2,
-        "gf": 15,
-        "gc": 11,
-        "dg": 4,
-        "pj": 1,
+        "pts": 4,
+        "gf": 30,
+        "gc": 21,
+        "dg": 9,
+        "pj": 2,
         "ordenSorteo": 4,
-        "pg": 1,
+        "pg": 2,
         "grupo": "Grupo D",
         "posGrupo": 1
       },
@@ -2494,6 +2494,18 @@
         "posGrupo": 4
       },
       {
+        "name": "NOS FUIMOS",
+        "pts": 1,
+        "gf": 10,
+        "gc": 15,
+        "dg": -5,
+        "pj": 1,
+        "ordenSorteo": 0,
+        "pg": 0,
+        "grupo": "Grupo D",
+        "posGrupo": 5
+      },
+      {
         "name": "RIÑONES DE LECHE",
         "pts": 1,
         "gf": 10,
@@ -2662,18 +2674,6 @@
         "posGrupo": 5
       },
       {
-        "name": "NOS FUIMOS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo D",
-        "posGrupo": 5
-      },
-      {
         "name": "VODKA JUNIORS",
         "pts": 0,
         "gf": 0,
@@ -2729,7 +2729,7 @@
       "grupo_4": false,
       "campo_4": false,
       "campo_0": false,
-      "campo_3": true,
+      "campo_3": false,
       "campo_1": false,
       "campo_2": false,
       "campo_5": false,
@@ -2863,13 +2863,13 @@
       },
       {
         "name": "GANAMOS Y NOS VAMOS",
-        "pts": 2,
-        "gf": 15,
-        "gc": 11,
-        "dg": 4,
-        "pj": 1,
+        "pts": 4,
+        "gf": 30,
+        "gc": 21,
+        "dg": 9,
+        "pj": 2,
         "ordenSorteo": 4,
-        "pg": 1,
+        "pg": 2,
         "grupo": "Grupo D",
         "posGrupo": 1
       },
@@ -3330,6 +3330,18 @@
         "posGrupo": 5
       },
       {
+        "name": "NOS FUIMOS",
+        "pts": 1,
+        "gf": 10,
+        "gc": 15,
+        "dg": -5,
+        "pj": 1,
+        "ordenSorteo": 0,
+        "pg": 0,
+        "grupo": "Grupo D",
+        "posGrupo": 5
+      },
+      {
         "name": "MAS SUELO QUE VÓLEY",
         "pts": 1,
         "gf": 8,
@@ -3423,18 +3435,6 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo K",
-        "posGrupo": 5
-      },
-      {
-        "name": "NOS FUIMOS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo D",
         "posGrupo": 5
       },
       {
