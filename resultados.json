@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T09:31:04.030Z",
+  "publicadoEn": "2026-07-11T09:33:03.172Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -1163,12 +1163,22 @@
           },
           {
             "name": "EL PODER DE LA PIEDRA",
-            "pts": 1,
-            "gf": 12,
-            "gc": 15,
-            "dg": -3,
-            "pj": 1,
+            "pts": 3,
+            "gf": 27,
+            "gc": 25,
+            "dg": 2,
+            "pj": 2,
             "ordenSorteo": 4,
+            "pg": 1
+          },
+          {
+            "name": "RIÑONES DE LECHE",
+            "pts": 1,
+            "gf": 10,
+            "gc": 15,
+            "dg": -5,
+            "pj": 1,
+            "ordenSorteo": 0,
             "pg": 0
           },
           {
@@ -1179,16 +1189,6 @@
             "dg": -10,
             "pj": 1,
             "ordenSorteo": 2,
-            "pg": 0
-          },
-          {
-            "name": "RIÑONES DE LECHE",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 0,
             "pg": 0
           }
         ],
@@ -1220,8 +1220,8 @@
               {
                 "home": "RIÑONES DE LECHE",
                 "away": "EL PODER DE LA PIEDRA",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 10,
+                "golesAway": 15,
                 "campoId": 1,
                 "ordenGlobal": 25
               },
@@ -2278,6 +2278,18 @@
         "posGrupo": 2
       },
       {
+        "name": "EL PODER DE LA PIEDRA",
+        "pts": 3,
+        "gf": 27,
+        "gc": 25,
+        "dg": 2,
+        "pj": 2,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo H",
+        "posGrupo": 3
+      },
+      {
         "name": "CARCAJADA",
         "pts": 3,
         "gf": 22,
@@ -2398,18 +2410,6 @@
         "posGrupo": 3
       },
       {
-        "name": "EL PODER DE LA PIEDRA",
-        "pts": 1,
-        "gf": 12,
-        "gc": 15,
-        "dg": -3,
-        "pj": 1,
-        "ordenSorteo": 4,
-        "pg": 0,
-        "grupo": "Grupo H",
-        "posGrupo": 3
-      },
-      {
         "name": "LA CASITA",
         "pts": 1,
         "gf": 12,
@@ -2467,6 +2467,18 @@
         "ordenSorteo": 3,
         "pg": 0,
         "grupo": "Grupo D",
+        "posGrupo": 4
+      },
+      {
+        "name": "RIÑONES DE LECHE",
+        "pts": 1,
+        "gf": 10,
+        "gc": 15,
+        "dg": -5,
+        "pj": 1,
+        "ordenSorteo": 0,
+        "pg": 0,
+        "grupo": "Grupo H",
         "posGrupo": 4
       },
       {
@@ -2575,7 +2587,7 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo H",
-        "posGrupo": 4
+        "posGrupo": 5
       },
       {
         "name": "TE EMPAQUETO",
@@ -2659,18 +2671,6 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo D",
-        "posGrupo": 5
-      },
-      {
-        "name": "RIÑONES DE LECHE",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo H",
         "posGrupo": 5
       },
       {
@@ -3042,6 +3042,18 @@
         "posGrupo": 3
       },
       {
+        "name": "EL PODER DE LA PIEDRA",
+        "pts": 3,
+        "gf": 27,
+        "gc": 25,
+        "dg": 2,
+        "pj": 2,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo H",
+        "posGrupo": 3
+      },
+      {
         "name": "CARCAJADA",
         "pts": 3,
         "gf": 22,
@@ -3111,18 +3123,6 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo A",
-        "posGrupo": 3
-      },
-      {
-        "name": "EL PODER DE LA PIEDRA",
-        "pts": 1,
-        "gf": 12,
-        "gc": 15,
-        "dg": -3,
-        "pj": 1,
-        "ordenSorteo": 4,
-        "pg": 0,
-        "grupo": "Grupo H",
         "posGrupo": 3
       },
       {
@@ -3246,6 +3246,18 @@
         "posGrupo": 4
       },
       {
+        "name": "RIÑONES DE LECHE",
+        "pts": 1,
+        "gf": 10,
+        "gc": 15,
+        "dg": -5,
+        "pj": 1,
+        "ordenSorteo": 0,
+        "pg": 0,
+        "grupo": "Grupo H",
+        "posGrupo": 4
+      },
+      {
         "name": "MAS SUELO QUE VÓLEY",
         "pts": 1,
         "gf": 8,
@@ -3294,18 +3306,6 @@
         "posGrupo": 4
       },
       {
-        "name": "GORRO DE PISCINA NEGRO",
-        "pts": 1,
-        "gf": 5,
-        "gc": 15,
-        "dg": -10,
-        "pj": 1,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo H",
-        "posGrupo": 4
-      },
-      {
         "name": "TE EMPAQUETO",
         "pts": 1,
         "gf": 5,
@@ -3351,6 +3351,18 @@
         "ordenSorteo": 3,
         "pg": 0,
         "grupo": "Grupo F",
+        "posGrupo": 5
+      },
+      {
+        "name": "GORRO DE PISCINA NEGRO",
+        "pts": 1,
+        "gf": 5,
+        "gc": 15,
+        "dg": -10,
+        "pj": 1,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo H",
         "posGrupo": 5
       },
       {
@@ -3423,18 +3435,6 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo D",
-        "posGrupo": 5
-      },
-      {
-        "name": "RIÑONES DE LECHE",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo H",
         "posGrupo": 5
       },
       {
