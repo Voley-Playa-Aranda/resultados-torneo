@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T16:15:03.171Z",
+  "publicadoEn": "2026-07-11T16:17:03.164Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -3148,8 +3148,8 @@
               "away": "LOS BURPEES BOYS BYIMPROVEFIT",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 15,
+                  "aS": 6
                 },
                 {
                   "hS": "",
@@ -3261,7 +3261,7 @@
             },
             {
               "home": "GANAMOS Y NOS VAMOS",
-              "away": "",
+              "away": "PEGRILOSAS",
               "sets": [
                 {
                   "hS": "",
