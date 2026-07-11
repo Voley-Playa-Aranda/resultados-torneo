@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T08:25:03.160Z",
+  "publicadoEn": "2026-07-11T08:27:04.028Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -2723,17 +2723,17 @@
       }
     },
     "configViews": {
-      "partidos": "grupos"
+      "partidos": "campos"
     },
     "expandedPartidos": {
       "grupo_4": false,
       "campo_4": false,
       "campo_0": false,
       "campo_3": false,
-      "campo_1": true,
+      "campo_1": false,
       "campo_2": false,
       "campo_5": false,
-      "grupo_0": true
+      "grupo_0": false
     },
     "expandedClasificaciones": {},
     "fasesFinales": {},
