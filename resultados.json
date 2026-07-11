@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T08:47:03.158Z",
+  "publicadoEn": "2026-07-11T08:49:03.164Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -18,6 +18,26 @@
             "pg": 1
           },
           {
+            "name": "NOTTINGHAN PRISAS",
+            "pts": 2,
+            "gf": 15,
+            "gc": 6,
+            "dg": 9,
+            "pj": 1,
+            "ordenSorteo": 3,
+            "pg": 1
+          },
+          {
+            "name": "PINO JACINTO",
+            "pts": 1,
+            "gf": 6,
+            "gc": 15,
+            "dg": -9,
+            "pj": 1,
+            "ordenSorteo": 2,
+            "pg": 0
+          },
+          {
             "name": "SIN RED NO HAY PARAÍSO",
             "pts": 1,
             "gf": 3,
@@ -25,26 +45,6 @@
             "dg": -12,
             "pj": 1,
             "ordenSorteo": 1,
-            "pg": 0
-          },
-          {
-            "name": "NOTTINGHAN PRISAS",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 3,
-            "pg": 0
-          },
-          {
-            "name": "PINO JACINTO",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 2,
             "pg": 0
           },
           {
@@ -73,8 +73,8 @@
               {
                 "home": "PINO JACINTO",
                 "away": "NOTTINGHAN PRISAS",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 6,
+                "golesAway": 15,
                 "campoId": 0,
                 "ordenGlobal": 2
               }
@@ -656,6 +656,26 @@
         "nombre": "Grupo E",
         "equipos": [
           {
+            "name": "CHUPYGRASKA",
+            "pts": 2,
+            "gf": 16,
+            "gc": 14,
+            "dg": 2,
+            "pj": 1,
+            "ordenSorteo": 3,
+            "pg": 1
+          },
+          {
+            "name": "MAMAHOUS",
+            "pts": 1,
+            "gf": 14,
+            "gc": 16,
+            "dg": -2,
+            "pj": 1,
+            "ordenSorteo": 2,
+            "pg": 0
+          },
+          {
             "name": "ABANTO",
             "pts": 0,
             "gf": 0,
@@ -663,26 +683,6 @@
             "dg": 0,
             "pj": 0,
             "ordenSorteo": 4,
-            "pg": 0
-          },
-          {
-            "name": "CHUPYGRASKA",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 3,
-            "pg": 0
-          },
-          {
-            "name": "MAMAHOUS",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 2,
             "pg": 0
           },
           {
@@ -721,8 +721,8 @@
               {
                 "home": "MAMAHOUS",
                 "away": "CHUPYGRASKA",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 14,
+                "golesAway": 16,
                 "campoId": 4,
                 "ordenGlobal": 82
               }
@@ -1466,6 +1466,26 @@
         "nombre": "Grupo J",
         "equipos": [
           {
+            "name": "MALITOS",
+            "pts": 2,
+            "gf": 15,
+            "gc": 12,
+            "dg": 3,
+            "pj": 1,
+            "ordenSorteo": 4,
+            "pg": 1
+          },
+          {
+            "name": "LOS ROOKIES",
+            "pts": 1,
+            "gf": 12,
+            "gc": 15,
+            "dg": -3,
+            "pj": 1,
+            "ordenSorteo": 1,
+            "pg": 0
+          },
+          {
             "name": "CHACALES",
             "pts": 0,
             "gf": 0,
@@ -1473,26 +1493,6 @@
             "dg": 0,
             "pj": 0,
             "ordenSorteo": 2,
-            "pg": 0
-          },
-          {
-            "name": "LOS ROOKIES",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 1,
-            "pg": 0
-          },
-          {
-            "name": "MALITOS",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 4,
             "pg": 0
           },
           {
@@ -1523,8 +1523,8 @@
               {
                 "home": "LOS ROOKIES",
                 "away": "MALITOS",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 12,
+                "golesAway": 15,
                 "campoId": 3,
                 "ordenGlobal": 61
               },
@@ -2002,6 +2002,18 @@
         "posGrupo": 1
       },
       {
+        "name": "NOTTINGHAN PRISAS",
+        "pts": 2,
+        "gf": 15,
+        "gc": 6,
+        "dg": 9,
+        "pj": 1,
+        "ordenSorteo": 3,
+        "pg": 1,
+        "grupo": "Grupo A",
+        "posGrupo": 2
+      },
+      {
         "name": "KINDER SORPRESA",
         "pts": 2,
         "gf": 15,
@@ -2074,6 +2086,30 @@
         "posGrupo": 1
       },
       {
+        "name": "MALITOS",
+        "pts": 2,
+        "gf": 15,
+        "gc": 12,
+        "dg": 3,
+        "pj": 1,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo J",
+        "posGrupo": 1
+      },
+      {
+        "name": "CHUPYGRASKA",
+        "pts": 2,
+        "gf": 16,
+        "gc": 14,
+        "dg": 2,
+        "pj": 1,
+        "ordenSorteo": 3,
+        "pg": 1,
+        "grupo": "Grupo E",
+        "posGrupo": 1
+      },
+      {
         "name": "PROHIBIDO DIVERTIRSE",
         "pts": 2,
         "gf": 16,
@@ -2110,6 +2146,18 @@
         "posGrupo": 2
       },
       {
+        "name": "MAMAHOUS",
+        "pts": 1,
+        "gf": 14,
+        "gc": 16,
+        "dg": -2,
+        "pj": 1,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo E",
+        "posGrupo": 2
+      },
+      {
         "name": "PESOS PESADOS",
         "pts": 1,
         "gf": 13,
@@ -2143,6 +2191,18 @@
         "ordenSorteo": 4,
         "pg": 0,
         "grupo": "Grupo K",
+        "posGrupo": 2
+      },
+      {
+        "name": "LOS ROOKIES",
+        "pts": 1,
+        "gf": 12,
+        "gc": 15,
+        "dg": -3,
+        "pj": 1,
+        "ordenSorteo": 1,
+        "pg": 0,
+        "grupo": "Grupo J",
         "posGrupo": 2
       },
       {
@@ -2206,6 +2266,18 @@
         "posGrupo": 2
       },
       {
+        "name": "PINO JACINTO",
+        "pts": 1,
+        "gf": 6,
+        "gc": 15,
+        "dg": -9,
+        "pj": 1,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo A",
+        "posGrupo": 3
+      },
+      {
         "name": "SIN RED NO HAY PARAÍSO",
         "pts": 1,
         "gf": 3,
@@ -2215,7 +2287,7 @@
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo A",
-        "posGrupo": 2
+        "posGrupo": 4
       },
       {
         "name": "ABANTO",
@@ -2227,7 +2299,7 @@
         "ordenSorteo": 4,
         "pg": 0,
         "grupo": "Grupo E",
-        "posGrupo": 1
+        "posGrupo": 3
       },
       {
         "name": "ASÍ DE PEQUEÑITOS",
@@ -2275,19 +2347,7 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo J",
-        "posGrupo": 1
-      },
-      {
-        "name": "CHUPYGRASKA",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 3,
-        "pg": 0,
-        "grupo": "Grupo E",
-        "posGrupo": 2
+        "posGrupo": 3
       },
       {
         "name": "DEMENCIA PERMANENTE CYL",
@@ -2434,42 +2494,6 @@
         "posGrupo": 5
       },
       {
-        "name": "LOS ROOKIES",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 1,
-        "pg": 0,
-        "grupo": "Grupo J",
-        "posGrupo": 2
-      },
-      {
-        "name": "MALITOS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 4,
-        "pg": 0,
-        "grupo": "Grupo J",
-        "posGrupo": 3
-      },
-      {
-        "name": "MAMAHOUS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo E",
-        "posGrupo": 3
-      },
-      {
         "name": "MANCHESTER PITY JR",
         "pts": 0,
         "gf": 0,
@@ -2518,18 +2542,6 @@
         "posGrupo": 4
       },
       {
-        "name": "NOTTINGHAN PRISAS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 3,
-        "pg": 0,
-        "grupo": "Grupo A",
-        "posGrupo": 3
-      },
-      {
         "name": "PEGRILOSAS",
         "pts": 0,
         "gf": 0,
@@ -2540,18 +2552,6 @@
         "pg": 0,
         "grupo": "Grupo E",
         "posGrupo": 5
-      },
-      {
-        "name": "PINO JACINTO",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo A",
-        "posGrupo": 4
       },
       {
         "name": "PRESS PANZA",
@@ -2729,7 +2729,7 @@
       "grupo_4": false,
       "campo_4": false,
       "campo_0": false,
-      "campo_3": true,
+      "campo_3": false,
       "campo_1": false,
       "campo_2": false,
       "campo_5": false,
@@ -2838,6 +2838,30 @@
         "posGrupo": 1
       },
       {
+        "name": "MALITOS",
+        "pts": 2,
+        "gf": 15,
+        "gc": 12,
+        "dg": 3,
+        "pj": 1,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo J",
+        "posGrupo": 1
+      },
+      {
+        "name": "CHUPYGRASKA",
+        "pts": 2,
+        "gf": 16,
+        "gc": 14,
+        "dg": 2,
+        "pj": 1,
+        "ordenSorteo": 3,
+        "pg": 1,
+        "grupo": "Grupo E",
+        "posGrupo": 1
+      },
+      {
         "name": "PROHIBIDO DIVERTIRSE",
         "pts": 2,
         "gf": 16,
@@ -2862,28 +2886,16 @@
         "posGrupo": 1
       },
       {
-        "name": "ABANTO",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 4,
-        "pg": 0,
-        "grupo": "Grupo E",
-        "posGrupo": 1
-      },
-      {
-        "name": "CHACALES",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo J",
-        "posGrupo": 1
+        "name": "NOTTINGHAN PRISAS",
+        "pts": 2,
+        "gf": 15,
+        "gc": 6,
+        "dg": 9,
+        "pj": 1,
+        "ordenSorteo": 3,
+        "pg": 1,
+        "grupo": "Grupo A",
+        "posGrupo": 2
       },
       {
         "name": "CENTAUROS",
@@ -2895,6 +2907,18 @@
         "ordenSorteo": 4,
         "pg": 0,
         "grupo": "Grupo F",
+        "posGrupo": 2
+      },
+      {
+        "name": "MAMAHOUS",
+        "pts": 1,
+        "gf": 14,
+        "gc": 16,
+        "dg": -2,
+        "pj": 1,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo E",
         "posGrupo": 2
       },
       {
@@ -2931,6 +2955,18 @@
         "ordenSorteo": 4,
         "pg": 0,
         "grupo": "Grupo K",
+        "posGrupo": 2
+      },
+      {
+        "name": "LOS ROOKIES",
+        "pts": 1,
+        "gf": 12,
+        "gc": 15,
+        "dg": -3,
+        "pj": 1,
+        "ordenSorteo": 1,
+        "pg": 0,
+        "grupo": "Grupo J",
         "posGrupo": 2
       },
       {
@@ -2994,40 +3030,28 @@
         "posGrupo": 2
       },
       {
-        "name": "SIN RED NO HAY PARAÍSO",
+        "name": "PINO JACINTO",
         "pts": 1,
-        "gf": 3,
+        "gf": 6,
         "gc": 15,
-        "dg": -12,
+        "dg": -9,
         "pj": 1,
-        "ordenSorteo": 1,
+        "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo A",
-        "posGrupo": 2
+        "posGrupo": 3
       },
       {
-        "name": "CHUPYGRASKA",
+        "name": "ABANTO",
         "pts": 0,
         "gf": 0,
         "gc": 0,
         "dg": 0,
         "pj": 0,
-        "ordenSorteo": 3,
+        "ordenSorteo": 4,
         "pg": 0,
         "grupo": "Grupo E",
-        "posGrupo": 2
-      },
-      {
-        "name": "LOS ROOKIES",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 1,
-        "pg": 0,
-        "grupo": "Grupo J",
-        "posGrupo": 2
+        "posGrupo": 3
       },
       {
         "name": "ASÍ DE PEQUEÑITOS",
@@ -3051,6 +3075,18 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo F",
+        "posGrupo": 3
+      },
+      {
+        "name": "CHACALES",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo J",
         "posGrupo": 3
       },
       {
@@ -3138,40 +3174,16 @@
         "posGrupo": 3
       },
       {
-        "name": "MALITOS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 4,
-        "pg": 0,
-        "grupo": "Grupo J",
-        "posGrupo": 3
-      },
-      {
-        "name": "MAMAHOUS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo E",
-        "posGrupo": 3
-      },
-      {
-        "name": "NOTTINGHAN PRISAS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 3,
+        "name": "SIN RED NO HAY PARAÍSO",
+        "pts": 1,
+        "gf": 3,
+        "gc": 15,
+        "dg": -12,
+        "pj": 1,
+        "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo A",
-        "posGrupo": 3
+        "posGrupo": 4
       },
       {
         "name": "CAÍDA LIBRE VOLEY",
@@ -3267,18 +3279,6 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo D",
-        "posGrupo": 4
-      },
-      {
-        "name": "PINO JACINTO",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo A",
         "posGrupo": 4
       },
       {
