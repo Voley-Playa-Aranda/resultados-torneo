@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T12:09:03.153Z",
+  "publicadoEn": "2026-07-11T12:11:04.035Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -818,24 +818,24 @@
         "nombre": "Grupo F",
         "equipos": [
           {
-            "name": "PROHIBIDO DIVERTIRSE",
-            "pts": 6,
-            "gf": 46,
-            "gc": 34,
+            "name": "EL CLAN DE LOS LOZANO",
+            "pts": 7,
+            "gf": 62,
+            "gc": 50,
             "dg": 12,
-            "pj": 3,
-            "ordenSorteo": 1,
+            "pj": 4,
+            "ordenSorteo": 0,
             "pg": 3
           },
           {
-            "name": "EL CLAN DE LOS LOZANO",
-            "pts": 5,
-            "gf": 47,
-            "gc": 39,
+            "name": "PROHIBIDO DIVERTIRSE",
+            "pts": 7,
+            "gf": 57,
+            "gc": 49,
             "dg": 8,
-            "pj": 3,
-            "ordenSorteo": 0,
-            "pg": 2
+            "pj": 4,
+            "ordenSorteo": 1,
+            "pg": 3
           },
           {
             "name": "ASOCIACIÓN DE DRAGONES AMERICANOS",
@@ -959,8 +959,8 @@
               {
                 "home": "EL CLAN DE LOS LOZANO",
                 "away": "PROHIBIDO DIVERTIRSE",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 15,
+                "golesAway": 11,
                 "campoId": 5,
                 "ordenGlobal": 116
               },
@@ -2110,18 +2110,6 @@
         "posGrupo": 1
       },
       {
-        "name": "PROHIBIDO DIVERTIRSE",
-        "pts": 6,
-        "gf": 46,
-        "gc": 34,
-        "dg": 12,
-        "pj": 3,
-        "ordenSorteo": 1,
-        "pg": 3,
-        "grupo": "Grupo F",
-        "posGrupo": 1
-      },
-      {
         "name": "NOTTINGHAN PRISAS",
         "pts": 7,
         "gf": 54,
@@ -2131,6 +2119,30 @@
         "ordenSorteo": 3,
         "pg": 3,
         "grupo": "Grupo A",
+        "posGrupo": 2
+      },
+      {
+        "name": "EL CLAN DE LOS LOZANO",
+        "pts": 7,
+        "gf": 62,
+        "gc": 50,
+        "dg": 12,
+        "pj": 4,
+        "ordenSorteo": 0,
+        "pg": 3,
+        "grupo": "Grupo F",
+        "posGrupo": 1
+      },
+      {
+        "name": "PROHIBIDO DIVERTIRSE",
+        "pts": 7,
+        "gf": 57,
+        "gc": 49,
+        "dg": 8,
+        "pj": 4,
+        "ordenSorteo": 1,
+        "pg": 3,
+        "grupo": "Grupo F",
         "posGrupo": 2
       },
       {
@@ -2179,18 +2191,6 @@
         "ordenSorteo": 0,
         "pg": 2,
         "grupo": "Grupo B",
-        "posGrupo": 2
-      },
-      {
-        "name": "EL CLAN DE LOS LOZANO",
-        "pts": 5,
-        "gf": 47,
-        "gc": 39,
-        "dg": 8,
-        "pj": 3,
-        "ordenSorteo": 0,
-        "pg": 2,
-        "grupo": "Grupo F",
         "posGrupo": 2
       },
       {
@@ -2731,7 +2731,7 @@
       "campo_0": false,
       "campo_3": false,
       "campo_1": false,
-      "campo_2": true,
+      "campo_2": false,
       "campo_5": false,
       "grupo_0": false
     },
@@ -2887,13 +2887,13 @@
         "posGrupo": 1
       },
       {
-        "name": "PROHIBIDO DIVERTIRSE",
-        "pts": 6,
-        "gf": 46,
-        "gc": 34,
+        "name": "EL CLAN DE LOS LOZANO",
+        "pts": 7,
+        "gf": 62,
+        "gc": 50,
         "dg": 12,
-        "pj": 3,
-        "ordenSorteo": 1,
+        "pj": 4,
+        "ordenSorteo": 0,
         "pg": 3,
         "grupo": "Grupo F",
         "posGrupo": 1
@@ -2908,6 +2908,18 @@
         "ordenSorteo": 3,
         "pg": 3,
         "grupo": "Grupo A",
+        "posGrupo": 2
+      },
+      {
+        "name": "PROHIBIDO DIVERTIRSE",
+        "pts": 7,
+        "gf": 57,
+        "gc": 49,
+        "dg": 8,
+        "pj": 4,
+        "ordenSorteo": 1,
+        "pg": 3,
+        "grupo": "Grupo F",
         "posGrupo": 2
       },
       {
@@ -2944,18 +2956,6 @@
         "ordenSorteo": 0,
         "pg": 2,
         "grupo": "Grupo B",
-        "posGrupo": 2
-      },
-      {
-        "name": "EL CLAN DE LOS LOZANO",
-        "pts": 5,
-        "gf": 47,
-        "gc": 39,
-        "dg": 8,
-        "pj": 3,
-        "ordenSorteo": 0,
-        "pg": 2,
-        "grupo": "Grupo F",
         "posGrupo": 2
       },
       {
