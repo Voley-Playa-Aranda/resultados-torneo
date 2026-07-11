@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T09:29:03.157Z",
+  "publicadoEn": "2026-07-11T09:31:04.030Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -828,6 +828,16 @@
             "pg": 1
           },
           {
+            "name": "EL CLAN DE LOS LOZANO",
+            "pts": 2,
+            "gf": 18,
+            "gc": 16,
+            "dg": 2,
+            "pj": 1,
+            "ordenSorteo": 0,
+            "pg": 1
+          },
+          {
             "name": "PROHIBIDO DIVERTIRSE",
             "pts": 2,
             "gf": 16,
@@ -839,11 +849,11 @@
           },
           {
             "name": "CENTAUROS",
-            "pts": 1,
-            "gf": 14,
-            "gc": 16,
-            "dg": -2,
-            "pj": 1,
+            "pts": 2,
+            "gf": 30,
+            "gc": 34,
+            "dg": -4,
+            "pj": 2,
             "ordenSorteo": 4,
             "pg": 0
           },
@@ -855,16 +865,6 @@
             "dg": -10,
             "pj": 1,
             "ordenSorteo": 3,
-            "pg": 0
-          },
-          {
-            "name": "EL CLAN DE LOS LOZANO",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 0,
             "pg": 0
           }
         ],
@@ -897,7 +897,7 @@
                 "home": "EL CLAN DE LOS LOZANO",
                 "away": "CENTAUROS",
                 "golesHome": 18,
-                "golesAway": "",
+                "golesAway": 16,
                 "campoId": 5,
                 "ordenGlobal": 104
               },
@@ -2218,6 +2218,18 @@
         "posGrupo": 1
       },
       {
+        "name": "EL CLAN DE LOS LOZANO",
+        "pts": 2,
+        "gf": 18,
+        "gc": 16,
+        "dg": 2,
+        "pj": 1,
+        "ordenSorteo": 0,
+        "pg": 1,
+        "grupo": "Grupo F",
+        "posGrupo": 2
+      },
+      {
         "name": "SUBESELA AL HEAVY",
         "pts": 2,
         "gf": 17,
@@ -2251,7 +2263,7 @@
         "ordenSorteo": 1,
         "pg": 1,
         "grupo": "Grupo F",
-        "posGrupo": 2
+        "posGrupo": 3
       },
       {
         "name": "KIKOÑAZO",
@@ -2314,6 +2326,18 @@
         "posGrupo": 4
       },
       {
+        "name": "CENTAUROS",
+        "pts": 2,
+        "gf": 30,
+        "gc": 34,
+        "dg": -4,
+        "pj": 2,
+        "ordenSorteo": 4,
+        "pg": 0,
+        "grupo": "Grupo F",
+        "posGrupo": 4
+      },
+      {
         "name": "CHACALES",
         "pts": 1,
         "gf": 15,
@@ -2323,18 +2347,6 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo J",
-        "posGrupo": 3
-      },
-      {
-        "name": "CENTAUROS",
-        "pts": 1,
-        "gf": 14,
-        "gc": 16,
-        "dg": -2,
-        "pj": 1,
-        "ordenSorteo": 4,
-        "pg": 0,
-        "grupo": "Grupo F",
         "posGrupo": 3
       },
       {
@@ -2551,7 +2563,7 @@
         "ordenSorteo": 3,
         "pg": 0,
         "grupo": "Grupo F",
-        "posGrupo": 4
+        "posGrupo": 5
       },
       {
         "name": "GORRO DE PISCINA NEGRO",
@@ -2611,18 +2623,6 @@
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo A",
-        "posGrupo": 5
-      },
-      {
-        "name": "EL CLAN DE LOS LOZANO",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo F",
         "posGrupo": 5
       },
       {
@@ -2732,7 +2732,7 @@
       "campo_3": false,
       "campo_1": false,
       "campo_2": false,
-      "campo_5": true,
+      "campo_5": false,
       "grupo_0": false
     },
     "expandedClasificaciones": {},
@@ -2982,6 +2982,18 @@
         "posGrupo": 2
       },
       {
+        "name": "EL CLAN DE LOS LOZANO",
+        "pts": 2,
+        "gf": 18,
+        "gc": 16,
+        "dg": 2,
+        "pj": 1,
+        "ordenSorteo": 0,
+        "pg": 1,
+        "grupo": "Grupo F",
+        "posGrupo": 2
+      },
+      {
         "name": "SUBESELA AL HEAVY",
         "pts": 2,
         "gf": 17,
@@ -3006,18 +3018,6 @@
         "posGrupo": 2
       },
       {
-        "name": "PROHIBIDO DIVERTIRSE",
-        "pts": 2,
-        "gf": 16,
-        "gc": 14,
-        "dg": 2,
-        "pj": 1,
-        "ordenSorteo": 1,
-        "pg": 1,
-        "grupo": "Grupo F",
-        "posGrupo": 2
-      },
-      {
         "name": "KIKOÑAZO",
         "pts": 2,
         "gf": 15,
@@ -3028,6 +3028,18 @@
         "pg": 1,
         "grupo": "Grupo C",
         "posGrupo": 2
+      },
+      {
+        "name": "PROHIBIDO DIVERTIRSE",
+        "pts": 2,
+        "gf": 16,
+        "gc": 14,
+        "dg": 2,
+        "pj": 1,
+        "ordenSorteo": 1,
+        "pg": 1,
+        "grupo": "Grupo F",
+        "posGrupo": 3
       },
       {
         "name": "CARCAJADA",
@@ -3075,18 +3087,6 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo J",
-        "posGrupo": 3
-      },
-      {
-        "name": "CENTAUROS",
-        "pts": 1,
-        "gf": 14,
-        "gc": 16,
-        "dg": -2,
-        "pj": 1,
-        "ordenSorteo": 4,
-        "pg": 0,
-        "grupo": "Grupo F",
         "posGrupo": 3
       },
       {
@@ -3186,6 +3186,18 @@
         "posGrupo": 4
       },
       {
+        "name": "CENTAUROS",
+        "pts": 2,
+        "gf": 30,
+        "gc": 34,
+        "dg": -4,
+        "pj": 2,
+        "ordenSorteo": 4,
+        "pg": 0,
+        "grupo": "Grupo F",
+        "posGrupo": 4
+      },
+      {
         "name": "LOS CARIÑITOS BOSTONCITOS",
         "pts": 1,
         "gf": 13,
@@ -3282,18 +3294,6 @@
         "posGrupo": 4
       },
       {
-        "name": "CAÍDA LIBRE VOLEY",
-        "pts": 1,
-        "gf": 5,
-        "gc": 15,
-        "dg": -10,
-        "pj": 1,
-        "ordenSorteo": 3,
-        "pg": 0,
-        "grupo": "Grupo F",
-        "posGrupo": 4
-      },
-      {
         "name": "GORRO DE PISCINA NEGRO",
         "pts": 1,
         "gf": 5,
@@ -3342,6 +3342,18 @@
         "posGrupo": 5
       },
       {
+        "name": "CAÍDA LIBRE VOLEY",
+        "pts": 1,
+        "gf": 5,
+        "gc": 15,
+        "dg": -10,
+        "pj": 1,
+        "ordenSorteo": 3,
+        "pg": 0,
+        "grupo": "Grupo F",
+        "posGrupo": 5
+      },
+      {
         "name": "MANCHESTER PITY JR",
         "pts": 1,
         "gf": 3,
@@ -3375,18 +3387,6 @@
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo A",
-        "posGrupo": 5
-      },
-      {
-        "name": "EL CLAN DE LOS LOZANO",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo F",
         "posGrupo": 5
       },
       {
