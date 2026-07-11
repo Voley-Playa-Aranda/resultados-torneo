@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T12:17:03.157Z",
+  "publicadoEn": "2026-07-11T12:19:03.171Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -991,13 +991,13 @@
           },
           {
             "name": "MENESTRA CON GINEBRA",
-            "pts": 5,
-            "gf": 33,
-            "gc": 34,
-            "dg": -1,
-            "pj": 3,
+            "pts": 7,
+            "gf": 48,
+            "gc": 43,
+            "dg": 5,
+            "pj": 4,
             "ordenSorteo": 3,
-            "pg": 2
+            "pg": 3
           },
           {
             "name": "KINDER SORPRESA",
@@ -1011,11 +1011,11 @@
           },
           {
             "name": "CV SIESTA",
-            "pts": 4,
-            "gf": 30,
-            "gc": 46,
-            "dg": -16,
-            "pj": 3,
+            "pts": 5,
+            "gf": 39,
+            "gc": 61,
+            "dg": -22,
+            "pj": 4,
             "ordenSorteo": 4,
             "pg": 1
           },
@@ -1129,8 +1129,8 @@
               {
                 "home": "MENESTRA CON GINEBRA",
                 "away": "CV SIESTA",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 15,
+                "golesAway": 9,
                 "campoId": 0,
                 "ordenGlobal": 19
               }
@@ -2158,6 +2158,18 @@
         "posGrupo": 2
       },
       {
+        "name": "MENESTRA CON GINEBRA",
+        "pts": 7,
+        "gf": 48,
+        "gc": 43,
+        "dg": 5,
+        "pj": 4,
+        "ordenSorteo": 3,
+        "pg": 3,
+        "grupo": "Grupo G",
+        "posGrupo": 2
+      },
+      {
         "name": "EL PODER DE LA PIEDRA",
         "pts": 5,
         "gf": 42,
@@ -2299,18 +2311,6 @@
         "ordenSorteo": 3,
         "pg": 2,
         "grupo": "Grupo K",
-        "posGrupo": 2
-      },
-      {
-        "name": "MENESTRA CON GINEBRA",
-        "pts": 5,
-        "gf": 33,
-        "gc": 34,
-        "dg": -1,
-        "pj": 3,
-        "ordenSorteo": 3,
-        "pg": 2,
-        "grupo": "Grupo G",
         "posGrupo": 2
       },
       {
@@ -2482,18 +2482,6 @@
         "posGrupo": 4
       },
       {
-        "name": "CV SIESTA",
-        "pts": 4,
-        "gf": 30,
-        "gc": 46,
-        "dg": -16,
-        "pj": 3,
-        "ordenSorteo": 4,
-        "pg": 1,
-        "grupo": "Grupo G",
-        "posGrupo": 4
-      },
-      {
         "name": "CARCAJADA",
         "pts": 4,
         "gf": 25,
@@ -2563,6 +2551,18 @@
         "ordenSorteo": 2,
         "pg": 1,
         "grupo": "Grupo A",
+        "posGrupo": 4
+      },
+      {
+        "name": "CV SIESTA",
+        "pts": 5,
+        "gf": 39,
+        "gc": 61,
+        "dg": -22,
+        "pj": 4,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo G",
         "posGrupo": 4
       },
       {
@@ -2728,8 +2728,8 @@
     "expandedPartidos": {
       "grupo_4": false,
       "campo_4": false,
-      "campo_0": false,
-      "campo_3": true,
+      "campo_0": true,
+      "campo_3": false,
       "campo_1": false,
       "campo_2": false,
       "campo_5": false,
@@ -2935,6 +2935,18 @@
         "posGrupo": 2
       },
       {
+        "name": "MENESTRA CON GINEBRA",
+        "pts": 7,
+        "gf": 48,
+        "gc": 43,
+        "dg": 5,
+        "pj": 4,
+        "ordenSorteo": 3,
+        "pg": 3,
+        "grupo": "Grupo G",
+        "posGrupo": 2
+      },
+      {
         "name": "EL PODER DE LA PIEDRA",
         "pts": 5,
         "gf": 42,
@@ -3016,18 +3028,6 @@
         "ordenSorteo": 3,
         "pg": 2,
         "grupo": "Grupo K",
-        "posGrupo": 2
-      },
-      {
-        "name": "MENESTRA CON GINEBRA",
-        "pts": 5,
-        "gf": 33,
-        "gc": 34,
-        "dg": -1,
-        "pj": 3,
-        "ordenSorteo": 3,
-        "pg": 2,
-        "grupo": "Grupo G",
         "posGrupo": 2
       },
       {
@@ -3259,18 +3259,6 @@
         "posGrupo": 4
       },
       {
-        "name": "CV SIESTA",
-        "pts": 4,
-        "gf": 30,
-        "gc": 46,
-        "dg": -16,
-        "pj": 3,
-        "ordenSorteo": 4,
-        "pg": 1,
-        "grupo": "Grupo G",
-        "posGrupo": 4
-      },
-      {
         "name": "CARCAJADA",
         "pts": 4,
         "gf": 25,
@@ -3328,6 +3316,18 @@
         "ordenSorteo": 2,
         "pg": 1,
         "grupo": "Grupo A",
+        "posGrupo": 4
+      },
+      {
+        "name": "CV SIESTA",
+        "pts": 5,
+        "gf": 39,
+        "gc": 61,
+        "dg": -22,
+        "pj": 4,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo G",
         "posGrupo": 4
       },
       {
