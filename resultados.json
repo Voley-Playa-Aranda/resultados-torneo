@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T09:41:03.160Z",
+  "publicadoEn": "2026-07-11T09:43:03.157Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -1638,6 +1638,16 @@
             "pg": 1
           },
           {
+            "name": "LA BATALLA DE LOS PELOS BASTARDOS",
+            "pts": 2,
+            "gf": 15,
+            "gc": 10,
+            "dg": 5,
+            "pj": 1,
+            "ordenSorteo": 0,
+            "pg": 1
+          },
+          {
             "name": "ASTON BIRRAS",
             "pts": 2,
             "gf": 15,
@@ -1649,11 +1659,11 @@
           },
           {
             "name": "LA CASITA",
-            "pts": 1,
-            "gf": 12,
-            "gc": 15,
-            "dg": -3,
-            "pj": 1,
+            "pts": 2,
+            "gf": 22,
+            "gc": 30,
+            "dg": -8,
+            "pj": 2,
             "ordenSorteo": 4,
             "pg": 0
           },
@@ -1665,16 +1675,6 @@
             "dg": -9,
             "pj": 1,
             "ordenSorteo": 3,
-            "pg": 0
-          },
-          {
-            "name": "LA BATALLA DE LOS PELOS BASTARDOS",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 0,
             "pg": 0
           }
         ],
@@ -1706,8 +1706,8 @@
               {
                 "home": "LA BATALLA DE LOS PELOS BASTARDOS",
                 "away": "LA CASITA",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 15,
+                "golesAway": 10,
                 "campoId": 4,
                 "ordenGlobal": 85
               },
@@ -2158,6 +2158,18 @@
         "posGrupo": 2
       },
       {
+        "name": "LA BATALLA DE LOS PELOS BASTARDOS",
+        "pts": 2,
+        "gf": 15,
+        "gc": 10,
+        "dg": 5,
+        "pj": 1,
+        "ordenSorteo": 0,
+        "pg": 1,
+        "grupo": "Grupo K",
+        "posGrupo": 2
+      },
+      {
         "name": "GANAMOS Y NOS VAMOS",
         "pts": 4,
         "gf": 30,
@@ -2191,7 +2203,7 @@
         "ordenSorteo": 1,
         "pg": 1,
         "grupo": "Grupo K",
-        "posGrupo": 2
+        "posGrupo": 3
       },
       {
         "name": "GUSANOS GAFONES",
@@ -2446,18 +2458,6 @@
         "posGrupo": 4
       },
       {
-        "name": "LA CASITA",
-        "pts": 1,
-        "gf": 12,
-        "gc": 15,
-        "dg": -3,
-        "pj": 1,
-        "ordenSorteo": 4,
-        "pg": 0,
-        "grupo": "Grupo K",
-        "posGrupo": 3
-      },
-      {
         "name": "LOS ROOKIES",
         "pts": 1,
         "gf": 12,
@@ -2467,6 +2467,18 @@
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo J",
+        "posGrupo": 4
+      },
+      {
+        "name": "LA CASITA",
+        "pts": 2,
+        "gf": 22,
+        "gc": 30,
+        "dg": -8,
+        "pj": 2,
+        "ordenSorteo": 4,
+        "pg": 0,
+        "grupo": "Grupo K",
         "posGrupo": 4
       },
       {
@@ -2587,7 +2599,7 @@
         "ordenSorteo": 3,
         "pg": 0,
         "grupo": "Grupo K",
-        "posGrupo": 4
+        "posGrupo": 5
       },
       {
         "name": "CAÍDA LIBRE VOLEY",
@@ -2671,18 +2683,6 @@
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo A",
-        "posGrupo": 5
-      },
-      {
-        "name": "LA BATALLA DE LOS PELOS BASTARDOS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo K",
         "posGrupo": 5
       },
       {
@@ -2946,6 +2946,18 @@
         "posGrupo": 2
       },
       {
+        "name": "LA BATALLA DE LOS PELOS BASTARDOS",
+        "pts": 2,
+        "gf": 15,
+        "gc": 10,
+        "dg": 5,
+        "pj": 1,
+        "ordenSorteo": 0,
+        "pg": 1,
+        "grupo": "Grupo K",
+        "posGrupo": 2
+      },
+      {
         "name": "KARIBE VÓLEIBOL",
         "pts": 2,
         "gf": 15,
@@ -2955,18 +2967,6 @@
         "ordenSorteo": 2,
         "pg": 1,
         "grupo": "Grupo D",
-        "posGrupo": 2
-      },
-      {
-        "name": "ASTON BIRRAS",
-        "pts": 2,
-        "gf": 15,
-        "gc": 12,
-        "dg": 3,
-        "pj": 1,
-        "ordenSorteo": 1,
-        "pg": 1,
-        "grupo": "Grupo K",
         "posGrupo": 2
       },
       {
@@ -3028,6 +3028,18 @@
         "pg": 1,
         "grupo": "Grupo C",
         "posGrupo": 2
+      },
+      {
+        "name": "ASTON BIRRAS",
+        "pts": 2,
+        "gf": 15,
+        "gc": 12,
+        "dg": 3,
+        "pj": 1,
+        "ordenSorteo": 1,
+        "pg": 1,
+        "grupo": "Grupo K",
+        "posGrupo": 3
       },
       {
         "name": "PROHIBIDO DIVERTIRSE",
@@ -3150,18 +3162,6 @@
         "posGrupo": 3
       },
       {
-        "name": "LA CASITA",
-        "pts": 1,
-        "gf": 12,
-        "gc": 15,
-        "dg": -3,
-        "pj": 1,
-        "ordenSorteo": 4,
-        "pg": 0,
-        "grupo": "Grupo K",
-        "posGrupo": 3
-      },
-      {
         "name": "MANCHESTER PITY",
         "pts": 1,
         "gf": 11,
@@ -3246,6 +3246,18 @@
         "posGrupo": 4
       },
       {
+        "name": "LA CASITA",
+        "pts": 2,
+        "gf": 22,
+        "gc": 30,
+        "dg": -8,
+        "pj": 2,
+        "ordenSorteo": 4,
+        "pg": 0,
+        "grupo": "Grupo K",
+        "posGrupo": 4
+      },
+      {
         "name": "TIERRA LLAMANDO A JUAN CARLOS",
         "pts": 1,
         "gf": 11,
@@ -3291,18 +3303,6 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo E",
-        "posGrupo": 4
-      },
-      {
-        "name": "ROYALEROS",
-        "pts": 1,
-        "gf": 6,
-        "gc": 15,
-        "dg": -9,
-        "pj": 1,
-        "ordenSorteo": 3,
-        "pg": 0,
-        "grupo": "Grupo K",
         "posGrupo": 4
       },
       {
@@ -3363,6 +3363,18 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo B",
+        "posGrupo": 5
+      },
+      {
+        "name": "ROYALEROS",
+        "pts": 1,
+        "gf": 6,
+        "gc": 15,
+        "dg": -9,
+        "pj": 1,
+        "ordenSorteo": 3,
+        "pg": 0,
+        "grupo": "Grupo K",
         "posGrupo": 5
       },
       {
@@ -3435,18 +3447,6 @@
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo A",
-        "posGrupo": 5
-      },
-      {
-        "name": "LA BATALLA DE LOS PELOS BASTARDOS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo K",
         "posGrupo": 5
       },
       {
