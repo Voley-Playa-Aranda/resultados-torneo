@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T11:53:03.171Z",
+  "publicadoEn": "2026-07-11T11:55:04.029Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -1001,13 +1001,13 @@
           },
           {
             "name": "KINDER SORPRESA",
-            "pts": 4,
-            "gf": 30,
-            "gc": 37,
-            "dg": -7,
-            "pj": 3,
+            "pts": 6,
+            "gf": 45,
+            "gc": 42,
+            "dg": 3,
+            "pj": 4,
             "ordenSorteo": 1,
-            "pg": 1
+            "pg": 2
           },
           {
             "name": "CV SIESTA",
@@ -1021,11 +1021,11 @@
           },
           {
             "name": "RECEPCIÓN OPCIONAL",
-            "pts": 3,
-            "gf": 24,
-            "gc": 48,
-            "dg": -24,
-            "pj": 3,
+            "pts": 4,
+            "gf": 29,
+            "gc": 63,
+            "dg": -34,
+            "pj": 4,
             "ordenSorteo": 0,
             "pg": 0
           }
@@ -1121,8 +1121,8 @@
               {
                 "home": "RECEPCIÓN OPCIONAL",
                 "away": "KINDER SORPRESA",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 5,
+                "golesAway": 15,
                 "campoId": 0,
                 "ordenGlobal": 17
               },
@@ -1800,23 +1800,23 @@
             "pg": 4
           },
           {
-            "name": "EL TAMAÑO NO IMPORTA",
-            "pts": 3,
-            "gf": 24,
-            "gc": 21,
-            "dg": 3,
-            "pj": 2,
-            "ordenSorteo": 1,
-            "pg": 1
+            "name": "TE EMPAQUETO",
+            "pts": 5,
+            "gf": 35,
+            "gc": 33,
+            "dg": 2,
+            "pj": 3,
+            "ordenSorteo": 3,
+            "pg": 2
           },
           {
-            "name": "TE EMPAQUETO",
-            "pts": 3,
-            "gf": 20,
-            "gc": 20,
-            "dg": 0,
-            "pj": 2,
-            "ordenSorteo": 3,
+            "name": "EL TAMAÑO NO IMPORTA",
+            "pts": 4,
+            "gf": 37,
+            "gc": 36,
+            "dg": 1,
+            "pj": 3,
+            "ordenSorteo": 1,
             "pg": 1
           },
           {
@@ -1918,8 +1918,8 @@
               {
                 "home": "TE EMPAQUETO",
                 "away": "EL TAMAÑO NO IMPORTA",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 15,
+                "golesAway": 13,
                 "campoId": 5,
                 "ordenGlobal": 115
               }
@@ -2254,6 +2254,18 @@
         "posGrupo": 3
       },
       {
+        "name": "TE EMPAQUETO",
+        "pts": 5,
+        "gf": 35,
+        "gc": 33,
+        "dg": 2,
+        "pj": 3,
+        "ordenSorteo": 3,
+        "pg": 2,
+        "grupo": "Grupo L",
+        "posGrupo": 2
+      },
+      {
         "name": "CORCHOPANES",
         "pts": 5,
         "gf": 38,
@@ -2302,16 +2314,16 @@
         "posGrupo": 3
       },
       {
-        "name": "EL TAMAÑO NO IMPORTA",
-        "pts": 3,
-        "gf": 24,
-        "gc": 21,
+        "name": "KINDER SORPRESA",
+        "pts": 6,
+        "gf": 45,
+        "gc": 42,
         "dg": 3,
-        "pj": 2,
+        "pj": 4,
         "ordenSorteo": 1,
-        "pg": 1,
-        "grupo": "Grupo L",
-        "posGrupo": 2
+        "pg": 2,
+        "grupo": "Grupo G",
+        "posGrupo": 3
       },
       {
         "name": "ASOCIACIÓN DE DRAGONES AMERICANOS",
@@ -2336,18 +2348,6 @@
         "pg": 2,
         "grupo": "Grupo C",
         "posGrupo": 2
-      },
-      {
-        "name": "TE EMPAQUETO",
-        "pts": 3,
-        "gf": 20,
-        "gc": 20,
-        "dg": 0,
-        "pj": 2,
-        "ordenSorteo": 3,
-        "pg": 1,
-        "grupo": "Grupo L",
-        "posGrupo": 3
       },
       {
         "name": "ASTON BIRRAS",
@@ -2398,6 +2398,18 @@
         "posGrupo": 4
       },
       {
+        "name": "EL TAMAÑO NO IMPORTA",
+        "pts": 4,
+        "gf": 37,
+        "gc": 36,
+        "dg": 1,
+        "pj": 3,
+        "ordenSorteo": 1,
+        "pg": 1,
+        "grupo": "Grupo L",
+        "posGrupo": 3
+      },
+      {
         "name": "MAS SUELO QUE VÓLEY",
         "pts": 4,
         "gf": 35,
@@ -2444,18 +2456,6 @@
         "pg": 1,
         "grupo": "Grupo K",
         "posGrupo": 4
-      },
-      {
-        "name": "KINDER SORPRESA",
-        "pts": 4,
-        "gf": 30,
-        "gc": 37,
-        "dg": -7,
-        "pj": 3,
-        "ordenSorteo": 1,
-        "pg": 1,
-        "grupo": "Grupo G",
-        "posGrupo": 3
       },
       {
         "name": "PESOS PESADOS",
@@ -2626,18 +2626,6 @@
         "posGrupo": 5
       },
       {
-        "name": "RECEPCIÓN OPCIONAL",
-        "pts": 3,
-        "gf": 24,
-        "gc": 48,
-        "dg": -24,
-        "pj": 3,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo G",
-        "posGrupo": 5
-      },
-      {
         "name": "CAÍDA LIBRE VOLEY",
         "pts": 3,
         "gf": 21,
@@ -2659,6 +2647,18 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo I",
+        "posGrupo": 5
+      },
+      {
+        "name": "RECEPCIÓN OPCIONAL",
+        "pts": 4,
+        "gf": 29,
+        "gc": 63,
+        "dg": -34,
+        "pj": 4,
+        "ordenSorteo": 0,
+        "pg": 0,
+        "grupo": "Grupo G",
         "posGrupo": 5
       },
       {
@@ -2995,6 +2995,18 @@
         "posGrupo": 2
       },
       {
+        "name": "TE EMPAQUETO",
+        "pts": 5,
+        "gf": 35,
+        "gc": 33,
+        "dg": 2,
+        "pj": 3,
+        "ordenSorteo": 3,
+        "pg": 2,
+        "grupo": "Grupo L",
+        "posGrupo": 2
+      },
+      {
         "name": "MENESTRA CON GINEBRA",
         "pts": 5,
         "gf": 33,
@@ -3004,18 +3016,6 @@
         "ordenSorteo": 3,
         "pg": 2,
         "grupo": "Grupo G",
-        "posGrupo": 2
-      },
-      {
-        "name": "EL TAMAÑO NO IMPORTA",
-        "pts": 3,
-        "gf": 24,
-        "gc": 21,
-        "dg": 3,
-        "pj": 2,
-        "ordenSorteo": 1,
-        "pg": 1,
-        "grupo": "Grupo L",
         "posGrupo": 2
       },
       {
@@ -3115,6 +3115,18 @@
         "posGrupo": 3
       },
       {
+        "name": "KINDER SORPRESA",
+        "pts": 6,
+        "gf": 45,
+        "gc": 42,
+        "dg": 3,
+        "pj": 4,
+        "ordenSorteo": 1,
+        "pg": 2,
+        "grupo": "Grupo G",
+        "posGrupo": 3
+      },
+      {
         "name": "ASOCIACIÓN DE DRAGONES AMERICANOS",
         "pts": 6,
         "gf": 50,
@@ -3124,18 +3136,6 @@
         "ordenSorteo": 2,
         "pg": 2,
         "grupo": "Grupo F",
-        "posGrupo": 3
-      },
-      {
-        "name": "TE EMPAQUETO",
-        "pts": 3,
-        "gf": 20,
-        "gc": 20,
-        "dg": 0,
-        "pj": 2,
-        "ordenSorteo": 3,
-        "pg": 1,
-        "grupo": "Grupo L",
         "posGrupo": 3
       },
       {
@@ -3163,15 +3163,15 @@
         "posGrupo": 3
       },
       {
-        "name": "KINDER SORPRESA",
+        "name": "EL TAMAÑO NO IMPORTA",
         "pts": 4,
-        "gf": 30,
-        "gc": 37,
-        "dg": -7,
+        "gf": 37,
+        "gc": 36,
+        "dg": 1,
         "pj": 3,
         "ordenSorteo": 1,
         "pg": 1,
-        "grupo": "Grupo G",
+        "grupo": "Grupo L",
         "posGrupo": 3
       },
       {
@@ -3403,18 +3403,6 @@
         "posGrupo": 5
       },
       {
-        "name": "RECEPCIÓN OPCIONAL",
-        "pts": 3,
-        "gf": 24,
-        "gc": 48,
-        "dg": -24,
-        "pj": 3,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo G",
-        "posGrupo": 5
-      },
-      {
         "name": "CAÍDA LIBRE VOLEY",
         "pts": 3,
         "gf": 21,
@@ -3436,6 +3424,18 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo I",
+        "posGrupo": 5
+      },
+      {
+        "name": "RECEPCIÓN OPCIONAL",
+        "pts": 4,
+        "gf": 29,
+        "gc": 63,
+        "dg": -34,
+        "pj": 4,
+        "ordenSorteo": 0,
+        "pg": 0,
+        "grupo": "Grupo G",
         "posGrupo": 5
       },
       {
