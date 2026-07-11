@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T15:25:03.172Z",
+  "publicadoEn": "2026-07-11T15:27:03.160Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -2994,8 +2994,8 @@
               "away": "LA BATALLA DE LOS PELOS BASTARDOS",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 15,
+                  "aS": 6
                 },
                 {
                   "hS": "",
@@ -3183,7 +3183,7 @@
             },
             {
               "home": "EL CLAN DE LOS LOZANO",
-              "away": "",
+              "away": "GLUTEN FREE",
               "sets": [
                 {
                   "hS": "",
