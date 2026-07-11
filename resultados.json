@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T15:41:03.171Z",
+  "publicadoEn": "2026-07-11T15:43:03.167Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -3205,7 +3205,7 @@
               "away": "VOLCADOS",
               "sets": [
                 {
-                  "hS": "",
+                  "hS": 15,
                   "aS": ""
                 },
                 {
