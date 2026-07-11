@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T09:47:03.162Z",
+  "publicadoEn": "2026-07-11T09:49:03.163Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -333,21 +333,21 @@
         "equipos": [
           {
             "name": "LOS GOMELLANOS",
-            "pts": 2,
-            "gf": 15,
-            "gc": 7,
-            "dg": 8,
-            "pj": 1,
+            "pts": 4,
+            "gf": 30,
+            "gc": 16,
+            "dg": 14,
+            "pj": 2,
             "ordenSorteo": 1,
-            "pg": 1
+            "pg": 2
           },
           {
             "name": "KIKOÑAZO",
-            "pts": 2,
-            "gf": 15,
-            "gc": 13,
-            "dg": 2,
-            "pj": 1,
+            "pts": 3,
+            "gf": 24,
+            "gc": 28,
+            "dg": -4,
+            "pj": 2,
             "ordenSorteo": 2,
             "pg": 1
           },
@@ -418,8 +418,8 @@
               {
                 "home": "LOS GOMELLANOS",
                 "away": "KIKOÑAZO",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 15,
+                "golesAway": 9,
                 "campoId": 2,
                 "ordenGlobal": 46
               }
@@ -1466,13 +1466,13 @@
         "nombre": "Grupo J",
         "equipos": [
           {
-            "name": "MALITOS",
+            "name": "ZEMEN UP",
             "pts": 2,
             "gf": 15,
-            "gc": 12,
-            "dg": 3,
+            "gc": 11,
+            "dg": 4,
             "pj": 1,
-            "ordenSorteo": 4,
+            "ordenSorteo": 0,
             "pg": 1
           },
           {
@@ -1483,6 +1483,16 @@
             "dg": 2,
             "pj": 1,
             "ordenSorteo": 3,
+            "pg": 1
+          },
+          {
+            "name": "MALITOS",
+            "pts": 3,
+            "gf": 26,
+            "gc": 27,
+            "dg": -1,
+            "pj": 2,
+            "ordenSorteo": 4,
             "pg": 1
           },
           {
@@ -1503,16 +1513,6 @@
             "dg": -3,
             "pj": 1,
             "ordenSorteo": 1,
-            "pg": 0
-          },
-          {
-            "name": "ZEMEN UP",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 0,
             "pg": 0
           }
         ],
@@ -1544,8 +1544,8 @@
               {
                 "home": "ZEMEN UP",
                 "away": "MALITOS",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 15,
+                "golesAway": 11,
                 "campoId": 3,
                 "ordenGlobal": 65
               },
@@ -2086,18 +2086,6 @@
         "posGrupo": 1
       },
       {
-        "name": "LOS GOMELLANOS",
-        "pts": 2,
-        "gf": 15,
-        "gc": 7,
-        "dg": 8,
-        "pj": 1,
-        "ordenSorteo": 1,
-        "pg": 1,
-        "grupo": "Grupo C",
-        "posGrupo": 1
-      },
-      {
         "name": "DEMENCIA PERMANENTE CYL",
         "pts": 2,
         "gf": 15,
@@ -2119,6 +2107,18 @@
         "ordenSorteo": 0,
         "pg": 1,
         "grupo": "Grupo I",
+        "posGrupo": 1
+      },
+      {
+        "name": "LOS GOMELLANOS",
+        "pts": 4,
+        "gf": 30,
+        "gc": 16,
+        "dg": 14,
+        "pj": 2,
+        "ordenSorteo": 1,
+        "pg": 2,
+        "grupo": "Grupo C",
         "posGrupo": 1
       },
       {
@@ -2182,6 +2182,18 @@
         "posGrupo": 2
       },
       {
+        "name": "ZEMEN UP",
+        "pts": 2,
+        "gf": 15,
+        "gc": 11,
+        "dg": 4,
+        "pj": 1,
+        "ordenSorteo": 0,
+        "pg": 1,
+        "grupo": "Grupo J",
+        "posGrupo": 1
+      },
+      {
         "name": "ASTON BIRRAS",
         "pts": 2,
         "gf": 15,
@@ -2204,18 +2216,6 @@
         "pg": 1,
         "grupo": "Grupo H",
         "posGrupo": 2
-      },
-      {
-        "name": "MALITOS",
-        "pts": 2,
-        "gf": 15,
-        "gc": 12,
-        "dg": 3,
-        "pj": 1,
-        "ordenSorteo": 4,
-        "pg": 1,
-        "grupo": "Grupo J",
-        "posGrupo": 1
       },
       {
         "name": "EL CLAN DE LOS LOZANO",
@@ -2266,18 +2266,6 @@
         "posGrupo": 3
       },
       {
-        "name": "KIKOÑAZO",
-        "pts": 2,
-        "gf": 15,
-        "gc": 13,
-        "dg": 2,
-        "pj": 1,
-        "ordenSorteo": 2,
-        "pg": 1,
-        "grupo": "Grupo C",
-        "posGrupo": 2
-      },
-      {
         "name": "PINO JACINTO",
         "pts": 3,
         "gf": 21,
@@ -2324,6 +2312,30 @@
         "pg": 1,
         "grupo": "Grupo I",
         "posGrupo": 3
+      },
+      {
+        "name": "MALITOS",
+        "pts": 3,
+        "gf": 26,
+        "gc": 27,
+        "dg": -1,
+        "pj": 2,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo J",
+        "posGrupo": 3
+      },
+      {
+        "name": "KIKOÑAZO",
+        "pts": 3,
+        "gf": 24,
+        "gc": 28,
+        "dg": -4,
+        "pj": 2,
+        "ordenSorteo": 2,
+        "pg": 1,
+        "grupo": "Grupo C",
+        "posGrupo": 2
       },
       {
         "name": "CARCAJADA",
@@ -2407,7 +2419,7 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo J",
-        "posGrupo": 3
+        "posGrupo": 4
       },
       {
         "name": "MAMAHOUS",
@@ -2467,7 +2479,7 @@
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo J",
-        "posGrupo": 4
+        "posGrupo": 5
       },
       {
         "name": "LA CASITA",
@@ -2683,18 +2695,6 @@
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo A",
-        "posGrupo": 5
-      },
-      {
-        "name": "ZEMEN UP",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo J",
         "posGrupo": 5
       }
     ],
@@ -2838,18 +2838,6 @@
         "posGrupo": 1
       },
       {
-        "name": "LOS GOMELLANOS",
-        "pts": 2,
-        "gf": 15,
-        "gc": 7,
-        "dg": 8,
-        "pj": 1,
-        "ordenSorteo": 1,
-        "pg": 1,
-        "grupo": "Grupo C",
-        "posGrupo": 1
-      },
-      {
         "name": "LO VEO CLARO",
         "pts": 2,
         "gf": 15,
@@ -2859,6 +2847,18 @@
         "ordenSorteo": 0,
         "pg": 1,
         "grupo": "Grupo I",
+        "posGrupo": 1
+      },
+      {
+        "name": "LOS GOMELLANOS",
+        "pts": 4,
+        "gf": 30,
+        "gc": 16,
+        "dg": 14,
+        "pj": 2,
+        "ordenSorteo": 1,
+        "pg": 2,
+        "grupo": "Grupo C",
         "posGrupo": 1
       },
       {
@@ -2874,13 +2874,13 @@
         "posGrupo": 1
       },
       {
-        "name": "MALITOS",
+        "name": "ZEMEN UP",
         "pts": 2,
         "gf": 15,
-        "gc": 12,
-        "dg": 3,
+        "gc": 11,
+        "dg": 4,
         "pj": 1,
-        "ordenSorteo": 4,
+        "ordenSorteo": 0,
         "pg": 1,
         "grupo": "Grupo J",
         "posGrupo": 1
@@ -3007,11 +3007,11 @@
       },
       {
         "name": "KIKOÑAZO",
-        "pts": 2,
-        "gf": 15,
-        "gc": 13,
-        "dg": 2,
-        "pj": 1,
+        "pts": 3,
+        "gf": 24,
+        "gc": 28,
+        "dg": -4,
+        "pj": 2,
         "ordenSorteo": 2,
         "pg": 1,
         "grupo": "Grupo C",
@@ -3102,6 +3102,18 @@
         "posGrupo": 3
       },
       {
+        "name": "MALITOS",
+        "pts": 3,
+        "gf": 26,
+        "gc": 27,
+        "dg": -1,
+        "pj": 2,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo J",
+        "posGrupo": 3
+      },
+      {
         "name": "CARCAJADA",
         "pts": 3,
         "gf": 22,
@@ -3135,18 +3147,6 @@
         "ordenSorteo": 4,
         "pg": 1,
         "grupo": "Grupo G",
-        "posGrupo": 3
-      },
-      {
-        "name": "CHACALES",
-        "pts": 1,
-        "gf": 15,
-        "gc": 17,
-        "dg": -2,
-        "pj": 1,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo J",
         "posGrupo": 3
       },
       {
@@ -3198,6 +3198,18 @@
         "posGrupo": 4
       },
       {
+        "name": "CHACALES",
+        "pts": 1,
+        "gf": 15,
+        "gc": 17,
+        "dg": -2,
+        "pj": 1,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo J",
+        "posGrupo": 4
+      },
+      {
         "name": "LOS CARIÑITOS BOSTONCITOS",
         "pts": 1,
         "gf": 13,
@@ -3231,18 +3243,6 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo A",
-        "posGrupo": 4
-      },
-      {
-        "name": "LOS ROOKIES",
-        "pts": 1,
-        "gf": 12,
-        "gc": 15,
-        "dg": -3,
-        "pj": 1,
-        "ordenSorteo": 1,
-        "pg": 0,
-        "grupo": "Grupo J",
         "posGrupo": 4
       },
       {
@@ -3316,6 +3316,18 @@
         "pg": 0,
         "grupo": "Grupo L",
         "posGrupo": 4
+      },
+      {
+        "name": "LOS ROOKIES",
+        "pts": 1,
+        "gf": 12,
+        "gc": 15,
+        "dg": -3,
+        "pj": 1,
+        "ordenSorteo": 1,
+        "pg": 0,
+        "grupo": "Grupo J",
+        "posGrupo": 5
       },
       {
         "name": "LOS CERDITOS FIESTEROS",
@@ -3447,18 +3459,6 @@
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo A",
-        "posGrupo": 5
-      },
-      {
-        "name": "ZEMEN UP",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo J",
         "posGrupo": 5
       }
     ]
