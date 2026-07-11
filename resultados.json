@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T08:55:03.171Z",
+  "publicadoEn": "2026-07-11T08:57:03.161Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -170,6 +170,16 @@
         "nombre": "Grupo B",
         "equipos": [
           {
+            "name": "TE MIRO Y TE BLOQUEO",
+            "pts": 2,
+            "gf": 15,
+            "gc": 6,
+            "dg": 9,
+            "pj": 1,
+            "ordenSorteo": 3,
+            "pg": 1
+          },
+          {
             "name": "CORCHOPANES",
             "pts": 2,
             "gf": 15,
@@ -190,6 +200,16 @@
             "pg": 0
           },
           {
+            "name": "MBONANIS TEAM",
+            "pts": 1,
+            "gf": 6,
+            "gc": 15,
+            "dg": -9,
+            "pj": 1,
+            "ordenSorteo": 2,
+            "pg": 0
+          },
+          {
             "name": "DEMENCIA PERMANENTE CYL",
             "pts": 0,
             "gf": 0,
@@ -197,26 +217,6 @@
             "dg": 0,
             "pj": 0,
             "ordenSorteo": 0,
-            "pg": 0
-          },
-          {
-            "name": "MBONANIS TEAM",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 2,
-            "pg": 0
-          },
-          {
-            "name": "TE MIRO Y TE BLOQUEO",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 3,
             "pg": 0
           }
         ],
@@ -235,8 +235,8 @@
               {
                 "home": "MBONANIS TEAM",
                 "away": "TE MIRO Y TE BLOQUEO",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 6,
+                "golesAway": 15,
                 "campoId": 1,
                 "ordenGlobal": 22
               }
@@ -342,6 +342,26 @@
             "pg": 1
           },
           {
+            "name": "KIKOÑAZO",
+            "pts": 2,
+            "gf": 15,
+            "gc": 13,
+            "dg": 2,
+            "pj": 1,
+            "ordenSorteo": 2,
+            "pg": 1
+          },
+          {
+            "name": "LOS CARIÑITOS BOSTONCITOS",
+            "pts": 1,
+            "gf": 13,
+            "gc": 15,
+            "dg": -2,
+            "pj": 1,
+            "ordenSorteo": 3,
+            "pg": 0
+          },
+          {
             "name": "CARCAJADA",
             "pts": 1,
             "gf": 7,
@@ -349,26 +369,6 @@
             "dg": -8,
             "pj": 1,
             "ordenSorteo": 4,
-            "pg": 0
-          },
-          {
-            "name": "KIKOÑAZO",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 2,
-            "pg": 0
-          },
-          {
-            "name": "LOS CARIÑITOS BOSTONCITOS",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 3,
             "pg": 0
           },
           {
@@ -397,8 +397,8 @@
               {
                 "home": "KIKOÑAZO",
                 "away": "LOS CARIÑITOS BOSTONCITOS",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 15,
+                "golesAway": 13,
                 "campoId": 2,
                 "ordenGlobal": 42
               }
@@ -2026,6 +2026,18 @@
         "posGrupo": 2
       },
       {
+        "name": "TE MIRO Y TE BLOQUEO",
+        "pts": 2,
+        "gf": 15,
+        "gc": 6,
+        "dg": 9,
+        "pj": 1,
+        "ordenSorteo": 3,
+        "pg": 1,
+        "grupo": "Grupo B",
+        "posGrupo": 1
+      },
+      {
         "name": "KINDER SORPRESA",
         "pts": 2,
         "gf": 15,
@@ -2143,7 +2155,19 @@
         "ordenSorteo": 4,
         "pg": 1,
         "grupo": "Grupo B",
-        "posGrupo": 1
+        "posGrupo": 2
+      },
+      {
+        "name": "KIKOÑAZO",
+        "pts": 2,
+        "gf": 15,
+        "gc": 13,
+        "dg": 2,
+        "pj": 1,
+        "ordenSorteo": 2,
+        "pg": 1,
+        "grupo": "Grupo C",
+        "posGrupo": 2
       },
       {
         "name": "CENTAUROS",
@@ -2170,6 +2194,18 @@
         "posGrupo": 2
       },
       {
+        "name": "LOS CARIÑITOS BOSTONCITOS",
+        "pts": 1,
+        "gf": 13,
+        "gc": 15,
+        "dg": -2,
+        "pj": 1,
+        "ordenSorteo": 3,
+        "pg": 0,
+        "grupo": "Grupo C",
+        "posGrupo": 3
+      },
+      {
         "name": "PESOS PESADOS",
         "pts": 1,
         "gf": 13,
@@ -2179,7 +2215,7 @@
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo B",
-        "posGrupo": 2
+        "posGrupo": 3
       },
       {
         "name": "EL PODER DE LA PIEDRA",
@@ -2251,7 +2287,7 @@
         "ordenSorteo": 4,
         "pg": 0,
         "grupo": "Grupo C",
-        "posGrupo": 2
+        "posGrupo": 4
       },
       {
         "name": "CV SIESTA",
@@ -2276,6 +2312,18 @@
         "pg": 0,
         "grupo": "Grupo L",
         "posGrupo": 2
+      },
+      {
+        "name": "MBONANIS TEAM",
+        "pts": 1,
+        "gf": 6,
+        "gc": 15,
+        "dg": -9,
+        "pj": 1,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo B",
+        "posGrupo": 4
       },
       {
         "name": "PINO JACINTO",
@@ -2359,7 +2407,7 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo B",
-        "posGrupo": 3
+        "posGrupo": 5
       },
       {
         "name": "EL CLAN DE LOS LOZANO",
@@ -2422,18 +2470,6 @@
         "posGrupo": 3
       },
       {
-        "name": "KIKOÑAZO",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo C",
-        "posGrupo": 3
-      },
-      {
         "name": "LA BATALLA DE LOS PELOS BASTARDOS",
         "pts": 0,
         "gf": 0,
@@ -2470,18 +2506,6 @@
         "posGrupo": 4
       },
       {
-        "name": "LOS CARIÑITOS BOSTONCITOS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 3,
-        "pg": 0,
-        "grupo": "Grupo C",
-        "posGrupo": 4
-      },
-      {
         "name": "LOS CERDITOS FIESTEROS",
         "pts": 0,
         "gf": 0,
@@ -2503,18 +2527,6 @@
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo E",
-        "posGrupo": 4
-      },
-      {
-        "name": "MBONANIS TEAM",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo B",
         "posGrupo": 4
       },
       {
@@ -2648,18 +2660,6 @@
         "pg": 0,
         "grupo": "Grupo L",
         "posGrupo": 4
-      },
-      {
-        "name": "TE MIRO Y TE BLOQUEO",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 3,
-        "pg": 0,
-        "grupo": "Grupo B",
-        "posGrupo": 5
       },
       {
         "name": "TIERRA LLAMANDO A JUAN CARLOS",
@@ -2778,6 +2778,18 @@
         "posGrupo": 1
       },
       {
+        "name": "TE MIRO Y TE BLOQUEO",
+        "pts": 2,
+        "gf": 15,
+        "gc": 6,
+        "dg": 9,
+        "pj": 1,
+        "ordenSorteo": 3,
+        "pg": 1,
+        "grupo": "Grupo B",
+        "posGrupo": 1
+      },
+      {
         "name": "KINDER SORPRESA",
         "pts": 2,
         "gf": 15,
@@ -2874,18 +2886,6 @@
         "posGrupo": 1
       },
       {
-        "name": "CORCHOPANES",
-        "pts": 2,
-        "gf": 15,
-        "gc": 13,
-        "dg": 2,
-        "pj": 1,
-        "ordenSorteo": 4,
-        "pg": 1,
-        "grupo": "Grupo B",
-        "posGrupo": 1
-      },
-      {
         "name": "NOTTINGHAN PRISAS",
         "pts": 2,
         "gf": 15,
@@ -2910,6 +2910,30 @@
         "posGrupo": 2
       },
       {
+        "name": "CORCHOPANES",
+        "pts": 2,
+        "gf": 15,
+        "gc": 13,
+        "dg": 2,
+        "pj": 1,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo B",
+        "posGrupo": 2
+      },
+      {
+        "name": "KIKOÑAZO",
+        "pts": 2,
+        "gf": 15,
+        "gc": 13,
+        "dg": 2,
+        "pj": 1,
+        "ordenSorteo": 2,
+        "pg": 1,
+        "grupo": "Grupo C",
+        "posGrupo": 2
+      },
+      {
         "name": "MAMAHOUS",
         "pts": 1,
         "gf": 14,
@@ -2919,18 +2943,6 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo E",
-        "posGrupo": 2
-      },
-      {
-        "name": "PESOS PESADOS",
-        "pts": 1,
-        "gf": 13,
-        "gc": 15,
-        "dg": -2,
-        "pj": 1,
-        "ordenSorteo": 1,
-        "pg": 0,
-        "grupo": "Grupo B",
         "posGrupo": 2
       },
       {
@@ -2994,18 +3006,6 @@
         "posGrupo": 2
       },
       {
-        "name": "CARCAJADA",
-        "pts": 1,
-        "gf": 7,
-        "gc": 15,
-        "dg": -8,
-        "pj": 1,
-        "ordenSorteo": 4,
-        "pg": 0,
-        "grupo": "Grupo C",
-        "posGrupo": 2
-      },
-      {
         "name": "CV SIESTA",
         "pts": 1,
         "gf": 7,
@@ -3039,6 +3039,30 @@
         "ordenSorteo": 4,
         "pg": 0,
         "grupo": "Grupo F",
+        "posGrupo": 3
+      },
+      {
+        "name": "LOS CARIÑITOS BOSTONCITOS",
+        "pts": 1,
+        "gf": 13,
+        "gc": 15,
+        "dg": -2,
+        "pj": 1,
+        "ordenSorteo": 3,
+        "pg": 0,
+        "grupo": "Grupo C",
+        "posGrupo": 3
+      },
+      {
+        "name": "PESOS PESADOS",
+        "pts": 1,
+        "gf": 13,
+        "gc": 15,
+        "dg": -2,
+        "pj": 1,
+        "ordenSorteo": 1,
+        "pg": 0,
+        "grupo": "Grupo B",
         "posGrupo": 3
       },
       {
@@ -3090,18 +3114,6 @@
         "posGrupo": 3
       },
       {
-        "name": "DEMENCIA PERMANENTE CYL",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo B",
-        "posGrupo": 3
-      },
-      {
         "name": "EL CONVENTO DE SANTA TERESA",
         "pts": 0,
         "gf": 0,
@@ -3150,18 +3162,6 @@
         "posGrupo": 3
       },
       {
-        "name": "KIKOÑAZO",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo C",
-        "posGrupo": 3
-      },
-      {
         "name": "LAS LEYENDAS NUNCA MUEREN",
         "pts": 0,
         "gf": 0,
@@ -3172,6 +3172,30 @@
         "pg": 0,
         "grupo": "Grupo I",
         "posGrupo": 3
+      },
+      {
+        "name": "CARCAJADA",
+        "pts": 1,
+        "gf": 7,
+        "gc": 15,
+        "dg": -8,
+        "pj": 1,
+        "ordenSorteo": 4,
+        "pg": 0,
+        "grupo": "Grupo C",
+        "posGrupo": 4
+      },
+      {
+        "name": "MBONANIS TEAM",
+        "pts": 1,
+        "gf": 6,
+        "gc": 15,
+        "dg": -9,
+        "pj": 1,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo B",
+        "posGrupo": 4
       },
       {
         "name": "CAÍDA LIBRE VOLEY",
@@ -3222,18 +3246,6 @@
         "posGrupo": 4
       },
       {
-        "name": "LOS CARIÑITOS BOSTONCITOS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 3,
-        "pg": 0,
-        "grupo": "Grupo C",
-        "posGrupo": 4
-      },
-      {
         "name": "MANCHESTER PITY JR",
         "pts": 0,
         "gf": 0,
@@ -3243,18 +3255,6 @@
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo E",
-        "posGrupo": 4
-      },
-      {
-        "name": "MBONANIS TEAM",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo B",
         "posGrupo": 4
       },
       {
@@ -3316,6 +3316,18 @@
         "pg": 0,
         "grupo": "Grupo L",
         "posGrupo": 4
+      },
+      {
+        "name": "DEMENCIA PERMANENTE CYL",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 0,
+        "pg": 0,
+        "grupo": "Grupo B",
+        "posGrupo": 5
       },
       {
         "name": "EL CLAN DE LOS LOZANO",
@@ -3411,18 +3423,6 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo A",
-        "posGrupo": 5
-      },
-      {
-        "name": "TE MIRO Y TE BLOQUEO",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 3,
-        "pg": 0,
-        "grupo": "Grupo B",
         "posGrupo": 5
       },
       {
