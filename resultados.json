@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T16:49:03.156Z",
+  "publicadoEn": "2026-07-11T16:51:03.159Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -3302,8 +3302,8 @@
               "away": "LO VEO CLARO",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 14,
+                  "aS": 16
                 },
                 {
                   "hS": "",
@@ -3339,7 +3339,7 @@
             },
             {
               "home": "",
-              "away": "",
+              "away": "LO VEO CLARO",
               "sets": [
                 {
                   "hS": "",
@@ -3936,8 +3936,8 @@
               "away": "LA CASITA",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 15,
+                  "aS": 10
                 },
                 {
                   "hS": "",
@@ -3992,7 +3992,7 @@
           [
             {
               "home": "TIERRA LLAMANDO A JUAN CARLOS",
-              "away": "",
+              "away": "ROYALEROS",
               "sets": [
                 {
                   "hS": "",
@@ -4449,7 +4449,7 @@
         }
       }
     },
-    "faseFinalActiva": "oro",
+    "faseFinalActiva": "plata",
     "faseFinalGenerada": true,
     "cfgNumGrupos": 12,
     "lastPosicionEq": [
