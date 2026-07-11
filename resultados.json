@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T15:35:03.171Z",
+  "publicadoEn": "2026-07-11T15:37:03.164Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -3782,8 +3782,8 @@
               "away": "SOWCAUTION",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 15,
+                  "aS": 13
                 },
                 {
                   "hS": "",
@@ -3914,7 +3914,7 @@
           [
             {
               "home": "STREET VOLLEY",
-              "away": "",
+              "away": "TIERRA LLAMANDO A JUAN CARLOS",
               "sets": [
                 {
                   "hS": "",
@@ -4449,7 +4449,7 @@
         }
       }
     },
-    "faseFinalActiva": "bronce",
+    "faseFinalActiva": "plata",
     "faseFinalGenerada": true,
     "cfgNumGrupos": 12,
     "lastPosicionEq": [
