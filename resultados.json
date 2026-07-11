@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T15:33:03.162Z",
+  "publicadoEn": "2026-07-11T15:35:03.171Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -4349,8 +4349,8 @@
               "away": "MBONANIS TEAM",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 12,
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -4408,7 +4408,7 @@
         "losers": [],
         "size": 16,
         "thirdPlaceMatch": {
-          "home": "",
+          "home": "NOS FUIMOS",
           "away": "",
           "bo3": false,
           "sets": [
@@ -4428,7 +4428,7 @@
           "ordenFinal": 17
         },
         "grandFinal": {
-          "home": "",
+          "home": "MBONANIS TEAM",
           "away": "",
           "bo3": false,
           "sets": [
@@ -4449,7 +4449,7 @@
         }
       }
     },
-    "faseFinalActiva": "plata",
+    "faseFinalActiva": "bronce",
     "faseFinalGenerada": true,
     "cfgNumGrupos": 12,
     "lastPosicionEq": [
