@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T15:29:03.171Z",
+  "publicadoEn": "2026-07-11T15:31:03.172Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -3091,8 +3091,8 @@
               "away": "ASÍ DE PEQUEÑITOS",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 15,
+                  "aS": 7
                 },
                 {
                   "hS": "",
@@ -3241,7 +3241,7 @@
           ],
           [
             {
-              "home": "",
+              "home": "EL CONVENTO DE SANTA TERESA",
               "away": "",
               "sets": [
                 {
