@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T15:07:03.158Z",
+  "publicadoEn": "2026-07-11T15:21:03.157Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -2956,8 +2956,8 @@
               "away": "MENESTRA CON GINEBRA",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 15,
+                  "aS": 10
                 },
                 {
                   "hS": "",
@@ -2975,8 +2975,8 @@
               "away": "EL TAMAÑO NO IMPORTA",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 15,
+                  "aS": 8
                 },
                 {
                   "hS": "",
@@ -3164,7 +3164,7 @@
             },
             {
               "home": "DEMENCIA PERMANENTE CYL",
-              "away": "",
+              "away": "NOTTINGHAN PRISAS",
               "sets": [
                 {
                   "hS": "",
@@ -3182,7 +3182,7 @@
               "ordenFinal": 21
             },
             {
-              "home": "",
+              "home": "EL CLAN DE LOS LOZANO",
               "away": "",
               "sets": [
                 {
@@ -3647,8 +3647,8 @@
               "away": "PESOS PESADOS",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 15,
+                  "aS": 11
                 },
                 {
                   "hS": "",
@@ -3666,8 +3666,8 @@
               "away": "CV SIESTA",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 15,
+                  "aS": 13
                 },
                 {
                   "hS": "",
@@ -3854,8 +3854,8 @@
               "ordenFinal": 21
             },
             {
-              "home": "",
-              "away": "",
+              "home": "ZEMEN UP",
+              "away": "CORCHOPANES",
               "sets": [
                 {
                   "hS": "",
@@ -4290,8 +4290,8 @@
               "away": "GORRO DE PISCINA NEGRO",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 15,
+                  "aS": 5
                 },
                 {
                   "hS": "",
@@ -4309,8 +4309,8 @@
               "away": "VODKA JUNIORS",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 10,
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -4346,7 +4346,7 @@
           [
             {
               "home": "NOS FUIMOS",
-              "away": "",
+              "away": "MBONANIS TEAM",
               "sets": [
                 {
                   "hS": "",
@@ -4364,7 +4364,7 @@
               "ordenFinal": 13
             },
             {
-              "home": "",
+              "home": "VODKA JUNIORS",
               "away": "ASTON BIRRAS",
               "sets": [
                 {
