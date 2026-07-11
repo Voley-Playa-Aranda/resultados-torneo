@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T17:31:03.171Z",
+  "publicadoEn": "2026-07-11T17:49:03.157Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -4059,8 +4059,8 @@
           "bo3": false,
           "sets": [
             {
-              "hS": "",
-              "aS": ""
+              "hS": 21,
+              "aS": 15
             },
             {
               "hS": "",
@@ -4079,8 +4079,8 @@
           "bo3": false,
           "sets": [
             {
-              "hS": "",
-              "aS": ""
+              "hS": 21,
+              "aS": 19
             },
             {
               "hS": "",
