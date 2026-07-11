@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T09:17:03.172Z",
+  "publicadoEn": "2026-07-11T09:19:03.161Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -352,6 +352,16 @@
             "pg": 1
           },
           {
+            "name": "CARCAJADA",
+            "pts": 3,
+            "gf": 22,
+            "gc": 26,
+            "dg": -4,
+            "pj": 2,
+            "ordenSorteo": 4,
+            "pg": 1
+          },
+          {
             "name": "LOS CARIÑITOS BOSTONCITOS",
             "pts": 1,
             "gf": 13,
@@ -362,22 +372,12 @@
             "pg": 0
           },
           {
-            "name": "CARCAJADA",
-            "pts": 1,
-            "gf": 7,
-            "gc": 15,
-            "dg": -8,
-            "pj": 1,
-            "ordenSorteo": 4,
-            "pg": 0
-          },
-          {
             "name": "LOS CERDITOS FIESTEROS",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
+            "pts": 1,
+            "gf": 11,
+            "gc": 15,
+            "dg": -4,
+            "pj": 1,
             "ordenSorteo": 0,
             "pg": 0
           }
@@ -410,8 +410,8 @@
               {
                 "home": "LOS CERDITOS FIESTEROS",
                 "away": "CARCAJADA",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 11,
+                "golesAway": 15,
                 "campoId": 2,
                 "ordenGlobal": 44
               },
@@ -2254,6 +2254,18 @@
         "posGrupo": 2
       },
       {
+        "name": "CARCAJADA",
+        "pts": 3,
+        "gf": 22,
+        "gc": 26,
+        "dg": -4,
+        "pj": 2,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo C",
+        "posGrupo": 3
+      },
+      {
         "name": "CENTAUROS",
         "pts": 1,
         "gf": 14,
@@ -2287,7 +2299,7 @@
         "ordenSorteo": 3,
         "pg": 0,
         "grupo": "Grupo C",
-        "posGrupo": 3
+        "posGrupo": 4
       },
       {
         "name": "PESOS PESADOS",
@@ -2350,6 +2362,18 @@
         "posGrupo": 2
       },
       {
+        "name": "LOS CERDITOS FIESTEROS",
+        "pts": 1,
+        "gf": 11,
+        "gc": 15,
+        "dg": -4,
+        "pj": 1,
+        "ordenSorteo": 0,
+        "pg": 0,
+        "grupo": "Grupo C",
+        "posGrupo": 5
+      },
+      {
         "name": "MANCHESTER PITY",
         "pts": 1,
         "gf": 11,
@@ -2395,18 +2419,6 @@
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo I",
-        "posGrupo": 4
-      },
-      {
-        "name": "CARCAJADA",
-        "pts": 1,
-        "gf": 7,
-        "gc": 15,
-        "dg": -8,
-        "pj": 1,
-        "ordenSorteo": 4,
-        "pg": 0,
-        "grupo": "Grupo C",
         "posGrupo": 4
       },
       {
@@ -2599,18 +2611,6 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo I",
-        "posGrupo": 5
-      },
-      {
-        "name": "LOS CERDITOS FIESTEROS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo C",
         "posGrupo": 5
       },
       {
@@ -3030,6 +3030,18 @@
         "posGrupo": 2
       },
       {
+        "name": "CARCAJADA",
+        "pts": 3,
+        "gf": 22,
+        "gc": 26,
+        "dg": -4,
+        "pj": 2,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo C",
+        "posGrupo": 3
+      },
+      {
         "name": "CENTAUROS",
         "pts": 1,
         "gf": 14,
@@ -3051,18 +3063,6 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo E",
-        "posGrupo": 3
-      },
-      {
-        "name": "LOS CARIÑITOS BOSTONCITOS",
-        "pts": 1,
-        "gf": 13,
-        "gc": 15,
-        "dg": -2,
-        "pj": 1,
-        "ordenSorteo": 3,
-        "pg": 0,
-        "grupo": "Grupo C",
         "posGrupo": 3
       },
       {
@@ -3174,6 +3174,18 @@
         "posGrupo": 3
       },
       {
+        "name": "LOS CARIÑITOS BOSTONCITOS",
+        "pts": 1,
+        "gf": 13,
+        "gc": 15,
+        "dg": -2,
+        "pj": 1,
+        "ordenSorteo": 3,
+        "pg": 0,
+        "grupo": "Grupo C",
+        "posGrupo": 4
+      },
+      {
         "name": "TIERRA LLAMANDO A JUAN CARLOS",
         "pts": 1,
         "gf": 11,
@@ -3195,18 +3207,6 @@
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo I",
-        "posGrupo": 4
-      },
-      {
-        "name": "CARCAJADA",
-        "pts": 1,
-        "gf": 7,
-        "gc": 15,
-        "dg": -8,
-        "pj": 1,
-        "ordenSorteo": 4,
-        "pg": 0,
-        "grupo": "Grupo C",
         "posGrupo": 4
       },
       {
@@ -3318,6 +3318,18 @@
         "posGrupo": 4
       },
       {
+        "name": "LOS CERDITOS FIESTEROS",
+        "pts": 1,
+        "gf": 11,
+        "gc": 15,
+        "dg": -4,
+        "pj": 1,
+        "ordenSorteo": 0,
+        "pg": 0,
+        "grupo": "Grupo C",
+        "posGrupo": 5
+      },
+      {
         "name": "SIN RED NO HAY PARAÍSO",
         "pts": 1,
         "gf": 3,
@@ -3375,18 +3387,6 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo I",
-        "posGrupo": 5
-      },
-      {
-        "name": "LOS CERDITOS FIESTEROS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo C",
         "posGrupo": 5
       },
       {
