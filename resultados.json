@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T17:17:03.162Z",
+  "publicadoEn": "2026-07-11T17:19:03.157Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -3324,7 +3324,7 @@
               "sets": [
                 {
                   "hS": 15,
-                  "aS": ""
+                  "aS": 7
                 },
                 {
                   "hS": "",
@@ -3382,7 +3382,7 @@
         "losers": [],
         "size": 32,
         "thirdPlaceMatch": {
-          "home": "",
+          "home": "PEGRILOSAS",
           "away": "",
           "bo3": false,
           "sets": [
@@ -3402,7 +3402,7 @@
           "ordenFinal": 33
         },
         "grandFinal": {
-          "home": "",
+          "home": "EL CONVENTO DE SANTA TERESA",
           "away": "",
           "bo3": false,
           "sets": [
