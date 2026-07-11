@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T15:37:03.164Z",
+  "publicadoEn": "2026-07-11T15:39:03.157Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -4368,8 +4368,8 @@
               "away": "ASTON BIRRAS",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 17,
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -4409,7 +4409,7 @@
         "size": 16,
         "thirdPlaceMatch": {
           "home": "NOS FUIMOS",
-          "away": "",
+          "away": "ASTON BIRRAS",
           "bo3": false,
           "sets": [
             {
@@ -4429,7 +4429,7 @@
         },
         "grandFinal": {
           "home": "MBONANIS TEAM",
-          "away": "",
+          "away": "VODKA JUNIORS",
           "bo3": false,
           "sets": [
             {
@@ -4449,7 +4449,7 @@
         }
       }
     },
-    "faseFinalActiva": "plata",
+    "faseFinalActiva": "bronce",
     "faseFinalGenerada": true,
     "cfgNumGrupos": 12,
     "lastPosicionEq": [
