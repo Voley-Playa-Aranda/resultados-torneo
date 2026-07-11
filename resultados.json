@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T12:25:03.162Z",
+  "publicadoEn": "2026-07-11T12:27:03.157Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -635,7 +635,7 @@
               {
                 "home": "NOS FUIMOS",
                 "away": "MANCHESTER PITY",
-                "golesHome": "",
+                "golesHome": 7,
                 "golesAway": "",
                 "campoId": 3,
                 "ordenGlobal": 76
@@ -1143,13 +1143,13 @@
         "equipos": [
           {
             "name": "GUSANOS GAFONES",
-            "pts": 6,
-            "gf": 45,
-            "gc": 32,
-            "dg": 13,
-            "pj": 3,
+            "pts": 8,
+            "gf": 60,
+            "gc": 41,
+            "dg": 19,
+            "pj": 4,
             "ordenSorteo": 1,
-            "pg": 3
+            "pg": 4
           },
           {
             "name": "EL PODER DE LA PIEDRA",
@@ -1173,11 +1173,11 @@
           },
           {
             "name": "RIÑONES DE LECHE",
-            "pts": 4,
-            "gf": 35,
-            "gc": 37,
-            "dg": -2,
-            "pj": 3,
+            "pts": 5,
+            "gf": 44,
+            "gc": 52,
+            "dg": -8,
+            "pj": 4,
             "ordenSorteo": 0,
             "pg": 1
           },
@@ -1283,8 +1283,8 @@
               {
                 "home": "RIÑONES DE LECHE",
                 "away": "GUSANOS GAFONES",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 9,
+                "golesAway": 15,
                 "campoId": 1,
                 "ordenGlobal": 37
               },
@@ -1305,13 +1305,13 @@
         "equipos": [
           {
             "name": "LO VEO CLARO",
-            "pts": 6,
-            "gf": 45,
-            "gc": 17,
-            "dg": 28,
-            "pj": 3,
+            "pts": 8,
+            "gf": 60,
+            "gc": 23,
+            "dg": 37,
+            "pj": 4,
             "ordenSorteo": 0,
-            "pg": 3
+            "pg": 4
           },
           {
             "name": "LOS BURPEES BOYS BYIMPROVEFIT",
@@ -1335,11 +1335,11 @@
           },
           {
             "name": "MAS SUELO QUE VÓLEY",
-            "pts": 4,
-            "gf": 35,
-            "gc": 36,
-            "dg": -1,
-            "pj": 3,
+            "pts": 5,
+            "gf": 41,
+            "gc": 51,
+            "dg": -10,
+            "pj": 4,
             "ordenSorteo": 1,
             "pg": 1
           },
@@ -1445,8 +1445,8 @@
               {
                 "home": "LO VEO CLARO",
                 "away": "MAS SUELO QUE VÓLEY",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 15,
+                "golesAway": 6,
                 "campoId": 2,
                 "ordenGlobal": 57
               },
@@ -2015,13 +2015,13 @@
       },
       {
         "name": "LO VEO CLARO",
-        "pts": 6,
-        "gf": 45,
-        "gc": 17,
-        "dg": 28,
-        "pj": 3,
+        "pts": 8,
+        "gf": 60,
+        "gc": 23,
+        "dg": 37,
+        "pj": 4,
         "ordenSorteo": 0,
-        "pg": 3,
+        "pg": 4,
         "grupo": "Grupo I",
         "posGrupo": 1
       },
@@ -2099,13 +2099,13 @@
       },
       {
         "name": "GUSANOS GAFONES",
-        "pts": 6,
-        "gf": 45,
-        "gc": 32,
-        "dg": 13,
-        "pj": 3,
+        "pts": 8,
+        "gf": 60,
+        "gc": 41,
+        "dg": 19,
+        "pj": 4,
         "ordenSorteo": 1,
-        "pg": 3,
+        "pg": 4,
         "grupo": "Grupo H",
         "posGrupo": 1
       },
@@ -2410,30 +2410,6 @@
         "posGrupo": 3
       },
       {
-        "name": "MAS SUELO QUE VÓLEY",
-        "pts": 4,
-        "gf": 35,
-        "gc": 36,
-        "dg": -1,
-        "pj": 3,
-        "ordenSorteo": 1,
-        "pg": 1,
-        "grupo": "Grupo I",
-        "posGrupo": 4
-      },
-      {
-        "name": "RIÑONES DE LECHE",
-        "pts": 4,
-        "gf": 35,
-        "gc": 37,
-        "dg": -2,
-        "pj": 3,
-        "ordenSorteo": 0,
-        "pg": 1,
-        "grupo": "Grupo H",
-        "posGrupo": 4
-      },
-      {
         "name": "ASTON BIRRAS",
         "pts": 4,
         "gf": 38,
@@ -2506,6 +2482,18 @@
         "posGrupo": 4
       },
       {
+        "name": "RIÑONES DE LECHE",
+        "pts": 5,
+        "gf": 44,
+        "gc": 52,
+        "dg": -8,
+        "pj": 4,
+        "ordenSorteo": 0,
+        "pg": 1,
+        "grupo": "Grupo H",
+        "posGrupo": 4
+      },
+      {
         "name": "LOS CERDITOS FIESTEROS",
         "pts": 5,
         "gf": 42,
@@ -2516,6 +2504,18 @@
         "pg": 1,
         "grupo": "Grupo C",
         "posGrupo": 5
+      },
+      {
+        "name": "MAS SUELO QUE VÓLEY",
+        "pts": 5,
+        "gf": 41,
+        "gc": 51,
+        "dg": -10,
+        "pj": 4,
+        "ordenSorteo": 1,
+        "pg": 1,
+        "grupo": "Grupo I",
+        "posGrupo": 4
       },
       {
         "name": "PESOS PESADOS",
@@ -2729,9 +2729,9 @@
       "grupo_4": false,
       "campo_4": false,
       "campo_0": false,
-      "campo_3": false,
+      "campo_3": true,
       "campo_1": false,
-      "campo_2": true,
+      "campo_2": false,
       "campo_5": false,
       "grupo_0": false
     },
@@ -2792,13 +2792,13 @@
       },
       {
         "name": "LO VEO CLARO",
-        "pts": 6,
-        "gf": 45,
-        "gc": 17,
-        "dg": 28,
-        "pj": 3,
+        "pts": 8,
+        "gf": 60,
+        "gc": 23,
+        "dg": 37,
+        "pj": 4,
         "ordenSorteo": 0,
-        "pg": 3,
+        "pg": 4,
         "grupo": "Grupo I",
         "posGrupo": 1
       },
@@ -2876,13 +2876,13 @@
       },
       {
         "name": "GUSANOS GAFONES",
-        "pts": 6,
-        "gf": 45,
-        "gc": 32,
-        "dg": 13,
-        "pj": 3,
+        "pts": 8,
+        "gf": 60,
+        "gc": 41,
+        "dg": 19,
+        "pj": 4,
         "ordenSorteo": 1,
-        "pg": 3,
+        "pg": 4,
         "grupo": "Grupo H",
         "posGrupo": 1
       },
@@ -3199,30 +3199,6 @@
         "posGrupo": 4
       },
       {
-        "name": "MAS SUELO QUE VÓLEY",
-        "pts": 4,
-        "gf": 35,
-        "gc": 36,
-        "dg": -1,
-        "pj": 3,
-        "ordenSorteo": 1,
-        "pg": 1,
-        "grupo": "Grupo I",
-        "posGrupo": 4
-      },
-      {
-        "name": "RIÑONES DE LECHE",
-        "pts": 4,
-        "gf": 35,
-        "gc": 37,
-        "dg": -2,
-        "pj": 3,
-        "ordenSorteo": 0,
-        "pg": 1,
-        "grupo": "Grupo H",
-        "posGrupo": 4
-      },
-      {
         "name": "LA BATALLA DE LOS PELOS BASTARDOS",
         "pts": 4,
         "gf": 34,
@@ -3280,6 +3256,30 @@
         "ordenSorteo": 2,
         "pg": 1,
         "grupo": "Grupo J",
+        "posGrupo": 4
+      },
+      {
+        "name": "RIÑONES DE LECHE",
+        "pts": 5,
+        "gf": 44,
+        "gc": 52,
+        "dg": -8,
+        "pj": 4,
+        "ordenSorteo": 0,
+        "pg": 1,
+        "grupo": "Grupo H",
+        "posGrupo": 4
+      },
+      {
+        "name": "MAS SUELO QUE VÓLEY",
+        "pts": 5,
+        "gf": 41,
+        "gc": 51,
+        "dg": -10,
+        "pj": 4,
+        "ordenSorteo": 1,
+        "pg": 1,
+        "grupo": "Grupo I",
         "posGrupo": 4
       },
       {
