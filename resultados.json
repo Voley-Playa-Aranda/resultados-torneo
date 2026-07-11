@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T09:25:03.172Z",
+  "publicadoEn": "2026-07-11T09:27:03.164Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -1001,12 +1001,22 @@
           },
           {
             "name": "CV SIESTA",
-            "pts": 1,
-            "gf": 7,
-            "gc": 15,
-            "dg": -8,
-            "pj": 1,
+            "pts": 3,
+            "gf": 25,
+            "gc": 31,
+            "dg": -6,
+            "pj": 2,
             "ordenSorteo": 4,
+            "pg": 1
+          },
+          {
+            "name": "RECEPCIÓN OPCIONAL",
+            "pts": 1,
+            "gf": 16,
+            "gc": 18,
+            "dg": -2,
+            "pj": 1,
+            "ordenSorteo": 0,
             "pg": 0
           },
           {
@@ -1017,16 +1027,6 @@
             "dg": -12,
             "pj": 1,
             "ordenSorteo": 3,
-            "pg": 0
-          },
-          {
-            "name": "RECEPCIÓN OPCIONAL",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 0,
             "pg": 0
           }
         ],
@@ -1058,8 +1058,8 @@
               {
                 "home": "RECEPCIÓN OPCIONAL",
                 "away": "CV SIESTA",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 16,
+                "golesAway": 18,
                 "campoId": 0,
                 "ordenGlobal": 5
               },
@@ -2290,6 +2290,30 @@
         "posGrupo": 3
       },
       {
+        "name": "CV SIESTA",
+        "pts": 3,
+        "gf": 25,
+        "gc": 31,
+        "dg": -6,
+        "pj": 2,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo G",
+        "posGrupo": 3
+      },
+      {
+        "name": "RECEPCIÓN OPCIONAL",
+        "pts": 1,
+        "gf": 16,
+        "gc": 18,
+        "dg": -2,
+        "pj": 1,
+        "ordenSorteo": 0,
+        "pg": 0,
+        "grupo": "Grupo G",
+        "posGrupo": 4
+      },
+      {
         "name": "CHACALES",
         "pts": 1,
         "gf": 15,
@@ -2458,18 +2482,6 @@
         "posGrupo": 4
       },
       {
-        "name": "CV SIESTA",
-        "pts": 1,
-        "gf": 7,
-        "gc": 15,
-        "dg": -8,
-        "pj": 1,
-        "ordenSorteo": 4,
-        "pg": 0,
-        "grupo": "Grupo G",
-        "posGrupo": 3
-      },
-      {
         "name": "LOS ROMPEBOLAS",
         "pts": 1,
         "gf": 6,
@@ -2575,7 +2587,7 @@
         "ordenSorteo": 3,
         "pg": 0,
         "grupo": "Grupo G",
-        "posGrupo": 4
+        "posGrupo": 5
       },
       {
         "name": "SIN RED NO HAY PARAÍSO",
@@ -2647,18 +2659,6 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo E",
-        "posGrupo": 5
-      },
-      {
-        "name": "RECEPCIÓN OPCIONAL",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo G",
         "posGrupo": 5
       },
       {
@@ -3054,6 +3054,18 @@
         "posGrupo": 3
       },
       {
+        "name": "CV SIESTA",
+        "pts": 3,
+        "gf": 25,
+        "gc": 31,
+        "dg": -6,
+        "pj": 2,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo G",
+        "posGrupo": 3
+      },
+      {
         "name": "CHACALES",
         "pts": 1,
         "gf": 15,
@@ -3150,18 +3162,6 @@
         "posGrupo": 3
       },
       {
-        "name": "CV SIESTA",
-        "pts": 1,
-        "gf": 7,
-        "gc": 15,
-        "dg": -8,
-        "pj": 1,
-        "ordenSorteo": 4,
-        "pg": 0,
-        "grupo": "Grupo G",
-        "posGrupo": 3
-      },
-      {
         "name": "LOS ROMPEBOLAS",
         "pts": 1,
         "gf": 6,
@@ -3172,6 +3172,18 @@
         "pg": 0,
         "grupo": "Grupo L",
         "posGrupo": 3
+      },
+      {
+        "name": "RECEPCIÓN OPCIONAL",
+        "pts": 1,
+        "gf": 16,
+        "gc": 18,
+        "dg": -2,
+        "pj": 1,
+        "ordenSorteo": 0,
+        "pg": 0,
+        "grupo": "Grupo G",
+        "posGrupo": 4
       },
       {
         "name": "LOS CARIÑITOS BOSTONCITOS",
@@ -3306,18 +3318,6 @@
         "posGrupo": 4
       },
       {
-        "name": "MENESTRA CON GINEBRA",
-        "pts": 1,
-        "gf": 3,
-        "gc": 15,
-        "dg": -12,
-        "pj": 1,
-        "ordenSorteo": 3,
-        "pg": 0,
-        "grupo": "Grupo G",
-        "posGrupo": 4
-      },
-      {
         "name": "LOS CERDITOS FIESTEROS",
         "pts": 1,
         "gf": 11,
@@ -3339,6 +3339,18 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo B",
+        "posGrupo": 5
+      },
+      {
+        "name": "MENESTRA CON GINEBRA",
+        "pts": 1,
+        "gf": 3,
+        "gc": 15,
+        "dg": -12,
+        "pj": 1,
+        "ordenSorteo": 3,
+        "pg": 0,
+        "grupo": "Grupo G",
         "posGrupo": 5
       },
       {
@@ -3411,18 +3423,6 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo E",
-        "posGrupo": 5
-      },
-      {
-        "name": "RECEPCIÓN OPCIONAL",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo G",
         "posGrupo": 5
       },
       {
