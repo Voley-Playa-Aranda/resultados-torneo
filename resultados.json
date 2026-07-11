@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T17:01:03.161Z",
+  "publicadoEn": "2026-07-11T17:03:03.162Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -3955,8 +3955,8 @@
               "away": "ZEMEN UP",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 8,
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -4010,7 +4010,7 @@
               "ordenFinal": 29
             },
             {
-              "home": "",
+              "home": "ZEMEN UP",
               "away": "CENTAUROS",
               "sets": [
                 {
@@ -4449,7 +4449,7 @@
         }
       }
     },
-    "faseFinalActiva": "oro",
+    "faseFinalActiva": "plata",
     "faseFinalGenerada": true,
     "cfgNumGrupos": 12,
     "lastPosicionEq": [
