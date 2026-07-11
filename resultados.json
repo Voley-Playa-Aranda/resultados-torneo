@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T10:49:03.171Z",
+  "publicadoEn": "2026-07-11T10:51:03.174Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -657,13 +657,13 @@
         "equipos": [
           {
             "name": "ABANTO",
-            "pts": 4,
-            "gf": 30,
-            "gc": 11,
-            "dg": 19,
-            "pj": 2,
+            "pts": 6,
+            "gf": 45,
+            "gc": 15,
+            "dg": 30,
+            "pj": 3,
             "ordenSorteo": 4,
-            "pg": 2
+            "pg": 3
           },
           {
             "name": "PEGRILOSAS",
@@ -697,11 +697,11 @@
           },
           {
             "name": "MAMAHOUS",
-            "pts": 2,
-            "gf": 27,
-            "gc": 31,
-            "dg": -4,
-            "pj": 2,
+            "pts": 3,
+            "gf": 31,
+            "gc": 46,
+            "dg": -15,
+            "pj": 3,
             "ordenSorteo": 2,
             "pg": 0
           }
@@ -763,8 +763,8 @@
               {
                 "home": "ABANTO",
                 "away": "MAMAHOUS",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 15,
+                "golesAway": 4,
                 "campoId": 4,
                 "ordenGlobal": 90
               }
@@ -1991,13 +1991,13 @@
       },
       {
         "name": "ABANTO",
-        "pts": 4,
-        "gf": 30,
-        "gc": 11,
-        "dg": 19,
-        "pj": 2,
+        "pts": 6,
+        "gf": 45,
+        "gc": 15,
+        "dg": 30,
+        "pj": 3,
         "ordenSorteo": 4,
-        "pg": 2,
+        "pg": 3,
         "grupo": "Grupo E",
         "posGrupo": 1
       },
@@ -2530,18 +2530,6 @@
         "posGrupo": 4
       },
       {
-        "name": "MAMAHOUS",
-        "pts": 2,
-        "gf": 27,
-        "gc": 31,
-        "dg": -4,
-        "pj": 2,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo E",
-        "posGrupo": 5
-      },
-      {
         "name": "TIERRA LLAMANDO A JUAN CARLOS",
         "pts": 2,
         "gf": 25,
@@ -2563,6 +2551,18 @@
         "ordenSorteo": 4,
         "pg": 0,
         "grupo": "Grupo K",
+        "posGrupo": 5
+      },
+      {
+        "name": "MAMAHOUS",
+        "pts": 3,
+        "gf": 31,
+        "gc": 46,
+        "dg": -15,
+        "pj": 3,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo E",
         "posGrupo": 5
       },
       {
@@ -2727,7 +2727,7 @@
     },
     "expandedPartidos": {
       "grupo_4": false,
-      "campo_4": false,
+      "campo_4": true,
       "campo_0": false,
       "campo_3": false,
       "campo_1": false,
@@ -2755,13 +2755,13 @@
       },
       {
         "name": "ABANTO",
-        "pts": 4,
-        "gf": 30,
-        "gc": 11,
-        "dg": 19,
-        "pj": 2,
+        "pts": 6,
+        "gf": 45,
+        "gc": 15,
+        "dg": 30,
+        "pj": 3,
         "ordenSorteo": 4,
-        "pg": 2,
+        "pg": 3,
         "grupo": "Grupo E",
         "posGrupo": 1
       },
@@ -3318,18 +3318,6 @@
         "posGrupo": 4
       },
       {
-        "name": "MAMAHOUS",
-        "pts": 2,
-        "gf": 27,
-        "gc": 31,
-        "dg": -4,
-        "pj": 2,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo E",
-        "posGrupo": 5
-      },
-      {
         "name": "LA CASITA",
         "pts": 2,
         "gf": 22,
@@ -3339,6 +3327,18 @@
         "ordenSorteo": 4,
         "pg": 0,
         "grupo": "Grupo K",
+        "posGrupo": 5
+      },
+      {
+        "name": "MAMAHOUS",
+        "pts": 3,
+        "gf": 31,
+        "gc": 46,
+        "dg": -15,
+        "pj": 3,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo E",
         "posGrupo": 5
       },
       {
