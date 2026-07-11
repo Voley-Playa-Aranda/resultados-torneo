@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T09:33:03.172Z",
+  "publicadoEn": "2026-07-11T09:35:03.158Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -1304,13 +1304,13 @@
         "nombre": "Grupo I",
         "equipos": [
           {
-            "name": "LOS BURPEES BOYS BYIMPROVEFIT",
+            "name": "LO VEO CLARO",
             "pts": 2,
             "gf": 15,
             "gc": 8,
             "dg": 7,
             "pj": 1,
-            "ordenSorteo": 4,
+            "ordenSorteo": 0,
             "pg": 1
           },
           {
@@ -1321,6 +1321,16 @@
             "dg": 7,
             "pj": 1,
             "ordenSorteo": 3,
+            "pg": 1
+          },
+          {
+            "name": "LOS BURPEES BOYS BYIMPROVEFIT",
+            "pts": 3,
+            "gf": 23,
+            "gc": 23,
+            "dg": 0,
+            "pj": 2,
+            "ordenSorteo": 4,
             "pg": 1
           },
           {
@@ -1341,16 +1351,6 @@
             "dg": -7,
             "pj": 1,
             "ordenSorteo": 1,
-            "pg": 0
-          },
-          {
-            "name": "LO VEO CLARO",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 0,
             "pg": 0
           }
         ],
@@ -1382,8 +1382,8 @@
               {
                 "home": "LO VEO CLARO",
                 "away": "LOS BURPEES BOYS BYIMPROVEFIT",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 15,
+                "golesAway": 8,
                 "campoId": 2,
                 "ordenGlobal": 45
               },
@@ -2122,13 +2122,13 @@
         "posGrupo": 2
       },
       {
-        "name": "LOS BURPEES BOYS BYIMPROVEFIT",
+        "name": "LO VEO CLARO",
         "pts": 2,
         "gf": 15,
         "gc": 8,
         "dg": 7,
         "pj": 1,
-        "ordenSorteo": 4,
+        "ordenSorteo": 0,
         "pg": 1,
         "grupo": "Grupo I",
         "posGrupo": 1
@@ -2287,6 +2287,18 @@
         "ordenSorteo": 4,
         "pg": 1,
         "grupo": "Grupo H",
+        "posGrupo": 3
+      },
+      {
+        "name": "LOS BURPEES BOYS BYIMPROVEFIT",
+        "pts": 3,
+        "gf": 23,
+        "gc": 23,
+        "dg": 0,
+        "pj": 2,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo I",
         "posGrupo": 3
       },
       {
@@ -2491,7 +2503,7 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo I",
-        "posGrupo": 3
+        "posGrupo": 4
       },
       {
         "name": "MAS SUELO QUE VÓLEY",
@@ -2503,7 +2515,7 @@
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo I",
-        "posGrupo": 4
+        "posGrupo": 5
       },
       {
         "name": "PEGRILOSAS",
@@ -2647,18 +2659,6 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo K",
-        "posGrupo": 5
-      },
-      {
-        "name": "LO VEO CLARO",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo I",
         "posGrupo": 5
       },
       {
@@ -2850,13 +2850,13 @@
         "posGrupo": 1
       },
       {
-        "name": "LOS BURPEES BOYS BYIMPROVEFIT",
+        "name": "LO VEO CLARO",
         "pts": 2,
         "gf": 15,
         "gc": 8,
         "dg": 7,
         "pj": 1,
-        "ordenSorteo": 4,
+        "ordenSorteo": 0,
         "pg": 1,
         "grupo": "Grupo I",
         "posGrupo": 1
@@ -3054,6 +3054,18 @@
         "posGrupo": 3
       },
       {
+        "name": "LOS BURPEES BOYS BYIMPROVEFIT",
+        "pts": 3,
+        "gf": 23,
+        "gc": 23,
+        "dg": 0,
+        "pj": 2,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo I",
+        "posGrupo": 3
+      },
+      {
         "name": "CARCAJADA",
         "pts": 3,
         "gf": 22,
@@ -3147,18 +3159,6 @@
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo D",
-        "posGrupo": 3
-      },
-      {
-        "name": "LAS LEYENDAS NUNCA MUEREN",
-        "pts": 1,
-        "gf": 8,
-        "gc": 15,
-        "dg": -7,
-        "pj": 1,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo I",
         "posGrupo": 3
       },
       {
@@ -3258,13 +3258,13 @@
         "posGrupo": 4
       },
       {
-        "name": "MAS SUELO QUE VÓLEY",
+        "name": "LAS LEYENDAS NUNCA MUEREN",
         "pts": 1,
         "gf": 8,
         "gc": 15,
         "dg": -7,
         "pj": 1,
-        "ordenSorteo": 1,
+        "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo I",
         "posGrupo": 4
@@ -3327,6 +3327,18 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo C",
+        "posGrupo": 5
+      },
+      {
+        "name": "MAS SUELO QUE VÓLEY",
+        "pts": 1,
+        "gf": 8,
+        "gc": 15,
+        "dg": -7,
+        "pj": 1,
+        "ordenSorteo": 1,
+        "pg": 0,
+        "grupo": "Grupo I",
         "posGrupo": 5
       },
       {
@@ -3411,18 +3423,6 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo K",
-        "posGrupo": 5
-      },
-      {
-        "name": "LO VEO CLARO",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo I",
         "posGrupo": 5
       },
       {
