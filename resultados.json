@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T17:19:03.157Z",
+  "publicadoEn": "2026-07-11T17:21:03.159Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -4014,8 +4014,8 @@
               "away": "CENTAUROS",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 15,
+                  "aS": 12
                 },
                 {
                   "hS": "",
@@ -4055,7 +4055,7 @@
         "size": 32,
         "thirdPlaceMatch": {
           "home": "TIERRA LLAMANDO A JUAN CARLOS",
-          "away": "",
+          "away": "CENTAUROS",
           "bo3": false,
           "sets": [
             {
@@ -4075,7 +4075,7 @@
         },
         "grandFinal": {
           "home": "ROYALEROS",
-          "away": "",
+          "away": "ZEMEN UP",
           "bo3": false,
           "sets": [
             {
@@ -4449,7 +4449,7 @@
         }
       }
     },
-    "faseFinalActiva": "oro",
+    "faseFinalActiva": "plata",
     "faseFinalGenerada": true,
     "cfgNumGrupos": 12,
     "lastPosicionEq": [
