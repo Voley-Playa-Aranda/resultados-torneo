@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T14:39:03.160Z",
+  "publicadoEn": "2026-07-11T14:43:03.151Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -2899,8 +2899,8 @@
               "away": "LOS CARIÑITOS BOSTONCITOS",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 15,
+                  "aS": 9
                 },
                 {
                   "hS": "",
@@ -3144,7 +3144,7 @@
               "ordenFinal": 19
             },
             {
-              "home": "",
+              "home": "PEGRILOSAS",
               "away": "",
               "sets": [
                 {
