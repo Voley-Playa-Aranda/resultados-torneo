@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T12:57:03.161Z",
+  "publicadoEn": "2026-07-11T12:59:03.171Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -505,23 +505,23 @@
           },
           {
             "name": "GANAMOS Y NOS VAMOS",
-            "pts": 5,
-            "gf": 43,
-            "gc": 36,
-            "dg": 7,
-            "pj": 3,
+            "pts": 6,
+            "gf": 57,
+            "gc": 52,
+            "dg": 5,
+            "pj": 4,
             "ordenSorteo": 4,
             "pg": 2
           },
           {
             "name": "TIERRA LLAMANDO A JUAN CARLOS",
-            "pts": 4,
-            "gf": 40,
-            "gc": 41,
-            "dg": -1,
-            "pj": 3,
+            "pts": 6,
+            "gf": 56,
+            "gc": 55,
+            "dg": 1,
+            "pj": 4,
             "ordenSorteo": 3,
-            "pg": 1
+            "pg": 2
           },
           {
             "name": "MANCHESTER PITY",
@@ -643,8 +643,8 @@
               {
                 "home": "TIERRA LLAMANDO A JUAN CARLOS",
                 "away": "GANAMOS Y NOS VAMOS",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 16,
+                "golesAway": 14,
                 "campoId": 3,
                 "ordenGlobal": 78
               }
@@ -2206,18 +2206,6 @@
         "posGrupo": 3
       },
       {
-        "name": "GANAMOS Y NOS VAMOS",
-        "pts": 5,
-        "gf": 43,
-        "gc": 36,
-        "dg": 7,
-        "pj": 3,
-        "ordenSorteo": 4,
-        "pg": 2,
-        "grupo": "Grupo D",
-        "posGrupo": 2
-      },
-      {
         "name": "MALITOS",
         "pts": 5,
         "gf": 41,
@@ -2314,6 +2302,18 @@
         "posGrupo": 2
       },
       {
+        "name": "GANAMOS Y NOS VAMOS",
+        "pts": 6,
+        "gf": 57,
+        "gc": 52,
+        "dg": 5,
+        "pj": 4,
+        "ordenSorteo": 4,
+        "pg": 2,
+        "grupo": "Grupo D",
+        "posGrupo": 2
+      },
+      {
         "name": "LA BATALLA DE LOS PELOS BASTARDOS",
         "pts": 6,
         "gf": 49,
@@ -2335,6 +2335,18 @@
         "ordenSorteo": 1,
         "pg": 2,
         "grupo": "Grupo G",
+        "posGrupo": 3
+      },
+      {
+        "name": "TIERRA LLAMANDO A JUAN CARLOS",
+        "pts": 6,
+        "gf": 56,
+        "gc": 55,
+        "dg": 1,
+        "pj": 4,
+        "ordenSorteo": 3,
+        "pg": 2,
+        "grupo": "Grupo D",
         "posGrupo": 3
       },
       {
@@ -2419,18 +2431,6 @@
         "ordenSorteo": 0,
         "pg": 2,
         "grupo": "Grupo J",
-        "posGrupo": 3
-      },
-      {
-        "name": "TIERRA LLAMANDO A JUAN CARLOS",
-        "pts": 4,
-        "gf": 40,
-        "gc": 41,
-        "dg": -1,
-        "pj": 3,
-        "ordenSorteo": 3,
-        "pg": 1,
-        "grupo": "Grupo D",
         "posGrupo": 3
       },
       {
@@ -2729,7 +2729,7 @@
       "grupo_4": false,
       "campo_4": false,
       "campo_0": false,
-      "campo_3": false,
+      "campo_3": true,
       "campo_1": false,
       "campo_2": false,
       "campo_5": true,
@@ -2971,18 +2971,6 @@
         "posGrupo": 2
       },
       {
-        "name": "GANAMOS Y NOS VAMOS",
-        "pts": 5,
-        "gf": 43,
-        "gc": 36,
-        "dg": 7,
-        "pj": 3,
-        "ordenSorteo": 4,
-        "pg": 2,
-        "grupo": "Grupo D",
-        "posGrupo": 2
-      },
-      {
         "name": "MALITOS",
         "pts": 5,
         "gf": 41,
@@ -3040,6 +3028,18 @@
         "ordenSorteo": 1,
         "pg": 2,
         "grupo": "Grupo L",
+        "posGrupo": 2
+      },
+      {
+        "name": "GANAMOS Y NOS VAMOS",
+        "pts": 6,
+        "gf": 57,
+        "gc": 52,
+        "dg": 5,
+        "pj": 4,
+        "ordenSorteo": 4,
+        "pg": 2,
+        "grupo": "Grupo D",
         "posGrupo": 2
       },
       {
@@ -3115,6 +3115,18 @@
         "posGrupo": 3
       },
       {
+        "name": "TIERRA LLAMANDO A JUAN CARLOS",
+        "pts": 6,
+        "gf": 56,
+        "gc": 55,
+        "dg": 1,
+        "pj": 4,
+        "ordenSorteo": 3,
+        "pg": 2,
+        "grupo": "Grupo D",
+        "posGrupo": 3
+      },
+      {
         "name": "KIKOÑAZO",
         "pts": 6,
         "gf": 46,
@@ -3172,18 +3184,6 @@
         "ordenSorteo": 0,
         "pg": 2,
         "grupo": "Grupo J",
-        "posGrupo": 3
-      },
-      {
-        "name": "TIERRA LLAMANDO A JUAN CARLOS",
-        "pts": 4,
-        "gf": 40,
-        "gc": 41,
-        "dg": -1,
-        "pj": 3,
-        "ordenSorteo": 3,
-        "pg": 1,
-        "grupo": "Grupo D",
         "posGrupo": 3
       },
       {
