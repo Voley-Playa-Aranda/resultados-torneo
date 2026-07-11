@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T13:15:03.160Z",
+  "publicadoEn": "2026-07-11T13:17:03.164Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -1467,21 +1467,21 @@
         "equipos": [
           {
             "name": "SUBESELA AL HEAVY",
-            "pts": 6,
-            "gf": 47,
-            "gc": 29,
-            "dg": 18,
-            "pj": 3,
+            "pts": 8,
+            "gf": 62,
+            "gc": 34,
+            "dg": 28,
+            "pj": 4,
             "ordenSorteo": 3,
-            "pg": 3
+            "pg": 4
           },
           {
             "name": "MALITOS",
-            "pts": 5,
-            "gf": 41,
-            "gc": 36,
-            "dg": 5,
-            "pj": 3,
+            "pts": 6,
+            "gf": 46,
+            "gc": 51,
+            "dg": -5,
+            "pj": 4,
             "ordenSorteo": 4,
             "pg": 2
           },
@@ -1615,8 +1615,8 @@
               {
                 "home": "SUBESELA AL HEAVY",
                 "away": "MALITOS",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 15,
+                "golesAway": 5,
                 "campoId": 3,
                 "ordenGlobal": 79
               }
@@ -2026,6 +2026,18 @@
         "posGrupo": 1
       },
       {
+        "name": "SUBESELA AL HEAVY",
+        "pts": 8,
+        "gf": 62,
+        "gc": 34,
+        "dg": 28,
+        "pj": 4,
+        "ordenSorteo": 3,
+        "pg": 4,
+        "grupo": "Grupo J",
+        "posGrupo": 1
+      },
+      {
         "name": "VOLCADOS",
         "pts": 8,
         "gf": 60,
@@ -2047,18 +2059,6 @@
         "ordenSorteo": 3,
         "pg": 4,
         "grupo": "Grupo B",
-        "posGrupo": 1
-      },
-      {
-        "name": "SUBESELA AL HEAVY",
-        "pts": 6,
-        "gf": 47,
-        "gc": 29,
-        "dg": 18,
-        "pj": 3,
-        "ordenSorteo": 3,
-        "pg": 3,
-        "grupo": "Grupo J",
         "posGrupo": 1
       },
       {
@@ -2203,18 +2203,6 @@
         "ordenSorteo": 3,
         "pg": 3,
         "grupo": "Grupo G",
-        "posGrupo": 2
-      },
-      {
-        "name": "MALITOS",
-        "pts": 5,
-        "gf": 41,
-        "gc": 36,
-        "dg": 5,
-        "pj": 3,
-        "ordenSorteo": 4,
-        "pg": 2,
-        "grupo": "Grupo J",
         "posGrupo": 2
       },
       {
@@ -2408,6 +2396,18 @@
         "pg": 2,
         "grupo": "Grupo L",
         "posGrupo": 4
+      },
+      {
+        "name": "MALITOS",
+        "pts": 6,
+        "gf": 46,
+        "gc": 51,
+        "dg": -5,
+        "pj": 4,
+        "ordenSorteo": 4,
+        "pg": 2,
+        "grupo": "Grupo J",
+        "posGrupo": 2
       },
       {
         "name": "ROYALEROS",
@@ -2736,18 +2736,18 @@
       "grupo_0": false
     },
     "expandedClasificaciones": {
-      "clasif_0": true,
-      "clasif_1": true,
-      "clasif_2": true,
-      "clasif_3": true,
-      "clasif_4": true,
-      "clasif_5": true,
-      "clasif_6": true,
-      "clasif_7": true,
-      "clasif_8": true,
-      "clasif_9": true,
-      "clasif_10": true,
-      "clasif_11": true
+      "clasif_0": false,
+      "clasif_1": false,
+      "clasif_2": false,
+      "clasif_3": false,
+      "clasif_4": false,
+      "clasif_5": false,
+      "clasif_6": false,
+      "clasif_7": false,
+      "clasif_8": false,
+      "clasif_9": false,
+      "clasif_10": false,
+      "clasif_11": false
     },
     "fasesFinales": {},
     "faseFinalActiva": "oro",
@@ -2803,6 +2803,18 @@
         "posGrupo": 1
       },
       {
+        "name": "SUBESELA AL HEAVY",
+        "pts": 8,
+        "gf": 62,
+        "gc": 34,
+        "dg": 28,
+        "pj": 4,
+        "ordenSorteo": 3,
+        "pg": 4,
+        "grupo": "Grupo J",
+        "posGrupo": 1
+      },
+      {
         "name": "VOLCADOS",
         "pts": 8,
         "gf": 60,
@@ -2824,18 +2836,6 @@
         "ordenSorteo": 3,
         "pg": 4,
         "grupo": "Grupo B",
-        "posGrupo": 1
-      },
-      {
-        "name": "SUBESELA AL HEAVY",
-        "pts": 6,
-        "gf": 47,
-        "gc": 29,
-        "dg": 18,
-        "pj": 3,
-        "ordenSorteo": 3,
-        "pg": 3,
-        "grupo": "Grupo J",
         "posGrupo": 1
       },
       {
@@ -2983,18 +2983,6 @@
         "posGrupo": 2
       },
       {
-        "name": "MALITOS",
-        "pts": 5,
-        "gf": 41,
-        "gc": 36,
-        "dg": 5,
-        "pj": 3,
-        "ordenSorteo": 4,
-        "pg": 2,
-        "grupo": "Grupo J",
-        "posGrupo": 2
-      },
-      {
         "name": "LOS CARIÑITOS BOSTONCITOS",
         "pts": 6,
         "gf": 56,
@@ -3040,6 +3028,18 @@
         "ordenSorteo": 0,
         "pg": 2,
         "grupo": "Grupo K",
+        "posGrupo": 2
+      },
+      {
+        "name": "MALITOS",
+        "pts": 6,
+        "gf": 46,
+        "gc": 51,
+        "dg": -5,
+        "pj": 4,
+        "ordenSorteo": 4,
+        "pg": 2,
+        "grupo": "Grupo J",
         "posGrupo": 2
       },
       {
