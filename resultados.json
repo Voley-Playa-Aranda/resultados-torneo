@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T10:55:03.165Z",
+  "publicadoEn": "2026-07-11T10:59:03.151Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -1163,13 +1163,13 @@
           },
           {
             "name": "EL PODER DE LA PIEDRA",
-            "pts": 3,
-            "gf": 27,
-            "gc": 25,
-            "dg": 2,
-            "pj": 2,
+            "pts": 5,
+            "gf": 42,
+            "gc": 26,
+            "dg": 16,
+            "pj": 3,
             "ordenSorteo": 4,
-            "pg": 1
+            "pg": 2
           },
           {
             "name": "RIÑONES DE LECHE",
@@ -1183,11 +1183,11 @@
           },
           {
             "name": "GORRO DE PISCINA NEGRO",
-            "pts": 2,
-            "gf": 13,
-            "gc": 30,
-            "dg": -17,
-            "pj": 2,
+            "pts": 3,
+            "gf": 14,
+            "gc": 45,
+            "dg": -31,
+            "pj": 3,
             "ordenSorteo": 2,
             "pg": 0
           }
@@ -1249,8 +1249,8 @@
               {
                 "home": "EL PODER DE LA PIEDRA",
                 "away": "GORRO DE PISCINA NEGRO",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 15,
+                "golesAway": 1,
                 "campoId": 1,
                 "ordenGlobal": 31
               }
@@ -1791,13 +1791,13 @@
         "equipos": [
           {
             "name": "ASÍ DE PEQUEÑITOS",
-            "pts": 4,
-            "gf": 30,
-            "gc": 14,
-            "dg": 16,
-            "pj": 2,
+            "pts": 6,
+            "gf": 45,
+            "gc": 19,
+            "dg": 26,
+            "pj": 3,
             "ordenSorteo": 2,
-            "pg": 2
+            "pg": 3
           },
           {
             "name": "EL TAMAÑO NO IMPORTA",
@@ -1810,16 +1810,6 @@
             "pg": 1
           },
           {
-            "name": "LOS ROMPEBOLAS",
-            "pts": 3,
-            "gf": 21,
-            "gc": 20,
-            "dg": 1,
-            "pj": 2,
-            "ordenSorteo": 4,
-            "pg": 1
-          },
-          {
             "name": "TE EMPAQUETO",
             "pts": 3,
             "gf": 20,
@@ -1827,6 +1817,16 @@
             "dg": 0,
             "pj": 2,
             "ordenSorteo": 3,
+            "pg": 1
+          },
+          {
+            "name": "LOS ROMPEBOLAS",
+            "pts": 4,
+            "gf": 26,
+            "gc": 35,
+            "dg": -9,
+            "pj": 3,
+            "ordenSorteo": 4,
             "pg": 1
           },
           {
@@ -1897,8 +1897,8 @@
               {
                 "home": "LOS ROMPEBOLAS",
                 "away": "ASÍ DE PEQUEÑITOS",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 5,
+                "golesAway": 15,
                 "campoId": 5,
                 "ordenGlobal": 111
               }
@@ -2003,13 +2003,13 @@
       },
       {
         "name": "ASÍ DE PEQUEÑITOS",
-        "pts": 4,
-        "gf": 30,
-        "gc": 14,
-        "dg": 16,
-        "pj": 2,
+        "pts": 6,
+        "gf": 45,
+        "gc": 19,
+        "dg": 26,
+        "pj": 3,
         "ordenSorteo": 2,
-        "pg": 2,
+        "pg": 3,
         "grupo": "Grupo L",
         "posGrupo": 1
       },
@@ -2170,6 +2170,18 @@
         "posGrupo": 2
       },
       {
+        "name": "EL PODER DE LA PIEDRA",
+        "pts": 5,
+        "gf": 42,
+        "gc": 26,
+        "dg": 16,
+        "pj": 3,
+        "ordenSorteo": 4,
+        "pg": 2,
+        "grupo": "Grupo H",
+        "posGrupo": 3
+      },
+      {
         "name": "KIKOÑAZO",
         "pts": 5,
         "gf": 39,
@@ -2254,18 +2266,6 @@
         "posGrupo": 2
       },
       {
-        "name": "EL PODER DE LA PIEDRA",
-        "pts": 3,
-        "gf": 27,
-        "gc": 25,
-        "dg": 2,
-        "pj": 2,
-        "ordenSorteo": 4,
-        "pg": 1,
-        "grupo": "Grupo H",
-        "posGrupo": 3
-      },
-      {
         "name": "MAS SUELO QUE VÓLEY",
         "pts": 3,
         "gf": 23,
@@ -2290,18 +2290,6 @@
         "posGrupo": 2
       },
       {
-        "name": "LOS ROMPEBOLAS",
-        "pts": 3,
-        "gf": 21,
-        "gc": 20,
-        "dg": 1,
-        "pj": 2,
-        "ordenSorteo": 4,
-        "pg": 1,
-        "grupo": "Grupo L",
-        "posGrupo": 3
-      },
-      {
         "name": "PESOS PESADOS",
         "pts": 3,
         "gf": 31,
@@ -2323,7 +2311,7 @@
         "ordenSorteo": 3,
         "pg": 1,
         "grupo": "Grupo L",
-        "posGrupo": 4
+        "posGrupo": 3
       },
       {
         "name": "MALITOS",
@@ -2494,6 +2482,18 @@
         "posGrupo": 4
       },
       {
+        "name": "LOS ROMPEBOLAS",
+        "pts": 4,
+        "gf": 26,
+        "gc": 35,
+        "dg": -9,
+        "pj": 3,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo L",
+        "posGrupo": 4
+      },
+      {
         "name": "CV SIESTA",
         "pts": 4,
         "gf": 30,
@@ -2650,18 +2650,6 @@
         "posGrupo": 5
       },
       {
-        "name": "GORRO DE PISCINA NEGRO",
-        "pts": 2,
-        "gf": 13,
-        "gc": 30,
-        "dg": -17,
-        "pj": 2,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo H",
-        "posGrupo": 5
-      },
-      {
         "name": "CAÍDA LIBRE VOLEY",
         "pts": 2,
         "gf": 12,
@@ -2683,6 +2671,18 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo L",
+        "posGrupo": 5
+      },
+      {
+        "name": "GORRO DE PISCINA NEGRO",
+        "pts": 3,
+        "gf": 14,
+        "gc": 45,
+        "dg": -31,
+        "pj": 3,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo H",
         "posGrupo": 5
       },
       {
@@ -2730,7 +2730,7 @@
       "campo_4": false,
       "campo_0": false,
       "campo_3": false,
-      "campo_1": false,
+      "campo_1": true,
       "campo_2": false,
       "campo_5": false,
       "grupo_0": false
@@ -2741,7 +2741,13 @@
       "clasif_2": true,
       "clasif_3": true,
       "clasif_4": true,
-      "clasif_5": true
+      "clasif_5": true,
+      "clasif_6": true,
+      "clasif_7": true,
+      "clasif_8": true,
+      "clasif_9": true,
+      "clasif_10": true,
+      "clasif_11": true
     },
     "fasesFinales": {},
     "faseFinalActiva": "oro",
@@ -2774,13 +2780,13 @@
       },
       {
         "name": "ASÍ DE PEQUEÑITOS",
-        "pts": 4,
-        "gf": 30,
-        "gc": 14,
-        "dg": 16,
-        "pj": 2,
+        "pts": 6,
+        "gf": 45,
+        "gc": 19,
+        "dg": 26,
+        "pj": 3,
         "ordenSorteo": 2,
-        "pg": 2,
+        "pg": 3,
         "grupo": "Grupo L",
         "posGrupo": 1
       },
@@ -3037,6 +3043,18 @@
         "posGrupo": 2
       },
       {
+        "name": "EL PODER DE LA PIEDRA",
+        "pts": 5,
+        "gf": 42,
+        "gc": 26,
+        "dg": 16,
+        "pj": 3,
+        "ordenSorteo": 4,
+        "pg": 2,
+        "grupo": "Grupo H",
+        "posGrupo": 3
+      },
+      {
         "name": "LOS CARIÑITOS BOSTONCITOS",
         "pts": 3,
         "gf": 28,
@@ -3061,18 +3079,6 @@
         "posGrupo": 3
       },
       {
-        "name": "EL PODER DE LA PIEDRA",
-        "pts": 3,
-        "gf": 27,
-        "gc": 25,
-        "dg": 2,
-        "pj": 2,
-        "ordenSorteo": 4,
-        "pg": 1,
-        "grupo": "Grupo H",
-        "posGrupo": 3
-      },
-      {
         "name": "MAS SUELO QUE VÓLEY",
         "pts": 3,
         "gf": 23,
@@ -3085,13 +3091,13 @@
         "posGrupo": 3
       },
       {
-        "name": "LOS ROMPEBOLAS",
+        "name": "TE EMPAQUETO",
         "pts": 3,
-        "gf": 21,
+        "gf": 20,
         "gc": 20,
-        "dg": 1,
+        "dg": 0,
         "pj": 2,
-        "ordenSorteo": 4,
+        "ordenSorteo": 3,
         "pg": 1,
         "grupo": "Grupo L",
         "posGrupo": 3
@@ -3193,18 +3199,6 @@
         "posGrupo": 4
       },
       {
-        "name": "TE EMPAQUETO",
-        "pts": 3,
-        "gf": 20,
-        "gc": 20,
-        "dg": 0,
-        "pj": 2,
-        "ordenSorteo": 3,
-        "pg": 1,
-        "grupo": "Grupo L",
-        "posGrupo": 4
-      },
-      {
         "name": "ZEMEN UP",
         "pts": 3,
         "gf": 24,
@@ -3262,6 +3256,18 @@
         "ordenSorteo": 2,
         "pg": 1,
         "grupo": "Grupo F",
+        "posGrupo": 4
+      },
+      {
+        "name": "LOS ROMPEBOLAS",
+        "pts": 4,
+        "gf": 26,
+        "gc": 35,
+        "dg": -9,
+        "pj": 3,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo L",
         "posGrupo": 4
       },
       {
@@ -3421,18 +3427,6 @@
         "posGrupo": 5
       },
       {
-        "name": "GORRO DE PISCINA NEGRO",
-        "pts": 2,
-        "gf": 13,
-        "gc": 30,
-        "dg": -17,
-        "pj": 2,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo H",
-        "posGrupo": 5
-      },
-      {
         "name": "CAÍDA LIBRE VOLEY",
         "pts": 2,
         "gf": 12,
@@ -3454,6 +3448,18 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo L",
+        "posGrupo": 5
+      },
+      {
+        "name": "GORRO DE PISCINA NEGRO",
+        "pts": 3,
+        "gf": 14,
+        "gc": 45,
+        "dg": -31,
+        "pj": 3,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo H",
         "posGrupo": 5
       },
       {
