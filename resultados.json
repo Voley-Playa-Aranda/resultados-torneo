@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T17:03:03.162Z",
+  "publicadoEn": "2026-07-11T17:07:03.164Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -3283,8 +3283,8 @@
               "away": "GLUTEN FREE",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 15,
+                  "aS": 10
                 },
                 {
                   "hS": "",
@@ -3338,7 +3338,7 @@
               "ordenFinal": 29
             },
             {
-              "home": "",
+              "home": "DEMENCIA PERMANENTE CYL",
               "away": "LO VEO CLARO",
               "sets": [
                 {
