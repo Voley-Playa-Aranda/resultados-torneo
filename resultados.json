@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T11:27:03.163Z",
+  "publicadoEn": "2026-07-11T11:29:03.158Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -1173,21 +1173,21 @@
           },
           {
             "name": "RIÑONES DE LECHE",
-            "pts": 2,
-            "gf": 20,
-            "gc": 30,
-            "dg": -10,
-            "pj": 2,
+            "pts": 4,
+            "gf": 35,
+            "gc": 37,
+            "dg": -2,
+            "pj": 3,
             "ordenSorteo": 0,
-            "pg": 0
+            "pg": 1
           },
           {
             "name": "GORRO DE PISCINA NEGRO",
-            "pts": 3,
-            "gf": 14,
-            "gc": 45,
-            "dg": -31,
-            "pj": 3,
+            "pts": 4,
+            "gf": 21,
+            "gc": 60,
+            "dg": -39,
+            "pj": 4,
             "ordenSorteo": 2,
             "pg": 0
           }
@@ -1262,8 +1262,8 @@
               {
                 "home": "RIÑONES DE LECHE",
                 "away": "GORRO DE PISCINA NEGRO",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 15,
+                "golesAway": 7,
                 "campoId": 1,
                 "ordenGlobal": 33
               },
@@ -1791,13 +1791,13 @@
         "equipos": [
           {
             "name": "ASÍ DE PEQUEÑITOS",
-            "pts": 6,
-            "gf": 45,
-            "gc": 19,
-            "dg": 26,
-            "pj": 3,
+            "pts": 8,
+            "gf": 60,
+            "gc": 22,
+            "dg": 38,
+            "pj": 4,
             "ordenSorteo": 2,
-            "pg": 3
+            "pg": 4
           },
           {
             "name": "EL TAMAÑO NO IMPORTA",
@@ -1831,11 +1831,11 @@
           },
           {
             "name": "VODKA JUNIORS",
-            "pts": 2,
-            "gf": 10,
-            "gc": 30,
-            "dg": -20,
-            "pj": 2,
+            "pts": 3,
+            "gf": 13,
+            "gc": 45,
+            "dg": -32,
+            "pj": 3,
             "ordenSorteo": 0,
             "pg": 0
           }
@@ -1910,8 +1910,8 @@
               {
                 "home": "VODKA JUNIORS",
                 "away": "ASÍ DE PEQUEÑITOS",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 3,
+                "golesAway": 15,
                 "campoId": 5,
                 "ordenGlobal": 113
               },
@@ -2002,6 +2002,18 @@
         "posGrupo": 1
       },
       {
+        "name": "ASÍ DE PEQUEÑITOS",
+        "pts": 8,
+        "gf": 60,
+        "gc": 22,
+        "dg": 38,
+        "pj": 4,
+        "ordenSorteo": 2,
+        "pg": 4,
+        "grupo": "Grupo L",
+        "posGrupo": 1
+      },
+      {
         "name": "LO VEO CLARO",
         "pts": 6,
         "gf": 45,
@@ -2011,18 +2023,6 @@
         "ordenSorteo": 0,
         "pg": 3,
         "grupo": "Grupo I",
-        "posGrupo": 1
-      },
-      {
-        "name": "ASÍ DE PEQUEÑITOS",
-        "pts": 6,
-        "gf": 45,
-        "gc": 19,
-        "dg": 26,
-        "pj": 3,
-        "ordenSorteo": 2,
-        "pg": 3,
-        "grupo": "Grupo L",
         "posGrupo": 1
       },
       {
@@ -2482,6 +2482,18 @@
         "posGrupo": 4
       },
       {
+        "name": "RIÑONES DE LECHE",
+        "pts": 4,
+        "gf": 35,
+        "gc": 37,
+        "dg": -2,
+        "pj": 3,
+        "ordenSorteo": 0,
+        "pg": 1,
+        "grupo": "Grupo H",
+        "posGrupo": 4
+      },
+      {
         "name": "LOS CERDITOS FIESTEROS",
         "pts": 4,
         "gf": 33,
@@ -2564,18 +2576,6 @@
         "pg": 0,
         "grupo": "Grupo K",
         "posGrupo": 5
-      },
-      {
-        "name": "RIÑONES DE LECHE",
-        "pts": 2,
-        "gf": 20,
-        "gc": 30,
-        "dg": -10,
-        "pj": 2,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo H",
-        "posGrupo": 4
       },
       {
         "name": "MBONANIS TEAM",
@@ -2662,27 +2662,27 @@
         "posGrupo": 5
       },
       {
-        "name": "VODKA JUNIORS",
-        "pts": 2,
-        "gf": 10,
-        "gc": 30,
-        "dg": -20,
-        "pj": 2,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo L",
-        "posGrupo": 5
-      },
-      {
         "name": "GORRO DE PISCINA NEGRO",
-        "pts": 3,
-        "gf": 14,
-        "gc": 45,
-        "dg": -31,
-        "pj": 3,
+        "pts": 4,
+        "gf": 21,
+        "gc": 60,
+        "dg": -39,
+        "pj": 4,
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo H",
+        "posGrupo": 5
+      },
+      {
+        "name": "VODKA JUNIORS",
+        "pts": 3,
+        "gf": 13,
+        "gc": 45,
+        "dg": -32,
+        "pj": 3,
+        "ordenSorteo": 0,
+        "pg": 0,
+        "grupo": "Grupo L",
         "posGrupo": 5
       },
       {
@@ -2732,7 +2732,7 @@
       "campo_3": false,
       "campo_1": false,
       "campo_2": false,
-      "campo_5": false,
+      "campo_5": true,
       "grupo_0": false
     },
     "expandedClasificaciones": {
@@ -2779,6 +2779,18 @@
         "posGrupo": 1
       },
       {
+        "name": "ASÍ DE PEQUEÑITOS",
+        "pts": 8,
+        "gf": 60,
+        "gc": 22,
+        "dg": 38,
+        "pj": 4,
+        "ordenSorteo": 2,
+        "pg": 4,
+        "grupo": "Grupo L",
+        "posGrupo": 1
+      },
+      {
         "name": "LO VEO CLARO",
         "pts": 6,
         "gf": 45,
@@ -2788,18 +2800,6 @@
         "ordenSorteo": 0,
         "pg": 3,
         "grupo": "Grupo I",
-        "posGrupo": 1
-      },
-      {
-        "name": "ASÍ DE PEQUEÑITOS",
-        "pts": 6,
-        "gf": 45,
-        "gc": 19,
-        "dg": 26,
-        "pj": 3,
-        "ordenSorteo": 2,
-        "pg": 3,
-        "grupo": "Grupo L",
         "posGrupo": 1
       },
       {
@@ -3259,6 +3259,18 @@
         "posGrupo": 4
       },
       {
+        "name": "RIÑONES DE LECHE",
+        "pts": 4,
+        "gf": 35,
+        "gc": 37,
+        "dg": -2,
+        "pj": 3,
+        "ordenSorteo": 0,
+        "pg": 1,
+        "grupo": "Grupo H",
+        "posGrupo": 4
+      },
+      {
         "name": "LOS CERDITOS FIESTEROS",
         "pts": 4,
         "gf": 33,
@@ -3316,18 +3328,6 @@
         "ordenSorteo": 3,
         "pg": 0,
         "grupo": "Grupo D",
-        "posGrupo": 4
-      },
-      {
-        "name": "RIÑONES DE LECHE",
-        "pts": 2,
-        "gf": 20,
-        "gc": 30,
-        "dg": -10,
-        "pj": 2,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo H",
         "posGrupo": 4
       },
       {
@@ -3439,27 +3439,27 @@
         "posGrupo": 5
       },
       {
-        "name": "VODKA JUNIORS",
-        "pts": 2,
-        "gf": 10,
-        "gc": 30,
-        "dg": -20,
-        "pj": 2,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo L",
-        "posGrupo": 5
-      },
-      {
         "name": "GORRO DE PISCINA NEGRO",
-        "pts": 3,
-        "gf": 14,
-        "gc": 45,
-        "dg": -31,
-        "pj": 3,
+        "pts": 4,
+        "gf": 21,
+        "gc": 60,
+        "dg": -39,
+        "pj": 4,
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo H",
+        "posGrupo": 5
+      },
+      {
+        "name": "VODKA JUNIORS",
+        "pts": 3,
+        "gf": 13,
+        "gc": 45,
+        "dg": -32,
+        "pj": 3,
+        "ordenSorteo": 0,
+        "pg": 0,
+        "grupo": "Grupo L",
         "posGrupo": 5
       },
       {
