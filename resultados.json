@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T11:21:03.170Z",
+  "publicadoEn": "2026-07-11T11:23:03.167Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -1305,13 +1305,13 @@
         "equipos": [
           {
             "name": "LO VEO CLARO",
-            "pts": 4,
-            "gf": 30,
-            "gc": 14,
-            "dg": 16,
-            "pj": 2,
+            "pts": 6,
+            "gf": 45,
+            "gc": 17,
+            "dg": 28,
+            "pj": 3,
             "ordenSorteo": 0,
-            "pg": 2
+            "pg": 3
           },
           {
             "name": "LOS BURPEES BOYS BYIMPROVEFIT",
@@ -1345,11 +1345,11 @@
           },
           {
             "name": "LAS LEYENDAS NUNCA MUEREN",
-            "pts": 3,
-            "gf": 24,
-            "gc": 45,
-            "dg": -21,
-            "pj": 3,
+            "pts": 4,
+            "gf": 27,
+            "gc": 60,
+            "dg": -33,
+            "pj": 4,
             "ordenSorteo": 2,
             "pg": 0
           }
@@ -1424,8 +1424,8 @@
               {
                 "home": "LO VEO CLARO",
                 "away": "LAS LEYENDAS NUNCA MUEREN",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 15,
+                "golesAway": 3,
                 "campoId": 2,
                 "ordenGlobal": 53
               },
@@ -2002,6 +2002,18 @@
         "posGrupo": 1
       },
       {
+        "name": "LO VEO CLARO",
+        "pts": 6,
+        "gf": 45,
+        "gc": 17,
+        "dg": 28,
+        "pj": 3,
+        "ordenSorteo": 0,
+        "pg": 3,
+        "grupo": "Grupo I",
+        "posGrupo": 1
+      },
+      {
         "name": "ASÍ DE PEQUEÑITOS",
         "pts": 6,
         "gf": 45,
@@ -2023,18 +2035,6 @@
         "ordenSorteo": 3,
         "pg": 3,
         "grupo": "Grupo A",
-        "posGrupo": 1
-      },
-      {
-        "name": "LO VEO CLARO",
-        "pts": 4,
-        "gf": 30,
-        "gc": 14,
-        "dg": 16,
-        "pj": 2,
-        "ordenSorteo": 0,
-        "pg": 2,
-        "grupo": "Grupo I",
         "posGrupo": 1
       },
       {
@@ -2614,18 +2614,6 @@
         "posGrupo": 5
       },
       {
-        "name": "LAS LEYENDAS NUNCA MUEREN",
-        "pts": 3,
-        "gf": 24,
-        "gc": 45,
-        "dg": -21,
-        "pj": 3,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo I",
-        "posGrupo": 5
-      },
-      {
         "name": "MANCHESTER PITY",
         "pts": 2,
         "gf": 16,
@@ -2647,6 +2635,18 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo G",
+        "posGrupo": 5
+      },
+      {
+        "name": "LAS LEYENDAS NUNCA MUEREN",
+        "pts": 4,
+        "gf": 27,
+        "gc": 60,
+        "dg": -33,
+        "pj": 4,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo I",
         "posGrupo": 5
       },
       {
@@ -2779,6 +2779,18 @@
         "posGrupo": 1
       },
       {
+        "name": "LO VEO CLARO",
+        "pts": 6,
+        "gf": 45,
+        "gc": 17,
+        "dg": 28,
+        "pj": 3,
+        "ordenSorteo": 0,
+        "pg": 3,
+        "grupo": "Grupo I",
+        "posGrupo": 1
+      },
+      {
         "name": "ASÍ DE PEQUEÑITOS",
         "pts": 6,
         "gf": 45,
@@ -2800,18 +2812,6 @@
         "ordenSorteo": 3,
         "pg": 3,
         "grupo": "Grupo A",
-        "posGrupo": 1
-      },
-      {
-        "name": "LO VEO CLARO",
-        "pts": 4,
-        "gf": 30,
-        "gc": 14,
-        "dg": 16,
-        "pj": 2,
-        "ordenSorteo": 0,
-        "pg": 2,
-        "grupo": "Grupo I",
         "posGrupo": 1
       },
       {
@@ -3391,18 +3391,6 @@
         "posGrupo": 5
       },
       {
-        "name": "LAS LEYENDAS NUNCA MUEREN",
-        "pts": 3,
-        "gf": 24,
-        "gc": 45,
-        "dg": -21,
-        "pj": 3,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo I",
-        "posGrupo": 5
-      },
-      {
         "name": "MANCHESTER PITY",
         "pts": 2,
         "gf": 16,
@@ -3424,6 +3412,18 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo G",
+        "posGrupo": 5
+      },
+      {
+        "name": "LAS LEYENDAS NUNCA MUEREN",
+        "pts": 4,
+        "gf": 27,
+        "gc": 60,
+        "dg": -33,
+        "pj": 4,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo I",
         "posGrupo": 5
       },
       {
