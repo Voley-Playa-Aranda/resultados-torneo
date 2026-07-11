@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T10:23:03.164Z",
+  "publicadoEn": "2026-07-11T10:25:03.164Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -9,13 +9,13 @@
         "equipos": [
           {
             "name": "VOLCADOS",
-            "pts": 4,
-            "gf": 30,
-            "gc": 16,
-            "dg": 14,
-            "pj": 2,
+            "pts": 6,
+            "gf": 45,
+            "gc": 23,
+            "dg": 22,
+            "pj": 3,
             "ordenSorteo": 4,
-            "pg": 2
+            "pg": 3
           },
           {
             "name": "NOTTINGHAN PRISAS",
@@ -29,11 +29,11 @@
           },
           {
             "name": "PINO JACINTO",
-            "pts": 3,
-            "gf": 21,
-            "gc": 18,
-            "dg": 3,
-            "pj": 2,
+            "pts": 4,
+            "gf": 28,
+            "gc": 33,
+            "dg": -5,
+            "pj": 3,
             "ordenSorteo": 2,
             "pg": 1
           },
@@ -115,8 +115,8 @@
               {
                 "home": "VOLCADOS",
                 "away": "PINO JACINTO",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 15,
+                "golesAway": 7,
                 "campoId": 0,
                 "ordenGlobal": 10
               }
@@ -1305,23 +1305,13 @@
         "equipos": [
           {
             "name": "LO VEO CLARO",
-            "pts": 2,
-            "gf": 15,
-            "gc": 8,
-            "dg": 7,
-            "pj": 1,
+            "pts": 4,
+            "gf": 30,
+            "gc": 14,
+            "dg": 16,
+            "pj": 2,
             "ordenSorteo": 0,
-            "pg": 1
-          },
-          {
-            "name": "SOWCAUTION",
-            "pts": 2,
-            "gf": 15,
-            "gc": 8,
-            "dg": 7,
-            "pj": 1,
-            "ordenSorteo": 3,
-            "pg": 1
+            "pg": 2
           },
           {
             "name": "MAS SUELO QUE VÓLEY",
@@ -1341,6 +1331,16 @@
             "dg": 0,
             "pj": 2,
             "ordenSorteo": 4,
+            "pg": 1
+          },
+          {
+            "name": "SOWCAUTION",
+            "pts": 3,
+            "gf": 21,
+            "gc": 23,
+            "dg": -2,
+            "pj": 2,
+            "ordenSorteo": 3,
             "pg": 1
           },
           {
@@ -1403,8 +1403,8 @@
               {
                 "home": "LO VEO CLARO",
                 "away": "SOWCAUTION",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 15,
+                "golesAway": 6,
                 "campoId": 2,
                 "ordenGlobal": 49
               },
@@ -2026,6 +2026,30 @@
         "posGrupo": 1
       },
       {
+        "name": "LO VEO CLARO",
+        "pts": 4,
+        "gf": 30,
+        "gc": 14,
+        "dg": 16,
+        "pj": 2,
+        "ordenSorteo": 0,
+        "pg": 2,
+        "grupo": "Grupo I",
+        "posGrupo": 1
+      },
+      {
+        "name": "VOLCADOS",
+        "pts": 6,
+        "gf": 45,
+        "gc": 23,
+        "dg": 22,
+        "pj": 3,
+        "ordenSorteo": 4,
+        "pg": 3,
+        "grupo": "Grupo A",
+        "posGrupo": 1
+      },
+      {
         "name": "GLUTEN FREE",
         "pts": 4,
         "gf": 30,
@@ -2050,18 +2074,6 @@
         "posGrupo": 1
       },
       {
-        "name": "LO VEO CLARO",
-        "pts": 2,
-        "gf": 15,
-        "gc": 8,
-        "dg": 7,
-        "pj": 1,
-        "ordenSorteo": 0,
-        "pg": 1,
-        "grupo": "Grupo I",
-        "posGrupo": 1
-      },
-      {
         "name": "LOS GOMELLANOS",
         "pts": 4,
         "gf": 30,
@@ -2071,30 +2083,6 @@
         "ordenSorteo": 1,
         "pg": 2,
         "grupo": "Grupo C",
-        "posGrupo": 1
-      },
-      {
-        "name": "SOWCAUTION",
-        "pts": 2,
-        "gf": 15,
-        "gc": 8,
-        "dg": 7,
-        "pj": 1,
-        "ordenSorteo": 3,
-        "pg": 1,
-        "grupo": "Grupo I",
-        "posGrupo": 2
-      },
-      {
-        "name": "VOLCADOS",
-        "pts": 4,
-        "gf": 30,
-        "gc": 16,
-        "dg": 14,
-        "pj": 2,
-        "ordenSorteo": 4,
-        "pg": 2,
-        "grupo": "Grupo A",
         "posGrupo": 1
       },
       {
@@ -2266,18 +2254,6 @@
         "posGrupo": 2
       },
       {
-        "name": "PINO JACINTO",
-        "pts": 3,
-        "gf": 21,
-        "gc": 18,
-        "dg": 3,
-        "pj": 2,
-        "ordenSorteo": 2,
-        "pg": 1,
-        "grupo": "Grupo A",
-        "posGrupo": 3
-      },
-      {
         "name": "EL PODER DE LA PIEDRA",
         "pts": 3,
         "gf": 27,
@@ -2299,7 +2275,7 @@
         "ordenSorteo": 1,
         "pg": 1,
         "grupo": "Grupo I",
-        "posGrupo": 3
+        "posGrupo": 2
       },
       {
         "name": "PEGRILOSAS",
@@ -2347,7 +2323,7 @@
         "ordenSorteo": 4,
         "pg": 1,
         "grupo": "Grupo I",
-        "posGrupo": 4
+        "posGrupo": 3
       },
       {
         "name": "MALITOS",
@@ -2372,6 +2348,18 @@
         "pg": 1,
         "grupo": "Grupo K",
         "posGrupo": 3
+      },
+      {
+        "name": "SOWCAUTION",
+        "pts": 3,
+        "gf": 21,
+        "gc": 23,
+        "dg": -2,
+        "pj": 2,
+        "ordenSorteo": 3,
+        "pg": 1,
+        "grupo": "Grupo I",
+        "posGrupo": 4
       },
       {
         "name": "MENESTRA CON GINEBRA",
@@ -2468,6 +2456,18 @@
         "pg": 1,
         "grupo": "Grupo E",
         "posGrupo": 4
+      },
+      {
+        "name": "PINO JACINTO",
+        "pts": 4,
+        "gf": 28,
+        "gc": 33,
+        "dg": -5,
+        "pj": 3,
+        "ordenSorteo": 2,
+        "pg": 1,
+        "grupo": "Grupo A",
+        "posGrupo": 3
       },
       {
         "name": "CENTAUROS",
@@ -2790,6 +2790,30 @@
         "posGrupo": 1
       },
       {
+        "name": "LO VEO CLARO",
+        "pts": 4,
+        "gf": 30,
+        "gc": 14,
+        "dg": 16,
+        "pj": 2,
+        "ordenSorteo": 0,
+        "pg": 2,
+        "grupo": "Grupo I",
+        "posGrupo": 1
+      },
+      {
+        "name": "VOLCADOS",
+        "pts": 6,
+        "gf": 45,
+        "gc": 23,
+        "dg": 22,
+        "pj": 3,
+        "ordenSorteo": 4,
+        "pg": 3,
+        "grupo": "Grupo A",
+        "posGrupo": 1
+      },
+      {
         "name": "GLUTEN FREE",
         "pts": 4,
         "gf": 30,
@@ -2814,18 +2838,6 @@
         "posGrupo": 1
       },
       {
-        "name": "LO VEO CLARO",
-        "pts": 2,
-        "gf": 15,
-        "gc": 8,
-        "dg": 7,
-        "pj": 1,
-        "ordenSorteo": 0,
-        "pg": 1,
-        "grupo": "Grupo I",
-        "posGrupo": 1
-      },
-      {
         "name": "LOS GOMELLANOS",
         "pts": 4,
         "gf": 30,
@@ -2835,18 +2847,6 @@
         "ordenSorteo": 1,
         "pg": 2,
         "grupo": "Grupo C",
-        "posGrupo": 1
-      },
-      {
-        "name": "VOLCADOS",
-        "pts": 4,
-        "gf": 30,
-        "gc": 16,
-        "dg": 14,
-        "pj": 2,
-        "ordenSorteo": 4,
-        "pg": 2,
-        "grupo": "Grupo A",
         "posGrupo": 1
       },
       {
@@ -2884,18 +2884,6 @@
         "pg": 1,
         "grupo": "Grupo J",
         "posGrupo": 1
-      },
-      {
-        "name": "SOWCAUTION",
-        "pts": 2,
-        "gf": 15,
-        "gc": 8,
-        "dg": 7,
-        "pj": 1,
-        "ordenSorteo": 3,
-        "pg": 1,
-        "grupo": "Grupo I",
-        "posGrupo": 2
       },
       {
         "name": "NOTTINGHAN PRISAS",
@@ -3006,6 +2994,18 @@
         "posGrupo": 2
       },
       {
+        "name": "MAS SUELO QUE VÓLEY",
+        "pts": 3,
+        "gf": 23,
+        "gc": 21,
+        "dg": 2,
+        "pj": 2,
+        "ordenSorteo": 1,
+        "pg": 1,
+        "grupo": "Grupo I",
+        "posGrupo": 2
+      },
+      {
         "name": "PEGRILOSAS",
         "pts": 3,
         "gf": 23,
@@ -3054,18 +3054,6 @@
         "posGrupo": 3
       },
       {
-        "name": "PINO JACINTO",
-        "pts": 3,
-        "gf": 21,
-        "gc": 18,
-        "dg": 3,
-        "pj": 2,
-        "ordenSorteo": 2,
-        "pg": 1,
-        "grupo": "Grupo A",
-        "posGrupo": 3
-      },
-      {
         "name": "EL PODER DE LA PIEDRA",
         "pts": 3,
         "gf": 27,
@@ -3075,18 +3063,6 @@
         "ordenSorteo": 4,
         "pg": 1,
         "grupo": "Grupo H",
-        "posGrupo": 3
-      },
-      {
-        "name": "MAS SUELO QUE VÓLEY",
-        "pts": 3,
-        "gf": 23,
-        "gc": 21,
-        "dg": 2,
-        "pj": 2,
-        "ordenSorteo": 1,
-        "pg": 1,
-        "grupo": "Grupo I",
         "posGrupo": 3
       },
       {
@@ -3111,6 +3087,18 @@
         "ordenSorteo": 1,
         "pg": 1,
         "grupo": "Grupo B",
+        "posGrupo": 3
+      },
+      {
+        "name": "LOS BURPEES BOYS BYIMPROVEFIT",
+        "pts": 3,
+        "gf": 23,
+        "gc": 23,
+        "dg": 0,
+        "pj": 2,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo I",
         "posGrupo": 3
       },
       {
@@ -3162,6 +3150,18 @@
         "posGrupo": 3
       },
       {
+        "name": "PINO JACINTO",
+        "pts": 4,
+        "gf": 28,
+        "gc": 33,
+        "dg": -5,
+        "pj": 3,
+        "ordenSorteo": 2,
+        "pg": 1,
+        "grupo": "Grupo A",
+        "posGrupo": 3
+      },
+      {
         "name": "TIERRA LLAMANDO A JUAN CARLOS",
         "pts": 1,
         "gf": 11,
@@ -3174,18 +3174,6 @@
         "posGrupo": 3
       },
       {
-        "name": "LOS BURPEES BOYS BYIMPROVEFIT",
-        "pts": 3,
-        "gf": 23,
-        "gc": 23,
-        "dg": 0,
-        "pj": 2,
-        "ordenSorteo": 4,
-        "pg": 1,
-        "grupo": "Grupo I",
-        "posGrupo": 4
-      },
-      {
         "name": "MALITOS",
         "pts": 3,
         "gf": 26,
@@ -3195,6 +3183,18 @@
         "ordenSorteo": 4,
         "pg": 1,
         "grupo": "Grupo J",
+        "posGrupo": 4
+      },
+      {
+        "name": "SOWCAUTION",
+        "pts": 3,
+        "gf": 21,
+        "gc": 23,
+        "dg": -2,
+        "pj": 2,
+        "ordenSorteo": 3,
+        "pg": 1,
+        "grupo": "Grupo I",
         "posGrupo": 4
       },
       {
