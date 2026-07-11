@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T16:57:03.163Z",
+  "publicadoEn": "2026-07-11T16:59:03.163Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -3264,8 +3264,8 @@
               "away": "PEGRILOSAS",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 12,
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -3320,7 +3320,7 @@
           [
             {
               "home": "EL CONVENTO DE SANTA TERESA",
-              "away": "",
+              "away": "PEGRILOSAS",
               "sets": [
                 {
                   "hS": "",
