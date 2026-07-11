@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T10:13:03.171Z",
+  "publicadoEn": "2026-07-11T10:15:04.037Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -990,6 +990,16 @@
             "pg": 2
           },
           {
+            "name": "MENESTRA CON GINEBRA",
+            "pts": 3,
+            "gf": 18,
+            "gc": 21,
+            "dg": -3,
+            "pj": 2,
+            "ordenSorteo": 3,
+            "pg": 1
+          },
+          {
             "name": "KINDER SORPRESA",
             "pts": 3,
             "gf": 17,
@@ -1011,22 +1021,12 @@
           },
           {
             "name": "RECEPCIÓN OPCIONAL",
-            "pts": 1,
-            "gf": 16,
-            "gc": 18,
-            "dg": -2,
-            "pj": 1,
+            "pts": 2,
+            "gf": 22,
+            "gc": 33,
+            "dg": -11,
+            "pj": 2,
             "ordenSorteo": 0,
-            "pg": 0
-          },
-          {
-            "name": "MENESTRA CON GINEBRA",
-            "pts": 1,
-            "gf": 3,
-            "gc": 15,
-            "dg": -12,
-            "pj": 1,
-            "ordenSorteo": 3,
             "pg": 0
           }
         ],
@@ -1079,8 +1079,8 @@
               {
                 "home": "RECEPCIÓN OPCIONAL",
                 "away": "MENESTRA CON GINEBRA",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 6,
+                "golesAway": 15,
                 "campoId": 0,
                 "ordenGlobal": 9
               },
@@ -1486,6 +1486,16 @@
             "pg": 1
           },
           {
+            "name": "CHACALES",
+            "pts": 3,
+            "gf": 30,
+            "gc": 23,
+            "dg": 7,
+            "pj": 2,
+            "ordenSorteo": 2,
+            "pg": 1
+          },
+          {
             "name": "MALITOS",
             "pts": 3,
             "gf": 26,
@@ -1496,22 +1506,12 @@
             "pg": 1
           },
           {
-            "name": "CHACALES",
-            "pts": 1,
-            "gf": 15,
-            "gc": 17,
-            "dg": -2,
-            "pj": 1,
-            "ordenSorteo": 2,
-            "pg": 0
-          },
-          {
             "name": "LOS ROOKIES",
-            "pts": 1,
-            "gf": 12,
-            "gc": 15,
-            "dg": -3,
-            "pj": 1,
+            "pts": 2,
+            "gf": 18,
+            "gc": 30,
+            "dg": -12,
+            "pj": 2,
             "ordenSorteo": 1,
             "pg": 0
           }
@@ -1552,8 +1552,8 @@
               {
                 "home": "LOS ROOKIES",
                 "away": "CHACALES",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 6,
+                "golesAway": 15,
                 "campoId": 3,
                 "ordenGlobal": 67
               }
@@ -2230,6 +2230,18 @@
         "posGrupo": 2
       },
       {
+        "name": "CHACALES",
+        "pts": 3,
+        "gf": 30,
+        "gc": 23,
+        "dg": 7,
+        "pj": 2,
+        "ordenSorteo": 2,
+        "pg": 1,
+        "grupo": "Grupo J",
+        "posGrupo": 3
+      },
+      {
         "name": "LOS CARIÑITOS BOSTONCITOS",
         "pts": 3,
         "gf": 28,
@@ -2347,7 +2359,7 @@
         "ordenSorteo": 4,
         "pg": 1,
         "grupo": "Grupo J",
-        "posGrupo": 3
+        "posGrupo": 4
       },
       {
         "name": "ASTON BIRRAS",
@@ -2360,6 +2372,18 @@
         "pg": 1,
         "grupo": "Grupo K",
         "posGrupo": 3
+      },
+      {
+        "name": "MENESTRA CON GINEBRA",
+        "pts": 3,
+        "gf": 18,
+        "gc": 21,
+        "dg": -3,
+        "pj": 2,
+        "ordenSorteo": 3,
+        "pg": 1,
+        "grupo": "Grupo G",
+        "posGrupo": 2
       },
       {
         "name": "KIKOÑAZO",
@@ -2407,7 +2431,7 @@
         "ordenSorteo": 1,
         "pg": 1,
         "grupo": "Grupo G",
-        "posGrupo": 2
+        "posGrupo": 3
       },
       {
         "name": "CV SIESTA",
@@ -2419,7 +2443,7 @@
         "ordenSorteo": 4,
         "pg": 1,
         "grupo": "Grupo G",
-        "posGrupo": 3
+        "posGrupo": 4
       },
       {
         "name": "MANCHESTER PITY JR",
@@ -2434,18 +2458,6 @@
         "posGrupo": 3
       },
       {
-        "name": "RECEPCIÓN OPCIONAL",
-        "pts": 1,
-        "gf": 16,
-        "gc": 18,
-        "dg": -2,
-        "pj": 1,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo G",
-        "posGrupo": 4
-      },
-      {
         "name": "CENTAUROS",
         "pts": 2,
         "gf": 30,
@@ -2455,18 +2467,6 @@
         "ordenSorteo": 4,
         "pg": 0,
         "grupo": "Grupo F",
-        "posGrupo": 4
-      },
-      {
-        "name": "CHACALES",
-        "pts": 1,
-        "gf": 15,
-        "gc": 17,
-        "dg": -2,
-        "pj": 1,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo J",
         "posGrupo": 4
       },
       {
@@ -2492,18 +2492,6 @@
         "pg": 0,
         "grupo": "Grupo A",
         "posGrupo": 4
-      },
-      {
-        "name": "LOS ROOKIES",
-        "pts": 1,
-        "gf": 12,
-        "gc": 15,
-        "dg": -3,
-        "pj": 1,
-        "ordenSorteo": 1,
-        "pg": 0,
-        "grupo": "Grupo J",
-        "posGrupo": 5
       },
       {
         "name": "LA CASITA",
@@ -2566,6 +2554,18 @@
         "posGrupo": 5
       },
       {
+        "name": "RECEPCIÓN OPCIONAL",
+        "pts": 2,
+        "gf": 22,
+        "gc": 33,
+        "dg": -11,
+        "pj": 2,
+        "ordenSorteo": 0,
+        "pg": 0,
+        "grupo": "Grupo G",
+        "posGrupo": 5
+      },
+      {
         "name": "LOS CERDITOS FIESTEROS",
         "pts": 2,
         "gf": 18,
@@ -2575,6 +2575,18 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo C",
+        "posGrupo": 5
+      },
+      {
+        "name": "LOS ROOKIES",
+        "pts": 2,
+        "gf": 18,
+        "gc": 30,
+        "dg": -12,
+        "pj": 2,
+        "ordenSorteo": 1,
+        "pg": 0,
+        "grupo": "Grupo J",
         "posGrupo": 5
       },
       {
@@ -2671,18 +2683,6 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo L",
-        "posGrupo": 5
-      },
-      {
-        "name": "MENESTRA CON GINEBRA",
-        "pts": 1,
-        "gf": 3,
-        "gc": 15,
-        "dg": -12,
-        "pj": 1,
-        "ordenSorteo": 3,
-        "pg": 0,
-        "grupo": "Grupo G",
         "posGrupo": 5
       },
       {
@@ -3018,16 +3018,28 @@
         "posGrupo": 2
       },
       {
-        "name": "KINDER SORPRESA",
+        "name": "MENESTRA CON GINEBRA",
         "pts": 3,
-        "gf": 17,
-        "gc": 22,
-        "dg": -5,
+        "gf": 18,
+        "gc": 21,
+        "dg": -3,
         "pj": 2,
-        "ordenSorteo": 1,
+        "ordenSorteo": 3,
         "pg": 1,
         "grupo": "Grupo G",
         "posGrupo": 2
+      },
+      {
+        "name": "CHACALES",
+        "pts": 3,
+        "gf": 30,
+        "gc": 23,
+        "dg": 7,
+        "pj": 2,
+        "ordenSorteo": 2,
+        "pg": 1,
+        "grupo": "Grupo J",
+        "posGrupo": 3
       },
       {
         "name": "ASOCIACIÓN DE DRAGONES AMERICANOS",
@@ -3102,18 +3114,6 @@
         "posGrupo": 3
       },
       {
-        "name": "MALITOS",
-        "pts": 3,
-        "gf": 26,
-        "gc": 27,
-        "dg": -1,
-        "pj": 2,
-        "ordenSorteo": 4,
-        "pg": 1,
-        "grupo": "Grupo J",
-        "posGrupo": 3
-      },
-      {
         "name": "ASTON BIRRAS",
         "pts": 3,
         "gf": 25,
@@ -3138,13 +3138,13 @@
         "posGrupo": 3
       },
       {
-        "name": "CV SIESTA",
+        "name": "KINDER SORPRESA",
         "pts": 3,
-        "gf": 25,
-        "gc": 31,
-        "dg": -6,
+        "gf": 17,
+        "gc": 22,
+        "dg": -5,
         "pj": 2,
-        "ordenSorteo": 4,
+        "ordenSorteo": 1,
         "pg": 1,
         "grupo": "Grupo G",
         "posGrupo": 3
@@ -3186,6 +3186,18 @@
         "posGrupo": 4
       },
       {
+        "name": "MALITOS",
+        "pts": 3,
+        "gf": 26,
+        "gc": 27,
+        "dg": -1,
+        "pj": 2,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo J",
+        "posGrupo": 4
+      },
+      {
         "name": "CARCAJADA",
         "pts": 3,
         "gf": 22,
@@ -3210,14 +3222,14 @@
         "posGrupo": 4
       },
       {
-        "name": "RECEPCIÓN OPCIONAL",
-        "pts": 1,
-        "gf": 16,
-        "gc": 18,
-        "dg": -2,
-        "pj": 1,
-        "ordenSorteo": 0,
-        "pg": 0,
+        "name": "CV SIESTA",
+        "pts": 3,
+        "gf": 25,
+        "gc": 31,
+        "dg": -6,
+        "pj": 2,
+        "ordenSorteo": 4,
+        "pg": 1,
         "grupo": "Grupo G",
         "posGrupo": 4
       },
@@ -3231,18 +3243,6 @@
         "ordenSorteo": 4,
         "pg": 0,
         "grupo": "Grupo F",
-        "posGrupo": 4
-      },
-      {
-        "name": "CHACALES",
-        "pts": 1,
-        "gf": 15,
-        "gc": 17,
-        "dg": -2,
-        "pj": 1,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo J",
         "posGrupo": 4
       },
       {
@@ -3318,18 +3318,6 @@
         "posGrupo": 4
       },
       {
-        "name": "LOS ROOKIES",
-        "pts": 1,
-        "gf": 12,
-        "gc": 15,
-        "dg": -3,
-        "pj": 1,
-        "ordenSorteo": 1,
-        "pg": 0,
-        "grupo": "Grupo J",
-        "posGrupo": 5
-      },
-      {
         "name": "MBONANIS TEAM",
         "pts": 2,
         "gf": 22,
@@ -3342,6 +3330,18 @@
         "posGrupo": 5
       },
       {
+        "name": "RECEPCIÓN OPCIONAL",
+        "pts": 2,
+        "gf": 22,
+        "gc": 33,
+        "dg": -11,
+        "pj": 2,
+        "ordenSorteo": 0,
+        "pg": 0,
+        "grupo": "Grupo G",
+        "posGrupo": 5
+      },
+      {
         "name": "LOS CERDITOS FIESTEROS",
         "pts": 2,
         "gf": 18,
@@ -3351,6 +3351,18 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo C",
+        "posGrupo": 5
+      },
+      {
+        "name": "LOS ROOKIES",
+        "pts": 2,
+        "gf": 18,
+        "gc": 30,
+        "dg": -12,
+        "pj": 2,
+        "ordenSorteo": 1,
+        "pg": 0,
+        "grupo": "Grupo J",
         "posGrupo": 5
       },
       {
@@ -3435,18 +3447,6 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo L",
-        "posGrupo": 5
-      },
-      {
-        "name": "MENESTRA CON GINEBRA",
-        "pts": 1,
-        "gf": 3,
-        "gc": 15,
-        "dg": -12,
-        "pj": 1,
-        "ordenSorteo": 3,
-        "pg": 0,
-        "grupo": "Grupo G",
         "posGrupo": 5
       },
       {
