@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T09:07:03.157Z",
+  "publicadoEn": "2026-07-11T09:09:03.160Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -1314,6 +1314,26 @@
             "pg": 1
           },
           {
+            "name": "SOWCAUTION",
+            "pts": 2,
+            "gf": 15,
+            "gc": 8,
+            "dg": 7,
+            "pj": 1,
+            "ordenSorteo": 3,
+            "pg": 1
+          },
+          {
+            "name": "LAS LEYENDAS NUNCA MUEREN",
+            "pts": 1,
+            "gf": 8,
+            "gc": 15,
+            "dg": -7,
+            "pj": 1,
+            "ordenSorteo": 2,
+            "pg": 0
+          },
+          {
             "name": "MAS SUELO QUE VÓLEY",
             "pts": 1,
             "gf": 8,
@@ -1324,16 +1344,6 @@
             "pg": 0
           },
           {
-            "name": "LAS LEYENDAS NUNCA MUEREN",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 2,
-            "pg": 0
-          },
-          {
             "name": "LO VEO CLARO",
             "pts": 0,
             "gf": 0,
@@ -1341,16 +1351,6 @@
             "dg": 0,
             "pj": 0,
             "ordenSorteo": 0,
-            "pg": 0
-          },
-          {
-            "name": "SOWCAUTION",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 3,
             "pg": 0
           }
         ],
@@ -1369,8 +1369,8 @@
               {
                 "home": "LAS LEYENDAS NUNCA MUEREN",
                 "away": "SOWCAUTION",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 8,
+                "golesAway": 15,
                 "campoId": 2,
                 "ordenGlobal": 43
               }
@@ -2122,6 +2122,18 @@
         "posGrupo": 1
       },
       {
+        "name": "SOWCAUTION",
+        "pts": 2,
+        "gf": 15,
+        "gc": 8,
+        "dg": 7,
+        "pj": 1,
+        "ordenSorteo": 3,
+        "pg": 1,
+        "grupo": "Grupo I",
+        "posGrupo": 2
+      },
+      {
         "name": "GANAMOS Y NOS VAMOS",
         "pts": 2,
         "gf": 15,
@@ -2338,6 +2350,18 @@
         "posGrupo": 4
       },
       {
+        "name": "LAS LEYENDAS NUNCA MUEREN",
+        "pts": 1,
+        "gf": 8,
+        "gc": 15,
+        "dg": -7,
+        "pj": 1,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo I",
+        "posGrupo": 3
+      },
+      {
         "name": "MAS SUELO QUE VÓLEY",
         "pts": 1,
         "gf": 8,
@@ -2347,7 +2371,7 @@
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo I",
-        "posGrupo": 2
+        "posGrupo": 4
       },
       {
         "name": "CARCAJADA",
@@ -2542,18 +2566,6 @@
         "posGrupo": 4
       },
       {
-        "name": "LAS LEYENDAS NUNCA MUEREN",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo I",
-        "posGrupo": 3
-      },
-      {
         "name": "LO VEO CLARO",
         "pts": 0,
         "gf": 0,
@@ -2563,7 +2575,7 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo I",
-        "posGrupo": 4
+        "posGrupo": 5
       },
       {
         "name": "LOS CERDITOS FIESTEROS",
@@ -2635,18 +2647,6 @@
         "ordenSorteo": 3,
         "pg": 0,
         "grupo": "Grupo K",
-        "posGrupo": 5
-      },
-      {
-        "name": "SOWCAUTION",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 3,
-        "pg": 0,
-        "grupo": "Grupo I",
         "posGrupo": 5
       },
       {
@@ -2922,6 +2922,18 @@
         "posGrupo": 2
       },
       {
+        "name": "SOWCAUTION",
+        "pts": 2,
+        "gf": 15,
+        "gc": 8,
+        "dg": 7,
+        "pj": 1,
+        "ordenSorteo": 3,
+        "pg": 1,
+        "grupo": "Grupo I",
+        "posGrupo": 2
+      },
+      {
         "name": "KARIBE VÓLEIBOL",
         "pts": 2,
         "gf": 15,
@@ -3018,18 +3030,6 @@
         "posGrupo": 2
       },
       {
-        "name": "MAS SUELO QUE VÓLEY",
-        "pts": 1,
-        "gf": 8,
-        "gc": 15,
-        "dg": -7,
-        "pj": 1,
-        "ordenSorteo": 1,
-        "pg": 0,
-        "grupo": "Grupo I",
-        "posGrupo": 2
-      },
-      {
         "name": "CENTAUROS",
         "pts": 1,
         "gf": 14,
@@ -3102,6 +3102,18 @@
         "posGrupo": 3
       },
       {
+        "name": "LAS LEYENDAS NUNCA MUEREN",
+        "pts": 1,
+        "gf": 8,
+        "gc": 15,
+        "dg": -7,
+        "pj": 1,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo I",
+        "posGrupo": 3
+      },
+      {
         "name": "CV SIESTA",
         "pts": 1,
         "gf": 7,
@@ -3162,18 +3174,6 @@
         "posGrupo": 3
       },
       {
-        "name": "LAS LEYENDAS NUNCA MUEREN",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo I",
-        "posGrupo": 3
-      },
-      {
         "name": "TIERRA LLAMANDO A JUAN CARLOS",
         "pts": 1,
         "gf": 11,
@@ -3183,6 +3183,18 @@
         "ordenSorteo": 3,
         "pg": 0,
         "grupo": "Grupo D",
+        "posGrupo": 4
+      },
+      {
+        "name": "MAS SUELO QUE VÓLEY",
+        "pts": 1,
+        "gf": 8,
+        "gc": 15,
+        "dg": -7,
+        "pj": 1,
+        "ordenSorteo": 1,
+        "pg": 0,
+        "grupo": "Grupo I",
         "posGrupo": 4
       },
       {
@@ -3294,18 +3306,6 @@
         "posGrupo": 4
       },
       {
-        "name": "LO VEO CLARO",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo I",
-        "posGrupo": 4
-      },
-      {
         "name": "SUBESELA AL HEAVY",
         "pts": 0,
         "gf": 0,
@@ -3339,6 +3339,18 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo F",
+        "posGrupo": 5
+      },
+      {
+        "name": "LO VEO CLARO",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 0,
+        "pg": 0,
+        "grupo": "Grupo I",
         "posGrupo": 5
       },
       {
@@ -3411,18 +3423,6 @@
         "ordenSorteo": 3,
         "pg": 0,
         "grupo": "Grupo K",
-        "posGrupo": 5
-      },
-      {
-        "name": "SOWCAUTION",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 3,
-        "pg": 0,
-        "grupo": "Grupo I",
         "posGrupo": 5
       },
       {
