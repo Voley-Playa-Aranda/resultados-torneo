@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T13:09:03.164Z",
+  "publicadoEn": "2026-07-11T13:11:03.172Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -1315,21 +1315,21 @@
           },
           {
             "name": "LOS BURPEES BOYS BYIMPROVEFIT",
-            "pts": 5,
-            "gf": 38,
-            "gc": 33,
-            "dg": 5,
-            "pj": 3,
+            "pts": 7,
+            "gf": 53,
+            "gc": 46,
+            "dg": 7,
+            "pj": 4,
             "ordenSorteo": 4,
-            "pg": 2
+            "pg": 3
           },
           {
             "name": "SOWCAUTION",
-            "pts": 5,
-            "gf": 36,
-            "gc": 35,
-            "dg": 1,
-            "pj": 3,
+            "pts": 6,
+            "gf": 49,
+            "gc": 50,
+            "dg": -1,
+            "pj": 4,
             "ordenSorteo": 3,
             "pg": 2
           },
@@ -1453,8 +1453,8 @@
               {
                 "home": "SOWCAUTION",
                 "away": "LOS BURPEES BOYS BYIMPROVEFIT",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 13,
+                "golesAway": 15,
                 "campoId": 2,
                 "ordenGlobal": 59
               }
@@ -2182,6 +2182,18 @@
         "posGrupo": 2
       },
       {
+        "name": "LOS BURPEES BOYS BYIMPROVEFIT",
+        "pts": 7,
+        "gf": 53,
+        "gc": 46,
+        "dg": 7,
+        "pj": 4,
+        "ordenSorteo": 4,
+        "pg": 3,
+        "grupo": "Grupo I",
+        "posGrupo": 2
+      },
+      {
         "name": "MENESTRA CON GINEBRA",
         "pts": 7,
         "gf": 48,
@@ -2204,30 +2216,6 @@
         "pg": 2,
         "grupo": "Grupo J",
         "posGrupo": 2
-      },
-      {
-        "name": "LOS BURPEES BOYS BYIMPROVEFIT",
-        "pts": 5,
-        "gf": 38,
-        "gc": 33,
-        "dg": 5,
-        "pj": 3,
-        "ordenSorteo": 4,
-        "pg": 2,
-        "grupo": "Grupo I",
-        "posGrupo": 2
-      },
-      {
-        "name": "SOWCAUTION",
-        "pts": 5,
-        "gf": 36,
-        "gc": 35,
-        "dg": 1,
-        "pj": 3,
-        "ordenSorteo": 3,
-        "pg": 2,
-        "grupo": "Grupo I",
-        "posGrupo": 3
       },
       {
         "name": "STREET VOLLEY",
@@ -2359,6 +2347,18 @@
         "ordenSorteo": 2,
         "pg": 2,
         "grupo": "Grupo C",
+        "posGrupo": 3
+      },
+      {
+        "name": "SOWCAUTION",
+        "pts": 6,
+        "gf": 49,
+        "gc": 50,
+        "dg": -1,
+        "pj": 4,
+        "ordenSorteo": 3,
+        "pg": 2,
+        "grupo": "Grupo I",
         "posGrupo": 3
       },
       {
@@ -2959,6 +2959,18 @@
         "posGrupo": 2
       },
       {
+        "name": "LOS BURPEES BOYS BYIMPROVEFIT",
+        "pts": 7,
+        "gf": 53,
+        "gc": 46,
+        "dg": 7,
+        "pj": 4,
+        "ordenSorteo": 4,
+        "pg": 3,
+        "grupo": "Grupo I",
+        "posGrupo": 2
+      },
+      {
         "name": "MENESTRA CON GINEBRA",
         "pts": 7,
         "gf": 48,
@@ -2980,18 +2992,6 @@
         "ordenSorteo": 4,
         "pg": 2,
         "grupo": "Grupo J",
-        "posGrupo": 2
-      },
-      {
-        "name": "LOS BURPEES BOYS BYIMPROVEFIT",
-        "pts": 5,
-        "gf": 38,
-        "gc": 33,
-        "dg": 5,
-        "pj": 3,
-        "ordenSorteo": 4,
-        "pg": 2,
-        "grupo": "Grupo I",
         "posGrupo": 2
       },
       {
@@ -3041,18 +3041,6 @@
         "pg": 2,
         "grupo": "Grupo K",
         "posGrupo": 2
-      },
-      {
-        "name": "SOWCAUTION",
-        "pts": 5,
-        "gf": 36,
-        "gc": 35,
-        "dg": 1,
-        "pj": 3,
-        "ordenSorteo": 3,
-        "pg": 2,
-        "grupo": "Grupo I",
-        "posGrupo": 3
       },
       {
         "name": "STREET VOLLEY",
@@ -3124,6 +3112,18 @@
         "ordenSorteo": 2,
         "pg": 2,
         "grupo": "Grupo C",
+        "posGrupo": 3
+      },
+      {
+        "name": "SOWCAUTION",
+        "pts": 6,
+        "gf": 49,
+        "gc": 50,
+        "dg": -1,
+        "pj": 4,
+        "ordenSorteo": 3,
+        "pg": 2,
+        "grupo": "Grupo I",
         "posGrupo": 3
       },
       {
