@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T16:07:03.151Z",
+  "publicadoEn": "2026-07-11T16:09:03.173Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -3896,8 +3896,8 @@
               "away": "CENTAUROS",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 13,
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -3971,7 +3971,7 @@
             },
             {
               "home": "TE EMPAQUETO",
-              "away": "",
+              "away": "CENTAUROS",
               "sets": [
                 {
                   "hS": "",
