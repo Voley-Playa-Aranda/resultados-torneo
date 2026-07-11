@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T17:23:03.161Z",
+  "publicadoEn": "2026-07-11T17:25:03.159Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -3342,8 +3342,8 @@
               "away": "LO VEO CLARO",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 11,
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -3383,7 +3383,7 @@
         "size": 32,
         "thirdPlaceMatch": {
           "home": "PEGRILOSAS",
-          "away": "",
+          "away": "DEMENCIA PERMANENTE CYL",
           "bo3": false,
           "sets": [
             {
@@ -3403,7 +3403,7 @@
         },
         "grandFinal": {
           "home": "EL CONVENTO DE SANTA TERESA",
-          "away": "",
+          "away": "LO VEO CLARO",
           "bo3": false,
           "sets": [
             {
