@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T12:41:03.171Z",
+  "publicadoEn": "2026-07-11T12:43:03.158Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -171,13 +171,13 @@
         "equipos": [
           {
             "name": "TE MIRO Y TE BLOQUEO",
-            "pts": 6,
-            "gf": 45,
-            "gc": 24,
-            "dg": 21,
-            "pj": 3,
+            "pts": 8,
+            "gf": 60,
+            "gc": 34,
+            "dg": 26,
+            "pj": 4,
             "ordenSorteo": 3,
-            "pg": 3
+            "pg": 4
           },
           {
             "name": "DEMENCIA PERMANENTE CYL",
@@ -191,11 +191,11 @@
           },
           {
             "name": "CORCHOPANES",
-            "pts": 5,
-            "gf": 38,
-            "gc": 37,
-            "dg": 1,
-            "pj": 3,
+            "pts": 6,
+            "gf": 48,
+            "gc": 52,
+            "dg": -4,
+            "pj": 4,
             "ordenSorteo": 4,
             "pg": 2
           },
@@ -319,8 +319,8 @@
               {
                 "home": "TE MIRO Y TE BLOQUEO",
                 "away": "CORCHOPANES",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 15,
+                "golesAway": 10,
                 "campoId": 1,
                 "ordenGlobal": 38
               }
@@ -2026,18 +2026,6 @@
         "posGrupo": 1
       },
       {
-        "name": "TE MIRO Y TE BLOQUEO",
-        "pts": 6,
-        "gf": 45,
-        "gc": 24,
-        "dg": 21,
-        "pj": 3,
-        "ordenSorteo": 3,
-        "pg": 3,
-        "grupo": "Grupo B",
-        "posGrupo": 1
-      },
-      {
         "name": "VOLCADOS",
         "pts": 8,
         "gf": 60,
@@ -2047,6 +2035,18 @@
         "ordenSorteo": 4,
         "pg": 4,
         "grupo": "Grupo A",
+        "posGrupo": 1
+      },
+      {
+        "name": "TE MIRO Y TE BLOQUEO",
+        "pts": 8,
+        "gf": 60,
+        "gc": 34,
+        "dg": 26,
+        "pj": 4,
+        "ordenSorteo": 3,
+        "pg": 4,
+        "grupo": "Grupo B",
         "posGrupo": 1
       },
       {
@@ -2266,18 +2266,6 @@
         "posGrupo": 2
       },
       {
-        "name": "CORCHOPANES",
-        "pts": 5,
-        "gf": 38,
-        "gc": 37,
-        "dg": 1,
-        "pj": 3,
-        "ordenSorteo": 4,
-        "pg": 2,
-        "grupo": "Grupo B",
-        "posGrupo": 3
-      },
-      {
         "name": "SOWCAUTION",
         "pts": 5,
         "gf": 36,
@@ -2395,6 +2383,18 @@
         "ordenSorteo": 2,
         "pg": 2,
         "grupo": "Grupo C",
+        "posGrupo": 3
+      },
+      {
+        "name": "CORCHOPANES",
+        "pts": 6,
+        "gf": 48,
+        "gc": 52,
+        "dg": -4,
+        "pj": 4,
+        "ordenSorteo": 4,
+        "pg": 2,
+        "grupo": "Grupo B",
         "posGrupo": 3
       },
       {
@@ -2730,7 +2730,7 @@
       "campo_4": false,
       "campo_0": false,
       "campo_3": false,
-      "campo_1": false,
+      "campo_1": true,
       "campo_2": false,
       "campo_5": false,
       "grupo_0": false
@@ -2803,18 +2803,6 @@
         "posGrupo": 1
       },
       {
-        "name": "TE MIRO Y TE BLOQUEO",
-        "pts": 6,
-        "gf": 45,
-        "gc": 24,
-        "dg": 21,
-        "pj": 3,
-        "ordenSorteo": 3,
-        "pg": 3,
-        "grupo": "Grupo B",
-        "posGrupo": 1
-      },
-      {
         "name": "VOLCADOS",
         "pts": 8,
         "gf": 60,
@@ -2824,6 +2812,18 @@
         "ordenSorteo": 4,
         "pg": 4,
         "grupo": "Grupo A",
+        "posGrupo": 1
+      },
+      {
+        "name": "TE MIRO Y TE BLOQUEO",
+        "pts": 8,
+        "gf": 60,
+        "gc": 34,
+        "dg": 26,
+        "pj": 4,
+        "ordenSorteo": 3,
+        "pg": 4,
+        "grupo": "Grupo B",
         "posGrupo": 1
       },
       {
@@ -3067,18 +3067,6 @@
         "posGrupo": 3
       },
       {
-        "name": "CORCHOPANES",
-        "pts": 5,
-        "gf": 38,
-        "gc": 37,
-        "dg": 1,
-        "pj": 3,
-        "ordenSorteo": 4,
-        "pg": 2,
-        "grupo": "Grupo B",
-        "posGrupo": 3
-      },
-      {
         "name": "SOWCAUTION",
         "pts": 5,
         "gf": 36,
@@ -3160,6 +3148,18 @@
         "ordenSorteo": 2,
         "pg": 2,
         "grupo": "Grupo C",
+        "posGrupo": 3
+      },
+      {
+        "name": "CORCHOPANES",
+        "pts": 6,
+        "gf": 48,
+        "gc": 52,
+        "dg": -4,
+        "pj": 4,
+        "ordenSorteo": 4,
+        "pg": 2,
+        "grupo": "Grupo B",
         "posGrupo": 3
       },
       {
