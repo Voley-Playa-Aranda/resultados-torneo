@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T09:59:03.160Z",
+  "publicadoEn": "2026-07-11T10:01:03.157Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -494,6 +494,16 @@
         "nombre": "Grupo D",
         "equipos": [
           {
+            "name": "KARIBE VÓLEIBOL",
+            "pts": 4,
+            "gf": 30,
+            "gc": 16,
+            "dg": 14,
+            "pj": 2,
+            "ordenSorteo": 2,
+            "pg": 2
+          },
+          {
             "name": "GANAMOS Y NOS VAMOS",
             "pts": 4,
             "gf": 30,
@@ -502,26 +512,6 @@
             "pj": 2,
             "ordenSorteo": 4,
             "pg": 2
-          },
-          {
-            "name": "KARIBE VÓLEIBOL",
-            "pts": 2,
-            "gf": 15,
-            "gc": 11,
-            "dg": 4,
-            "pj": 1,
-            "ordenSorteo": 2,
-            "pg": 1
-          },
-          {
-            "name": "MANCHESTER PITY",
-            "pts": 1,
-            "gf": 11,
-            "gc": 15,
-            "dg": -4,
-            "pj": 1,
-            "ordenSorteo": 1,
-            "pg": 0
           },
           {
             "name": "TIERRA LLAMANDO A JUAN CARLOS",
@@ -541,6 +531,16 @@
             "dg": -5,
             "pj": 1,
             "ordenSorteo": 0,
+            "pg": 0
+          },
+          {
+            "name": "MANCHESTER PITY",
+            "pts": 2,
+            "gf": 16,
+            "gc": 30,
+            "dg": -14,
+            "pj": 2,
+            "ordenSorteo": 1,
             "pg": 0
           }
         ],
@@ -580,8 +580,8 @@
               {
                 "home": "MANCHESTER PITY",
                 "away": "KARIBE VÓLEIBOL",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 5,
+                "golesAway": 15,
                 "campoId": 3,
                 "ordenGlobal": 66
               }
@@ -1324,6 +1324,16 @@
             "pg": 1
           },
           {
+            "name": "MAS SUELO QUE VÓLEY",
+            "pts": 3,
+            "gf": 23,
+            "gc": 21,
+            "dg": 2,
+            "pj": 2,
+            "ordenSorteo": 1,
+            "pg": 1
+          },
+          {
             "name": "LOS BURPEES BOYS BYIMPROVEFIT",
             "pts": 3,
             "gf": 23,
@@ -1335,22 +1345,12 @@
           },
           {
             "name": "LAS LEYENDAS NUNCA MUEREN",
-            "pts": 1,
-            "gf": 8,
-            "gc": 15,
-            "dg": -7,
-            "pj": 1,
+            "pts": 2,
+            "gf": 14,
+            "gc": 30,
+            "dg": -16,
+            "pj": 2,
             "ordenSorteo": 2,
-            "pg": 0
-          },
-          {
-            "name": "MAS SUELO QUE VÓLEY",
-            "pts": 1,
-            "gf": 8,
-            "gc": 15,
-            "dg": -7,
-            "pj": 1,
-            "ordenSorteo": 1,
             "pg": 0
           }
         ],
@@ -1391,7 +1391,7 @@
                 "home": "MAS SUELO QUE VÓLEY",
                 "away": "LAS LEYENDAS NUNCA MUEREN",
                 "golesHome": 15,
-                "golesAway": "",
+                "golesAway": 6,
                 "campoId": 2,
                 "ordenGlobal": 47
               }
@@ -2086,6 +2086,18 @@
         "posGrupo": 2
       },
       {
+        "name": "KARIBE VÓLEIBOL",
+        "pts": 4,
+        "gf": 30,
+        "gc": 16,
+        "dg": 14,
+        "pj": 2,
+        "ordenSorteo": 2,
+        "pg": 2,
+        "grupo": "Grupo D",
+        "posGrupo": 1
+      },
+      {
         "name": "LO VEO CLARO",
         "pts": 2,
         "gf": 15,
@@ -2154,18 +2166,6 @@
         "pj": 2,
         "ordenSorteo": 4,
         "pg": 2,
-        "grupo": "Grupo D",
-        "posGrupo": 1
-      },
-      {
-        "name": "KARIBE VÓLEIBOL",
-        "pts": 2,
-        "gf": 15,
-        "gc": 11,
-        "dg": 4,
-        "pj": 1,
-        "ordenSorteo": 2,
-        "pg": 1,
         "grupo": "Grupo D",
         "posGrupo": 2
       },
@@ -2290,6 +2290,18 @@
         "posGrupo": 3
       },
       {
+        "name": "MAS SUELO QUE VÓLEY",
+        "pts": 3,
+        "gf": 23,
+        "gc": 21,
+        "dg": 2,
+        "pj": 2,
+        "ordenSorteo": 1,
+        "pg": 1,
+        "grupo": "Grupo I",
+        "posGrupo": 3
+      },
+      {
         "name": "LOS ROMPEBOLAS",
         "pts": 3,
         "gf": 21,
@@ -2323,7 +2335,7 @@
         "ordenSorteo": 4,
         "pg": 1,
         "grupo": "Grupo I",
-        "posGrupo": 3
+        "posGrupo": 4
       },
       {
         "name": "MALITOS",
@@ -2518,18 +2530,6 @@
         "posGrupo": 5
       },
       {
-        "name": "MANCHESTER PITY",
-        "pts": 1,
-        "gf": 11,
-        "gc": 15,
-        "dg": -4,
-        "pj": 1,
-        "ordenSorteo": 1,
-        "pg": 0,
-        "grupo": "Grupo D",
-        "posGrupo": 3
-      },
-      {
         "name": "TIERRA LLAMANDO A JUAN CARLOS",
         "pts": 1,
         "gf": 11,
@@ -2539,7 +2539,7 @@
         "ordenSorteo": 3,
         "pg": 0,
         "grupo": "Grupo D",
-        "posGrupo": 4
+        "posGrupo": 3
       },
       {
         "name": "NOS FUIMOS",
@@ -2551,7 +2551,7 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo D",
-        "posGrupo": 5
+        "posGrupo": 4
       },
       {
         "name": "RIÑONES DE LECHE",
@@ -2578,27 +2578,15 @@
         "posGrupo": 5
       },
       {
-        "name": "LAS LEYENDAS NUNCA MUEREN",
-        "pts": 1,
-        "gf": 8,
-        "gc": 15,
-        "dg": -7,
-        "pj": 1,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo I",
-        "posGrupo": 4
-      },
-      {
-        "name": "MAS SUELO QUE VÓLEY",
-        "pts": 1,
-        "gf": 8,
-        "gc": 15,
-        "dg": -7,
-        "pj": 1,
+        "name": "MANCHESTER PITY",
+        "pts": 2,
+        "gf": 16,
+        "gc": 30,
+        "dg": -14,
+        "pj": 2,
         "ordenSorteo": 1,
         "pg": 0,
-        "grupo": "Grupo I",
+        "grupo": "Grupo D",
         "posGrupo": 5
       },
       {
@@ -2611,6 +2599,18 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo E",
+        "posGrupo": 5
+      },
+      {
+        "name": "LAS LEYENDAS NUNCA MUEREN",
+        "pts": 2,
+        "gf": 14,
+        "gc": 30,
+        "dg": -16,
+        "pj": 2,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo I",
         "posGrupo": 5
       },
       {
@@ -2728,10 +2728,10 @@
     "expandedPartidos": {
       "grupo_4": false,
       "campo_4": false,
-      "campo_0": false,
+      "campo_0": true,
       "campo_3": false,
       "campo_1": false,
-      "campo_2": true,
+      "campo_2": false,
       "campo_5": false,
       "grupo_0": false
     },
@@ -2826,6 +2826,18 @@
         "posGrupo": 1
       },
       {
+        "name": "KARIBE VÓLEIBOL",
+        "pts": 4,
+        "gf": 30,
+        "gc": 16,
+        "dg": 14,
+        "pj": 2,
+        "ordenSorteo": 2,
+        "pg": 2,
+        "grupo": "Grupo D",
+        "posGrupo": 1
+      },
+      {
         "name": "LO VEO CLARO",
         "pts": 2,
         "gf": 15,
@@ -2847,18 +2859,6 @@
         "ordenSorteo": 1,
         "pg": 2,
         "grupo": "Grupo C",
-        "posGrupo": 1
-      },
-      {
-        "name": "GANAMOS Y NOS VAMOS",
-        "pts": 4,
-        "gf": 30,
-        "gc": 21,
-        "dg": 9,
-        "pj": 2,
-        "ordenSorteo": 4,
-        "pg": 2,
-        "grupo": "Grupo D",
         "posGrupo": 1
       },
       {
@@ -2946,14 +2946,14 @@
         "posGrupo": 2
       },
       {
-        "name": "KARIBE VÓLEIBOL",
-        "pts": 2,
-        "gf": 15,
-        "gc": 11,
-        "dg": 4,
-        "pj": 1,
-        "ordenSorteo": 2,
-        "pg": 1,
+        "name": "GANAMOS Y NOS VAMOS",
+        "pts": 4,
+        "gf": 30,
+        "gc": 21,
+        "dg": 9,
+        "pj": 2,
+        "ordenSorteo": 4,
+        "pg": 2,
         "grupo": "Grupo D",
         "posGrupo": 2
       },
@@ -3078,6 +3078,18 @@
         "posGrupo": 3
       },
       {
+        "name": "MAS SUELO QUE VÓLEY",
+        "pts": 3,
+        "gf": 23,
+        "gc": 21,
+        "dg": 2,
+        "pj": 2,
+        "ordenSorteo": 1,
+        "pg": 1,
+        "grupo": "Grupo I",
+        "posGrupo": 3
+      },
+      {
         "name": "LOS ROMPEBOLAS",
         "pts": 3,
         "gf": 21,
@@ -3099,18 +3111,6 @@
         "ordenSorteo": 1,
         "pg": 1,
         "grupo": "Grupo B",
-        "posGrupo": 3
-      },
-      {
-        "name": "LOS BURPEES BOYS BYIMPROVEFIT",
-        "pts": 3,
-        "gf": 23,
-        "gc": 23,
-        "dg": 0,
-        "pj": 2,
-        "ordenSorteo": 4,
-        "pg": 1,
-        "grupo": "Grupo I",
         "posGrupo": 3
       },
       {
@@ -3162,16 +3162,28 @@
         "posGrupo": 3
       },
       {
-        "name": "MANCHESTER PITY",
+        "name": "TIERRA LLAMANDO A JUAN CARLOS",
         "pts": 1,
         "gf": 11,
         "gc": 15,
         "dg": -4,
         "pj": 1,
-        "ordenSorteo": 1,
+        "ordenSorteo": 3,
         "pg": 0,
         "grupo": "Grupo D",
         "posGrupo": 3
+      },
+      {
+        "name": "LOS BURPEES BOYS BYIMPROVEFIT",
+        "pts": 3,
+        "gf": 23,
+        "gc": 23,
+        "dg": 0,
+        "pj": 2,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo I",
+        "posGrupo": 4
       },
       {
         "name": "CORCHOPANES",
@@ -3270,13 +3282,13 @@
         "posGrupo": 4
       },
       {
-        "name": "TIERRA LLAMANDO A JUAN CARLOS",
+        "name": "NOS FUIMOS",
         "pts": 1,
-        "gf": 11,
+        "gf": 10,
         "gc": 15,
-        "dg": -4,
+        "dg": -5,
         "pj": 1,
-        "ordenSorteo": 3,
+        "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo D",
         "posGrupo": 4
@@ -3291,18 +3303,6 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo H",
-        "posGrupo": 4
-      },
-      {
-        "name": "LAS LEYENDAS NUNCA MUEREN",
-        "pts": 1,
-        "gf": 8,
-        "gc": 15,
-        "dg": -7,
-        "pj": 1,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo I",
         "posGrupo": 4
       },
       {
@@ -3342,18 +3342,6 @@
         "posGrupo": 5
       },
       {
-        "name": "NOS FUIMOS",
-        "pts": 1,
-        "gf": 10,
-        "gc": 15,
-        "dg": -5,
-        "pj": 1,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo D",
-        "posGrupo": 5
-      },
-      {
         "name": "MBONANIS TEAM",
         "pts": 2,
         "gf": 22,
@@ -3366,15 +3354,15 @@
         "posGrupo": 5
       },
       {
-        "name": "MAS SUELO QUE VÓLEY",
-        "pts": 1,
-        "gf": 8,
-        "gc": 15,
-        "dg": -7,
-        "pj": 1,
+        "name": "MANCHESTER PITY",
+        "pts": 2,
+        "gf": 16,
+        "gc": 30,
+        "dg": -14,
+        "pj": 2,
         "ordenSorteo": 1,
         "pg": 0,
-        "grupo": "Grupo I",
+        "grupo": "Grupo D",
         "posGrupo": 5
       },
       {
@@ -3387,6 +3375,18 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo E",
+        "posGrupo": 5
+      },
+      {
+        "name": "LAS LEYENDAS NUNCA MUEREN",
+        "pts": 2,
+        "gf": 14,
+        "gc": 30,
+        "dg": -16,
+        "pj": 2,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo I",
         "posGrupo": 5
       },
       {
