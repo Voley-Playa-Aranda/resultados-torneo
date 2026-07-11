@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T13:01:03.158Z",
+  "publicadoEn": "2026-07-11T13:03:03.157Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -1152,23 +1152,23 @@
             "pg": 4
           },
           {
-            "name": "EL PODER DE LA PIEDRA",
-            "pts": 5,
-            "gf": 42,
-            "gc": 26,
-            "dg": 16,
-            "pj": 3,
-            "ordenSorteo": 4,
-            "pg": 2
+            "name": "PRESS PANZA",
+            "pts": 7,
+            "gf": 57,
+            "gc": 38,
+            "dg": 19,
+            "pj": 4,
+            "ordenSorteo": 3,
+            "pg": 3
           },
           {
-            "name": "PRESS PANZA",
-            "pts": 5,
-            "gf": 42,
-            "gc": 30,
-            "dg": 12,
-            "pj": 3,
-            "ordenSorteo": 3,
+            "name": "EL PODER DE LA PIEDRA",
+            "pts": 6,
+            "gf": 50,
+            "gc": 41,
+            "dg": 9,
+            "pj": 4,
+            "ordenSorteo": 4,
             "pg": 2
           },
           {
@@ -1291,8 +1291,8 @@
               {
                 "home": "PRESS PANZA",
                 "away": "EL PODER DE LA PIEDRA",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 15,
+                "golesAway": 8,
                 "campoId": 1,
                 "ordenGlobal": 39
               }
@@ -1638,16 +1638,6 @@
             "pg": 4
           },
           {
-            "name": "ROYALEROS",
-            "pts": 5,
-            "gf": 36,
-            "gc": 37,
-            "dg": -1,
-            "pj": 3,
-            "ordenSorteo": 3,
-            "pg": 2
-          },
-          {
             "name": "LA BATALLA DE LOS PELOS BASTARDOS",
             "pts": 6,
             "gf": 49,
@@ -1658,6 +1648,26 @@
             "pg": 2
           },
           {
+            "name": "ROYALEROS",
+            "pts": 6,
+            "gf": 46,
+            "gc": 52,
+            "dg": -6,
+            "pj": 4,
+            "ordenSorteo": 3,
+            "pg": 2
+          },
+          {
+            "name": "LA CASITA",
+            "pts": 5,
+            "gf": 50,
+            "gc": 55,
+            "dg": -5,
+            "pj": 4,
+            "ordenSorteo": 4,
+            "pg": 1
+          },
+          {
             "name": "ASTON BIRRAS",
             "pts": 5,
             "gf": 44,
@@ -1666,16 +1676,6 @@
             "pj": 4,
             "ordenSorteo": 1,
             "pg": 1
-          },
-          {
-            "name": "LA CASITA",
-            "pts": 3,
-            "gf": 35,
-            "gc": 45,
-            "dg": -10,
-            "pj": 3,
-            "ordenSorteo": 4,
-            "pg": 0
           }
         ],
         "partidos": [
@@ -1777,8 +1777,8 @@
               {
                 "home": "ROYALEROS",
                 "away": "LA CASITA",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 10,
+                "golesAway": 15,
                 "campoId": 4,
                 "ordenGlobal": 99
               }
@@ -2134,6 +2134,18 @@
         "posGrupo": 2
       },
       {
+        "name": "PRESS PANZA",
+        "pts": 7,
+        "gf": 57,
+        "gc": 38,
+        "dg": 19,
+        "pj": 4,
+        "ordenSorteo": 3,
+        "pg": 3,
+        "grupo": "Grupo H",
+        "posGrupo": 2
+      },
+      {
         "name": "DEMENCIA PERMANENTE CYL",
         "pts": 7,
         "gf": 57,
@@ -2182,30 +2194,6 @@
         "posGrupo": 2
       },
       {
-        "name": "EL PODER DE LA PIEDRA",
-        "pts": 5,
-        "gf": 42,
-        "gc": 26,
-        "dg": 16,
-        "pj": 3,
-        "ordenSorteo": 4,
-        "pg": 2,
-        "grupo": "Grupo H",
-        "posGrupo": 2
-      },
-      {
-        "name": "PRESS PANZA",
-        "pts": 5,
-        "gf": 42,
-        "gc": 30,
-        "dg": 12,
-        "pj": 3,
-        "ordenSorteo": 3,
-        "pg": 2,
-        "grupo": "Grupo H",
-        "posGrupo": 3
-      },
-      {
         "name": "MALITOS",
         "pts": 5,
         "gf": 41,
@@ -2240,18 +2228,6 @@
         "pg": 2,
         "grupo": "Grupo I",
         "posGrupo": 3
-      },
-      {
-        "name": "ROYALEROS",
-        "pts": 5,
-        "gf": 36,
-        "gc": 37,
-        "dg": -1,
-        "pj": 3,
-        "ordenSorteo": 3,
-        "pg": 2,
-        "grupo": "Grupo K",
-        "posGrupo": 2
       },
       {
         "name": "STREET VOLLEY",
@@ -2290,6 +2266,18 @@
         "posGrupo": 2
       },
       {
+        "name": "EL PODER DE LA PIEDRA",
+        "pts": 6,
+        "gf": 50,
+        "gc": 41,
+        "dg": 9,
+        "pj": 4,
+        "ordenSorteo": 4,
+        "pg": 2,
+        "grupo": "Grupo H",
+        "posGrupo": 3
+      },
+      {
         "name": "EL TAMAÑO NO IMPORTA",
         "pts": 6,
         "gf": 52,
@@ -2323,7 +2311,7 @@
         "ordenSorteo": 0,
         "pg": 2,
         "grupo": "Grupo K",
-        "posGrupo": 3
+        "posGrupo": 2
       },
       {
         "name": "KINDER SORPRESA",
@@ -2422,6 +2410,18 @@
         "posGrupo": 4
       },
       {
+        "name": "ROYALEROS",
+        "pts": 6,
+        "gf": 46,
+        "gc": 52,
+        "dg": -6,
+        "pj": 4,
+        "ordenSorteo": 3,
+        "pg": 2,
+        "grupo": "Grupo K",
+        "posGrupo": 3
+      },
+      {
         "name": "ZEMEN UP",
         "pts": 6,
         "gf": 41,
@@ -2432,6 +2432,18 @@
         "pg": 2,
         "grupo": "Grupo J",
         "posGrupo": 3
+      },
+      {
+        "name": "LA CASITA",
+        "pts": 5,
+        "gf": 50,
+        "gc": 55,
+        "dg": -5,
+        "pj": 4,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo K",
+        "posGrupo": 4
       },
       {
         "name": "CHACALES",
@@ -2527,7 +2539,7 @@
         "ordenSorteo": 1,
         "pg": 1,
         "grupo": "Grupo K",
-        "posGrupo": 4
+        "posGrupo": 5
       },
       {
         "name": "PINO JACINTO",
@@ -2588,18 +2600,6 @@
         "pg": 1,
         "grupo": "Grupo E",
         "posGrupo": 4
-      },
-      {
-        "name": "LA CASITA",
-        "pts": 3,
-        "gf": 35,
-        "gc": 45,
-        "dg": -10,
-        "pj": 3,
-        "ordenSorteo": 4,
-        "pg": 0,
-        "grupo": "Grupo K",
-        "posGrupo": 5
       },
       {
         "name": "MBONANIS TEAM",
@@ -2729,7 +2729,7 @@
       "grupo_4": false,
       "campo_4": false,
       "campo_0": false,
-      "campo_3": true,
+      "campo_3": false,
       "campo_1": false,
       "campo_2": false,
       "campo_5": false,
@@ -2923,6 +2923,18 @@
         "posGrupo": 2
       },
       {
+        "name": "PRESS PANZA",
+        "pts": 7,
+        "gf": 57,
+        "gc": 38,
+        "dg": 19,
+        "pj": 4,
+        "ordenSorteo": 3,
+        "pg": 3,
+        "grupo": "Grupo H",
+        "posGrupo": 2
+      },
+      {
         "name": "DEMENCIA PERMANENTE CYL",
         "pts": 7,
         "gf": 57,
@@ -2959,18 +2971,6 @@
         "posGrupo": 2
       },
       {
-        "name": "EL PODER DE LA PIEDRA",
-        "pts": 5,
-        "gf": 42,
-        "gc": 26,
-        "dg": 16,
-        "pj": 3,
-        "ordenSorteo": 4,
-        "pg": 2,
-        "grupo": "Grupo H",
-        "posGrupo": 2
-      },
-      {
         "name": "MALITOS",
         "pts": 5,
         "gf": 41,
@@ -2992,18 +2992,6 @@
         "ordenSorteo": 4,
         "pg": 2,
         "grupo": "Grupo I",
-        "posGrupo": 2
-      },
-      {
-        "name": "ROYALEROS",
-        "pts": 5,
-        "gf": 36,
-        "gc": 37,
-        "dg": -1,
-        "pj": 3,
-        "ordenSorteo": 3,
-        "pg": 2,
-        "grupo": "Grupo K",
         "posGrupo": 2
       },
       {
@@ -3043,16 +3031,16 @@
         "posGrupo": 2
       },
       {
-        "name": "PRESS PANZA",
-        "pts": 5,
-        "gf": 42,
-        "gc": 30,
-        "dg": 12,
-        "pj": 3,
-        "ordenSorteo": 3,
+        "name": "LA BATALLA DE LOS PELOS BASTARDOS",
+        "pts": 6,
+        "gf": 49,
+        "gc": 46,
+        "dg": 3,
+        "pj": 4,
+        "ordenSorteo": 0,
         "pg": 2,
-        "grupo": "Grupo H",
-        "posGrupo": 3
+        "grupo": "Grupo K",
+        "posGrupo": 2
       },
       {
         "name": "SOWCAUTION",
@@ -3091,15 +3079,15 @@
         "posGrupo": 3
       },
       {
-        "name": "LA BATALLA DE LOS PELOS BASTARDOS",
+        "name": "EL PODER DE LA PIEDRA",
         "pts": 6,
-        "gf": 49,
-        "gc": 46,
-        "dg": 3,
+        "gf": 50,
+        "gc": 41,
+        "dg": 9,
         "pj": 4,
-        "ordenSorteo": 0,
+        "ordenSorteo": 4,
         "pg": 2,
-        "grupo": "Grupo K",
+        "grupo": "Grupo H",
         "posGrupo": 3
       },
       {
@@ -3175,6 +3163,18 @@
         "posGrupo": 3
       },
       {
+        "name": "ROYALEROS",
+        "pts": 6,
+        "gf": 46,
+        "gc": 52,
+        "dg": -6,
+        "pj": 4,
+        "ordenSorteo": 3,
+        "pg": 2,
+        "grupo": "Grupo K",
+        "posGrupo": 3
+      },
+      {
         "name": "ZEMEN UP",
         "pts": 6,
         "gf": 41,
@@ -3208,6 +3208,18 @@
         "ordenSorteo": 4,
         "pg": 2,
         "grupo": "Grupo L",
+        "posGrupo": 4
+      },
+      {
+        "name": "LA CASITA",
+        "pts": 5,
+        "gf": 50,
+        "gc": 55,
+        "dg": -5,
+        "pj": 4,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo K",
         "posGrupo": 4
       },
       {
@@ -3283,18 +3295,6 @@
         "posGrupo": 4
       },
       {
-        "name": "ASTON BIRRAS",
-        "pts": 5,
-        "gf": 44,
-        "gc": 57,
-        "dg": -13,
-        "pj": 4,
-        "ordenSorteo": 1,
-        "pg": 1,
-        "grupo": "Grupo K",
-        "posGrupo": 4
-      },
-      {
         "name": "PINO JACINTO",
         "pts": 5,
         "gf": 33,
@@ -3343,6 +3343,18 @@
         "posGrupo": 5
       },
       {
+        "name": "ASTON BIRRAS",
+        "pts": 5,
+        "gf": 44,
+        "gc": 57,
+        "dg": -13,
+        "pj": 4,
+        "ordenSorteo": 1,
+        "pg": 1,
+        "grupo": "Grupo K",
+        "posGrupo": 5
+      },
+      {
         "name": "NOS FUIMOS",
         "pts": 5,
         "gf": 41,
@@ -3364,18 +3376,6 @@
         "ordenSorteo": 4,
         "pg": 1,
         "grupo": "Grupo C",
-        "posGrupo": 5
-      },
-      {
-        "name": "LA CASITA",
-        "pts": 3,
-        "gf": 35,
-        "gc": 45,
-        "dg": -10,
-        "pj": 3,
-        "ordenSorteo": 4,
-        "pg": 0,
-        "grupo": "Grupo K",
         "posGrupo": 5
       },
       {
