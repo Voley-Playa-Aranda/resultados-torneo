@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T10:03:03.161Z",
+  "publicadoEn": "2026-07-11T10:05:03.157Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -8,16 +8,6 @@
         "nombre": "Grupo A",
         "equipos": [
           {
-            "name": "NOTTINGHAN PRISAS",
-            "pts": 2,
-            "gf": 15,
-            "gc": 6,
-            "dg": 9,
-            "pj": 1,
-            "ordenSorteo": 3,
-            "pg": 1
-          },
-          {
             "name": "VOLCADOS",
             "pts": 4,
             "gf": 30,
@@ -25,6 +15,16 @@
             "dg": 14,
             "pj": 2,
             "ordenSorteo": 4,
+            "pg": 2
+          },
+          {
+            "name": "NOTTINGHAN PRISAS",
+            "pts": 4,
+            "gf": 30,
+            "gc": 19,
+            "dg": 11,
+            "pj": 2,
+            "ordenSorteo": 3,
             "pg": 2
           },
           {
@@ -39,11 +39,11 @@
           },
           {
             "name": "STREET VOLLEY",
-            "pts": 1,
-            "gf": 13,
-            "gc": 15,
-            "dg": -2,
-            "pj": 1,
+            "pts": 2,
+            "gf": 26,
+            "gc": 30,
+            "dg": -4,
+            "pj": 2,
             "ordenSorteo": 0,
             "pg": 0
           },
@@ -107,8 +107,8 @@
               {
                 "home": "STREET VOLLEY",
                 "away": "NOTTINGHAN PRISAS",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 13,
+                "golesAway": 15,
                 "campoId": 0,
                 "ordenGlobal": 8
               },
@@ -1153,13 +1153,13 @@
           },
           {
             "name": "GUSANOS GAFONES",
-            "pts": 2,
-            "gf": 15,
-            "gc": 12,
-            "dg": 3,
-            "pj": 1,
+            "pts": 4,
+            "gf": 30,
+            "gc": 20,
+            "dg": 10,
+            "pj": 2,
             "ordenSorteo": 1,
-            "pg": 1
+            "pg": 2
           },
           {
             "name": "EL PODER DE LA PIEDRA",
@@ -1183,11 +1183,11 @@
           },
           {
             "name": "GORRO DE PISCINA NEGRO",
-            "pts": 1,
-            "gf": 5,
-            "gc": 15,
-            "dg": -10,
-            "pj": 1,
+            "pts": 2,
+            "gf": 13,
+            "gc": 30,
+            "dg": -17,
+            "pj": 2,
             "ordenSorteo": 2,
             "pg": 0
           }
@@ -1228,8 +1228,8 @@
               {
                 "home": "GUSANOS GAFONES",
                 "away": "GORRO DE PISCINA NEGRO",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 15,
+                "golesAway": 8,
                 "campoId": 1,
                 "ordenGlobal": 27
               }
@@ -2050,18 +2050,6 @@
         "posGrupo": 1
       },
       {
-        "name": "NOTTINGHAN PRISAS",
-        "pts": 2,
-        "gf": 15,
-        "gc": 6,
-        "dg": 9,
-        "pj": 1,
-        "ordenSorteo": 3,
-        "pg": 1,
-        "grupo": "Grupo A",
-        "posGrupo": 1
-      },
-      {
         "name": "TE MIRO Y TE BLOQUEO",
         "pts": 2,
         "gf": 15,
@@ -2143,6 +2131,30 @@
         "ordenSorteo": 4,
         "pg": 2,
         "grupo": "Grupo A",
+        "posGrupo": 1
+      },
+      {
+        "name": "NOTTINGHAN PRISAS",
+        "pts": 4,
+        "gf": 30,
+        "gc": 19,
+        "dg": 11,
+        "pj": 2,
+        "ordenSorteo": 3,
+        "pg": 2,
+        "grupo": "Grupo A",
+        "posGrupo": 2
+      },
+      {
+        "name": "GUSANOS GAFONES",
+        "pts": 4,
+        "gf": 30,
+        "gc": 20,
+        "dg": 10,
+        "pj": 2,
+        "ordenSorteo": 1,
+        "pg": 2,
+        "grupo": "Grupo H",
         "posGrupo": 2
       },
       {
@@ -2204,18 +2216,6 @@
         "pg": 1,
         "grupo": "Grupo K",
         "posGrupo": 3
-      },
-      {
-        "name": "GUSANOS GAFONES",
-        "pts": 2,
-        "gf": 15,
-        "gc": 12,
-        "dg": 3,
-        "pj": 1,
-        "ordenSorteo": 1,
-        "pg": 1,
-        "grupo": "Grupo H",
-        "posGrupo": 2
       },
       {
         "name": "EL CLAN DE LOS LOZANO",
@@ -2483,11 +2483,11 @@
       },
       {
         "name": "STREET VOLLEY",
-        "pts": 1,
-        "gf": 13,
-        "gc": 15,
-        "dg": -2,
-        "pj": 1,
+        "pts": 2,
+        "gf": 26,
+        "gc": 30,
+        "dg": -4,
+        "pj": 2,
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo A",
@@ -2614,6 +2614,18 @@
         "posGrupo": 5
       },
       {
+        "name": "GORRO DE PISCINA NEGRO",
+        "pts": 2,
+        "gf": 13,
+        "gc": 30,
+        "dg": -17,
+        "pj": 2,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo H",
+        "posGrupo": 5
+      },
+      {
         "name": "ROYALEROS",
         "pts": 1,
         "gf": 6,
@@ -2635,18 +2647,6 @@
         "ordenSorteo": 3,
         "pg": 0,
         "grupo": "Grupo F",
-        "posGrupo": 5
-      },
-      {
-        "name": "GORRO DE PISCINA NEGRO",
-        "pts": 1,
-        "gf": 5,
-        "gc": 15,
-        "dg": -10,
-        "pj": 1,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo H",
         "posGrupo": 5
       },
       {
@@ -2730,7 +2730,7 @@
       "campo_4": false,
       "campo_0": false,
       "campo_3": false,
-      "campo_1": true,
+      "campo_1": false,
       "campo_2": false,
       "campo_5": false,
       "grupo_0": false
@@ -2802,18 +2802,6 @@
         "posGrupo": 1
       },
       {
-        "name": "NOTTINGHAN PRISAS",
-        "pts": 2,
-        "gf": 15,
-        "gc": 6,
-        "dg": 9,
-        "pj": 1,
-        "ordenSorteo": 3,
-        "pg": 1,
-        "grupo": "Grupo A",
-        "posGrupo": 1
-      },
-      {
         "name": "TE MIRO Y TE BLOQUEO",
         "pts": 2,
         "gf": 15,
@@ -2859,6 +2847,18 @@
         "ordenSorteo": 1,
         "pg": 2,
         "grupo": "Grupo C",
+        "posGrupo": 1
+      },
+      {
+        "name": "VOLCADOS",
+        "pts": 4,
+        "gf": 30,
+        "gc": 16,
+        "dg": 14,
+        "pj": 2,
+        "ordenSorteo": 4,
+        "pg": 2,
+        "grupo": "Grupo A",
         "posGrupo": 1
       },
       {
@@ -2922,15 +2922,27 @@
         "posGrupo": 2
       },
       {
-        "name": "VOLCADOS",
+        "name": "NOTTINGHAN PRISAS",
         "pts": 4,
         "gf": 30,
-        "gc": 16,
-        "dg": 14,
+        "gc": 19,
+        "dg": 11,
         "pj": 2,
-        "ordenSorteo": 4,
+        "ordenSorteo": 3,
         "pg": 2,
         "grupo": "Grupo A",
+        "posGrupo": 2
+      },
+      {
+        "name": "GUSANOS GAFONES",
+        "pts": 4,
+        "gf": 30,
+        "gc": 20,
+        "dg": 10,
+        "pj": 2,
+        "ordenSorteo": 1,
+        "pg": 2,
+        "grupo": "Grupo H",
         "posGrupo": 2
       },
       {
@@ -2955,18 +2967,6 @@
         "ordenSorteo": 4,
         "pg": 2,
         "grupo": "Grupo D",
-        "posGrupo": 2
-      },
-      {
-        "name": "GUSANOS GAFONES",
-        "pts": 2,
-        "gf": 15,
-        "gc": 12,
-        "dg": 3,
-        "pj": 1,
-        "ordenSorteo": 1,
-        "pg": 1,
-        "grupo": "Grupo H",
         "posGrupo": 2
       },
       {
@@ -3259,11 +3259,11 @@
       },
       {
         "name": "STREET VOLLEY",
-        "pts": 1,
-        "gf": 13,
-        "gc": 15,
-        "dg": -2,
-        "pj": 1,
+        "pts": 2,
+        "gf": 26,
+        "gc": 30,
+        "dg": -4,
+        "pj": 2,
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo A",
@@ -3390,6 +3390,18 @@
         "posGrupo": 5
       },
       {
+        "name": "GORRO DE PISCINA NEGRO",
+        "pts": 2,
+        "gf": 13,
+        "gc": 30,
+        "dg": -17,
+        "pj": 2,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo H",
+        "posGrupo": 5
+      },
+      {
         "name": "ROYALEROS",
         "pts": 1,
         "gf": 6,
@@ -3411,18 +3423,6 @@
         "ordenSorteo": 3,
         "pg": 0,
         "grupo": "Grupo F",
-        "posGrupo": 5
-      },
-      {
-        "name": "GORRO DE PISCINA NEGRO",
-        "pts": 1,
-        "gf": 5,
-        "gc": 15,
-        "dg": -10,
-        "pj": 1,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo H",
         "posGrupo": 5
       },
       {
