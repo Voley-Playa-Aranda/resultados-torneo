@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T10:29:03.160Z",
+  "publicadoEn": "2026-07-11T10:31:03.157Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -514,23 +514,23 @@
             "pg": 2
           },
           {
-            "name": "TIERRA LLAMANDO A JUAN CARLOS",
-            "pts": 1,
-            "gf": 11,
-            "gc": 15,
-            "dg": -4,
-            "pj": 1,
-            "ordenSorteo": 3,
-            "pg": 0
+            "name": "NOS FUIMOS",
+            "pts": 3,
+            "gf": 26,
+            "gc": 29,
+            "dg": -3,
+            "pj": 2,
+            "ordenSorteo": 0,
+            "pg": 1
           },
           {
-            "name": "NOS FUIMOS",
-            "pts": 1,
-            "gf": 10,
-            "gc": 15,
-            "dg": -5,
-            "pj": 1,
-            "ordenSorteo": 0,
+            "name": "TIERRA LLAMANDO A JUAN CARLOS",
+            "pts": 2,
+            "gf": 25,
+            "gc": 31,
+            "dg": -6,
+            "pj": 2,
+            "ordenSorteo": 3,
             "pg": 0
           },
           {
@@ -593,8 +593,8 @@
               {
                 "home": "NOS FUIMOS",
                 "away": "TIERRA LLAMANDO A JUAN CARLOS",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 16,
+                "golesAway": 14,
                 "campoId": 3,
                 "ordenGlobal": 68
               },
@@ -1821,21 +1821,21 @@
           },
           {
             "name": "TE EMPAQUETO",
-            "pts": 1,
-            "gf": 5,
-            "gc": 15,
-            "dg": -10,
-            "pj": 1,
+            "pts": 3,
+            "gf": 20,
+            "gc": 20,
+            "dg": 0,
+            "pj": 2,
             "ordenSorteo": 3,
-            "pg": 0
+            "pg": 1
           },
           {
             "name": "VODKA JUNIORS",
-            "pts": 1,
-            "gf": 5,
-            "gc": 15,
-            "dg": -10,
-            "pj": 1,
+            "pts": 2,
+            "gf": 10,
+            "gc": 30,
+            "dg": -20,
+            "pj": 2,
             "ordenSorteo": 0,
             "pg": 0
           }
@@ -1889,8 +1889,8 @@
               {
                 "home": "VODKA JUNIORS",
                 "away": "TE EMPAQUETO",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 5,
+                "golesAway": 15,
                 "campoId": 5,
                 "ordenGlobal": 109
               },
@@ -2326,6 +2326,18 @@
         "posGrupo": 3
       },
       {
+        "name": "TE EMPAQUETO",
+        "pts": 3,
+        "gf": 20,
+        "gc": 20,
+        "dg": 0,
+        "pj": 2,
+        "ordenSorteo": 3,
+        "pg": 1,
+        "grupo": "Grupo L",
+        "posGrupo": 4
+      },
+      {
         "name": "MALITOS",
         "pts": 3,
         "gf": 26,
@@ -2360,6 +2372,18 @@
         "pg": 1,
         "grupo": "Grupo I",
         "posGrupo": 4
+      },
+      {
+        "name": "NOS FUIMOS",
+        "pts": 3,
+        "gf": 26,
+        "gc": 29,
+        "dg": -3,
+        "pj": 2,
+        "ordenSorteo": 0,
+        "pg": 1,
+        "grupo": "Grupo D",
+        "posGrupo": 3
       },
       {
         "name": "MENESTRA CON GINEBRA",
@@ -2506,6 +2530,18 @@
         "posGrupo": 4
       },
       {
+        "name": "TIERRA LLAMANDO A JUAN CARLOS",
+        "pts": 2,
+        "gf": 25,
+        "gc": 31,
+        "dg": -6,
+        "pj": 2,
+        "ordenSorteo": 3,
+        "pg": 0,
+        "grupo": "Grupo D",
+        "posGrupo": 4
+      },
+      {
         "name": "LA CASITA",
         "pts": 2,
         "gf": 22,
@@ -2515,30 +2551,6 @@
         "ordenSorteo": 4,
         "pg": 0,
         "grupo": "Grupo K",
-        "posGrupo": 4
-      },
-      {
-        "name": "TIERRA LLAMANDO A JUAN CARLOS",
-        "pts": 1,
-        "gf": 11,
-        "gc": 15,
-        "dg": -4,
-        "pj": 1,
-        "ordenSorteo": 3,
-        "pg": 0,
-        "grupo": "Grupo D",
-        "posGrupo": 3
-      },
-      {
-        "name": "NOS FUIMOS",
-        "pts": 1,
-        "gf": 10,
-        "gc": 15,
-        "dg": -5,
-        "pj": 1,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo D",
         "posGrupo": 4
       },
       {
@@ -2662,24 +2674,12 @@
         "posGrupo": 5
       },
       {
-        "name": "TE EMPAQUETO",
-        "pts": 1,
-        "gf": 5,
-        "gc": 15,
-        "dg": -10,
-        "pj": 1,
-        "ordenSorteo": 3,
-        "pg": 0,
-        "grupo": "Grupo L",
-        "posGrupo": 4
-      },
-      {
         "name": "VODKA JUNIORS",
-        "pts": 1,
-        "gf": 5,
-        "gc": 15,
-        "dg": -10,
-        "pj": 1,
+        "pts": 2,
+        "gf": 10,
+        "gc": 30,
+        "dg": -20,
+        "pj": 2,
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo L",
@@ -3114,6 +3114,18 @@
         "posGrupo": 3
       },
       {
+        "name": "NOS FUIMOS",
+        "pts": 3,
+        "gf": 26,
+        "gc": 29,
+        "dg": -3,
+        "pj": 2,
+        "ordenSorteo": 0,
+        "pg": 1,
+        "grupo": "Grupo D",
+        "posGrupo": 3
+      },
+      {
         "name": "KIKOÑAZO",
         "pts": 3,
         "gf": 24,
@@ -3162,16 +3174,16 @@
         "posGrupo": 3
       },
       {
-        "name": "TIERRA LLAMANDO A JUAN CARLOS",
-        "pts": 1,
-        "gf": 11,
-        "gc": 15,
-        "dg": -4,
-        "pj": 1,
+        "name": "TE EMPAQUETO",
+        "pts": 3,
+        "gf": 20,
+        "gc": 20,
+        "dg": 0,
+        "pj": 2,
         "ordenSorteo": 3,
-        "pg": 0,
-        "grupo": "Grupo D",
-        "posGrupo": 3
+        "pg": 1,
+        "grupo": "Grupo L",
+        "posGrupo": 4
       },
       {
         "name": "MALITOS",
@@ -3270,6 +3282,18 @@
         "posGrupo": 4
       },
       {
+        "name": "TIERRA LLAMANDO A JUAN CARLOS",
+        "pts": 2,
+        "gf": 25,
+        "gc": 31,
+        "dg": -6,
+        "pj": 2,
+        "ordenSorteo": 3,
+        "pg": 0,
+        "grupo": "Grupo D",
+        "posGrupo": 4
+      },
+      {
         "name": "LA CASITA",
         "pts": 2,
         "gf": 22,
@@ -3282,18 +3306,6 @@
         "posGrupo": 4
       },
       {
-        "name": "NOS FUIMOS",
-        "pts": 1,
-        "gf": 10,
-        "gc": 15,
-        "dg": -5,
-        "pj": 1,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo D",
-        "posGrupo": 4
-      },
-      {
         "name": "RIÑONES DE LECHE",
         "pts": 1,
         "gf": 10,
@@ -3303,18 +3315,6 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo H",
-        "posGrupo": 4
-      },
-      {
-        "name": "TE EMPAQUETO",
-        "pts": 1,
-        "gf": 5,
-        "gc": 15,
-        "dg": -10,
-        "pj": 1,
-        "ordenSorteo": 3,
-        "pg": 0,
-        "grupo": "Grupo L",
         "posGrupo": 4
       },
       {
@@ -3439,11 +3439,11 @@
       },
       {
         "name": "VODKA JUNIORS",
-        "pts": 1,
-        "gf": 5,
-        "gc": 15,
-        "dg": -10,
-        "pj": 1,
+        "pts": 2,
+        "gf": 10,
+        "gc": 30,
+        "dg": -20,
+        "pj": 2,
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo L",
