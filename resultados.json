@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T16:43:03.163Z",
+  "publicadoEn": "2026-07-11T16:47:03.161Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -3974,8 +3974,8 @@
               "away": "CENTAUROS",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 11,
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -4011,7 +4011,7 @@
             },
             {
               "home": "",
-              "away": "",
+              "away": "CENTAUROS",
               "sets": [
                 {
                   "hS": "",
@@ -4449,7 +4449,7 @@
         }
       }
     },
-    "faseFinalActiva": "plata",
+    "faseFinalActiva": "oro",
     "faseFinalGenerada": true,
     "cfgNumGrupos": 12,
     "lastPosicionEq": [
