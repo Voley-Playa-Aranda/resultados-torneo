@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T10:09:03.161Z",
+  "publicadoEn": "2026-07-11T10:11:03.157Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -1629,13 +1629,13 @@
         "equipos": [
           {
             "name": "GLUTEN FREE",
-            "pts": 2,
-            "gf": 15,
-            "gc": 6,
-            "dg": 9,
-            "pj": 1,
+            "pts": 4,
+            "gf": 30,
+            "gc": 16,
+            "dg": 14,
+            "pj": 2,
             "ordenSorteo": 2,
-            "pg": 1
+            "pg": 2
           },
           {
             "name": "LA BATALLA DE LOS PELOS BASTARDOS",
@@ -1649,11 +1649,11 @@
           },
           {
             "name": "ASTON BIRRAS",
-            "pts": 2,
-            "gf": 15,
-            "gc": 12,
-            "dg": 3,
-            "pj": 1,
+            "pts": 3,
+            "gf": 25,
+            "gc": 27,
+            "dg": -2,
+            "pj": 2,
             "ordenSorteo": 1,
             "pg": 1
           },
@@ -1714,8 +1714,8 @@
               {
                 "home": "ASTON BIRRAS",
                 "away": "GLUTEN FREE",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 10,
+                "golesAway": 15,
                 "campoId": 4,
                 "ordenGlobal": 87
               }
@@ -1791,21 +1791,21 @@
         "equipos": [
           {
             "name": "ASÍ DE PEQUEÑITOS",
-            "pts": 2,
-            "gf": 15,
-            "gc": 5,
-            "dg": 10,
-            "pj": 1,
+            "pts": 4,
+            "gf": 30,
+            "gc": 14,
+            "dg": 16,
+            "pj": 2,
             "ordenSorteo": 2,
-            "pg": 1
+            "pg": 2
           },
           {
             "name": "EL TAMAÑO NO IMPORTA",
-            "pts": 2,
-            "gf": 15,
-            "gc": 6,
-            "dg": 9,
-            "pj": 1,
+            "pts": 3,
+            "gf": 24,
+            "gc": 21,
+            "dg": 3,
+            "pj": 2,
             "ordenSorteo": 1,
             "pg": 1
           },
@@ -1876,8 +1876,8 @@
               {
                 "home": "EL TAMAÑO NO IMPORTA",
                 "away": "ASÍ DE PEQUEÑITOS",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 9,
+                "golesAway": 15,
                 "campoId": 5,
                 "ordenGlobal": 107
               }
@@ -1990,18 +1990,6 @@
         "posGrupo": 1
       },
       {
-        "name": "ASÍ DE PEQUEÑITOS",
-        "pts": 2,
-        "gf": 15,
-        "gc": 5,
-        "dg": 10,
-        "pj": 1,
-        "ordenSorteo": 2,
-        "pg": 1,
-        "grupo": "Grupo L",
-        "posGrupo": 1
-      },
-      {
         "name": "PRESS PANZA",
         "pts": 2,
         "gf": 15,
@@ -2026,30 +2014,6 @@
         "posGrupo": 1
       },
       {
-        "name": "EL TAMAÑO NO IMPORTA",
-        "pts": 2,
-        "gf": 15,
-        "gc": 6,
-        "dg": 9,
-        "pj": 1,
-        "ordenSorteo": 1,
-        "pg": 1,
-        "grupo": "Grupo L",
-        "posGrupo": 2
-      },
-      {
-        "name": "GLUTEN FREE",
-        "pts": 2,
-        "gf": 15,
-        "gc": 6,
-        "dg": 9,
-        "pj": 1,
-        "ordenSorteo": 2,
-        "pg": 1,
-        "grupo": "Grupo K",
-        "posGrupo": 1
-      },
-      {
         "name": "TE MIRO Y TE BLOQUEO",
         "pts": 2,
         "gf": 15,
@@ -2059,6 +2023,18 @@
         "ordenSorteo": 3,
         "pg": 1,
         "grupo": "Grupo B",
+        "posGrupo": 1
+      },
+      {
+        "name": "ASÍ DE PEQUEÑITOS",
+        "pts": 4,
+        "gf": 30,
+        "gc": 14,
+        "dg": 16,
+        "pj": 2,
+        "ordenSorteo": 2,
+        "pg": 2,
+        "grupo": "Grupo L",
         "posGrupo": 1
       },
       {
@@ -2072,6 +2048,18 @@
         "pg": 1,
         "grupo": "Grupo B",
         "posGrupo": 2
+      },
+      {
+        "name": "GLUTEN FREE",
+        "pts": 4,
+        "gf": 30,
+        "gc": 16,
+        "dg": 14,
+        "pj": 2,
+        "ordenSorteo": 2,
+        "pg": 2,
+        "grupo": "Grupo K",
+        "posGrupo": 1
       },
       {
         "name": "KARIBE VÓLEIBOL",
@@ -2206,18 +2194,6 @@
         "posGrupo": 1
       },
       {
-        "name": "ASTON BIRRAS",
-        "pts": 2,
-        "gf": 15,
-        "gc": 12,
-        "dg": 3,
-        "pj": 1,
-        "ordenSorteo": 1,
-        "pg": 1,
-        "grupo": "Grupo K",
-        "posGrupo": 3
-      },
-      {
         "name": "EL CLAN DE LOS LOZANO",
         "pts": 2,
         "gf": 18,
@@ -2264,6 +2240,18 @@
         "pg": 1,
         "grupo": "Grupo F",
         "posGrupo": 3
+      },
+      {
+        "name": "EL TAMAÑO NO IMPORTA",
+        "pts": 3,
+        "gf": 24,
+        "gc": 21,
+        "dg": 3,
+        "pj": 2,
+        "ordenSorteo": 1,
+        "pg": 1,
+        "grupo": "Grupo L",
+        "posGrupo": 2
       },
       {
         "name": "PINO JACINTO",
@@ -2347,6 +2335,18 @@
         "ordenSorteo": 4,
         "pg": 1,
         "grupo": "Grupo J",
+        "posGrupo": 3
+      },
+      {
+        "name": "ASTON BIRRAS",
+        "pts": 3,
+        "gf": 25,
+        "gc": 27,
+        "dg": -2,
+        "pj": 2,
+        "ordenSorteo": 1,
+        "pg": 1,
+        "grupo": "Grupo K",
         "posGrupo": 3
       },
       {
@@ -2731,8 +2731,8 @@
       "campo_0": false,
       "campo_3": false,
       "campo_1": false,
-      "campo_2": false,
-      "campo_5": true,
+      "campo_2": true,
+      "campo_5": false,
       "grupo_0": false
     },
     "expandedClasificaciones": {},
@@ -2751,18 +2751,6 @@
         "ordenSorteo": 2,
         "pg": 2,
         "grupo": "Grupo G",
-        "posGrupo": 1
-      },
-      {
-        "name": "ASÍ DE PEQUEÑITOS",
-        "pts": 2,
-        "gf": 15,
-        "gc": 5,
-        "dg": 10,
-        "pj": 1,
-        "ordenSorteo": 2,
-        "pg": 1,
-        "grupo": "Grupo L",
         "posGrupo": 1
       },
       {
@@ -2790,18 +2778,6 @@
         "posGrupo": 1
       },
       {
-        "name": "GLUTEN FREE",
-        "pts": 2,
-        "gf": 15,
-        "gc": 6,
-        "dg": 9,
-        "pj": 1,
-        "ordenSorteo": 2,
-        "pg": 1,
-        "grupo": "Grupo K",
-        "posGrupo": 1
-      },
-      {
         "name": "TE MIRO Y TE BLOQUEO",
         "pts": 2,
         "gf": 15,
@@ -2811,6 +2787,30 @@
         "ordenSorteo": 3,
         "pg": 1,
         "grupo": "Grupo B",
+        "posGrupo": 1
+      },
+      {
+        "name": "ASÍ DE PEQUEÑITOS",
+        "pts": 4,
+        "gf": 30,
+        "gc": 14,
+        "dg": 16,
+        "pj": 2,
+        "ordenSorteo": 2,
+        "pg": 2,
+        "grupo": "Grupo L",
+        "posGrupo": 1
+      },
+      {
+        "name": "GLUTEN FREE",
+        "pts": 4,
+        "gf": 30,
+        "gc": 16,
+        "dg": 14,
+        "pj": 2,
+        "ordenSorteo": 2,
+        "pg": 2,
+        "grupo": "Grupo K",
         "posGrupo": 1
       },
       {
@@ -2884,18 +2884,6 @@
         "pg": 2,
         "grupo": "Grupo F",
         "posGrupo": 1
-      },
-      {
-        "name": "EL TAMAÑO NO IMPORTA",
-        "pts": 2,
-        "gf": 15,
-        "gc": 6,
-        "dg": 9,
-        "pj": 1,
-        "ordenSorteo": 1,
-        "pg": 1,
-        "grupo": "Grupo L",
-        "posGrupo": 2
       },
       {
         "name": "DEMENCIA PERMANENTE CYL",
@@ -3006,6 +2994,18 @@
         "posGrupo": 2
       },
       {
+        "name": "EL TAMAÑO NO IMPORTA",
+        "pts": 3,
+        "gf": 24,
+        "gc": 21,
+        "dg": 3,
+        "pj": 2,
+        "ordenSorteo": 1,
+        "pg": 1,
+        "grupo": "Grupo L",
+        "posGrupo": 2
+      },
+      {
         "name": "KIKOÑAZO",
         "pts": 3,
         "gf": 24,
@@ -3028,18 +3028,6 @@
         "pg": 1,
         "grupo": "Grupo G",
         "posGrupo": 2
-      },
-      {
-        "name": "ASTON BIRRAS",
-        "pts": 2,
-        "gf": 15,
-        "gc": 12,
-        "dg": 3,
-        "pj": 1,
-        "ordenSorteo": 1,
-        "pg": 1,
-        "grupo": "Grupo K",
-        "posGrupo": 3
       },
       {
         "name": "ASOCIACIÓN DE DRAGONES AMERICANOS",
@@ -3123,6 +3111,18 @@
         "ordenSorteo": 4,
         "pg": 1,
         "grupo": "Grupo J",
+        "posGrupo": 3
+      },
+      {
+        "name": "ASTON BIRRAS",
+        "pts": 3,
+        "gf": 25,
+        "gc": 27,
+        "dg": -2,
+        "pj": 2,
+        "ordenSorteo": 1,
+        "pg": 1,
+        "grupo": "Grupo K",
         "posGrupo": 3
       },
       {
