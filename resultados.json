@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T12:01:03.161Z",
+  "publicadoEn": "2026-07-11T12:03:03.163Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -514,6 +514,16 @@
             "pg": 2
           },
           {
+            "name": "TIERRA LLAMANDO A JUAN CARLOS",
+            "pts": 4,
+            "gf": 40,
+            "gc": 41,
+            "dg": -1,
+            "pj": 3,
+            "ordenSorteo": 3,
+            "pg": 1
+          },
+          {
             "name": "NOS FUIMOS",
             "pts": 4,
             "gf": 34,
@@ -524,22 +534,12 @@
             "pg": 1
           },
           {
-            "name": "TIERRA LLAMANDO A JUAN CARLOS",
-            "pts": 2,
-            "gf": 25,
-            "gc": 31,
-            "dg": -6,
-            "pj": 2,
-            "ordenSorteo": 3,
-            "pg": 0
-          },
-          {
             "name": "MANCHESTER PITY",
-            "pts": 2,
-            "gf": 16,
-            "gc": 30,
-            "dg": -14,
-            "pj": 2,
+            "pts": 3,
+            "gf": 26,
+            "gc": 45,
+            "dg": -19,
+            "pj": 3,
             "ordenSorteo": 1,
             "pg": 0
           }
@@ -622,8 +622,8 @@
               {
                 "home": "TIERRA LLAMANDO A JUAN CARLOS",
                 "away": "MANCHESTER PITY",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 15,
+                "golesAway": 10,
                 "campoId": 3,
                 "ordenGlobal": 74
               }
@@ -2410,6 +2410,18 @@
         "posGrupo": 3
       },
       {
+        "name": "TIERRA LLAMANDO A JUAN CARLOS",
+        "pts": 4,
+        "gf": 40,
+        "gc": 41,
+        "dg": -1,
+        "pj": 3,
+        "ordenSorteo": 3,
+        "pg": 1,
+        "grupo": "Grupo D",
+        "posGrupo": 3
+      },
+      {
         "name": "MAS SUELO QUE VÓLEY",
         "pts": 4,
         "gf": 35,
@@ -2491,7 +2503,7 @@
         "ordenSorteo": 0,
         "pg": 1,
         "grupo": "Grupo D",
-        "posGrupo": 3
+        "posGrupo": 4
       },
       {
         "name": "CV SIESTA",
@@ -2554,18 +2566,6 @@
         "posGrupo": 4
       },
       {
-        "name": "TIERRA LLAMANDO A JUAN CARLOS",
-        "pts": 2,
-        "gf": 25,
-        "gc": 31,
-        "dg": -6,
-        "pj": 2,
-        "ordenSorteo": 3,
-        "pg": 0,
-        "grupo": "Grupo D",
-        "posGrupo": 4
-      },
-      {
         "name": "LA CASITA",
         "pts": 3,
         "gf": 35,
@@ -2602,6 +2602,18 @@
         "posGrupo": 5
       },
       {
+        "name": "MANCHESTER PITY",
+        "pts": 3,
+        "gf": 26,
+        "gc": 45,
+        "dg": -19,
+        "pj": 3,
+        "ordenSorteo": 1,
+        "pg": 0,
+        "grupo": "Grupo D",
+        "posGrupo": 5
+      },
+      {
         "name": "MAMAHOUS",
         "pts": 4,
         "gf": 34,
@@ -2611,18 +2623,6 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo E",
-        "posGrupo": 5
-      },
-      {
-        "name": "MANCHESTER PITY",
-        "pts": 2,
-        "gf": 16,
-        "gc": 30,
-        "dg": -14,
-        "pj": 2,
-        "ordenSorteo": 1,
-        "pg": 0,
-        "grupo": "Grupo D",
         "posGrupo": 5
       },
       {
@@ -3175,13 +3175,13 @@
         "posGrupo": 3
       },
       {
-        "name": "NOS FUIMOS",
+        "name": "TIERRA LLAMANDO A JUAN CARLOS",
         "pts": 4,
-        "gf": 34,
-        "gc": 44,
-        "dg": -10,
+        "gf": 40,
+        "gc": 41,
+        "dg": -1,
         "pj": 3,
-        "ordenSorteo": 0,
+        "ordenSorteo": 3,
         "pg": 1,
         "grupo": "Grupo D",
         "posGrupo": 3
@@ -3271,6 +3271,18 @@
         "posGrupo": 4
       },
       {
+        "name": "NOS FUIMOS",
+        "pts": 4,
+        "gf": 34,
+        "gc": 44,
+        "dg": -10,
+        "pj": 3,
+        "ordenSorteo": 0,
+        "pg": 1,
+        "grupo": "Grupo D",
+        "posGrupo": 4
+      },
+      {
         "name": "CV SIESTA",
         "pts": 4,
         "gf": 30,
@@ -3316,18 +3328,6 @@
         "ordenSorteo": 2,
         "pg": 1,
         "grupo": "Grupo A",
-        "posGrupo": 4
-      },
-      {
-        "name": "TIERRA LLAMANDO A JUAN CARLOS",
-        "pts": 2,
-        "gf": 25,
-        "gc": 31,
-        "dg": -6,
-        "pj": 2,
-        "ordenSorteo": 3,
-        "pg": 0,
-        "grupo": "Grupo D",
         "posGrupo": 4
       },
       {
@@ -3379,6 +3379,18 @@
         "posGrupo": 5
       },
       {
+        "name": "MANCHESTER PITY",
+        "pts": 3,
+        "gf": 26,
+        "gc": 45,
+        "dg": -19,
+        "pj": 3,
+        "ordenSorteo": 1,
+        "pg": 0,
+        "grupo": "Grupo D",
+        "posGrupo": 5
+      },
+      {
         "name": "MAMAHOUS",
         "pts": 4,
         "gf": 34,
@@ -3388,18 +3400,6 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo E",
-        "posGrupo": 5
-      },
-      {
-        "name": "MANCHESTER PITY",
-        "pts": 2,
-        "gf": 16,
-        "gc": 30,
-        "dg": -14,
-        "pj": 2,
-        "ordenSorteo": 1,
-        "pg": 0,
-        "grupo": "Grupo D",
         "posGrupo": 5
       },
       {
