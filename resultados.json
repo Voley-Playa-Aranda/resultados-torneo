@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T17:21:03.159Z",
+  "publicadoEn": "2026-07-11T17:23:03.161Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -4449,7 +4449,7 @@
         }
       }
     },
-    "faseFinalActiva": "plata",
+    "faseFinalActiva": "oro",
     "faseFinalGenerada": true,
     "cfgNumGrupos": 12,
     "lastPosicionEq": [
