@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T08:19:03.156Z",
+  "publicadoEn": "2026-07-11T08:21:03.162Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -7,6 +7,26 @@
       {
         "nombre": "Grupo A",
         "equipos": [
+          {
+            "name": "VOLCADOS",
+            "pts": 2,
+            "gf": 15,
+            "gc": 3,
+            "dg": 12,
+            "pj": 1,
+            "ordenSorteo": 4,
+            "pg": 1
+          },
+          {
+            "name": "SIN RED NO HAY PARAÍSO",
+            "pts": 1,
+            "gf": 3,
+            "gc": 15,
+            "dg": -12,
+            "pj": 1,
+            "ordenSorteo": 1,
+            "pg": 0
+          },
           {
             "name": "NOTTINGHAN PRISAS",
             "pts": 0,
@@ -28,16 +48,6 @@
             "pg": 0
           },
           {
-            "name": "SIN RED NO HAY PARAÍSO",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 1,
-            "pg": 0
-          },
-          {
             "name": "STREET VOLLEY",
             "pts": 0,
             "gf": 0,
@@ -45,16 +55,6 @@
             "dg": 0,
             "pj": 0,
             "ordenSorteo": 0,
-            "pg": 0
-          },
-          {
-            "name": "VOLCADOS",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 4,
             "pg": 0
           }
         ],
@@ -65,8 +65,8 @@
               {
                 "home": "SIN RED NO HAY PARAÍSO",
                 "away": "VOLCADOS",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 3,
+                "golesAway": 15,
                 "campoId": 0,
                 "ordenGlobal": 0
               },
@@ -1978,6 +1978,30 @@
     "lineasEquipos": [],
     "lastGlobalEq": [
       {
+        "name": "VOLCADOS",
+        "pts": 2,
+        "gf": 15,
+        "gc": 3,
+        "dg": 12,
+        "pj": 1,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo A",
+        "posGrupo": 1
+      },
+      {
+        "name": "SIN RED NO HAY PARAÍSO",
+        "pts": 1,
+        "gf": 3,
+        "gc": 15,
+        "dg": -12,
+        "pj": 1,
+        "ordenSorteo": 1,
+        "pg": 0,
+        "grupo": "Grupo A",
+        "posGrupo": 2
+      },
+      {
         "name": "ABANTO",
         "pts": 0,
         "gf": 0,
@@ -2479,7 +2503,7 @@
         "ordenSorteo": 3,
         "pg": 0,
         "grupo": "Grupo A",
-        "posGrupo": 1
+        "posGrupo": 3
       },
       {
         "name": "PEGRILOSAS",
@@ -2515,7 +2539,7 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo A",
-        "posGrupo": 2
+        "posGrupo": 4
       },
       {
         "name": "PRESS PANZA",
@@ -2578,18 +2602,6 @@
         "posGrupo": 5
       },
       {
-        "name": "SIN RED NO HAY PARAÍSO",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 1,
-        "pg": 0,
-        "grupo": "Grupo A",
-        "posGrupo": 3
-      },
-      {
         "name": "SOWCAUTION",
         "pts": 0,
         "gf": 0,
@@ -2611,7 +2623,7 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo A",
-        "posGrupo": 4
+        "posGrupo": 5
       },
       {
         "name": "SUBESELA AL HEAVY",
@@ -2671,18 +2683,6 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo L",
-        "posGrupo": 5
-      },
-      {
-        "name": "VOLCADOS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 4,
-        "pg": 0,
-        "grupo": "Grupo A",
         "posGrupo": 5
       },
       {
@@ -2727,7 +2727,7 @@
     },
     "expandedPartidos": {
       "grupo_4": false,
-      "campo_4": true,
+      "campo_4": false,
       "campo_0": false,
       "campo_3": false,
       "campo_1": false,
@@ -2740,6 +2740,18 @@
     "faseFinalGenerada": false,
     "cfgNumGrupos": 12,
     "lastPosicionEq": [
+      {
+        "name": "VOLCADOS",
+        "pts": 2,
+        "gf": 15,
+        "gc": 3,
+        "dg": 12,
+        "pj": 1,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo A",
+        "posGrupo": 1
+      },
       {
         "name": "ABANTO",
         "pts": 0,
@@ -2873,16 +2885,16 @@
         "posGrupo": 1
       },
       {
-        "name": "NOTTINGHAN PRISAS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 3,
+        "name": "SIN RED NO HAY PARAÍSO",
+        "pts": 1,
+        "gf": 3,
+        "gc": 15,
+        "dg": -12,
+        "pj": 1,
+        "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo A",
-        "posGrupo": 1
+        "posGrupo": 2
       },
       {
         "name": "CAÍDA LIBRE VOLEY",
@@ -3014,18 +3026,6 @@
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo J",
-        "posGrupo": 2
-      },
-      {
-        "name": "PINO JACINTO",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo A",
         "posGrupo": 2
       },
       {
@@ -3161,13 +3161,13 @@
         "posGrupo": 3
       },
       {
-        "name": "SIN RED NO HAY PARAÍSO",
+        "name": "NOTTINGHAN PRISAS",
         "pts": 0,
         "gf": 0,
         "gc": 0,
         "dg": 0,
         "pj": 0,
-        "ordenSorteo": 1,
+        "ordenSorteo": 3,
         "pg": 0,
         "grupo": "Grupo A",
         "posGrupo": 3
@@ -3269,6 +3269,18 @@
         "posGrupo": 4
       },
       {
+        "name": "PINO JACINTO",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo A",
+        "posGrupo": 4
+      },
+      {
         "name": "PRESS PANZA",
         "pts": 0,
         "gf": 0,
@@ -3278,18 +3290,6 @@
         "ordenSorteo": 3,
         "pg": 0,
         "grupo": "Grupo H",
-        "posGrupo": 4
-      },
-      {
-        "name": "STREET VOLLEY",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo A",
         "posGrupo": 4
       },
       {
@@ -3401,6 +3401,18 @@
         "posGrupo": 5
       },
       {
+        "name": "STREET VOLLEY",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 0,
+        "pg": 0,
+        "grupo": "Grupo A",
+        "posGrupo": 5
+      },
+      {
         "name": "TE MIRO Y TE BLOQUEO",
         "pts": 0,
         "gf": 0,
@@ -3434,18 +3446,6 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo L",
-        "posGrupo": 5
-      },
-      {
-        "name": "VOLCADOS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 4,
-        "pg": 0,
-        "grupo": "Grupo A",
         "posGrupo": 5
       },
       {
