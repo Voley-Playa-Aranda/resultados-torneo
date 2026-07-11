@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T13:17:03.164Z",
+  "publicadoEn": "2026-07-11T13:19:03.160Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -2749,9 +2749,1708 @@
       "clasif_10": false,
       "clasif_11": false
     },
-    "fasesFinales": {},
+    "fasesFinales": {
+      "oro": {
+        "clasificados": [
+          "EL CONVENTO DE SANTA TERESA",
+          "ABANTO",
+          "ASÍ DE PEQUEÑITOS",
+          "LO VEO CLARO",
+          "SUBESELA AL HEAVY",
+          "VOLCADOS",
+          "TE MIRO Y TE BLOQUEO",
+          "KARIBE VÓLEIBOL",
+          "LOS GOMELLANOS",
+          "GLUTEN FREE",
+          "GUSANOS GAFONES",
+          "EL CLAN DE LOS LOZANO",
+          "PEGRILOSAS",
+          "NOTTINGHAN PRISAS",
+          "PRESS PANZA",
+          "DEMENCIA PERMANENTE CYL",
+          "PROHIBIDO DIVERTIRSE",
+          "LOS BURPEES BOYS BYIMPROVEFIT",
+          "MENESTRA CON GINEBRA",
+          "LOS CARIÑITOS BOSTONCITOS",
+          "EL TAMAÑO NO IMPORTA",
+          "GANAMOS Y NOS VAMOS",
+          "LA BATALLA DE LOS PELOS BASTARDOS",
+          "MALITOS"
+        ],
+        "tipo": "simple",
+        "winners": [
+          [
+            {
+              "home": "EL CONVENTO DE SANTA TERESA",
+              "away": "DESCANSO",
+              "sets": [
+                {
+                  "hS": 15,
+                  "aS": 0
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 1
+            },
+            {
+              "home": "ASÍ DE PEQUEÑITOS",
+              "away": "DESCANSO",
+              "sets": [
+                {
+                  "hS": 15,
+                  "aS": 0
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 2
+            },
+            {
+              "home": "SUBESELA AL HEAVY",
+              "away": "DESCANSO",
+              "sets": [
+                {
+                  "hS": 15,
+                  "aS": 0
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 3
+            },
+            {
+              "home": "TE MIRO Y TE BLOQUEO",
+              "away": "DESCANSO",
+              "sets": [
+                {
+                  "hS": 15,
+                  "aS": 0
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 4
+            },
+            {
+              "home": "LOS GOMELLANOS",
+              "away": "MALITOS",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 5
+            },
+            {
+              "home": "GUSANOS GAFONES",
+              "away": "GANAMOS Y NOS VAMOS",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 6
+            },
+            {
+              "home": "PEGRILOSAS",
+              "away": "LOS CARIÑITOS BOSTONCITOS",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 7
+            },
+            {
+              "home": "PRESS PANZA",
+              "away": "LOS BURPEES BOYS BYIMPROVEFIT",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 8
+            },
+            {
+              "home": "DEMENCIA PERMANENTE CYL",
+              "away": "PROHIBIDO DIVERTIRSE",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 9
+            },
+            {
+              "home": "NOTTINGHAN PRISAS",
+              "away": "MENESTRA CON GINEBRA",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 10
+            },
+            {
+              "home": "EL CLAN DE LOS LOZANO",
+              "away": "EL TAMAÑO NO IMPORTA",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 11
+            },
+            {
+              "home": "GLUTEN FREE",
+              "away": "LA BATALLA DE LOS PELOS BASTARDOS",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 12
+            },
+            {
+              "home": "KARIBE VÓLEIBOL",
+              "away": "DESCANSO",
+              "sets": [
+                {
+                  "hS": 15,
+                  "aS": 0
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 13
+            },
+            {
+              "home": "VOLCADOS",
+              "away": "DESCANSO",
+              "sets": [
+                {
+                  "hS": 15,
+                  "aS": 0
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 14
+            },
+            {
+              "home": "LO VEO CLARO",
+              "away": "DESCANSO",
+              "sets": [
+                {
+                  "hS": 15,
+                  "aS": 0
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 15
+            },
+            {
+              "home": "ABANTO",
+              "away": "DESCANSO",
+              "sets": [
+                {
+                  "hS": 15,
+                  "aS": 0
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 16
+            }
+          ],
+          [
+            {
+              "home": "EL CONVENTO DE SANTA TERESA",
+              "away": "ASÍ DE PEQUEÑITOS",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 17
+            },
+            {
+              "home": "SUBESELA AL HEAVY",
+              "away": "TE MIRO Y TE BLOQUEO",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 18
+            },
+            {
+              "home": "",
+              "away": "",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 19
+            },
+            {
+              "home": "",
+              "away": "",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 20
+            },
+            {
+              "home": "",
+              "away": "",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 21
+            },
+            {
+              "home": "",
+              "away": "",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 22
+            },
+            {
+              "home": "KARIBE VÓLEIBOL",
+              "away": "VOLCADOS",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 23
+            },
+            {
+              "home": "LO VEO CLARO",
+              "away": "ABANTO",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 24
+            }
+          ],
+          [
+            {
+              "home": "",
+              "away": "",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 25
+            },
+            {
+              "home": "",
+              "away": "",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 26
+            },
+            {
+              "home": "",
+              "away": "",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 27
+            },
+            {
+              "home": "",
+              "away": "",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 28
+            }
+          ],
+          [
+            {
+              "home": "",
+              "away": "",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 29
+            },
+            {
+              "home": "",
+              "away": "",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 30
+            }
+          ],
+          [
+            {
+              "home": "",
+              "away": "",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 31
+            }
+          ]
+        ],
+        "losers": [],
+        "size": 32,
+        "thirdPlaceMatch": {
+          "home": "",
+          "away": "",
+          "bo3": false,
+          "sets": [
+            {
+              "hS": "",
+              "aS": ""
+            },
+            {
+              "hS": "",
+              "aS": ""
+            },
+            {
+              "hS": "",
+              "aS": ""
+            }
+          ],
+          "ordenFinal": 33
+        },
+        "grandFinal": {
+          "home": "",
+          "away": "",
+          "bo3": false,
+          "sets": [
+            {
+              "hS": "",
+              "aS": ""
+            },
+            {
+              "hS": "",
+              "aS": ""
+            },
+            {
+              "hS": "",
+              "aS": ""
+            }
+          ],
+          "ordenFinal": 32
+        }
+      },
+      "plata": {
+        "clasificados": [
+          "STREET VOLLEY",
+          "CENTAUROS",
+          "EL PODER DE LA PIEDRA",
+          "KINDER SORPRESA",
+          "TIERRA LLAMANDO A JUAN CARLOS",
+          "KIKOÑAZO",
+          "SOWCAUTION",
+          "TE EMPAQUETO",
+          "CHUPYGRASKA",
+          "CORCHOPANES",
+          "ROYALEROS",
+          "ZEMEN UP",
+          "ASOCIACIÓN DE DRAGONES AMERICANOS",
+          "LOS ROMPEBOLAS",
+          "LA CASITA",
+          "CHACALES",
+          "RIÑONES DE LECHE",
+          "LOS CERDITOS FIESTEROS",
+          "MAS SUELO QUE VÓLEY",
+          "MANCHESTER PITY",
+          "PESOS PESADOS",
+          "PINO JACINTO",
+          "CV SIESTA",
+          "MANCHESTER PITY JR"
+        ],
+        "tipo": "simple",
+        "winners": [
+          [
+            {
+              "home": "STREET VOLLEY",
+              "away": "DESCANSO",
+              "sets": [
+                {
+                  "hS": 15,
+                  "aS": 0
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 1
+            },
+            {
+              "home": "EL PODER DE LA PIEDRA",
+              "away": "DESCANSO",
+              "sets": [
+                {
+                  "hS": 15,
+                  "aS": 0
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 2
+            },
+            {
+              "home": "TIERRA LLAMANDO A JUAN CARLOS",
+              "away": "DESCANSO",
+              "sets": [
+                {
+                  "hS": 15,
+                  "aS": 0
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 3
+            },
+            {
+              "home": "SOWCAUTION",
+              "away": "DESCANSO",
+              "sets": [
+                {
+                  "hS": 15,
+                  "aS": 0
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 4
+            },
+            {
+              "home": "CHUPYGRASKA",
+              "away": "MANCHESTER PITY JR",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 5
+            },
+            {
+              "home": "ROYALEROS",
+              "away": "PINO JACINTO",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 6
+            },
+            {
+              "home": "ASOCIACIÓN DE DRAGONES AMERICANOS",
+              "away": "MANCHESTER PITY",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 7
+            },
+            {
+              "home": "LA CASITA",
+              "away": "LOS CERDITOS FIESTEROS",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 8
+            },
+            {
+              "home": "CHACALES",
+              "away": "RIÑONES DE LECHE",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 9
+            },
+            {
+              "home": "LOS ROMPEBOLAS",
+              "away": "MAS SUELO QUE VÓLEY",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 10
+            },
+            {
+              "home": "ZEMEN UP",
+              "away": "PESOS PESADOS",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 11
+            },
+            {
+              "home": "CORCHOPANES",
+              "away": "CV SIESTA",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 12
+            },
+            {
+              "home": "TE EMPAQUETO",
+              "away": "DESCANSO",
+              "sets": [
+                {
+                  "hS": 15,
+                  "aS": 0
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 13
+            },
+            {
+              "home": "KIKOÑAZO",
+              "away": "DESCANSO",
+              "sets": [
+                {
+                  "hS": 15,
+                  "aS": 0
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 14
+            },
+            {
+              "home": "KINDER SORPRESA",
+              "away": "DESCANSO",
+              "sets": [
+                {
+                  "hS": 15,
+                  "aS": 0
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 15
+            },
+            {
+              "home": "CENTAUROS",
+              "away": "DESCANSO",
+              "sets": [
+                {
+                  "hS": 15,
+                  "aS": 0
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 16
+            }
+          ],
+          [
+            {
+              "home": "STREET VOLLEY",
+              "away": "EL PODER DE LA PIEDRA",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 17
+            },
+            {
+              "home": "TIERRA LLAMANDO A JUAN CARLOS",
+              "away": "SOWCAUTION",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 18
+            },
+            {
+              "home": "",
+              "away": "",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 19
+            },
+            {
+              "home": "",
+              "away": "",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 20
+            },
+            {
+              "home": "",
+              "away": "",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 21
+            },
+            {
+              "home": "",
+              "away": "",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 22
+            },
+            {
+              "home": "TE EMPAQUETO",
+              "away": "KIKOÑAZO",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 23
+            },
+            {
+              "home": "KINDER SORPRESA",
+              "away": "CENTAUROS",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 24
+            }
+          ],
+          [
+            {
+              "home": "",
+              "away": "",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 25
+            },
+            {
+              "home": "",
+              "away": "",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 26
+            },
+            {
+              "home": "",
+              "away": "",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 27
+            },
+            {
+              "home": "",
+              "away": "",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 28
+            }
+          ],
+          [
+            {
+              "home": "",
+              "away": "",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 29
+            },
+            {
+              "home": "",
+              "away": "",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 30
+            }
+          ],
+          [
+            {
+              "home": "",
+              "away": "",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 31
+            }
+          ]
+        ],
+        "losers": [],
+        "size": 32,
+        "thirdPlaceMatch": {
+          "home": "",
+          "away": "",
+          "bo3": false,
+          "sets": [
+            {
+              "hS": "",
+              "aS": ""
+            },
+            {
+              "hS": "",
+              "aS": ""
+            },
+            {
+              "hS": "",
+              "aS": ""
+            }
+          ],
+          "ordenFinal": 33
+        },
+        "grandFinal": {
+          "home": "",
+          "away": "",
+          "bo3": false,
+          "sets": [
+            {
+              "hS": "",
+              "aS": ""
+            },
+            {
+              "hS": "",
+              "aS": ""
+            },
+            {
+              "hS": "",
+              "aS": ""
+            }
+          ],
+          "ordenFinal": 32
+        }
+      },
+      "bronce": {
+        "clasificados": [
+          "LOS ROOKIES",
+          "ASTON BIRRAS",
+          "NOS FUIMOS",
+          "CARCAJADA",
+          "MBONANIS TEAM",
+          "MAMAHOUS",
+          "CAÍDA LIBRE VOLEY",
+          "LAS LEYENDAS NUNCA MUEREN",
+          "RECEPCIÓN OPCIONAL",
+          "GORRO DE PISCINA NEGRO",
+          "VODKA JUNIORS",
+          "SIN RED NO HAY PARAÍSO"
+        ],
+        "tipo": "simple",
+        "winners": [
+          [
+            {
+              "home": "LOS ROOKIES",
+              "away": "DESCANSO",
+              "sets": [
+                {
+                  "hS": 15,
+                  "aS": 0
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 1
+            },
+            {
+              "home": "NOS FUIMOS",
+              "away": "DESCANSO",
+              "sets": [
+                {
+                  "hS": 15,
+                  "aS": 0
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 2
+            },
+            {
+              "home": "MBONANIS TEAM",
+              "away": "SIN RED NO HAY PARAÍSO",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 3
+            },
+            {
+              "home": "CAÍDA LIBRE VOLEY",
+              "away": "GORRO DE PISCINA NEGRO",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 4
+            },
+            {
+              "home": "LAS LEYENDAS NUNCA MUEREN",
+              "away": "RECEPCIÓN OPCIONAL",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 5
+            },
+            {
+              "home": "MAMAHOUS",
+              "away": "VODKA JUNIORS",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 6
+            },
+            {
+              "home": "CARCAJADA",
+              "away": "DESCANSO",
+              "sets": [
+                {
+                  "hS": 15,
+                  "aS": 0
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 7
+            },
+            {
+              "home": "ASTON BIRRAS",
+              "away": "DESCANSO",
+              "sets": [
+                {
+                  "hS": 15,
+                  "aS": 0
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 8
+            }
+          ],
+          [
+            {
+              "home": "LOS ROOKIES",
+              "away": "NOS FUIMOS",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 9
+            },
+            {
+              "home": "",
+              "away": "",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 10
+            },
+            {
+              "home": "",
+              "away": "",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 11
+            },
+            {
+              "home": "CARCAJADA",
+              "away": "ASTON BIRRAS",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 12
+            }
+          ],
+          [
+            {
+              "home": "",
+              "away": "",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 13
+            },
+            {
+              "home": "",
+              "away": "",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 14
+            }
+          ],
+          [
+            {
+              "home": "",
+              "away": "",
+              "sets": [
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                },
+                {
+                  "hS": "",
+                  "aS": ""
+                }
+              ],
+              "ordenFinal": 15
+            }
+          ]
+        ],
+        "losers": [],
+        "size": 16,
+        "thirdPlaceMatch": {
+          "home": "",
+          "away": "",
+          "bo3": false,
+          "sets": [
+            {
+              "hS": "",
+              "aS": ""
+            },
+            {
+              "hS": "",
+              "aS": ""
+            },
+            {
+              "hS": "",
+              "aS": ""
+            }
+          ],
+          "ordenFinal": 17
+        },
+        "grandFinal": {
+          "home": "",
+          "away": "",
+          "bo3": false,
+          "sets": [
+            {
+              "hS": "",
+              "aS": ""
+            },
+            {
+              "hS": "",
+              "aS": ""
+            },
+            {
+              "hS": "",
+              "aS": ""
+            }
+          ],
+          "ordenFinal": 16
+        }
+      }
+    },
     "faseFinalActiva": "oro",
-    "faseFinalGenerada": false,
+    "faseFinalGenerada": true,
     "cfgNumGrupos": 12,
     "lastPosicionEq": [
       {
