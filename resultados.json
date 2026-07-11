@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T15:51:03.156Z",
+  "publicadoEn": "2026-07-11T15:53:04.030Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -3858,8 +3858,8 @@
               "away": "CORCHOPANES",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 15,
+                  "aS": 9
                 },
                 {
                   "hS": "",
@@ -3877,8 +3877,8 @@
               "away": "KIKOÑAZO",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 15,
+                  "aS": 5
                 },
                 {
                   "hS": "",
@@ -3952,7 +3952,7 @@
             },
             {
               "home": "",
-              "away": "",
+              "away": "ZEMEN UP",
               "sets": [
                 {
                   "hS": "",
@@ -3970,7 +3970,7 @@
               "ordenFinal": 27
             },
             {
-              "home": "",
+              "home": "TE EMPAQUETO",
               "away": "",
               "sets": [
                 {
