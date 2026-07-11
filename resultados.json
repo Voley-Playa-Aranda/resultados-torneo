@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T14:43:03.151Z",
+  "publicadoEn": "2026-07-11T15:03:03.158Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -2918,8 +2918,8 @@
               "away": "LOS BURPEES BOYS BYIMPROVEFIT",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 9,
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -2937,8 +2937,8 @@
               "away": "PROHIBIDO DIVERTIRSE",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 15,
+                  "aS": 10
                 },
                 {
                   "hS": "",
@@ -3145,7 +3145,7 @@
             },
             {
               "home": "PEGRILOSAS",
-              "away": "",
+              "away": "LOS BURPEES BOYS BYIMPROVEFIT",
               "sets": [
                 {
                   "hS": "",
@@ -3163,7 +3163,7 @@
               "ordenFinal": 20
             },
             {
-              "home": "",
+              "home": "DEMENCIA PERMANENTE CYL",
               "away": "",
               "sets": [
                 {
@@ -3590,8 +3590,8 @@
               "away": "LOS CERDITOS FIESTEROS",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 15,
+                  "aS": 6
                 },
                 {
                   "hS": "",
@@ -3609,8 +3609,8 @@
               "away": "RIÑONES DE LECHE",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 13,
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -3628,8 +3628,8 @@
               "away": "MAS SUELO QUE VÓLEY",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 8,
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -3817,7 +3817,7 @@
             },
             {
               "home": "ASOCIACIÓN DE DRAGONES AMERICANOS",
-              "away": "",
+              "away": "LA CASITA",
               "sets": [
                 {
                   "hS": "",
@@ -3835,8 +3835,8 @@
               "ordenFinal": 20
             },
             {
-              "home": "",
-              "away": "",
+              "home": "RIÑONES DE LECHE",
+              "away": "MAS SUELO QUE VÓLEY",
               "sets": [
                 {
                   "hS": "",
@@ -4193,8 +4193,8 @@
               "away": "RECEPCIÓN OPCIONAL",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 16,
+                  "aS": 14
                 },
                 {
                   "hS": "",
@@ -4212,8 +4212,8 @@
               "away": "VODKA JUNIORS",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 7,
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -4271,8 +4271,8 @@
               "away": "NOS FUIMOS",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 13,
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -4305,8 +4305,8 @@
               "ordenFinal": 10
             },
             {
-              "home": "",
-              "away": "",
+              "home": "LAS LEYENDAS NUNCA MUEREN",
+              "away": "VODKA JUNIORS",
               "sets": [
                 {
                   "hS": "",
@@ -4328,8 +4328,8 @@
               "away": "ASTON BIRRAS",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 6,
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -4345,7 +4345,7 @@
           ],
           [
             {
-              "home": "",
+              "home": "NOS FUIMOS",
               "away": "",
               "sets": [
                 {
@@ -4365,7 +4365,7 @@
             },
             {
               "home": "",
-              "away": "",
+              "away": "ASTON BIRRAS",
               "sets": [
                 {
                   "hS": "",
@@ -4449,7 +4449,7 @@
         }
       }
     },
-    "faseFinalActiva": "plata",
+    "faseFinalActiva": "bronce",
     "faseFinalGenerada": true,
     "cfgNumGrupos": 12,
     "lastPosicionEq": [
