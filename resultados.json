@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T11:07:03.159Z",
+  "publicadoEn": "2026-07-11T11:09:03.989Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -1629,13 +1629,13 @@
         "equipos": [
           {
             "name": "GLUTEN FREE",
-            "pts": 4,
-            "gf": 30,
-            "gc": 16,
-            "dg": 14,
-            "pj": 2,
+            "pts": 6,
+            "gf": 45,
+            "gc": 29,
+            "dg": 16,
+            "pj": 3,
             "ordenSorteo": 2,
-            "pg": 2
+            "pg": 3
           },
           {
             "name": "LA BATALLA DE LOS PELOS BASTARDOS",
@@ -1669,11 +1669,11 @@
           },
           {
             "name": "LA CASITA",
-            "pts": 2,
-            "gf": 22,
-            "gc": 30,
-            "dg": -8,
-            "pj": 2,
+            "pts": 3,
+            "gf": 35,
+            "gc": 45,
+            "dg": -10,
+            "pj": 3,
             "ordenSorteo": 4,
             "pg": 0
           }
@@ -1735,8 +1735,8 @@
               {
                 "home": "LA CASITA",
                 "away": "GLUTEN FREE",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 13,
+                "golesAway": 15,
                 "campoId": 4,
                 "ordenGlobal": 91
               }
@@ -2050,18 +2050,6 @@
         "posGrupo": 1
       },
       {
-        "name": "GLUTEN FREE",
-        "pts": 4,
-        "gf": 30,
-        "gc": 16,
-        "dg": 14,
-        "pj": 2,
-        "ordenSorteo": 2,
-        "pg": 2,
-        "grupo": "Grupo K",
-        "posGrupo": 1
-      },
-      {
         "name": "LOS GOMELLANOS",
         "pts": 4,
         "gf": 30,
@@ -2096,6 +2084,18 @@
         "pg": 2,
         "grupo": "Grupo A",
         "posGrupo": 2
+      },
+      {
+        "name": "GLUTEN FREE",
+        "pts": 6,
+        "gf": 45,
+        "gc": 29,
+        "dg": 16,
+        "pj": 3,
+        "ordenSorteo": 2,
+        "pg": 3,
+        "grupo": "Grupo K",
+        "posGrupo": 1
       },
       {
         "name": "KARIBE VÓLEIBOL",
@@ -2555,11 +2555,11 @@
       },
       {
         "name": "LA CASITA",
-        "pts": 2,
-        "gf": 22,
-        "gc": 30,
-        "dg": -8,
-        "pj": 2,
+        "pts": 3,
+        "gf": 35,
+        "gc": 45,
+        "dg": -10,
+        "pj": 3,
         "ordenSorteo": 4,
         "pg": 0,
         "grupo": "Grupo K",
@@ -2727,11 +2727,11 @@
     },
     "expandedPartidos": {
       "grupo_4": false,
-      "campo_4": false,
+      "campo_4": true,
       "campo_0": false,
       "campo_3": false,
       "campo_1": false,
-      "campo_2": true,
+      "campo_2": false,
       "campo_5": false,
       "grupo_0": false
     },
@@ -2827,18 +2827,6 @@
         "posGrupo": 1
       },
       {
-        "name": "GLUTEN FREE",
-        "pts": 4,
-        "gf": 30,
-        "gc": 16,
-        "dg": 14,
-        "pj": 2,
-        "ordenSorteo": 2,
-        "pg": 2,
-        "grupo": "Grupo K",
-        "posGrupo": 1
-      },
-      {
         "name": "LOS GOMELLANOS",
         "pts": 4,
         "gf": 30,
@@ -2860,6 +2848,18 @@
         "ordenSorteo": 3,
         "pg": 2,
         "grupo": "Grupo B",
+        "posGrupo": 1
+      },
+      {
+        "name": "GLUTEN FREE",
+        "pts": 6,
+        "gf": 45,
+        "gc": 29,
+        "dg": 16,
+        "pj": 3,
+        "ordenSorteo": 2,
+        "pg": 3,
+        "grupo": "Grupo K",
         "posGrupo": 1
       },
       {
@@ -3344,11 +3344,11 @@
       },
       {
         "name": "LA CASITA",
-        "pts": 2,
-        "gf": 22,
-        "gc": 30,
-        "dg": -8,
-        "pj": 2,
+        "pts": 3,
+        "gf": 35,
+        "gc": 45,
+        "dg": -10,
+        "pj": 3,
         "ordenSorteo": 4,
         "pg": 0,
         "grupo": "Grupo K",
