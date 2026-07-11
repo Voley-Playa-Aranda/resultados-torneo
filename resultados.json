@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T08:23:04.029Z",
+  "publicadoEn": "2026-07-11T08:25:03.160Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -171,12 +171,22 @@
         "equipos": [
           {
             "name": "CORCHOPANES",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
+            "pts": 2,
+            "gf": 15,
+            "gc": 13,
+            "dg": 2,
+            "pj": 1,
             "ordenSorteo": 4,
+            "pg": 1
+          },
+          {
+            "name": "PESOS PESADOS",
+            "pts": 1,
+            "gf": 13,
+            "gc": 15,
+            "dg": -2,
+            "pj": 1,
+            "ordenSorteo": 1,
             "pg": 0
           },
           {
@@ -200,16 +210,6 @@
             "pg": 0
           },
           {
-            "name": "PESOS PESADOS",
-            "pts": 0,
-            "gf": 0,
-            "gc": 0,
-            "dg": 0,
-            "pj": 0,
-            "ordenSorteo": 1,
-            "pg": 0
-          },
-          {
             "name": "TE MIRO Y TE BLOQUEO",
             "pts": 0,
             "gf": 0,
@@ -227,8 +227,8 @@
               {
                 "home": "PESOS PESADOS",
                 "away": "CORCHOPANES",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 13,
+                "golesAway": 15,
                 "campoId": 1,
                 "ordenGlobal": 20
               },
@@ -2002,6 +2002,30 @@
         "posGrupo": 1
       },
       {
+        "name": "CORCHOPANES",
+        "pts": 2,
+        "gf": 15,
+        "gc": 13,
+        "dg": 2,
+        "pj": 1,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo B",
+        "posGrupo": 1
+      },
+      {
+        "name": "PESOS PESADOS",
+        "pts": 1,
+        "gf": 13,
+        "gc": 15,
+        "dg": -2,
+        "pj": 1,
+        "ordenSorteo": 1,
+        "pg": 0,
+        "grupo": "Grupo B",
+        "posGrupo": 2
+      },
+      {
         "name": "CARCAJADA",
         "pts": 1,
         "gf": 7,
@@ -2122,18 +2146,6 @@
         "posGrupo": 2
       },
       {
-        "name": "CORCHOPANES",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 4,
-        "pg": 0,
-        "grupo": "Grupo B",
-        "posGrupo": 1
-      },
-      {
         "name": "CV SIESTA",
         "pts": 0,
         "gf": 0,
@@ -2155,7 +2167,7 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo B",
-        "posGrupo": 2
+        "posGrupo": 3
       },
       {
         "name": "EL CLAN DE LOS LOZANO",
@@ -2467,7 +2479,7 @@
         "ordenSorteo": 2,
         "pg": 0,
         "grupo": "Grupo B",
-        "posGrupo": 3
+        "posGrupo": 4
       },
       {
         "name": "MENESTRA CON GINEBRA",
@@ -2516,18 +2528,6 @@
         "pg": 0,
         "grupo": "Grupo E",
         "posGrupo": 5
-      },
-      {
-        "name": "PESOS PESADOS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 1,
-        "pg": 0,
-        "grupo": "Grupo B",
-        "posGrupo": 4
       },
       {
         "name": "PINO JACINTO",
@@ -2723,16 +2723,17 @@
       }
     },
     "configViews": {
-      "partidos": "campos"
+      "partidos": "grupos"
     },
     "expandedPartidos": {
       "grupo_4": false,
       "campo_4": false,
       "campo_0": false,
       "campo_3": false,
-      "campo_1": false,
+      "campo_1": true,
       "campo_2": false,
-      "campo_5": false
+      "campo_5": false,
+      "grupo_0": true
     },
     "expandedClasificaciones": {},
     "fasesFinales": {},
@@ -2762,6 +2763,18 @@
         "ordenSorteo": 1,
         "pg": 1,
         "grupo": "Grupo C",
+        "posGrupo": 1
+      },
+      {
+        "name": "CORCHOPANES",
+        "pts": 2,
+        "gf": 15,
+        "gc": 13,
+        "dg": 2,
+        "pj": 1,
+        "ordenSorteo": 4,
+        "pg": 1,
+        "grupo": "Grupo B",
         "posGrupo": 1
       },
       {
@@ -2825,18 +2838,6 @@
         "posGrupo": 1
       },
       {
-        "name": "CORCHOPANES",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 4,
-        "pg": 0,
-        "grupo": "Grupo B",
-        "posGrupo": 1
-      },
-      {
         "name": "CV SIESTA",
         "pts": 0,
         "gf": 0,
@@ -2885,6 +2886,18 @@
         "posGrupo": 1
       },
       {
+        "name": "PESOS PESADOS",
+        "pts": 1,
+        "gf": 13,
+        "gc": 15,
+        "dg": -2,
+        "pj": 1,
+        "ordenSorteo": 1,
+        "pg": 0,
+        "grupo": "Grupo B",
+        "posGrupo": 2
+      },
+      {
         "name": "CARCAJADA",
         "pts": 1,
         "gf": 7,
@@ -2930,18 +2943,6 @@
         "ordenSorteo": 3,
         "pg": 0,
         "grupo": "Grupo E",
-        "posGrupo": 2
-      },
-      {
-        "name": "DEMENCIA PERMANENTE CYL",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 0,
-        "pg": 0,
-        "grupo": "Grupo B",
         "posGrupo": 2
       },
       {
@@ -3038,6 +3039,18 @@
         "ordenSorteo": 4,
         "pg": 0,
         "grupo": "Grupo F",
+        "posGrupo": 3
+      },
+      {
+        "name": "DEMENCIA PERMANENTE CYL",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 0,
+        "pg": 0,
+        "grupo": "Grupo B",
         "posGrupo": 3
       },
       {
@@ -3149,18 +3162,6 @@
         "posGrupo": 3
       },
       {
-        "name": "MBONANIS TEAM",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo B",
-        "posGrupo": 3
-      },
-      {
         "name": "NOTTINGHAN PRISAS",
         "pts": 0,
         "gf": 0,
@@ -3233,6 +3234,18 @@
         "posGrupo": 4
       },
       {
+        "name": "MBONANIS TEAM",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo B",
+        "posGrupo": 4
+      },
+      {
         "name": "MENESTRA CON GINEBRA",
         "pts": 0,
         "gf": 0,
@@ -3254,18 +3267,6 @@
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo D",
-        "posGrupo": 4
-      },
-      {
-        "name": "PESOS PESADOS",
-        "pts": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
-        "pj": 0,
-        "ordenSorteo": 1,
-        "pg": 0,
-        "grupo": "Grupo B",
         "posGrupo": 4
       },
       {
