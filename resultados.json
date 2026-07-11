@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T11:55:04.029Z",
+  "publicadoEn": "2026-07-11T12:01:03.161Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -1142,24 +1142,14 @@
         "nombre": "Grupo H",
         "equipos": [
           {
-            "name": "PRESS PANZA",
-            "pts": 4,
-            "gf": 30,
-            "gc": 15,
-            "dg": 15,
-            "pj": 2,
-            "ordenSorteo": 3,
-            "pg": 2
-          },
-          {
             "name": "GUSANOS GAFONES",
-            "pts": 4,
-            "gf": 30,
-            "gc": 20,
-            "dg": 10,
-            "pj": 2,
+            "pts": 6,
+            "gf": 45,
+            "gc": 32,
+            "dg": 13,
+            "pj": 3,
             "ordenSorteo": 1,
-            "pg": 2
+            "pg": 3
           },
           {
             "name": "EL PODER DE LA PIEDRA",
@@ -1169,6 +1159,16 @@
             "dg": 16,
             "pj": 3,
             "ordenSorteo": 4,
+            "pg": 2
+          },
+          {
+            "name": "PRESS PANZA",
+            "pts": 5,
+            "gf": 42,
+            "gc": 30,
+            "dg": 12,
+            "pj": 3,
+            "ordenSorteo": 3,
             "pg": 2
           },
           {
@@ -1270,8 +1270,8 @@
               {
                 "home": "PRESS PANZA",
                 "away": "GUSANOS GAFONES",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 12,
+                "golesAway": 15,
                 "campoId": 1,
                 "ordenGlobal": 35
               }
@@ -2038,18 +2038,6 @@
         "posGrupo": 1
       },
       {
-        "name": "PRESS PANZA",
-        "pts": 4,
-        "gf": 30,
-        "gc": 15,
-        "dg": 15,
-        "pj": 2,
-        "ordenSorteo": 3,
-        "pg": 2,
-        "grupo": "Grupo H",
-        "posGrupo": 1
-      },
-      {
         "name": "VOLCADOS",
         "pts": 6,
         "gf": 45,
@@ -2111,15 +2099,15 @@
       },
       {
         "name": "GUSANOS GAFONES",
-        "pts": 4,
-        "gf": 30,
-        "gc": 20,
-        "dg": 10,
-        "pj": 2,
+        "pts": 6,
+        "gf": 45,
+        "gc": 32,
+        "dg": 13,
+        "pj": 3,
         "ordenSorteo": 1,
-        "pg": 2,
+        "pg": 3,
         "grupo": "Grupo H",
-        "posGrupo": 2
+        "posGrupo": 1
       },
       {
         "name": "SUBESELA AL HEAVY",
@@ -2155,7 +2143,7 @@
         "ordenSorteo": 4,
         "pg": 2,
         "grupo": "Grupo H",
-        "posGrupo": 3
+        "posGrupo": 2
       },
       {
         "name": "PEGRILOSAS",
@@ -2168,6 +2156,18 @@
         "pg": 2,
         "grupo": "Grupo E",
         "posGrupo": 2
+      },
+      {
+        "name": "PRESS PANZA",
+        "pts": 5,
+        "gf": 42,
+        "gc": 30,
+        "dg": 12,
+        "pj": 3,
+        "ordenSorteo": 3,
+        "pg": 2,
+        "grupo": "Grupo H",
+        "posGrupo": 3
       },
       {
         "name": "DEMENCIA PERMANENTE CYL",
@@ -2815,18 +2815,6 @@
         "posGrupo": 1
       },
       {
-        "name": "PRESS PANZA",
-        "pts": 4,
-        "gf": 30,
-        "gc": 15,
-        "dg": 15,
-        "pj": 2,
-        "ordenSorteo": 3,
-        "pg": 2,
-        "grupo": "Grupo H",
-        "posGrupo": 1
-      },
-      {
         "name": "TE MIRO Y TE BLOQUEO",
         "pts": 6,
         "gf": 45,
@@ -2875,6 +2863,18 @@
         "posGrupo": 1
       },
       {
+        "name": "GUSANOS GAFONES",
+        "pts": 6,
+        "gf": 45,
+        "gc": 32,
+        "dg": 13,
+        "pj": 3,
+        "ordenSorteo": 1,
+        "pg": 3,
+        "grupo": "Grupo H",
+        "posGrupo": 1
+      },
+      {
         "name": "SUBESELA AL HEAVY",
         "pts": 4,
         "gf": 32,
@@ -2911,13 +2911,13 @@
         "posGrupo": 2
       },
       {
-        "name": "GUSANOS GAFONES",
-        "pts": 4,
-        "gf": 30,
-        "gc": 20,
-        "dg": 10,
-        "pj": 2,
-        "ordenSorteo": 1,
+        "name": "EL PODER DE LA PIEDRA",
+        "pts": 5,
+        "gf": 42,
+        "gc": 26,
+        "dg": 16,
+        "pj": 3,
+        "ordenSorteo": 4,
         "pg": 2,
         "grupo": "Grupo H",
         "posGrupo": 2
@@ -3043,13 +3043,13 @@
         "posGrupo": 2
       },
       {
-        "name": "EL PODER DE LA PIEDRA",
+        "name": "PRESS PANZA",
         "pts": 5,
         "gf": 42,
-        "gc": 26,
-        "dg": 16,
+        "gc": 30,
+        "dg": 12,
         "pj": 3,
-        "ordenSorteo": 4,
+        "ordenSorteo": 3,
         "pg": 2,
         "grupo": "Grupo H",
         "posGrupo": 3
