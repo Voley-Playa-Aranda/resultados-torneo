@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T10:33:03.161Z",
+  "publicadoEn": "2026-07-11T10:35:03.160Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -1143,13 +1143,13 @@
         "equipos": [
           {
             "name": "PRESS PANZA",
-            "pts": 2,
-            "gf": 15,
-            "gc": 5,
-            "dg": 10,
-            "pj": 1,
+            "pts": 4,
+            "gf": 30,
+            "gc": 15,
+            "dg": 15,
+            "pj": 2,
             "ordenSorteo": 3,
-            "pg": 1
+            "pg": 2
           },
           {
             "name": "GUSANOS GAFONES",
@@ -1173,11 +1173,11 @@
           },
           {
             "name": "RIÑONES DE LECHE",
-            "pts": 1,
-            "gf": 10,
-            "gc": 15,
-            "dg": -5,
-            "pj": 1,
+            "pts": 2,
+            "gf": 20,
+            "gc": 30,
+            "dg": -10,
+            "pj": 2,
             "ordenSorteo": 0,
             "pg": 0
           },
@@ -1241,8 +1241,8 @@
               {
                 "home": "RIÑONES DE LECHE",
                 "away": "PRESS PANZA",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 10,
+                "golesAway": 15,
                 "campoId": 1,
                 "ordenGlobal": 29
               },
@@ -1990,18 +1990,6 @@
         "posGrupo": 1
       },
       {
-        "name": "PRESS PANZA",
-        "pts": 2,
-        "gf": 15,
-        "gc": 5,
-        "dg": 10,
-        "pj": 1,
-        "ordenSorteo": 3,
-        "pg": 1,
-        "grupo": "Grupo H",
-        "posGrupo": 1
-      },
-      {
         "name": "ABANTO",
         "pts": 4,
         "gf": 30,
@@ -2035,6 +2023,18 @@
         "ordenSorteo": 0,
         "pg": 2,
         "grupo": "Grupo I",
+        "posGrupo": 1
+      },
+      {
+        "name": "PRESS PANZA",
+        "pts": 4,
+        "gf": 30,
+        "gc": 15,
+        "dg": 15,
+        "pj": 2,
+        "ordenSorteo": 3,
+        "pg": 2,
+        "grupo": "Grupo H",
         "posGrupo": 1
       },
       {
@@ -2555,11 +2555,11 @@
       },
       {
         "name": "RIÑONES DE LECHE",
-        "pts": 1,
-        "gf": 10,
-        "gc": 15,
-        "dg": -5,
-        "pj": 1,
+        "pts": 2,
+        "gf": 20,
+        "gc": 30,
+        "dg": -10,
+        "pj": 2,
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo H",
@@ -2754,18 +2754,6 @@
         "posGrupo": 1
       },
       {
-        "name": "PRESS PANZA",
-        "pts": 2,
-        "gf": 15,
-        "gc": 5,
-        "dg": 10,
-        "pj": 1,
-        "ordenSorteo": 3,
-        "pg": 1,
-        "grupo": "Grupo H",
-        "posGrupo": 1
-      },
-      {
         "name": "ABANTO",
         "pts": 4,
         "gf": 30,
@@ -2799,6 +2787,18 @@
         "ordenSorteo": 0,
         "pg": 2,
         "grupo": "Grupo I",
+        "posGrupo": 1
+      },
+      {
+        "name": "PRESS PANZA",
+        "pts": 4,
+        "gf": 30,
+        "gc": 15,
+        "dg": 15,
+        "pj": 2,
+        "ordenSorteo": 3,
+        "pg": 2,
+        "grupo": "Grupo H",
         "posGrupo": 1
       },
       {
@@ -3307,11 +3307,11 @@
       },
       {
         "name": "RIÑONES DE LECHE",
-        "pts": 1,
-        "gf": 10,
-        "gc": 15,
-        "dg": -5,
-        "pj": 1,
+        "pts": 2,
+        "gf": 20,
+        "gc": 30,
+        "dg": -10,
+        "pj": 2,
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo H",
