@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T15:43:03.167Z",
+  "publicadoEn": "2026-07-11T15:45:04.030Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -3206,7 +3206,7 @@
               "sets": [
                 {
                   "hS": 15,
-                  "aS": ""
+                  "aS": 6
                 },
                 {
                   "hS": "",
@@ -3298,7 +3298,7 @@
               "ordenFinal": 27
             },
             {
-              "home": "",
+              "home": "KARIBE VÓLEIBOL",
               "away": "",
               "sets": [
                 {
