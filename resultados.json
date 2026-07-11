@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T11:19:03.163Z",
+  "publicadoEn": "2026-07-11T11:21:03.170Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -7,6 +7,16 @@
       {
         "nombre": "Grupo A",
         "equipos": [
+          {
+            "name": "NOTTINGHAN PRISAS",
+            "pts": 6,
+            "gf": 45,
+            "gc": 19,
+            "dg": 26,
+            "pj": 3,
+            "ordenSorteo": 3,
+            "pg": 3
+          },
           {
             "name": "VOLCADOS",
             "pts": 6,
@@ -16,16 +26,6 @@
             "pj": 3,
             "ordenSorteo": 4,
             "pg": 3
-          },
-          {
-            "name": "NOTTINGHAN PRISAS",
-            "pts": 4,
-            "gf": 30,
-            "gc": 19,
-            "dg": 11,
-            "pj": 2,
-            "ordenSorteo": 3,
-            "pg": 2
           },
           {
             "name": "STREET VOLLEY",
@@ -49,11 +49,11 @@
           },
           {
             "name": "SIN RED NO HAY PARAÍSO",
-            "pts": 2,
+            "pts": 3,
             "gf": 6,
-            "gc": 30,
-            "dg": -24,
-            "pj": 2,
+            "gc": 45,
+            "dg": -39,
+            "pj": 3,
             "ordenSorteo": 1,
             "pg": 0
           }
@@ -136,8 +136,8 @@
               {
                 "home": "NOTTINGHAN PRISAS",
                 "away": "SIN RED NO HAY PARAÍSO",
-                "golesHome": "",
-                "golesAway": "",
+                "golesHome": 15,
+                "golesAway": 0,
                 "campoId": 0,
                 "ordenGlobal": 14
               }
@@ -2014,6 +2014,18 @@
         "posGrupo": 1
       },
       {
+        "name": "NOTTINGHAN PRISAS",
+        "pts": 6,
+        "gf": 45,
+        "gc": 19,
+        "dg": 26,
+        "pj": 3,
+        "ordenSorteo": 3,
+        "pg": 3,
+        "grupo": "Grupo A",
+        "posGrupo": 1
+      },
+      {
         "name": "LO VEO CLARO",
         "pts": 4,
         "gf": 30,
@@ -2047,7 +2059,7 @@
         "ordenSorteo": 4,
         "pg": 3,
         "grupo": "Grupo A",
-        "posGrupo": 1
+        "posGrupo": 2
       },
       {
         "name": "LOS GOMELLANOS",
@@ -2072,18 +2084,6 @@
         "pg": 2,
         "grupo": "Grupo B",
         "posGrupo": 1
-      },
-      {
-        "name": "NOTTINGHAN PRISAS",
-        "pts": 4,
-        "gf": 30,
-        "gc": 19,
-        "dg": 11,
-        "pj": 2,
-        "ordenSorteo": 3,
-        "pg": 2,
-        "grupo": "Grupo A",
-        "posGrupo": 2
       },
       {
         "name": "GLUTEN FREE",
@@ -2687,11 +2687,11 @@
       },
       {
         "name": "SIN RED NO HAY PARAÍSO",
-        "pts": 2,
+        "pts": 3,
         "gf": 6,
-        "gc": 30,
-        "dg": -24,
-        "pj": 2,
+        "gc": 45,
+        "dg": -39,
+        "pj": 3,
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo A",
@@ -2791,6 +2791,18 @@
         "posGrupo": 1
       },
       {
+        "name": "NOTTINGHAN PRISAS",
+        "pts": 6,
+        "gf": 45,
+        "gc": 19,
+        "dg": 26,
+        "pj": 3,
+        "ordenSorteo": 3,
+        "pg": 3,
+        "grupo": "Grupo A",
+        "posGrupo": 1
+      },
+      {
         "name": "LO VEO CLARO",
         "pts": 4,
         "gf": 30,
@@ -2812,18 +2824,6 @@
         "ordenSorteo": 3,
         "pg": 2,
         "grupo": "Grupo H",
-        "posGrupo": 1
-      },
-      {
-        "name": "VOLCADOS",
-        "pts": 6,
-        "gf": 45,
-        "gc": 23,
-        "dg": 22,
-        "pj": 3,
-        "ordenSorteo": 4,
-        "pg": 3,
-        "grupo": "Grupo A",
         "posGrupo": 1
       },
       {
@@ -2899,14 +2899,14 @@
         "posGrupo": 1
       },
       {
-        "name": "NOTTINGHAN PRISAS",
-        "pts": 4,
-        "gf": 30,
-        "gc": 19,
-        "dg": 11,
-        "pj": 2,
-        "ordenSorteo": 3,
-        "pg": 2,
+        "name": "VOLCADOS",
+        "pts": 6,
+        "gf": 45,
+        "gc": 23,
+        "dg": 22,
+        "pj": 3,
+        "ordenSorteo": 4,
+        "pg": 3,
         "grupo": "Grupo A",
         "posGrupo": 2
       },
@@ -3464,11 +3464,11 @@
       },
       {
         "name": "SIN RED NO HAY PARAÍSO",
-        "pts": 2,
+        "pts": 3,
         "gf": 6,
-        "gc": 30,
-        "dg": -24,
-        "pj": 2,
+        "gc": 45,
+        "dg": -39,
+        "pj": 3,
         "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo A",
