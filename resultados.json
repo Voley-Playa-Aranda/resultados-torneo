@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-11T16:25:03.170Z",
+  "publicadoEn": "2026-07-11T16:27:03.173Z",
   "intervaloSegundos": 120,
   "torneo": {
     "iniciado": true,
@@ -3820,8 +3820,8 @@
               "away": "LA CASITA",
               "sets": [
                 {
-                  "hS": "",
-                  "aS": ""
+                  "hS": 12,
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -3840,7 +3840,7 @@
               "sets": [
                 {
                   "hS": 8,
-                  "aS": ""
+                  "aS": 15
                 },
                 {
                   "hS": "",
@@ -3933,7 +3933,7 @@
             },
             {
               "home": "ROYALEROS",
-              "away": "",
+              "away": "LA CASITA",
               "sets": [
                 {
                   "hS": "",
@@ -3951,7 +3951,7 @@
               "ordenFinal": 26
             },
             {
-              "home": "",
+              "home": "MAS SUELO QUE VÓLEY",
               "away": "ZEMEN UP",
               "sets": [
                 {
