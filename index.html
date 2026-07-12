@@ -433,60 +433,93 @@ function renderFase(key) {
 function renderMatch(m, label, isFinal, tipo) {
     let sc = getScores(m);
     let hayScore = sc[0] !== '';
-    let ganH = hayScore && parseInt(sc[0]) > parseInt(sc[1]);
-    let ganA = hayScore && parseInt(sc[1]) > parseInt(sc[0]);
+    let ganH, ganA;
+    if (m && m.bo3) {
+        ganH = hayScore && parseInt(sc[0]) > parseInt(sc[1]);
+        ganA = hayScore && parseInt(sc[1]) > parseInt(sc[0]);
+    } else {
+        ganH = hayScore && parseInt(sc[0]) > parseInt(sc[1]);
+        ganA = hayScore && parseInt(sc[1]) > parseInt(sc[0]);
+    }
     let hCls = isFinal ? ' final' : tipo === 'repesca' ? ' repesca' : '';
-    // Usar ordenFinal si existe, si no usar el label recibido
-    let labelMostrar = (m.ordenFinal && !isFinal) ? 'Partido ' + m.ordenFinal : label;
-    // Detectar byes
-    let homeText = m.home === 'DESCANSO' ? 'DESCANSA' : (m.home || 'Esperando');
-    let awayText = m.away === 'DESCANSO' ? 'DESCANSA' : (m.away || 'Esperando');
-    let homeEsp = !m.home || m.home === 'DESCANSO';
-    let awayEsp = !m.away || m.away === 'DESCANSO';
+    let labelMostrar = (m && m.ordenFinal && !isFinal) ? 'Partido ' + m.ordenFinal : label;
+    let homeText = m && m.home === 'DESCANSO' ? 'DESCANSA' : (m && m.home || 'Esperando');
+    let awayText = m && m.away === 'DESCANSO' ? 'DESCANSA' : (m && m.away || 'Esperando');
+    let homeEsp = !m || !m.home || m.home === 'DESCANSO';
+    let awayEsp = !m || !m.away || m.away === 'DESCANSO';
+
+    // Mostrar sets en Bo3
+    let scoreHomeStr = '', scoreAwayStr = '';
+    if (m && m.bo3 && hayScore) {
+        let setsStr = m.sets.filter(s => s.hS !== '' && s.aS !== '').map(s => s.hS + '-' + s.aS).join(', ');
+        scoreHomeStr = sc[0] + ' sets (' + setsStr + ')';
+        scoreAwayStr = sc[1] + ' sets';
+    } else {
+        scoreHomeStr = hayScore ? sc[0] : '';
+        scoreAwayStr = hayScore ? sc[1] : '';
+    }
+
     return '<div class="bracket-match">' +
-        '<div class="bracket-match-header' + hCls + '">' + labelMostrar + '</div>' +
+        '<div class="bracket-match-header' + hCls + '">' + labelMostrar + (m && m.bo3 ? ' · Bo3' : '') + '</div>' +
         '<div class="bracket-team-row' + (ganH ? ' ganador' : '') + '">' +
             '<span class="bracket-team-name' + (homeEsp ? ' esperando' : '') + '">' + homeText + '</span>' +
-            '<span class="bracket-team-score">' + (m.home === 'DESCANSO' ? '' : sc[0]) + '</span>' +
+            '<span class="bracket-team-score">' + scoreHomeStr + '</span>' +
         '</div>' +
         '<div class="bracket-team-row' + (ganA ? ' ganador' : '') + '">' +
             '<span class="bracket-team-name' + (awayEsp ? ' esperando' : '') + '">' + awayText + '</span>' +
-            '<span class="bracket-team-score">' + (m.away === 'DESCANSO' ? '' : sc[1]) + '</span>' +
+            '<span class="bracket-team-score">' + scoreAwayStr + '</span>' +
         '</div></div>';
 }
 
 function getScores(m) {
     if (!m || !m.sets || !m.sets[0]) return ['',''];
+    if (m.bo3) {
+        // Bo3: contar sets ganados por cada equipo
+        let wH = 0, wA = 0;
+        m.sets.forEach(s => {
+            let sh = parseInt(s.hS), sa = parseInt(s.aS);
+            if (!isNaN(sh) && !isNaN(sa) && sh !== sa) { if (sh > sa) wH++; else wA++; }
+        });
+        if (wH === 0 && wA === 0) return ['',''];
+        return [wH, wA]; // devuelve sets ganados
+    }
     let h = m.sets[0].hS, a = m.sets[0].aS;
     if (h === '' || h === undefined || a === '' || a === undefined) return ['',''];
     return [h, a];
 }
 
-function calcularPodio(b) {
-    let sc = getScores(b.grandFinal);
-    if (sc[0] === '') return null;
-    let sh = parseInt(sc[0]), sa = parseInt(sc[1]);
+function getGanadorPartido(m) {
+    // Devuelve {win, los} o null según el formato del partido
+    if (!m || !m.sets) return null;
+    if (m.bo3) {
+        let wH = 0, wA = 0;
+        m.sets.forEach(s => {
+            let sh = parseInt(s.hS), sa = parseInt(s.aS);
+            if (!isNaN(sh) && !isNaN(sa) && sh !== sa) { if (sh > sa) wH++; else wA++; }
+        });
+        if (wH >= 2) return { win: m.home, los: m.away };
+        if (wA >= 2) return { win: m.away, los: m.home };
+        return null;
+    }
+    let sh = parseInt(m.sets[0].hS), sa = parseInt(m.sets[0].aS);
     if (isNaN(sh) || isNaN(sa) || sh === sa) return null;
-    let primero = sh > sa ? b.grandFinal.home : b.grandFinal.away;
-    let segundo = sh > sa ? b.grandFinal.away : b.grandFinal.home;
+    return { win: sh > sa ? m.home : m.away, los: sh > sa ? m.away : m.home };
+}
+
+function calcularPodio(b) {
+    let res = getGanadorPartido(b.grandFinal);
+    if (!res) return null;
+    let primero = res.win, segundo = res.los;
     let tercero = null;
     if (b.tipo === 'doble' && b.losers && b.losers.length > 0) {
         let ultima = b.losers[b.losers.length - 1];
         if (ultima && ultima[0]) {
-            let lsc = getScores(ultima[0]);
-            if (lsc[0] !== '') {
-                let lh = parseInt(lsc[0]), la = parseInt(lsc[1]);
-                if (!isNaN(lh) && !isNaN(la) && lh !== la)
-                    tercero = lh > la ? ultima[0].away : ultima[0].home;
-            }
+            let r3 = getGanadorPartido(ultima[0]);
+            if (r3) tercero = r3.los;
         }
     } else if (b.thirdPlaceMatch) {
-        let tsc = getScores(b.thirdPlaceMatch);
-        if (tsc[0] !== '') {
-            let th = parseInt(tsc[0]), ta = parseInt(tsc[1]);
-            if (!isNaN(th) && !isNaN(ta) && th !== ta)
-                tercero = th > ta ? b.thirdPlaceMatch.home : b.thirdPlaceMatch.away;
-        }
+        let r3 = getGanadorPartido(b.thirdPlaceMatch);
+        if (r3) tercero = r3.win;
     }
     return { primero, segundo, tercero };
 }
