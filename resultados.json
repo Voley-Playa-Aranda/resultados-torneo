@@ -1,5 +1,5 @@
 {
-  "publicadoEn": "2026-07-12T12:03:53.734Z",
+  "publicadoEn": "2026-07-12T12:04:36.202Z",
   "intervaloSegundos": 60,
   "torneo": {
     "iniciado": true,
@@ -8,53 +8,53 @@
         "nombre": "Grupo A",
         "equipos": [
           {
-            "name": "VOLCADOS",
-            "pts": 8,
-            "gf": 60,
-            "gc": 32,
-            "dg": 28,
-            "pj": 4,
-            "ordenSorteo": 4,
-            "pg": 4
-          },
-          {
             "name": "NOTTINGHAN PRISAS",
-            "pts": 7,
-            "gf": 54,
-            "gc": 34,
-            "dg": 20,
-            "pj": 4,
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
             "ordenSorteo": 3,
-            "pg": 3
-          },
-          {
-            "name": "STREET VOLLEY",
-            "pts": 6,
-            "gf": 56,
-            "gc": 36,
-            "dg": 20,
-            "pj": 4,
-            "ordenSorteo": 0,
-            "pg": 2
+            "pg": 0
           },
           {
             "name": "PINO JACINTO",
-            "pts": 5,
-            "gf": 33,
-            "gc": 48,
-            "dg": -15,
-            "pj": 4,
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
             "ordenSorteo": 2,
-            "pg": 1
+            "pg": 0
           },
           {
             "name": "SIN RED NO HAY PARAÍSO",
-            "pts": 4,
-            "gf": 7,
-            "gc": 60,
-            "dg": -53,
-            "pj": 4,
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
             "ordenSorteo": 1,
+            "pg": 0
+          },
+          {
+            "name": "STREET VOLLEY",
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
+            "ordenSorteo": 0,
+            "pg": 0
+          },
+          {
+            "name": "VOLCADOS",
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
+            "ordenSorteo": 4,
             "pg": 0
           }
         ],
@@ -65,16 +65,16 @@
               {
                 "home": "SIN RED NO HAY PARAÍSO",
                 "away": "VOLCADOS",
-                "golesHome": 3,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 0,
                 "ordenGlobal": 0
               },
               {
                 "home": "PINO JACINTO",
                 "away": "NOTTINGHAN PRISAS",
-                "golesHome": 6,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 0,
                 "ordenGlobal": 2
               }
@@ -86,16 +86,16 @@
               {
                 "home": "STREET VOLLEY",
                 "away": "VOLCADOS",
-                "golesHome": 13,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 0,
                 "ordenGlobal": 4
               },
               {
                 "home": "SIN RED NO HAY PARAÍSO",
                 "away": "PINO JACINTO",
-                "golesHome": 3,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 0,
                 "ordenGlobal": 6
               }
@@ -107,16 +107,16 @@
               {
                 "home": "STREET VOLLEY",
                 "away": "NOTTINGHAN PRISAS",
-                "golesHome": 13,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 0,
                 "ordenGlobal": 8
               },
               {
                 "home": "VOLCADOS",
                 "away": "PINO JACINTO",
-                "golesHome": 15,
-                "golesAway": 7,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 0,
                 "ordenGlobal": 10
               }
@@ -128,16 +128,16 @@
               {
                 "home": "STREET VOLLEY",
                 "away": "PINO JACINTO",
-                "golesHome": 15,
-                "golesAway": 5,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 0,
                 "ordenGlobal": 12
               },
               {
                 "home": "NOTTINGHAN PRISAS",
                 "away": "SIN RED NO HAY PARAÍSO",
-                "golesHome": 15,
-                "golesAway": 0,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 0,
                 "ordenGlobal": 14
               }
@@ -149,16 +149,16 @@
               {
                 "home": "STREET VOLLEY",
                 "away": "SIN RED NO HAY PARAÍSO",
-                "golesHome": 15,
-                "golesAway": 1,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 0,
                 "ordenGlobal": 16
               },
               {
                 "home": "NOTTINGHAN PRISAS",
                 "away": "VOLCADOS",
-                "golesHome": 9,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 0,
                 "ordenGlobal": 18
               }
@@ -170,53 +170,53 @@
         "nombre": "Grupo B",
         "equipos": [
           {
-            "name": "TE MIRO Y TE BLOQUEO",
-            "pts": 8,
-            "gf": 60,
-            "gc": 34,
-            "dg": 26,
-            "pj": 4,
-            "ordenSorteo": 3,
-            "pg": 4
+            "name": "CORCHOPANES",
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
+            "ordenSorteo": 4,
+            "pg": 0
           },
           {
             "name": "DEMENCIA PERMANENTE CYL",
-            "pts": 7,
-            "gf": 57,
-            "gc": 44,
-            "dg": 13,
-            "pj": 4,
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
             "ordenSorteo": 0,
-            "pg": 3
-          },
-          {
-            "name": "CORCHOPANES",
-            "pts": 6,
-            "gf": 48,
-            "gc": 52,
-            "dg": -4,
-            "pj": 4,
-            "ordenSorteo": 4,
-            "pg": 2
-          },
-          {
-            "name": "PESOS PESADOS",
-            "pts": 5,
-            "gf": 49,
-            "gc": 61,
-            "dg": -12,
-            "pj": 4,
-            "ordenSorteo": 1,
-            "pg": 1
+            "pg": 0
           },
           {
             "name": "MBONANIS TEAM",
-            "pts": 4,
-            "gf": 40,
-            "gc": 63,
-            "dg": -23,
-            "pj": 4,
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
             "ordenSorteo": 2,
+            "pg": 0
+          },
+          {
+            "name": "PESOS PESADOS",
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
+            "ordenSorteo": 1,
+            "pg": 0
+          },
+          {
+            "name": "TE MIRO Y TE BLOQUEO",
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
+            "ordenSorteo": 3,
             "pg": 0
           }
         ],
@@ -227,16 +227,16 @@
               {
                 "home": "PESOS PESADOS",
                 "away": "CORCHOPANES",
-                "golesHome": 13,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 1,
                 "ordenGlobal": 20
               },
               {
                 "home": "MBONANIS TEAM",
                 "away": "TE MIRO Y TE BLOQUEO",
-                "golesHome": 6,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 1,
                 "ordenGlobal": 22
               }
@@ -248,16 +248,16 @@
               {
                 "home": "DEMENCIA PERMANENTE CYL",
                 "away": "CORCHOPANES",
-                "golesHome": 15,
-                "golesAway": 8,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 1,
                 "ordenGlobal": 24
               },
               {
                 "home": "PESOS PESADOS",
                 "away": "MBONANIS TEAM",
-                "golesHome": 18,
-                "golesAway": 16,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 1,
                 "ordenGlobal": 26
               }
@@ -269,16 +269,16 @@
               {
                 "home": "DEMENCIA PERMANENTE CYL",
                 "away": "TE MIRO Y TE BLOQUEO",
-                "golesHome": 12,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 1,
                 "ordenGlobal": 28
               },
               {
                 "home": "CORCHOPANES",
                 "away": "MBONANIS TEAM",
-                "golesHome": 15,
-                "golesAway": 9,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 1,
                 "ordenGlobal": 30
               }
@@ -290,16 +290,16 @@
               {
                 "home": "DEMENCIA PERMANENTE CYL",
                 "away": "MBONANIS TEAM",
-                "golesHome": 15,
-                "golesAway": 9,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 1,
                 "ordenGlobal": 32
               },
               {
                 "home": "TE MIRO Y TE BLOQUEO",
                 "away": "PESOS PESADOS",
-                "golesHome": 15,
-                "golesAway": 6,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 1,
                 "ordenGlobal": 34
               }
@@ -311,16 +311,16 @@
               {
                 "home": "DEMENCIA PERMANENTE CYL",
                 "away": "PESOS PESADOS",
-                "golesHome": 15,
-                "golesAway": 12,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 1,
                 "ordenGlobal": 36
               },
               {
                 "home": "TE MIRO Y TE BLOQUEO",
                 "away": "CORCHOPANES",
-                "golesHome": 15,
-                "golesAway": 10,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 1,
                 "ordenGlobal": 38
               }
@@ -332,54 +332,54 @@
         "nombre": "Grupo C",
         "equipos": [
           {
-            "name": "LOS GOMELLANOS",
-            "pts": 8,
-            "gf": 60,
-            "gc": 38,
-            "dg": 22,
-            "pj": 4,
-            "ordenSorteo": 1,
-            "pg": 4
-          },
-          {
-            "name": "LOS CARIÑITOS BOSTONCITOS",
-            "pts": 6,
-            "gf": 56,
-            "gc": 46,
-            "dg": 10,
-            "pj": 4,
-            "ordenSorteo": 3,
-            "pg": 2
+            "name": "CARCAJADA",
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
+            "ordenSorteo": 4,
+            "pg": 0
           },
           {
             "name": "KIKOÑAZO",
-            "pts": 6,
-            "gf": 46,
-            "gc": 46,
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
             "dg": 0,
-            "pj": 4,
+            "pj": 0,
             "ordenSorteo": 2,
-            "pg": 2
+            "pg": 0
+          },
+          {
+            "name": "LOS CARIÑITOS BOSTONCITOS",
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
+            "ordenSorteo": 3,
+            "pg": 0
           },
           {
             "name": "LOS CERDITOS FIESTEROS",
-            "pts": 5,
-            "gf": 42,
-            "gc": 52,
-            "dg": -10,
-            "pj": 4,
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
             "ordenSorteo": 0,
-            "pg": 1
+            "pg": 0
           },
           {
-            "name": "CARCAJADA",
-            "pts": 5,
-            "gf": 34,
-            "gc": 56,
-            "dg": -22,
-            "pj": 4,
-            "ordenSorteo": 4,
-            "pg": 1
+            "name": "LOS GOMELLANOS",
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
+            "ordenSorteo": 1,
+            "pg": 0
           }
         ],
         "partidos": [
@@ -389,16 +389,16 @@
               {
                 "home": "LOS GOMELLANOS",
                 "away": "CARCAJADA",
-                "golesHome": 15,
-                "golesAway": 7,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 2,
                 "ordenGlobal": 40
               },
               {
                 "home": "KIKOÑAZO",
                 "away": "LOS CARIÑITOS BOSTONCITOS",
-                "golesHome": 15,
-                "golesAway": 13,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 2,
                 "ordenGlobal": 42
               }
@@ -410,16 +410,16 @@
               {
                 "home": "LOS CERDITOS FIESTEROS",
                 "away": "CARCAJADA",
-                "golesHome": 11,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 2,
                 "ordenGlobal": 44
               },
               {
                 "home": "LOS GOMELLANOS",
                 "away": "KIKOÑAZO",
-                "golesHome": 15,
-                "golesAway": 9,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 2,
                 "ordenGlobal": 46
               }
@@ -431,16 +431,16 @@
               {
                 "home": "LOS CERDITOS FIESTEROS",
                 "away": "LOS CARIÑITOS BOSTONCITOS",
-                "golesHome": 7,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 2,
                 "ordenGlobal": 48
               },
               {
                 "home": "CARCAJADA",
                 "away": "KIKOÑAZO",
-                "golesHome": 3,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 2,
                 "ordenGlobal": 50
               }
@@ -452,16 +452,16 @@
               {
                 "home": "LOS CERDITOS FIESTEROS",
                 "away": "KIKOÑAZO",
-                "golesHome": 15,
-                "golesAway": 7,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 2,
                 "ordenGlobal": 52
               },
               {
                 "home": "LOS CARIÑITOS BOSTONCITOS",
                 "away": "LOS GOMELLANOS",
-                "golesHome": 13,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 2,
                 "ordenGlobal": 54
               }
@@ -473,16 +473,16 @@
               {
                 "home": "LOS CERDITOS FIESTEROS",
                 "away": "LOS GOMELLANOS",
-                "golesHome": 9,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 2,
                 "ordenGlobal": 56
               },
               {
                 "home": "LOS CARIÑITOS BOSTONCITOS",
                 "away": "CARCAJADA",
-                "golesHome": 15,
-                "golesAway": 9,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 2,
                 "ordenGlobal": 58
               }
@@ -494,54 +494,54 @@
         "nombre": "Grupo D",
         "equipos": [
           {
-            "name": "KARIBE VÓLEIBOL",
-            "pts": 8,
-            "gf": 60,
-            "gc": 37,
-            "dg": 23,
-            "pj": 4,
-            "ordenSorteo": 2,
-            "pg": 4
-          },
-          {
             "name": "GANAMOS Y NOS VAMOS",
-            "pts": 6,
-            "gf": 57,
-            "gc": 52,
-            "dg": 5,
-            "pj": 4,
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
             "ordenSorteo": 4,
-            "pg": 2
+            "pg": 0
           },
           {
-            "name": "TIERRA LLAMANDO A JUAN CARLOS",
-            "pts": 6,
-            "gf": 56,
-            "gc": 55,
-            "dg": 1,
-            "pj": 4,
-            "ordenSorteo": 3,
-            "pg": 2
+            "name": "KARIBE VÓLEIBOL",
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
+            "ordenSorteo": 2,
+            "pg": 0
           },
           {
             "name": "MANCHESTER PITY",
-            "pts": 5,
-            "gf": 41,
-            "gc": 52,
-            "dg": -11,
-            "pj": 4,
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
             "ordenSorteo": 1,
-            "pg": 1
+            "pg": 0
           },
           {
             "name": "NOS FUIMOS",
-            "pts": 5,
-            "gf": 41,
-            "gc": 59,
-            "dg": -18,
-            "pj": 4,
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
             "ordenSorteo": 0,
-            "pg": 1
+            "pg": 0
+          },
+          {
+            "name": "TIERRA LLAMANDO A JUAN CARLOS",
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
+            "ordenSorteo": 3,
+            "pg": 0
           }
         ],
         "partidos": [
@@ -551,16 +551,16 @@
               {
                 "home": "MANCHESTER PITY",
                 "away": "GANAMOS Y NOS VAMOS",
-                "golesHome": 11,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 3,
                 "ordenGlobal": 60
               },
               {
                 "home": "KARIBE VÓLEIBOL",
                 "away": "TIERRA LLAMANDO A JUAN CARLOS",
-                "golesHome": 15,
-                "golesAway": 11,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 3,
                 "ordenGlobal": 62
               }
@@ -572,16 +572,16 @@
               {
                 "home": "NOS FUIMOS",
                 "away": "GANAMOS Y NOS VAMOS",
-                "golesHome": 10,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 3,
                 "ordenGlobal": 64
               },
               {
                 "home": "MANCHESTER PITY",
                 "away": "KARIBE VÓLEIBOL",
-                "golesHome": 5,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 3,
                 "ordenGlobal": 66
               }
@@ -593,16 +593,16 @@
               {
                 "home": "NOS FUIMOS",
                 "away": "TIERRA LLAMANDO A JUAN CARLOS",
-                "golesHome": 16,
-                "golesAway": 14,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 3,
                 "ordenGlobal": 68
               },
               {
                 "home": "GANAMOS Y NOS VAMOS",
                 "away": "KARIBE VÓLEIBOL",
-                "golesHome": 13,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 3,
                 "ordenGlobal": 70
               }
@@ -614,16 +614,16 @@
               {
                 "home": "NOS FUIMOS",
                 "away": "KARIBE VÓLEIBOL",
-                "golesHome": 8,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 3,
                 "ordenGlobal": 72
               },
               {
                 "home": "TIERRA LLAMANDO A JUAN CARLOS",
                 "away": "MANCHESTER PITY",
-                "golesHome": 15,
-                "golesAway": 10,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 3,
                 "ordenGlobal": 74
               }
@@ -635,16 +635,16 @@
               {
                 "home": "NOS FUIMOS",
                 "away": "MANCHESTER PITY",
-                "golesHome": 7,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 3,
                 "ordenGlobal": 76
               },
               {
                 "home": "TIERRA LLAMANDO A JUAN CARLOS",
                 "away": "GANAMOS Y NOS VAMOS",
-                "golesHome": 16,
-                "golesAway": 14,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 3,
                 "ordenGlobal": 78
               }
@@ -657,52 +657,52 @@
         "equipos": [
           {
             "name": "ABANTO",
-            "pts": 8,
-            "gf": 60,
-            "gc": 22,
-            "dg": 38,
-            "pj": 4,
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
             "ordenSorteo": 4,
-            "pg": 4
-          },
-          {
-            "name": "PEGRILOSAS",
-            "pts": 7,
-            "gf": 53,
-            "gc": 26,
-            "dg": 27,
-            "pj": 4,
-            "ordenSorteo": 0,
-            "pg": 3
+            "pg": 0
           },
           {
             "name": "CHUPYGRASKA",
-            "pts": 6,
-            "gf": 44,
-            "gc": 47,
-            "dg": -3,
-            "pj": 4,
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
             "ordenSorteo": 3,
-            "pg": 2
-          },
-          {
-            "name": "MANCHESTER PITY JR",
-            "pts": 5,
-            "gf": 23,
-            "gc": 58,
-            "dg": -35,
-            "pj": 4,
-            "ordenSorteo": 1,
-            "pg": 1
+            "pg": 0
           },
           {
             "name": "MAMAHOUS",
-            "pts": 4,
-            "gf": 34,
-            "gc": 61,
-            "dg": -27,
-            "pj": 4,
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
             "ordenSorteo": 2,
+            "pg": 0
+          },
+          {
+            "name": "MANCHESTER PITY JR",
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
+            "ordenSorteo": 1,
+            "pg": 0
+          },
+          {
+            "name": "PEGRILOSAS",
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
+            "ordenSorteo": 0,
             "pg": 0
           }
         ],
@@ -713,16 +713,16 @@
               {
                 "home": "MANCHESTER PITY JR",
                 "away": "ABANTO",
-                "golesHome": 3,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 4,
                 "ordenGlobal": 80
               },
               {
                 "home": "MAMAHOUS",
                 "away": "CHUPYGRASKA",
-                "golesHome": 14,
-                "golesAway": 16,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 4,
                 "ordenGlobal": 82
               }
@@ -734,16 +734,16 @@
               {
                 "home": "PEGRILOSAS",
                 "away": "ABANTO",
-                "golesHome": 8,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 4,
                 "ordenGlobal": 84
               },
               {
                 "home": "MANCHESTER PITY JR",
                 "away": "MAMAHOUS",
-                "golesHome": 15,
-                "golesAway": 13,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 4,
                 "ordenGlobal": 86
               }
@@ -755,16 +755,16 @@
               {
                 "home": "PEGRILOSAS",
                 "away": "CHUPYGRASKA",
-                "golesHome": 15,
-                "golesAway": 6,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 4,
                 "ordenGlobal": 88
               },
               {
                 "home": "ABANTO",
                 "away": "MAMAHOUS",
-                "golesHome": 15,
-                "golesAway": 4,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 4,
                 "ordenGlobal": 90
               }
@@ -776,16 +776,16 @@
               {
                 "home": "PEGRILOSAS",
                 "away": "MAMAHOUS",
-                "golesHome": 15,
-                "golesAway": 3,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 4,
                 "ordenGlobal": 92
               },
               {
                 "home": "CHUPYGRASKA",
                 "away": "MANCHESTER PITY JR",
-                "golesHome": 15,
-                "golesAway": 3,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 4,
                 "ordenGlobal": 94
               }
@@ -797,16 +797,16 @@
               {
                 "home": "PEGRILOSAS",
                 "away": "MANCHESTER PITY JR",
-                "golesHome": 15,
-                "golesAway": 2,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 4,
                 "ordenGlobal": 96
               },
               {
                 "home": "CHUPYGRASKA",
                 "away": "ABANTO",
-                "golesHome": 7,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 4,
                 "ordenGlobal": 98
               }
@@ -818,53 +818,53 @@
         "nombre": "Grupo F",
         "equipos": [
           {
-            "name": "EL CLAN DE LOS LOZANO",
-            "pts": 7,
-            "gf": 62,
-            "gc": 50,
-            "dg": 12,
-            "pj": 4,
-            "ordenSorteo": 0,
-            "pg": 3
-          },
-          {
-            "name": "PROHIBIDO DIVERTIRSE",
-            "pts": 7,
-            "gf": 57,
-            "gc": 49,
-            "dg": 8,
-            "pj": 4,
-            "ordenSorteo": 1,
-            "pg": 3
-          },
-          {
-            "name": "CENTAUROS",
-            "pts": 6,
-            "gf": 60,
-            "gc": 49,
-            "dg": 11,
-            "pj": 4,
-            "ordenSorteo": 4,
-            "pg": 2
-          },
-          {
             "name": "ASOCIACIÓN DE DRAGONES AMERICANOS",
-            "pts": 6,
-            "gf": 50,
-            "gc": 49,
-            "dg": 1,
-            "pj": 4,
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
             "ordenSorteo": 2,
-            "pg": 2
+            "pg": 0
           },
           {
             "name": "CAÍDA LIBRE VOLEY",
-            "pts": 4,
-            "gf": 28,
-            "gc": 60,
-            "dg": -32,
-            "pj": 4,
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
             "ordenSorteo": 3,
+            "pg": 0
+          },
+          {
+            "name": "CENTAUROS",
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
+            "ordenSorteo": 4,
+            "pg": 0
+          },
+          {
+            "name": "EL CLAN DE LOS LOZANO",
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
+            "ordenSorteo": 0,
+            "pg": 0
+          },
+          {
+            "name": "PROHIBIDO DIVERTIRSE",
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
+            "ordenSorteo": 1,
             "pg": 0
           }
         ],
@@ -875,16 +875,16 @@
               {
                 "home": "PROHIBIDO DIVERTIRSE",
                 "away": "CENTAUROS",
-                "golesHome": 16,
-                "golesAway": 14,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 5,
                 "ordenGlobal": 100
               },
               {
                 "home": "ASOCIACIÓN DE DRAGONES AMERICANOS",
                 "away": "CAÍDA LIBRE VOLEY",
-                "golesHome": 15,
-                "golesAway": 5,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 5,
                 "ordenGlobal": 102
               }
@@ -896,16 +896,16 @@
               {
                 "home": "EL CLAN DE LOS LOZANO",
                 "away": "CENTAUROS",
-                "golesHome": 18,
-                "golesAway": 16,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 5,
                 "ordenGlobal": 104
               },
               {
                 "home": "PROHIBIDO DIVERTIRSE",
                 "away": "ASOCIACIÓN DE DRAGONES AMERICANOS",
-                "golesHome": 15,
-                "golesAway": 11,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 5,
                 "ordenGlobal": 106
               }
@@ -917,16 +917,16 @@
               {
                 "home": "EL CLAN DE LOS LOZANO",
                 "away": "CAÍDA LIBRE VOLEY",
-                "golesHome": 15,
-                "golesAway": 7,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 5,
                 "ordenGlobal": 108
               },
               {
                 "home": "CENTAUROS",
                 "away": "ASOCIACIÓN DE DRAGONES AMERICANOS",
-                "golesHome": 15,
-                "golesAway": 8,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 5,
                 "ordenGlobal": 110
               }
@@ -938,16 +938,16 @@
               {
                 "home": "EL CLAN DE LOS LOZANO",
                 "away": "ASOCIACIÓN DE DRAGONES AMERICANOS",
-                "golesHome": 14,
-                "golesAway": 16,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 5,
                 "ordenGlobal": 112
               },
               {
                 "home": "CAÍDA LIBRE VOLEY",
                 "away": "PROHIBIDO DIVERTIRSE",
-                "golesHome": 9,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 5,
                 "ordenGlobal": 114
               }
@@ -959,16 +959,16 @@
               {
                 "home": "EL CLAN DE LOS LOZANO",
                 "away": "PROHIBIDO DIVERTIRSE",
-                "golesHome": 15,
-                "golesAway": 11,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 5,
                 "ordenGlobal": 116
               },
               {
                 "home": "CAÍDA LIBRE VOLEY",
                 "away": "CENTAUROS",
-                "golesHome": 7,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 5,
                 "ordenGlobal": 118
               }
@@ -980,52 +980,52 @@
         "nombre": "Grupo G",
         "equipos": [
           {
-            "name": "EL CONVENTO DE SANTA TERESA",
-            "pts": 8,
-            "gf": 60,
-            "gc": 12,
-            "dg": 48,
-            "pj": 4,
-            "ordenSorteo": 2,
-            "pg": 4
+            "name": "CV SIESTA",
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
+            "ordenSorteo": 4,
+            "pg": 0
           },
           {
-            "name": "MENESTRA CON GINEBRA",
-            "pts": 7,
-            "gf": 48,
-            "gc": 43,
-            "dg": 5,
-            "pj": 4,
-            "ordenSorteo": 3,
-            "pg": 3
+            "name": "EL CONVENTO DE SANTA TERESA",
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
+            "ordenSorteo": 2,
+            "pg": 0
           },
           {
             "name": "KINDER SORPRESA",
-            "pts": 6,
-            "gf": 45,
-            "gc": 42,
-            "dg": 3,
-            "pj": 4,
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
             "ordenSorteo": 1,
-            "pg": 2
+            "pg": 0
           },
           {
-            "name": "CV SIESTA",
-            "pts": 5,
-            "gf": 39,
-            "gc": 61,
-            "dg": -22,
-            "pj": 4,
-            "ordenSorteo": 4,
-            "pg": 1
+            "name": "MENESTRA CON GINEBRA",
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
+            "ordenSorteo": 3,
+            "pg": 0
           },
           {
             "name": "RECEPCIÓN OPCIONAL",
-            "pts": 4,
-            "gf": 29,
-            "gc": 63,
-            "dg": -34,
-            "pj": 4,
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
             "ordenSorteo": 0,
             "pg": 0
           }
@@ -1037,16 +1037,16 @@
               {
                 "home": "KINDER SORPRESA",
                 "away": "CV SIESTA",
-                "golesHome": 15,
-                "golesAway": 7,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 0,
                 "ordenGlobal": 1
               },
               {
                 "home": "EL CONVENTO DE SANTA TERESA",
                 "away": "MENESTRA CON GINEBRA",
-                "golesHome": 15,
-                "golesAway": 3,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 0,
                 "ordenGlobal": 3
               }
@@ -1058,16 +1058,16 @@
               {
                 "home": "RECEPCIÓN OPCIONAL",
                 "away": "CV SIESTA",
-                "golesHome": 16,
-                "golesAway": 18,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 0,
                 "ordenGlobal": 5
               },
               {
                 "home": "KINDER SORPRESA",
                 "away": "EL CONVENTO DE SANTA TERESA",
-                "golesHome": 2,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 0,
                 "ordenGlobal": 7
               }
@@ -1079,16 +1079,16 @@
               {
                 "home": "RECEPCIÓN OPCIONAL",
                 "away": "MENESTRA CON GINEBRA",
-                "golesHome": 6,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 0,
                 "ordenGlobal": 9
               },
               {
                 "home": "CV SIESTA",
                 "away": "EL CONVENTO DE SANTA TERESA",
-                "golesHome": 5,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 0,
                 "ordenGlobal": 11
               }
@@ -1100,16 +1100,16 @@
               {
                 "home": "RECEPCIÓN OPCIONAL",
                 "away": "EL CONVENTO DE SANTA TERESA",
-                "golesHome": 2,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 0,
                 "ordenGlobal": 13
               },
               {
                 "home": "MENESTRA CON GINEBRA",
                 "away": "KINDER SORPRESA",
-                "golesHome": 15,
-                "golesAway": 13,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 0,
                 "ordenGlobal": 15
               }
@@ -1121,16 +1121,16 @@
               {
                 "home": "RECEPCIÓN OPCIONAL",
                 "away": "KINDER SORPRESA",
-                "golesHome": 5,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 0,
                 "ordenGlobal": 17
               },
               {
                 "home": "MENESTRA CON GINEBRA",
                 "away": "CV SIESTA",
-                "golesHome": 15,
-                "golesAway": 9,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 0,
                 "ordenGlobal": 19
               }
@@ -1142,53 +1142,53 @@
         "nombre": "Grupo H",
         "equipos": [
           {
-            "name": "GUSANOS GAFONES",
-            "pts": 8,
-            "gf": 60,
-            "gc": 41,
-            "dg": 19,
-            "pj": 4,
-            "ordenSorteo": 1,
-            "pg": 4
-          },
-          {
-            "name": "PRESS PANZA",
-            "pts": 7,
-            "gf": 57,
-            "gc": 38,
-            "dg": 19,
-            "pj": 4,
-            "ordenSorteo": 3,
-            "pg": 3
-          },
-          {
             "name": "EL PODER DE LA PIEDRA",
-            "pts": 6,
-            "gf": 50,
-            "gc": 41,
-            "dg": 9,
-            "pj": 4,
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
             "ordenSorteo": 4,
-            "pg": 2
-          },
-          {
-            "name": "RIÑONES DE LECHE",
-            "pts": 5,
-            "gf": 44,
-            "gc": 52,
-            "dg": -8,
-            "pj": 4,
-            "ordenSorteo": 0,
-            "pg": 1
+            "pg": 0
           },
           {
             "name": "GORRO DE PISCINA NEGRO",
-            "pts": 4,
-            "gf": 21,
-            "gc": 60,
-            "dg": -39,
-            "pj": 4,
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
             "ordenSorteo": 2,
+            "pg": 0
+          },
+          {
+            "name": "GUSANOS GAFONES",
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
+            "ordenSorteo": 1,
+            "pg": 0
+          },
+          {
+            "name": "PRESS PANZA",
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
+            "ordenSorteo": 3,
+            "pg": 0
+          },
+          {
+            "name": "RIÑONES DE LECHE",
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
+            "ordenSorteo": 0,
             "pg": 0
           }
         ],
@@ -1199,16 +1199,16 @@
               {
                 "home": "GUSANOS GAFONES",
                 "away": "EL PODER DE LA PIEDRA",
-                "golesHome": 15,
-                "golesAway": 12,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 1,
                 "ordenGlobal": 21
               },
               {
                 "home": "GORRO DE PISCINA NEGRO",
                 "away": "PRESS PANZA",
-                "golesHome": 5,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 1,
                 "ordenGlobal": 23
               }
@@ -1220,16 +1220,16 @@
               {
                 "home": "RIÑONES DE LECHE",
                 "away": "EL PODER DE LA PIEDRA",
-                "golesHome": 10,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 1,
                 "ordenGlobal": 25
               },
               {
                 "home": "GUSANOS GAFONES",
                 "away": "GORRO DE PISCINA NEGRO",
-                "golesHome": 15,
-                "golesAway": 8,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 1,
                 "ordenGlobal": 27
               }
@@ -1241,16 +1241,16 @@
               {
                 "home": "RIÑONES DE LECHE",
                 "away": "PRESS PANZA",
-                "golesHome": 10,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 1,
                 "ordenGlobal": 29
               },
               {
                 "home": "EL PODER DE LA PIEDRA",
                 "away": "GORRO DE PISCINA NEGRO",
-                "golesHome": 15,
-                "golesAway": 1,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 1,
                 "ordenGlobal": 31
               }
@@ -1262,16 +1262,16 @@
               {
                 "home": "RIÑONES DE LECHE",
                 "away": "GORRO DE PISCINA NEGRO",
-                "golesHome": 15,
-                "golesAway": 7,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 1,
                 "ordenGlobal": 33
               },
               {
                 "home": "PRESS PANZA",
                 "away": "GUSANOS GAFONES",
-                "golesHome": 12,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 1,
                 "ordenGlobal": 35
               }
@@ -1283,16 +1283,16 @@
               {
                 "home": "RIÑONES DE LECHE",
                 "away": "GUSANOS GAFONES",
-                "golesHome": 9,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 1,
                 "ordenGlobal": 37
               },
               {
                 "home": "PRESS PANZA",
                 "away": "EL PODER DE LA PIEDRA",
-                "golesHome": 15,
-                "golesAway": 8,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 1,
                 "ordenGlobal": 39
               }
@@ -1304,53 +1304,53 @@
         "nombre": "Grupo I",
         "equipos": [
           {
+            "name": "LAS LEYENDAS NUNCA MUEREN",
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
+            "ordenSorteo": 2,
+            "pg": 0
+          },
+          {
             "name": "LO VEO CLARO",
-            "pts": 8,
-            "gf": 60,
-            "gc": 23,
-            "dg": 37,
-            "pj": 4,
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
             "ordenSorteo": 0,
-            "pg": 4
+            "pg": 0
           },
           {
             "name": "LOS BURPEES BOYS BYIMPROVEFIT",
-            "pts": 7,
-            "gf": 53,
-            "gc": 46,
-            "dg": 7,
-            "pj": 4,
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
             "ordenSorteo": 4,
-            "pg": 3
-          },
-          {
-            "name": "SOWCAUTION",
-            "pts": 6,
-            "gf": 49,
-            "gc": 50,
-            "dg": -1,
-            "pj": 4,
-            "ordenSorteo": 3,
-            "pg": 2
+            "pg": 0
           },
           {
             "name": "MAS SUELO QUE VÓLEY",
-            "pts": 5,
-            "gf": 41,
-            "gc": 51,
-            "dg": -10,
-            "pj": 4,
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
             "ordenSorteo": 1,
-            "pg": 1
+            "pg": 0
           },
           {
-            "name": "LAS LEYENDAS NUNCA MUEREN",
-            "pts": 4,
-            "gf": 27,
-            "gc": 60,
-            "dg": -33,
-            "pj": 4,
-            "ordenSorteo": 2,
+            "name": "SOWCAUTION",
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
+            "ordenSorteo": 3,
             "pg": 0
           }
         ],
@@ -1361,16 +1361,16 @@
               {
                 "home": "MAS SUELO QUE VÓLEY",
                 "away": "LOS BURPEES BOYS BYIMPROVEFIT",
-                "golesHome": 8,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 2,
                 "ordenGlobal": 41
               },
               {
                 "home": "LAS LEYENDAS NUNCA MUEREN",
                 "away": "SOWCAUTION",
-                "golesHome": 8,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 2,
                 "ordenGlobal": 43
               }
@@ -1382,16 +1382,16 @@
               {
                 "home": "LO VEO CLARO",
                 "away": "LOS BURPEES BOYS BYIMPROVEFIT",
-                "golesHome": 15,
-                "golesAway": 8,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 2,
                 "ordenGlobal": 45
               },
               {
                 "home": "MAS SUELO QUE VÓLEY",
                 "away": "LAS LEYENDAS NUNCA MUEREN",
-                "golesHome": 15,
-                "golesAway": 6,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 2,
                 "ordenGlobal": 47
               }
@@ -1403,16 +1403,16 @@
               {
                 "home": "LO VEO CLARO",
                 "away": "SOWCAUTION",
-                "golesHome": 15,
-                "golesAway": 6,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 2,
                 "ordenGlobal": 49
               },
               {
                 "home": "LOS BURPEES BOYS BYIMPROVEFIT",
                 "away": "LAS LEYENDAS NUNCA MUEREN",
-                "golesHome": 15,
-                "golesAway": 10,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 2,
                 "ordenGlobal": 51
               }
@@ -1424,16 +1424,16 @@
               {
                 "home": "LO VEO CLARO",
                 "away": "LAS LEYENDAS NUNCA MUEREN",
-                "golesHome": 15,
-                "golesAway": 3,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 2,
                 "ordenGlobal": 53
               },
               {
                 "home": "SOWCAUTION",
                 "away": "MAS SUELO QUE VÓLEY",
-                "golesHome": 15,
-                "golesAway": 12,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 2,
                 "ordenGlobal": 55
               }
@@ -1445,16 +1445,16 @@
               {
                 "home": "LO VEO CLARO",
                 "away": "MAS SUELO QUE VÓLEY",
-                "golesHome": 15,
-                "golesAway": 6,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 2,
                 "ordenGlobal": 57
               },
               {
                 "home": "SOWCAUTION",
                 "away": "LOS BURPEES BOYS BYIMPROVEFIT",
-                "golesHome": 13,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 2,
                 "ordenGlobal": 59
               }
@@ -1466,54 +1466,54 @@
         "nombre": "Grupo J",
         "equipos": [
           {
-            "name": "SUBESELA AL HEAVY",
-            "pts": 8,
-            "gf": 62,
-            "gc": 34,
-            "dg": 28,
-            "pj": 4,
-            "ordenSorteo": 3,
-            "pg": 4
-          },
-          {
-            "name": "MALITOS",
-            "pts": 6,
-            "gf": 46,
-            "gc": 51,
-            "dg": -5,
-            "pj": 4,
-            "ordenSorteo": 4,
-            "pg": 2
-          },
-          {
-            "name": "ZEMEN UP",
-            "pts": 6,
-            "gf": 41,
-            "gc": 50,
-            "dg": -9,
-            "pj": 4,
-            "ordenSorteo": 0,
-            "pg": 2
-          },
-          {
             "name": "CHACALES",
-            "pts": 5,
-            "gf": 48,
-            "gc": 53,
-            "dg": -5,
-            "pj": 4,
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
             "ordenSorteo": 2,
-            "pg": 1
+            "pg": 0
           },
           {
             "name": "LOS ROOKIES",
-            "pts": 5,
-            "gf": 38,
-            "gc": 47,
-            "dg": -9,
-            "pj": 4,
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
             "ordenSorteo": 1,
-            "pg": 1
+            "pg": 0
+          },
+          {
+            "name": "MALITOS",
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
+            "ordenSorteo": 4,
+            "pg": 0
+          },
+          {
+            "name": "SUBESELA AL HEAVY",
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
+            "ordenSorteo": 3,
+            "pg": 0
+          },
+          {
+            "name": "ZEMEN UP",
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
+            "ordenSorteo": 0,
+            "pg": 0
           }
         ],
         "partidos": [
@@ -1523,16 +1523,16 @@
               {
                 "home": "LOS ROOKIES",
                 "away": "MALITOS",
-                "golesHome": 12,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 3,
                 "ordenGlobal": 61
               },
               {
                 "home": "CHACALES",
                 "away": "SUBESELA AL HEAVY",
-                "golesHome": 15,
-                "golesAway": 17,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 3,
                 "ordenGlobal": 63
               }
@@ -1544,16 +1544,16 @@
               {
                 "home": "ZEMEN UP",
                 "away": "MALITOS",
-                "golesHome": 15,
-                "golesAway": 11,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 3,
                 "ordenGlobal": 65
               },
               {
                 "home": "LOS ROOKIES",
                 "away": "CHACALES",
-                "golesHome": 6,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 3,
                 "ordenGlobal": 67
               }
@@ -1565,16 +1565,16 @@
               {
                 "home": "ZEMEN UP",
                 "away": "SUBESELA AL HEAVY",
-                "golesHome": 9,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 3,
                 "ordenGlobal": 69
               },
               {
                 "home": "MALITOS",
                 "away": "CHACALES",
-                "golesHome": 15,
-                "golesAway": 9,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 3,
                 "ordenGlobal": 71
               }
@@ -1586,16 +1586,16 @@
               {
                 "home": "ZEMEN UP",
                 "away": "CHACALES",
-                "golesHome": 15,
-                "golesAway": 9,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 3,
                 "ordenGlobal": 73
               },
               {
                 "home": "SUBESELA AL HEAVY",
                 "away": "LOS ROOKIES",
-                "golesHome": 15,
-                "golesAway": 5,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 3,
                 "ordenGlobal": 75
               }
@@ -1607,16 +1607,16 @@
               {
                 "home": "ZEMEN UP",
                 "away": "LOS ROOKIES",
-                "golesHome": 2,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 3,
                 "ordenGlobal": 77
               },
               {
                 "home": "SUBESELA AL HEAVY",
                 "away": "MALITOS",
-                "golesHome": 15,
-                "golesAway": 5,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 3,
                 "ordenGlobal": 79
               }
@@ -1628,54 +1628,54 @@
         "nombre": "Grupo K",
         "equipos": [
           {
+            "name": "ASTON BIRRAS",
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
+            "ordenSorteo": 1,
+            "pg": 0
+          },
+          {
             "name": "GLUTEN FREE",
-            "pts": 8,
-            "gf": 60,
-            "gc": 39,
-            "dg": 21,
-            "pj": 4,
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
             "ordenSorteo": 2,
-            "pg": 4
+            "pg": 0
           },
           {
             "name": "LA BATALLA DE LOS PELOS BASTARDOS",
-            "pts": 6,
-            "gf": 49,
-            "gc": 46,
-            "dg": 3,
-            "pj": 4,
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
             "ordenSorteo": 0,
-            "pg": 2
-          },
-          {
-            "name": "ROYALEROS",
-            "pts": 6,
-            "gf": 46,
-            "gc": 52,
-            "dg": -6,
-            "pj": 4,
-            "ordenSorteo": 3,
-            "pg": 2
+            "pg": 0
           },
           {
             "name": "LA CASITA",
-            "pts": 5,
-            "gf": 50,
-            "gc": 55,
-            "dg": -5,
-            "pj": 4,
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
             "ordenSorteo": 4,
-            "pg": 1
+            "pg": 0
           },
           {
-            "name": "ASTON BIRRAS",
-            "pts": 5,
-            "gf": 44,
-            "gc": 57,
-            "dg": -13,
-            "pj": 4,
-            "ordenSorteo": 1,
-            "pg": 1
+            "name": "ROYALEROS",
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
+            "ordenSorteo": 3,
+            "pg": 0
           }
         ],
         "partidos": [
@@ -1685,16 +1685,16 @@
               {
                 "home": "ASTON BIRRAS",
                 "away": "LA CASITA",
-                "golesHome": 15,
-                "golesAway": 12,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 4,
                 "ordenGlobal": 81
               },
               {
                 "home": "GLUTEN FREE",
                 "away": "ROYALEROS",
-                "golesHome": 15,
-                "golesAway": 6,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 4,
                 "ordenGlobal": 83
               }
@@ -1706,16 +1706,16 @@
               {
                 "home": "LA BATALLA DE LOS PELOS BASTARDOS",
                 "away": "LA CASITA",
-                "golesHome": 15,
-                "golesAway": 10,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 4,
                 "ordenGlobal": 85
               },
               {
                 "home": "ASTON BIRRAS",
                 "away": "GLUTEN FREE",
-                "golesHome": 10,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 4,
                 "ordenGlobal": 87
               }
@@ -1727,16 +1727,16 @@
               {
                 "home": "LA BATALLA DE LOS PELOS BASTARDOS",
                 "away": "ROYALEROS",
-                "golesHome": 9,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 4,
                 "ordenGlobal": 89
               },
               {
                 "home": "LA CASITA",
                 "away": "GLUTEN FREE",
-                "golesHome": 13,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 4,
                 "ordenGlobal": 91
               }
@@ -1748,16 +1748,16 @@
               {
                 "home": "LA BATALLA DE LOS PELOS BASTARDOS",
                 "away": "GLUTEN FREE",
-                "golesHome": 10,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 4,
                 "ordenGlobal": 93
               },
               {
                 "home": "ROYALEROS",
                 "away": "ASTON BIRRAS",
-                "golesHome": 15,
-                "golesAway": 13,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 4,
                 "ordenGlobal": 95
               }
@@ -1769,16 +1769,16 @@
               {
                 "home": "LA BATALLA DE LOS PELOS BASTARDOS",
                 "away": "ASTON BIRRAS",
-                "golesHome": 15,
-                "golesAway": 6,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 4,
                 "ordenGlobal": 97
               },
               {
                 "home": "ROYALEROS",
                 "away": "LA CASITA",
-                "golesHome": 10,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 4,
                 "ordenGlobal": 99
               }
@@ -1791,51 +1791,51 @@
         "equipos": [
           {
             "name": "ASÍ DE PEQUEÑITOS",
-            "pts": 8,
-            "gf": 60,
-            "gc": 22,
-            "dg": 38,
-            "pj": 4,
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
             "ordenSorteo": 2,
-            "pg": 4
+            "pg": 0
           },
           {
             "name": "EL TAMAÑO NO IMPORTA",
-            "pts": 6,
-            "gf": 52,
-            "gc": 44,
-            "dg": 8,
-            "pj": 4,
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
             "ordenSorteo": 1,
-            "pg": 2
-          },
-          {
-            "name": "TE EMPAQUETO",
-            "pts": 6,
-            "gf": 45,
-            "gc": 48,
-            "dg": -3,
-            "pj": 4,
-            "ordenSorteo": 3,
-            "pg": 2
+            "pg": 0
           },
           {
             "name": "LOS ROMPEBOLAS",
-            "pts": 6,
-            "gf": 41,
-            "gc": 45,
-            "dg": -4,
-            "pj": 4,
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
             "ordenSorteo": 4,
-            "pg": 2
+            "pg": 0
+          },
+          {
+            "name": "TE EMPAQUETO",
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
+            "ordenSorteo": 3,
+            "pg": 0
           },
           {
             "name": "VODKA JUNIORS",
-            "pts": 4,
-            "gf": 21,
-            "gc": 60,
-            "dg": -39,
-            "pj": 4,
+            "pts": 0,
+            "gf": 0,
+            "gc": 0,
+            "dg": 0,
+            "pj": 0,
             "ordenSorteo": 0,
             "pg": 0
           }
@@ -1847,16 +1847,16 @@
               {
                 "home": "EL TAMAÑO NO IMPORTA",
                 "away": "LOS ROMPEBOLAS",
-                "golesHome": 15,
-                "golesAway": 6,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 5,
                 "ordenGlobal": 101
               },
               {
                 "home": "ASÍ DE PEQUEÑITOS",
                 "away": "TE EMPAQUETO",
-                "golesHome": 15,
-                "golesAway": 5,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 5,
                 "ordenGlobal": 103
               }
@@ -1868,16 +1868,16 @@
               {
                 "home": "VODKA JUNIORS",
                 "away": "LOS ROMPEBOLAS",
-                "golesHome": 5,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 5,
                 "ordenGlobal": 105
               },
               {
                 "home": "EL TAMAÑO NO IMPORTA",
                 "away": "ASÍ DE PEQUEÑITOS",
-                "golesHome": 9,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 5,
                 "ordenGlobal": 107
               }
@@ -1889,16 +1889,16 @@
               {
                 "home": "VODKA JUNIORS",
                 "away": "TE EMPAQUETO",
-                "golesHome": 5,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 5,
                 "ordenGlobal": 109
               },
               {
                 "home": "LOS ROMPEBOLAS",
                 "away": "ASÍ DE PEQUEÑITOS",
-                "golesHome": 5,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 5,
                 "ordenGlobal": 111
               }
@@ -1910,16 +1910,16 @@
               {
                 "home": "VODKA JUNIORS",
                 "away": "ASÍ DE PEQUEÑITOS",
-                "golesHome": 3,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 5,
                 "ordenGlobal": 113
               },
               {
                 "home": "TE EMPAQUETO",
                 "away": "EL TAMAÑO NO IMPORTA",
-                "golesHome": 15,
-                "golesAway": 13,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 5,
                 "ordenGlobal": 115
               }
@@ -1931,16 +1931,16 @@
               {
                 "home": "VODKA JUNIORS",
                 "away": "EL TAMAÑO NO IMPORTA",
-                "golesHome": 8,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 5,
                 "ordenGlobal": 117
               },
               {
                 "home": "TE EMPAQUETO",
                 "away": "LOS ROMPEBOLAS",
-                "golesHome": 10,
-                "golesAway": 15,
+                "golesHome": "",
+                "golesAway": "",
                 "campoId": 5,
                 "ordenGlobal": 119
               }
@@ -2039,723 +2039,723 @@
     ],
     "lastGlobalEq": [
       {
-        "name": "EL CONVENTO DE SANTA TERESA",
-        "pts": 8,
-        "gf": 60,
-        "gc": 12,
-        "dg": 48,
-        "pj": 4,
-        "ordenSorteo": 2,
-        "pg": 4,
-        "grupo": "Grupo G",
-        "posGrupo": 1
-      },
-      {
         "name": "ABANTO",
-        "pts": 8,
-        "gf": 60,
-        "gc": 22,
-        "dg": 38,
-        "pj": 4,
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
         "ordenSorteo": 4,
-        "pg": 4,
+        "pg": 0,
         "grupo": "Grupo E",
         "posGrupo": 1
       },
       {
         "name": "ASÍ DE PEQUEÑITOS",
-        "pts": 8,
-        "gf": 60,
-        "gc": 22,
-        "dg": 38,
-        "pj": 4,
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
         "ordenSorteo": 2,
-        "pg": 4,
+        "pg": 0,
         "grupo": "Grupo L",
         "posGrupo": 1
       },
       {
-        "name": "LO VEO CLARO",
-        "pts": 8,
-        "gf": 60,
-        "gc": 23,
-        "dg": 37,
-        "pj": 4,
-        "ordenSorteo": 0,
-        "pg": 4,
-        "grupo": "Grupo I",
-        "posGrupo": 1
-      },
-      {
-        "name": "SUBESELA AL HEAVY",
-        "pts": 8,
-        "gf": 62,
-        "gc": 34,
-        "dg": 28,
-        "pj": 4,
-        "ordenSorteo": 3,
-        "pg": 4,
-        "grupo": "Grupo J",
-        "posGrupo": 1
-      },
-      {
-        "name": "VOLCADOS",
-        "pts": 8,
-        "gf": 60,
-        "gc": 32,
-        "dg": 28,
-        "pj": 4,
-        "ordenSorteo": 4,
-        "pg": 4,
-        "grupo": "Grupo A",
-        "posGrupo": 1
-      },
-      {
-        "name": "TE MIRO Y TE BLOQUEO",
-        "pts": 8,
-        "gf": 60,
-        "gc": 34,
-        "dg": 26,
-        "pj": 4,
-        "ordenSorteo": 3,
-        "pg": 4,
-        "grupo": "Grupo B",
-        "posGrupo": 1
-      },
-      {
-        "name": "KARIBE VÓLEIBOL",
-        "pts": 8,
-        "gf": 60,
-        "gc": 37,
-        "dg": 23,
-        "pj": 4,
+        "name": "ASOCIACIÓN DE DRAGONES AMERICANOS",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
         "ordenSorteo": 2,
-        "pg": 4,
-        "grupo": "Grupo D",
+        "pg": 0,
+        "grupo": "Grupo F",
         "posGrupo": 1
       },
       {
-        "name": "LOS GOMELLANOS",
-        "pts": 8,
-        "gf": 60,
-        "gc": 38,
-        "dg": 22,
-        "pj": 4,
+        "name": "ASTON BIRRAS",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
         "ordenSorteo": 1,
-        "pg": 4,
-        "grupo": "Grupo C",
-        "posGrupo": 1
-      },
-      {
-        "name": "GLUTEN FREE",
-        "pts": 8,
-        "gf": 60,
-        "gc": 39,
-        "dg": 21,
-        "pj": 4,
-        "ordenSorteo": 2,
-        "pg": 4,
+        "pg": 0,
         "grupo": "Grupo K",
         "posGrupo": 1
       },
       {
-        "name": "GUSANOS GAFONES",
-        "pts": 8,
-        "gf": 60,
-        "gc": 41,
-        "dg": 19,
-        "pj": 4,
-        "ordenSorteo": 1,
-        "pg": 4,
-        "grupo": "Grupo H",
+        "name": "CAÍDA LIBRE VOLEY",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 3,
+        "pg": 0,
+        "grupo": "Grupo F",
+        "posGrupo": 2
+      },
+      {
+        "name": "CARCAJADA",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 4,
+        "pg": 0,
+        "grupo": "Grupo C",
         "posGrupo": 1
       },
       {
-        "name": "PEGRILOSAS",
-        "pts": 7,
-        "gf": 53,
-        "gc": 26,
-        "dg": 27,
-        "pj": 4,
-        "ordenSorteo": 0,
-        "pg": 3,
+        "name": "CENTAUROS",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 4,
+        "pg": 0,
+        "grupo": "Grupo F",
+        "posGrupo": 3
+      },
+      {
+        "name": "CHACALES",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo J",
+        "posGrupo": 1
+      },
+      {
+        "name": "CHUPYGRASKA",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 3,
+        "pg": 0,
         "grupo": "Grupo E",
         "posGrupo": 2
       },
       {
-        "name": "NOTTINGHAN PRISAS",
-        "pts": 7,
-        "gf": 54,
-        "gc": 34,
-        "dg": 20,
-        "pj": 4,
-        "ordenSorteo": 3,
-        "pg": 3,
-        "grupo": "Grupo A",
-        "posGrupo": 2
+        "name": "CORCHOPANES",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 4,
+        "pg": 0,
+        "grupo": "Grupo B",
+        "posGrupo": 1
       },
       {
-        "name": "PRESS PANZA",
-        "pts": 7,
-        "gf": 57,
-        "gc": 38,
-        "dg": 19,
-        "pj": 4,
-        "ordenSorteo": 3,
-        "pg": 3,
-        "grupo": "Grupo H",
-        "posGrupo": 2
+        "name": "CV SIESTA",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 4,
+        "pg": 0,
+        "grupo": "Grupo G",
+        "posGrupo": 1
       },
       {
         "name": "DEMENCIA PERMANENTE CYL",
-        "pts": 7,
-        "gf": 57,
-        "gc": 44,
-        "dg": 13,
-        "pj": 4,
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
         "ordenSorteo": 0,
-        "pg": 3,
+        "pg": 0,
         "grupo": "Grupo B",
         "posGrupo": 2
       },
       {
         "name": "EL CLAN DE LOS LOZANO",
-        "pts": 7,
-        "gf": 62,
-        "gc": 50,
-        "dg": 12,
-        "pj": 4,
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
         "ordenSorteo": 0,
-        "pg": 3,
+        "pg": 0,
         "grupo": "Grupo F",
-        "posGrupo": 1
+        "posGrupo": 4
       },
       {
-        "name": "PROHIBIDO DIVERTIRSE",
-        "pts": 7,
-        "gf": 57,
-        "gc": 49,
-        "dg": 8,
-        "pj": 4,
-        "ordenSorteo": 1,
-        "pg": 3,
-        "grupo": "Grupo F",
-        "posGrupo": 2
-      },
-      {
-        "name": "LOS BURPEES BOYS BYIMPROVEFIT",
-        "pts": 7,
-        "gf": 53,
-        "gc": 46,
-        "dg": 7,
-        "pj": 4,
-        "ordenSorteo": 4,
-        "pg": 3,
-        "grupo": "Grupo I",
-        "posGrupo": 2
-      },
-      {
-        "name": "MENESTRA CON GINEBRA",
-        "pts": 7,
-        "gf": 48,
-        "gc": 43,
-        "dg": 5,
-        "pj": 4,
-        "ordenSorteo": 3,
-        "pg": 3,
+        "name": "EL CONVENTO DE SANTA TERESA",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 2,
+        "pg": 0,
         "grupo": "Grupo G",
         "posGrupo": 2
       },
       {
-        "name": "STREET VOLLEY",
-        "pts": 6,
-        "gf": 56,
-        "gc": 36,
-        "dg": 20,
-        "pj": 4,
-        "ordenSorteo": 0,
-        "pg": 2,
-        "grupo": "Grupo A",
-        "posGrupo": 3
-      },
-      {
-        "name": "CENTAUROS",
-        "pts": 6,
-        "gf": 60,
-        "gc": 49,
-        "dg": 11,
-        "pj": 4,
-        "ordenSorteo": 4,
-        "pg": 2,
-        "grupo": "Grupo F",
-        "posGrupo": 3
-      },
-      {
-        "name": "LOS CARIÑITOS BOSTONCITOS",
-        "pts": 6,
-        "gf": 56,
-        "gc": 46,
-        "dg": 10,
-        "pj": 4,
-        "ordenSorteo": 3,
-        "pg": 2,
-        "grupo": "Grupo C",
-        "posGrupo": 2
-      },
-      {
         "name": "EL PODER DE LA PIEDRA",
-        "pts": 6,
-        "gf": 50,
-        "gc": 41,
-        "dg": 9,
-        "pj": 4,
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
         "ordenSorteo": 4,
-        "pg": 2,
+        "pg": 0,
         "grupo": "Grupo H",
-        "posGrupo": 3
+        "posGrupo": 1
       },
       {
         "name": "EL TAMAÑO NO IMPORTA",
-        "pts": 6,
-        "gf": 52,
-        "gc": 44,
-        "dg": 8,
-        "pj": 4,
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
         "ordenSorteo": 1,
-        "pg": 2,
+        "pg": 0,
         "grupo": "Grupo L",
         "posGrupo": 2
       },
       {
         "name": "GANAMOS Y NOS VAMOS",
-        "pts": 6,
-        "gf": 57,
-        "gc": 52,
-        "dg": 5,
-        "pj": 4,
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
         "ordenSorteo": 4,
-        "pg": 2,
+        "pg": 0,
+        "grupo": "Grupo D",
+        "posGrupo": 1
+      },
+      {
+        "name": "GLUTEN FREE",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo K",
+        "posGrupo": 2
+      },
+      {
+        "name": "GORRO DE PISCINA NEGRO",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo H",
+        "posGrupo": 2
+      },
+      {
+        "name": "GUSANOS GAFONES",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 1,
+        "pg": 0,
+        "grupo": "Grupo H",
+        "posGrupo": 3
+      },
+      {
+        "name": "KARIBE VÓLEIBOL",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 2,
+        "pg": 0,
         "grupo": "Grupo D",
         "posGrupo": 2
       },
       {
-        "name": "LA BATALLA DE LOS PELOS BASTARDOS",
-        "pts": 6,
-        "gf": 49,
-        "gc": 46,
-        "dg": 3,
-        "pj": 4,
-        "ordenSorteo": 0,
-        "pg": 2,
-        "grupo": "Grupo K",
+        "name": "KIKOÑAZO",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo C",
         "posGrupo": 2
       },
       {
         "name": "KINDER SORPRESA",
-        "pts": 6,
-        "gf": 45,
-        "gc": 42,
-        "dg": 3,
-        "pj": 4,
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
         "ordenSorteo": 1,
-        "pg": 2,
+        "pg": 0,
         "grupo": "Grupo G",
         "posGrupo": 3
       },
       {
-        "name": "TIERRA LLAMANDO A JUAN CARLOS",
-        "pts": 6,
-        "gf": 56,
-        "gc": 55,
-        "dg": 1,
-        "pj": 4,
-        "ordenSorteo": 3,
-        "pg": 2,
-        "grupo": "Grupo D",
-        "posGrupo": 3
-      },
-      {
-        "name": "ASOCIACIÓN DE DRAGONES AMERICANOS",
-        "pts": 6,
-        "gf": 50,
-        "gc": 49,
-        "dg": 1,
-        "pj": 4,
-        "ordenSorteo": 2,
-        "pg": 2,
-        "grupo": "Grupo F",
-        "posGrupo": 4
-      },
-      {
-        "name": "KIKOÑAZO",
-        "pts": 6,
-        "gf": 46,
-        "gc": 46,
+        "name": "LA BATALLA DE LOS PELOS BASTARDOS",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
         "dg": 0,
-        "pj": 4,
-        "ordenSorteo": 2,
-        "pg": 2,
-        "grupo": "Grupo C",
-        "posGrupo": 3
-      },
-      {
-        "name": "SOWCAUTION",
-        "pts": 6,
-        "gf": 49,
-        "gc": 50,
-        "dg": -1,
-        "pj": 4,
-        "ordenSorteo": 3,
-        "pg": 2,
-        "grupo": "Grupo I",
-        "posGrupo": 3
-      },
-      {
-        "name": "TE EMPAQUETO",
-        "pts": 6,
-        "gf": 45,
-        "gc": 48,
-        "dg": -3,
-        "pj": 4,
-        "ordenSorteo": 3,
-        "pg": 2,
-        "grupo": "Grupo L",
-        "posGrupo": 3
-      },
-      {
-        "name": "CHUPYGRASKA",
-        "pts": 6,
-        "gf": 44,
-        "gc": 47,
-        "dg": -3,
-        "pj": 4,
-        "ordenSorteo": 3,
-        "pg": 2,
-        "grupo": "Grupo E",
-        "posGrupo": 3
-      },
-      {
-        "name": "CORCHOPANES",
-        "pts": 6,
-        "gf": 48,
-        "gc": 52,
-        "dg": -4,
-        "pj": 4,
-        "ordenSorteo": 4,
-        "pg": 2,
-        "grupo": "Grupo B",
-        "posGrupo": 3
-      },
-      {
-        "name": "LOS ROMPEBOLAS",
-        "pts": 6,
-        "gf": 41,
-        "gc": 45,
-        "dg": -4,
-        "pj": 4,
-        "ordenSorteo": 4,
-        "pg": 2,
-        "grupo": "Grupo L",
-        "posGrupo": 4
-      },
-      {
-        "name": "MALITOS",
-        "pts": 6,
-        "gf": 46,
-        "gc": 51,
-        "dg": -5,
-        "pj": 4,
-        "ordenSorteo": 4,
-        "pg": 2,
-        "grupo": "Grupo J",
-        "posGrupo": 2
-      },
-      {
-        "name": "ROYALEROS",
-        "pts": 6,
-        "gf": 46,
-        "gc": 52,
-        "dg": -6,
-        "pj": 4,
-        "ordenSorteo": 3,
-        "pg": 2,
-        "grupo": "Grupo K",
-        "posGrupo": 3
-      },
-      {
-        "name": "ZEMEN UP",
-        "pts": 6,
-        "gf": 41,
-        "gc": 50,
-        "dg": -9,
-        "pj": 4,
+        "pj": 0,
         "ordenSorteo": 0,
-        "pg": 2,
-        "grupo": "Grupo J",
+        "pg": 0,
+        "grupo": "Grupo K",
         "posGrupo": 3
       },
       {
         "name": "LA CASITA",
-        "pts": 5,
-        "gf": 50,
-        "gc": 55,
-        "dg": -5,
-        "pj": 4,
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
         "ordenSorteo": 4,
-        "pg": 1,
+        "pg": 0,
         "grupo": "Grupo K",
         "posGrupo": 4
       },
       {
-        "name": "CHACALES",
-        "pts": 5,
-        "gf": 48,
-        "gc": 53,
-        "dg": -5,
-        "pj": 4,
+        "name": "LAS LEYENDAS NUNCA MUEREN",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
         "ordenSorteo": 2,
-        "pg": 1,
-        "grupo": "Grupo J",
-        "posGrupo": 4
+        "pg": 0,
+        "grupo": "Grupo I",
+        "posGrupo": 1
       },
       {
-        "name": "RIÑONES DE LECHE",
-        "pts": 5,
-        "gf": 44,
-        "gc": 52,
-        "dg": -8,
-        "pj": 4,
+        "name": "LO VEO CLARO",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
         "ordenSorteo": 0,
-        "pg": 1,
-        "grupo": "Grupo H",
-        "posGrupo": 4
+        "pg": 0,
+        "grupo": "Grupo I",
+        "posGrupo": 2
       },
       {
-        "name": "LOS ROOKIES",
-        "pts": 5,
-        "gf": 38,
-        "gc": 47,
-        "dg": -9,
-        "pj": 4,
-        "ordenSorteo": 1,
-        "pg": 1,
-        "grupo": "Grupo J",
-        "posGrupo": 5
+        "name": "LOS BURPEES BOYS BYIMPROVEFIT",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 4,
+        "pg": 0,
+        "grupo": "Grupo I",
+        "posGrupo": 3
+      },
+      {
+        "name": "LOS CARIÑITOS BOSTONCITOS",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 3,
+        "pg": 0,
+        "grupo": "Grupo C",
+        "posGrupo": 3
       },
       {
         "name": "LOS CERDITOS FIESTEROS",
-        "pts": 5,
-        "gf": 42,
-        "gc": 52,
-        "dg": -10,
-        "pj": 4,
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
         "ordenSorteo": 0,
-        "pg": 1,
+        "pg": 0,
         "grupo": "Grupo C",
+        "posGrupo": 4
+      },
+      {
+        "name": "LOS GOMELLANOS",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 1,
+        "pg": 0,
+        "grupo": "Grupo C",
+        "posGrupo": 5
+      },
+      {
+        "name": "LOS ROMPEBOLAS",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 4,
+        "pg": 0,
+        "grupo": "Grupo L",
+        "posGrupo": 3
+      },
+      {
+        "name": "LOS ROOKIES",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 1,
+        "pg": 0,
+        "grupo": "Grupo J",
+        "posGrupo": 2
+      },
+      {
+        "name": "MALITOS",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 4,
+        "pg": 0,
+        "grupo": "Grupo J",
+        "posGrupo": 3
+      },
+      {
+        "name": "MAMAHOUS",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo E",
+        "posGrupo": 3
+      },
+      {
+        "name": "MANCHESTER PITY",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 1,
+        "pg": 0,
+        "grupo": "Grupo D",
+        "posGrupo": 3
+      },
+      {
+        "name": "MANCHESTER PITY JR",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 1,
+        "pg": 0,
+        "grupo": "Grupo E",
         "posGrupo": 4
       },
       {
         "name": "MAS SUELO QUE VÓLEY",
-        "pts": 5,
-        "gf": 41,
-        "gc": 51,
-        "dg": -10,
-        "pj": 4,
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
         "ordenSorteo": 1,
-        "pg": 1,
+        "pg": 0,
         "grupo": "Grupo I",
         "posGrupo": 4
       },
       {
-        "name": "MANCHESTER PITY",
-        "pts": 5,
-        "gf": 41,
-        "gc": 52,
-        "dg": -11,
-        "pj": 4,
-        "ordenSorteo": 1,
-        "pg": 1,
-        "grupo": "Grupo D",
-        "posGrupo": 4
-      },
-      {
-        "name": "PESOS PESADOS",
-        "pts": 5,
-        "gf": 49,
-        "gc": 61,
-        "dg": -12,
-        "pj": 4,
-        "ordenSorteo": 1,
-        "pg": 1,
-        "grupo": "Grupo B",
-        "posGrupo": 4
-      },
-      {
-        "name": "ASTON BIRRAS",
-        "pts": 5,
-        "gf": 44,
-        "gc": 57,
-        "dg": -13,
-        "pj": 4,
-        "ordenSorteo": 1,
-        "pg": 1,
-        "grupo": "Grupo K",
-        "posGrupo": 5
-      },
-      {
-        "name": "PINO JACINTO",
-        "pts": 5,
-        "gf": 33,
-        "gc": 48,
-        "dg": -15,
-        "pj": 4,
+        "name": "MBONANIS TEAM",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
         "ordenSorteo": 2,
-        "pg": 1,
-        "grupo": "Grupo A",
-        "posGrupo": 4
+        "pg": 0,
+        "grupo": "Grupo B",
+        "posGrupo": 3
       },
       {
-        "name": "NOS FUIMOS",
-        "pts": 5,
-        "gf": 41,
-        "gc": 59,
-        "dg": -18,
-        "pj": 4,
-        "ordenSorteo": 0,
-        "pg": 1,
-        "grupo": "Grupo D",
-        "posGrupo": 5
-      },
-      {
-        "name": "CV SIESTA",
-        "pts": 5,
-        "gf": 39,
-        "gc": 61,
-        "dg": -22,
-        "pj": 4,
-        "ordenSorteo": 4,
-        "pg": 1,
+        "name": "MENESTRA CON GINEBRA",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 3,
+        "pg": 0,
         "grupo": "Grupo G",
         "posGrupo": 4
       },
       {
-        "name": "CARCAJADA",
-        "pts": 5,
-        "gf": 34,
-        "gc": 56,
-        "dg": -22,
-        "pj": 4,
-        "ordenSorteo": 4,
-        "pg": 1,
-        "grupo": "Grupo C",
-        "posGrupo": 5
-      },
-      {
-        "name": "MANCHESTER PITY JR",
-        "pts": 5,
-        "gf": 23,
-        "gc": 58,
-        "dg": -35,
-        "pj": 4,
-        "ordenSorteo": 1,
-        "pg": 1,
-        "grupo": "Grupo E",
+        "name": "NOS FUIMOS",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 0,
+        "pg": 0,
+        "grupo": "Grupo D",
         "posGrupo": 4
       },
       {
-        "name": "MBONANIS TEAM",
-        "pts": 4,
-        "gf": 40,
-        "gc": 63,
-        "dg": -23,
-        "pj": 4,
-        "ordenSorteo": 2,
+        "name": "NOTTINGHAN PRISAS",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 3,
         "pg": 0,
-        "grupo": "Grupo B",
-        "posGrupo": 5
+        "grupo": "Grupo A",
+        "posGrupo": 1
       },
       {
-        "name": "MAMAHOUS",
-        "pts": 4,
-        "gf": 34,
-        "gc": 61,
-        "dg": -27,
-        "pj": 4,
-        "ordenSorteo": 2,
+        "name": "PEGRILOSAS",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo E",
         "posGrupo": 5
       },
       {
-        "name": "CAÍDA LIBRE VOLEY",
-        "pts": 4,
-        "gf": 28,
-        "gc": 60,
-        "dg": -32,
-        "pj": 4,
+        "name": "PESOS PESADOS",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 1,
+        "pg": 0,
+        "grupo": "Grupo B",
+        "posGrupo": 4
+      },
+      {
+        "name": "PINO JACINTO",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo A",
+        "posGrupo": 2
+      },
+      {
+        "name": "PRESS PANZA",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
         "ordenSorteo": 3,
+        "pg": 0,
+        "grupo": "Grupo H",
+        "posGrupo": 4
+      },
+      {
+        "name": "PROHIBIDO DIVERTIRSE",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo F",
         "posGrupo": 5
       },
       {
-        "name": "LAS LEYENDAS NUNCA MUEREN",
-        "pts": 4,
-        "gf": 27,
-        "gc": 60,
-        "dg": -33,
-        "pj": 4,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo I",
-        "posGrupo": 5
-      },
-      {
         "name": "RECEPCIÓN OPCIONAL",
-        "pts": 4,
-        "gf": 29,
-        "gc": 63,
-        "dg": -34,
-        "pj": 4,
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo G",
         "posGrupo": 5
       },
       {
-        "name": "GORRO DE PISCINA NEGRO",
-        "pts": 4,
-        "gf": 21,
-        "gc": 60,
-        "dg": -39,
-        "pj": 4,
-        "ordenSorteo": 2,
+        "name": "RIÑONES DE LECHE",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo H",
         "posGrupo": 5
       },
       {
+        "name": "ROYALEROS",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 3,
+        "pg": 0,
+        "grupo": "Grupo K",
+        "posGrupo": 5
+      },
+      {
+        "name": "SIN RED NO HAY PARAÍSO",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 1,
+        "pg": 0,
+        "grupo": "Grupo A",
+        "posGrupo": 3
+      },
+      {
+        "name": "SOWCAUTION",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 3,
+        "pg": 0,
+        "grupo": "Grupo I",
+        "posGrupo": 5
+      },
+      {
+        "name": "STREET VOLLEY",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 0,
+        "pg": 0,
+        "grupo": "Grupo A",
+        "posGrupo": 4
+      },
+      {
+        "name": "SUBESELA AL HEAVY",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 3,
+        "pg": 0,
+        "grupo": "Grupo J",
+        "posGrupo": 4
+      },
+      {
+        "name": "TE EMPAQUETO",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 3,
+        "pg": 0,
+        "grupo": "Grupo L",
+        "posGrupo": 4
+      },
+      {
+        "name": "TE MIRO Y TE BLOQUEO",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 3,
+        "pg": 0,
+        "grupo": "Grupo B",
+        "posGrupo": 5
+      },
+      {
+        "name": "TIERRA LLAMANDO A JUAN CARLOS",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 3,
+        "pg": 0,
+        "grupo": "Grupo D",
+        "posGrupo": 5
+      },
+      {
         "name": "VODKA JUNIORS",
-        "pts": 4,
-        "gf": 21,
-        "gc": 60,
-        "dg": -39,
-        "pj": 4,
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo L",
         "posGrupo": 5
       },
       {
-        "name": "SIN RED NO HAY PARAÍSO",
-        "pts": 4,
-        "gf": 7,
-        "gc": 60,
-        "dg": -53,
-        "pj": 4,
-        "ordenSorteo": 1,
+        "name": "VOLCADOS",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 4,
         "pg": 0,
         "grupo": "Grupo A",
+        "posGrupo": 5
+      },
+      {
+        "name": "ZEMEN UP",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 0,
+        "pg": 0,
+        "grupo": "Grupo J",
         "posGrupo": 5
       }
     ],
@@ -2766,20 +2766,20 @@
       "numRondas": 0
     },
     "configFinal": {
-      "metodo": "grupo",
+      "metodo": "global",
       "oro": {
         "activo": true,
-        "cantidad": 24,
+        "cantidad": 16,
         "tipo": "simple"
       },
       "plata": {
         "activo": true,
-        "cantidad": 24,
+        "cantidad": 16,
         "tipo": "simple"
       },
       "bronce": {
         "activo": true,
-        "cantidad": 12,
+        "cantidad": 16,
         "tipo": "simple"
       }
     },
@@ -2789,2449 +2789,736 @@
     "expandedPartidos": {
       "grupo_4": false,
       "campo_4": false,
-      "campo_0": false,
+      "campo_0": true,
       "campo_3": false,
-      "campo_1": false,
-      "campo_2": false,
-      "campo_5": false,
-      "grupo_0": false
+      "grupo_6": false
     },
     "expandedClasificaciones": {
-      "clasif_0": false,
-      "clasif_1": false,
-      "clasif_2": false,
-      "clasif_3": false,
-      "clasif_4": false,
-      "clasif_5": false,
-      "clasif_6": false,
-      "clasif_7": false,
-      "clasif_8": false,
-      "clasif_9": false,
-      "clasif_10": false,
-      "clasif_11": false
+      "clasif_0": false
     },
-    "fasesFinales": {
-      "oro": {
-        "clasificados": [
-          "EL CONVENTO DE SANTA TERESA",
-          "ABANTO",
-          "ASÍ DE PEQUEÑITOS",
-          "LO VEO CLARO",
-          "SUBESELA AL HEAVY",
-          "VOLCADOS",
-          "TE MIRO Y TE BLOQUEO",
-          "KARIBE VÓLEIBOL",
-          "LOS GOMELLANOS",
-          "GLUTEN FREE",
-          "GUSANOS GAFONES",
-          "EL CLAN DE LOS LOZANO",
-          "PEGRILOSAS",
-          "NOTTINGHAN PRISAS",
-          "PRESS PANZA",
-          "DEMENCIA PERMANENTE CYL",
-          "PROHIBIDO DIVERTIRSE",
-          "LOS BURPEES BOYS BYIMPROVEFIT",
-          "MENESTRA CON GINEBRA",
-          "LOS CARIÑITOS BOSTONCITOS",
-          "EL TAMAÑO NO IMPORTA",
-          "GANAMOS Y NOS VAMOS",
-          "LA BATALLA DE LOS PELOS BASTARDOS",
-          "MALITOS"
-        ],
-        "tipo": "simple",
-        "winners": [
-          [
-            {
-              "home": "EL CONVENTO DE SANTA TERESA",
-              "away": "DESCANSO",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 0
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 1
-            },
-            {
-              "home": "ASÍ DE PEQUEÑITOS",
-              "away": "DESCANSO",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 0
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 2
-            },
-            {
-              "home": "SUBESELA AL HEAVY",
-              "away": "DESCANSO",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 0
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 3
-            },
-            {
-              "home": "TE MIRO Y TE BLOQUEO",
-              "away": "DESCANSO",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 0
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 4
-            },
-            {
-              "home": "LOS GOMELLANOS",
-              "away": "MALITOS",
-              "sets": [
-                {
-                  "hS": 6,
-                  "aS": 15
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 5
-            },
-            {
-              "home": "GUSANOS GAFONES",
-              "away": "GANAMOS Y NOS VAMOS",
-              "sets": [
-                {
-                  "hS": 5,
-                  "aS": 15
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 6
-            },
-            {
-              "home": "PEGRILOSAS",
-              "away": "LOS CARIÑITOS BOSTONCITOS",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 9
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 7
-            },
-            {
-              "home": "PRESS PANZA",
-              "away": "LOS BURPEES BOYS BYIMPROVEFIT",
-              "sets": [
-                {
-                  "hS": 9,
-                  "aS": 15
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 8
-            },
-            {
-              "home": "DEMENCIA PERMANENTE CYL",
-              "away": "PROHIBIDO DIVERTIRSE",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 10
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 9
-            },
-            {
-              "home": "NOTTINGHAN PRISAS",
-              "away": "MENESTRA CON GINEBRA",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 10
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 10
-            },
-            {
-              "home": "EL CLAN DE LOS LOZANO",
-              "away": "EL TAMAÑO NO IMPORTA",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 8
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 11
-            },
-            {
-              "home": "GLUTEN FREE",
-              "away": "LA BATALLA DE LOS PELOS BASTARDOS",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 6
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 12
-            },
-            {
-              "home": "KARIBE VÓLEIBOL",
-              "away": "DESCANSO",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 0
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 13
-            },
-            {
-              "home": "VOLCADOS",
-              "away": "DESCANSO",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 0
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 14
-            },
-            {
-              "home": "LO VEO CLARO",
-              "away": "DESCANSO",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 0
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 15
-            },
-            {
-              "home": "ABANTO",
-              "away": "DESCANSO",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 0
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 16
-            }
-          ],
-          [
-            {
-              "home": "EL CONVENTO DE SANTA TERESA",
-              "away": "ASÍ DE PEQUEÑITOS",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 7
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 17
-            },
-            {
-              "home": "SUBESELA AL HEAVY",
-              "away": "TE MIRO Y TE BLOQUEO",
-              "sets": [
-                {
-                  "hS": 9,
-                  "aS": 15
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 18
-            },
-            {
-              "home": "MALITOS",
-              "away": "GANAMOS Y NOS VAMOS",
-              "sets": [
-                {
-                  "hS": 14,
-                  "aS": 16
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 19
-            },
-            {
-              "home": "PEGRILOSAS",
-              "away": "LOS BURPEES BOYS BYIMPROVEFIT",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 6
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 20
-            },
-            {
-              "home": "DEMENCIA PERMANENTE CYL",
-              "away": "NOTTINGHAN PRISAS",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 8
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 21
-            },
-            {
-              "home": "EL CLAN DE LOS LOZANO",
-              "away": "GLUTEN FREE",
-              "sets": [
-                {
-                  "hS": 9,
-                  "aS": 15
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 22
-            },
-            {
-              "home": "KARIBE VÓLEIBOL",
-              "away": "VOLCADOS",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 6
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 23
-            },
-            {
-              "home": "LO VEO CLARO",
-              "away": "ABANTO",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 12
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 24
-            }
-          ],
-          [
-            {
-              "home": "EL CONVENTO DE SANTA TERESA",
-              "away": "TE MIRO Y TE BLOQUEO",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 9
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 25
-            },
-            {
-              "home": "GANAMOS Y NOS VAMOS",
-              "away": "PEGRILOSAS",
-              "sets": [
-                {
-                  "hS": 12,
-                  "aS": 15
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 26
-            },
-            {
-              "home": "DEMENCIA PERMANENTE CYL",
-              "away": "GLUTEN FREE",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 10
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 27
-            },
-            {
-              "home": "KARIBE VÓLEIBOL",
-              "away": "LO VEO CLARO",
-              "sets": [
-                {
-                  "hS": 14,
-                  "aS": 16
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 28
-            }
-          ],
-          [
-            {
-              "home": "EL CONVENTO DE SANTA TERESA",
-              "away": "PEGRILOSAS",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 7
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 29
-            },
-            {
-              "home": "DEMENCIA PERMANENTE CYL",
-              "away": "LO VEO CLARO",
-              "sets": [
-                {
-                  "hS": 11,
-                  "aS": 15
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 30
-            }
-          ],
-          [
-            {
-              "home": "",
-              "away": "",
-              "sets": [
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 31
-            }
-          ]
-        ],
-        "losers": [],
-        "size": 32,
-        "thirdPlaceMatch": {
-          "home": "PEGRILOSAS",
-          "away": "DEMENCIA PERMANENTE CYL",
-          "bo3": false,
-          "sets": [
-            {
-              "hS": 19,
-              "aS": 21
-            },
-            {
-              "hS": "",
-              "aS": ""
-            },
-            {
-              "hS": "",
-              "aS": ""
-            }
-          ],
-          "ordenFinal": 33
-        },
-        "grandFinal": {
-          "home": "EL CONVENTO DE SANTA TERESA",
-          "away": "LO VEO CLARO",
-          "bo3": true,
-          "sets": [
-            {
-              "hS": 15,
-              "aS": 9
-            },
-            {
-              "hS": 12,
-              "aS": 15
-            },
-            {
-              "hS": 11,
-              "aS": 15
-            }
-          ],
-          "ordenFinal": 32
-        }
-      },
-      "plata": {
-        "clasificados": [
-          "STREET VOLLEY",
-          "CENTAUROS",
-          "EL PODER DE LA PIEDRA",
-          "KINDER SORPRESA",
-          "TIERRA LLAMANDO A JUAN CARLOS",
-          "KIKOÑAZO",
-          "SOWCAUTION",
-          "TE EMPAQUETO",
-          "CHUPYGRASKA",
-          "CORCHOPANES",
-          "ROYALEROS",
-          "ZEMEN UP",
-          "ASOCIACIÓN DE DRAGONES AMERICANOS",
-          "LOS ROMPEBOLAS",
-          "LA CASITA",
-          "CHACALES",
-          "RIÑONES DE LECHE",
-          "LOS CERDITOS FIESTEROS",
-          "MAS SUELO QUE VÓLEY",
-          "MANCHESTER PITY",
-          "PESOS PESADOS",
-          "PINO JACINTO",
-          "CV SIESTA",
-          "MANCHESTER PITY JR"
-        ],
-        "tipo": "simple",
-        "winners": [
-          [
-            {
-              "home": "STREET VOLLEY",
-              "away": "DESCANSO",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 0
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 1
-            },
-            {
-              "home": "EL PODER DE LA PIEDRA",
-              "away": "DESCANSO",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 0
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 2
-            },
-            {
-              "home": "TIERRA LLAMANDO A JUAN CARLOS",
-              "away": "DESCANSO",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 0
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 3
-            },
-            {
-              "home": "SOWCAUTION",
-              "away": "DESCANSO",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 0
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 4
-            },
-            {
-              "home": "CHUPYGRASKA",
-              "away": "MANCHESTER PITY JR",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 6
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 5
-            },
-            {
-              "home": "ROYALEROS",
-              "away": "PINO JACINTO",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 5
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 6
-            },
-            {
-              "home": "ASOCIACIÓN DE DRAGONES AMERICANOS",
-              "away": "MANCHESTER PITY",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 7
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 7
-            },
-            {
-              "home": "LA CASITA",
-              "away": "LOS CERDITOS FIESTEROS",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 6
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 8
-            },
-            {
-              "home": "CHACALES",
-              "away": "RIÑONES DE LECHE",
-              "sets": [
-                {
-                  "hS": 13,
-                  "aS": 15
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 9
-            },
-            {
-              "home": "LOS ROMPEBOLAS",
-              "away": "MAS SUELO QUE VÓLEY",
-              "sets": [
-                {
-                  "hS": 8,
-                  "aS": 15
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 10
-            },
-            {
-              "home": "ZEMEN UP",
-              "away": "PESOS PESADOS",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 11
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 11
-            },
-            {
-              "home": "CORCHOPANES",
-              "away": "CV SIESTA",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 13
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 12
-            },
-            {
-              "home": "TE EMPAQUETO",
-              "away": "DESCANSO",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 0
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 13
-            },
-            {
-              "home": "KIKOÑAZO",
-              "away": "DESCANSO",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 0
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 14
-            },
-            {
-              "home": "KINDER SORPRESA",
-              "away": "DESCANSO",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 0
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 15
-            },
-            {
-              "home": "CENTAUROS",
-              "away": "DESCANSO",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 0
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 16
-            }
-          ],
-          [
-            {
-              "home": "STREET VOLLEY",
-              "away": "EL PODER DE LA PIEDRA",
-              "sets": [
-                {
-                  "hS": 16,
-                  "aS": 14
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 17
-            },
-            {
-              "home": "TIERRA LLAMANDO A JUAN CARLOS",
-              "away": "SOWCAUTION",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 13
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 18
-            },
-            {
-              "home": "CHUPYGRASKA",
-              "away": "ROYALEROS",
-              "sets": [
-                {
-                  "hS": 8,
-                  "aS": 15
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 19
-            },
-            {
-              "home": "ASOCIACIÓN DE DRAGONES AMERICANOS",
-              "away": "LA CASITA",
-              "sets": [
-                {
-                  "hS": 12,
-                  "aS": 15
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 20
-            },
-            {
-              "home": "RIÑONES DE LECHE",
-              "away": "MAS SUELO QUE VÓLEY",
-              "sets": [
-                {
-                  "hS": 8,
-                  "aS": 15
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 21
-            },
-            {
-              "home": "ZEMEN UP",
-              "away": "CORCHOPANES",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 9
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 22
-            },
-            {
-              "home": "TE EMPAQUETO",
-              "away": "KIKOÑAZO",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 5
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 23
-            },
-            {
-              "home": "KINDER SORPRESA",
-              "away": "CENTAUROS",
-              "sets": [
-                {
-                  "hS": 13,
-                  "aS": 15
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 24
-            }
-          ],
-          [
-            {
-              "home": "STREET VOLLEY",
-              "away": "TIERRA LLAMANDO A JUAN CARLOS",
-              "sets": [
-                {
-                  "hS": 8,
-                  "aS": 15
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 25
-            },
-            {
-              "home": "ROYALEROS",
-              "away": "LA CASITA",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 10
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 26
-            },
-            {
-              "home": "MAS SUELO QUE VÓLEY",
-              "away": "ZEMEN UP",
-              "sets": [
-                {
-                  "hS": 8,
-                  "aS": 15
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 27
-            },
-            {
-              "home": "TE EMPAQUETO",
-              "away": "CENTAUROS",
-              "sets": [
-                {
-                  "hS": 11,
-                  "aS": 15
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 28
-            }
-          ],
-          [
-            {
-              "home": "TIERRA LLAMANDO A JUAN CARLOS",
-              "away": "ROYALEROS",
-              "sets": [
-                {
-                  "hS": 13,
-                  "aS": 15
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 29
-            },
-            {
-              "home": "ZEMEN UP",
-              "away": "CENTAUROS",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 12
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 30
-            }
-          ],
-          [
-            {
-              "home": "",
-              "away": "",
-              "sets": [
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 31
-            }
-          ]
-        ],
-        "losers": [],
-        "size": 32,
-        "thirdPlaceMatch": {
-          "home": "TIERRA LLAMANDO A JUAN CARLOS",
-          "away": "CENTAUROS",
-          "bo3": false,
-          "sets": [
-            {
-              "hS": 21,
-              "aS": 15
-            },
-            {
-              "hS": "",
-              "aS": ""
-            },
-            {
-              "hS": "",
-              "aS": ""
-            }
-          ],
-          "ordenFinal": 33
-        },
-        "grandFinal": {
-          "home": "ROYALEROS",
-          "away": "ZEMEN UP",
-          "bo3": false,
-          "sets": [
-            {
-              "hS": 21,
-              "aS": 19
-            },
-            {
-              "hS": "",
-              "aS": ""
-            },
-            {
-              "hS": "",
-              "aS": ""
-            }
-          ],
-          "ordenFinal": 32
-        }
-      },
-      "bronce": {
-        "clasificados": [
-          "LOS ROOKIES",
-          "ASTON BIRRAS",
-          "NOS FUIMOS",
-          "CARCAJADA",
-          "MBONANIS TEAM",
-          "MAMAHOUS",
-          "CAÍDA LIBRE VOLEY",
-          "LAS LEYENDAS NUNCA MUEREN",
-          "RECEPCIÓN OPCIONAL",
-          "GORRO DE PISCINA NEGRO",
-          "VODKA JUNIORS",
-          "SIN RED NO HAY PARAÍSO"
-        ],
-        "tipo": "simple",
-        "winners": [
-          [
-            {
-              "home": "LOS ROOKIES",
-              "away": "DESCANSO",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 0
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 1
-            },
-            {
-              "home": "NOS FUIMOS",
-              "away": "DESCANSO",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 0
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 2
-            },
-            {
-              "home": "MBONANIS TEAM",
-              "away": "SIN RED NO HAY PARAÍSO",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 5
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 3
-            },
-            {
-              "home": "CAÍDA LIBRE VOLEY",
-              "away": "GORRO DE PISCINA NEGRO",
-              "sets": [
-                {
-                  "hS": 0,
-                  "aS": 15
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 4
-            },
-            {
-              "home": "LAS LEYENDAS NUNCA MUEREN",
-              "away": "RECEPCIÓN OPCIONAL",
-              "sets": [
-                {
-                  "hS": 16,
-                  "aS": 14
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 5
-            },
-            {
-              "home": "MAMAHOUS",
-              "away": "VODKA JUNIORS",
-              "sets": [
-                {
-                  "hS": 7,
-                  "aS": 15
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 6
-            },
-            {
-              "home": "CARCAJADA",
-              "away": "DESCANSO",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 0
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 7
-            },
-            {
-              "home": "ASTON BIRRAS",
-              "away": "DESCANSO",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 0
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 8
-            }
-          ],
-          [
-            {
-              "home": "LOS ROOKIES",
-              "away": "NOS FUIMOS",
-              "sets": [
-                {
-                  "hS": 13,
-                  "aS": 15
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 9
-            },
-            {
-              "home": "MBONANIS TEAM",
-              "away": "GORRO DE PISCINA NEGRO",
-              "sets": [
-                {
-                  "hS": 15,
-                  "aS": 5
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 10
-            },
-            {
-              "home": "LAS LEYENDAS NUNCA MUEREN",
-              "away": "VODKA JUNIORS",
-              "sets": [
-                {
-                  "hS": 10,
-                  "aS": 15
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 11
-            },
-            {
-              "home": "CARCAJADA",
-              "away": "ASTON BIRRAS",
-              "sets": [
-                {
-                  "hS": 6,
-                  "aS": 15
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 12
-            }
-          ],
-          [
-            {
-              "home": "NOS FUIMOS",
-              "away": "MBONANIS TEAM",
-              "sets": [
-                {
-                  "hS": 12,
-                  "aS": 15
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 13
-            },
-            {
-              "home": "VODKA JUNIORS",
-              "away": "ASTON BIRRAS",
-              "sets": [
-                {
-                  "hS": 17,
-                  "aS": 15
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 14
-            }
-          ],
-          [
-            {
-              "home": "",
-              "away": "",
-              "sets": [
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                },
-                {
-                  "hS": "",
-                  "aS": ""
-                }
-              ],
-              "ordenFinal": 15
-            }
-          ]
-        ],
-        "losers": [],
-        "size": 16,
-        "thirdPlaceMatch": {
-          "home": "NOS FUIMOS",
-          "away": "ASTON BIRRAS",
-          "bo3": false,
-          "sets": [
-            {
-              "hS": 10,
-              "aS": 15
-            },
-            {
-              "hS": "",
-              "aS": ""
-            },
-            {
-              "hS": "",
-              "aS": ""
-            }
-          ],
-          "ordenFinal": 17
-        },
-        "grandFinal": {
-          "home": "MBONANIS TEAM",
-          "away": "VODKA JUNIORS",
-          "bo3": false,
-          "sets": [
-            {
-              "hS": 16,
-              "aS": 14
-            },
-            {
-              "hS": "",
-              "aS": ""
-            },
-            {
-              "hS": "",
-              "aS": ""
-            }
-          ],
-          "ordenFinal": 16
-        }
-      }
-    },
+    "fasesFinales": {},
     "faseFinalActiva": "oro",
-    "faseFinalGenerada": true,
+    "faseFinalGenerada": false,
     "cfgNumGrupos": 12,
     "lastPosicionEq": [
       {
-        "name": "EL CONVENTO DE SANTA TERESA",
-        "pts": 8,
-        "gf": 60,
-        "gc": 12,
-        "dg": 48,
-        "pj": 4,
-        "ordenSorteo": 2,
-        "pg": 4,
-        "grupo": "Grupo G",
-        "posGrupo": 1
-      },
-      {
         "name": "ABANTO",
-        "pts": 8,
-        "gf": 60,
-        "gc": 22,
-        "dg": 38,
-        "pj": 4,
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
         "ordenSorteo": 4,
-        "pg": 4,
+        "pg": 0,
         "grupo": "Grupo E",
         "posGrupo": 1
       },
       {
         "name": "ASÍ DE PEQUEÑITOS",
-        "pts": 8,
-        "gf": 60,
-        "gc": 22,
-        "dg": 38,
-        "pj": 4,
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
         "ordenSorteo": 2,
-        "pg": 4,
+        "pg": 0,
         "grupo": "Grupo L",
         "posGrupo": 1
       },
       {
-        "name": "LO VEO CLARO",
-        "pts": 8,
-        "gf": 60,
-        "gc": 23,
-        "dg": 37,
-        "pj": 4,
-        "ordenSorteo": 0,
-        "pg": 4,
-        "grupo": "Grupo I",
-        "posGrupo": 1
-      },
-      {
-        "name": "SUBESELA AL HEAVY",
-        "pts": 8,
-        "gf": 62,
-        "gc": 34,
-        "dg": 28,
-        "pj": 4,
-        "ordenSorteo": 3,
-        "pg": 4,
-        "grupo": "Grupo J",
-        "posGrupo": 1
-      },
-      {
-        "name": "VOLCADOS",
-        "pts": 8,
-        "gf": 60,
-        "gc": 32,
-        "dg": 28,
-        "pj": 4,
-        "ordenSorteo": 4,
-        "pg": 4,
-        "grupo": "Grupo A",
-        "posGrupo": 1
-      },
-      {
-        "name": "TE MIRO Y TE BLOQUEO",
-        "pts": 8,
-        "gf": 60,
-        "gc": 34,
-        "dg": 26,
-        "pj": 4,
-        "ordenSorteo": 3,
-        "pg": 4,
-        "grupo": "Grupo B",
-        "posGrupo": 1
-      },
-      {
-        "name": "KARIBE VÓLEIBOL",
-        "pts": 8,
-        "gf": 60,
-        "gc": 37,
-        "dg": 23,
-        "pj": 4,
+        "name": "ASOCIACIÓN DE DRAGONES AMERICANOS",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
         "ordenSorteo": 2,
-        "pg": 4,
-        "grupo": "Grupo D",
-        "posGrupo": 1
-      },
-      {
-        "name": "LOS GOMELLANOS",
-        "pts": 8,
-        "gf": 60,
-        "gc": 38,
-        "dg": 22,
-        "pj": 4,
-        "ordenSorteo": 1,
-        "pg": 4,
-        "grupo": "Grupo C",
-        "posGrupo": 1
-      },
-      {
-        "name": "GLUTEN FREE",
-        "pts": 8,
-        "gf": 60,
-        "gc": 39,
-        "dg": 21,
-        "pj": 4,
-        "ordenSorteo": 2,
-        "pg": 4,
-        "grupo": "Grupo K",
-        "posGrupo": 1
-      },
-      {
-        "name": "GUSANOS GAFONES",
-        "pts": 8,
-        "gf": 60,
-        "gc": 41,
-        "dg": 19,
-        "pj": 4,
-        "ordenSorteo": 1,
-        "pg": 4,
-        "grupo": "Grupo H",
-        "posGrupo": 1
-      },
-      {
-        "name": "EL CLAN DE LOS LOZANO",
-        "pts": 7,
-        "gf": 62,
-        "gc": 50,
-        "dg": 12,
-        "pj": 4,
-        "ordenSorteo": 0,
-        "pg": 3,
+        "pg": 0,
         "grupo": "Grupo F",
         "posGrupo": 1
       },
       {
-        "name": "PEGRILOSAS",
-        "pts": 7,
-        "gf": 53,
-        "gc": 26,
-        "dg": 27,
-        "pj": 4,
-        "ordenSorteo": 0,
-        "pg": 3,
+        "name": "ASTON BIRRAS",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 1,
+        "pg": 0,
+        "grupo": "Grupo K",
+        "posGrupo": 1
+      },
+      {
+        "name": "CARCAJADA",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 4,
+        "pg": 0,
+        "grupo": "Grupo C",
+        "posGrupo": 1
+      },
+      {
+        "name": "CHACALES",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo J",
+        "posGrupo": 1
+      },
+      {
+        "name": "CORCHOPANES",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 4,
+        "pg": 0,
+        "grupo": "Grupo B",
+        "posGrupo": 1
+      },
+      {
+        "name": "CV SIESTA",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 4,
+        "pg": 0,
+        "grupo": "Grupo G",
+        "posGrupo": 1
+      },
+      {
+        "name": "EL PODER DE LA PIEDRA",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 4,
+        "pg": 0,
+        "grupo": "Grupo H",
+        "posGrupo": 1
+      },
+      {
+        "name": "GANAMOS Y NOS VAMOS",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 4,
+        "pg": 0,
+        "grupo": "Grupo D",
+        "posGrupo": 1
+      },
+      {
+        "name": "LAS LEYENDAS NUNCA MUEREN",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo I",
+        "posGrupo": 1
+      },
+      {
+        "name": "NOTTINGHAN PRISAS",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 3,
+        "pg": 0,
+        "grupo": "Grupo A",
+        "posGrupo": 1
+      },
+      {
+        "name": "CAÍDA LIBRE VOLEY",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 3,
+        "pg": 0,
+        "grupo": "Grupo F",
+        "posGrupo": 2
+      },
+      {
+        "name": "CHUPYGRASKA",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 3,
+        "pg": 0,
         "grupo": "Grupo E",
         "posGrupo": 2
       },
       {
-        "name": "NOTTINGHAN PRISAS",
-        "pts": 7,
-        "gf": 54,
-        "gc": 34,
-        "dg": 20,
-        "pj": 4,
-        "ordenSorteo": 3,
-        "pg": 3,
-        "grupo": "Grupo A",
-        "posGrupo": 2
-      },
-      {
-        "name": "PRESS PANZA",
-        "pts": 7,
-        "gf": 57,
-        "gc": 38,
-        "dg": 19,
-        "pj": 4,
-        "ordenSorteo": 3,
-        "pg": 3,
-        "grupo": "Grupo H",
-        "posGrupo": 2
-      },
-      {
         "name": "DEMENCIA PERMANENTE CYL",
-        "pts": 7,
-        "gf": 57,
-        "gc": 44,
-        "dg": 13,
-        "pj": 4,
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
         "ordenSorteo": 0,
-        "pg": 3,
+        "pg": 0,
         "grupo": "Grupo B",
         "posGrupo": 2
       },
       {
-        "name": "PROHIBIDO DIVERTIRSE",
-        "pts": 7,
-        "gf": 57,
-        "gc": 49,
-        "dg": 8,
-        "pj": 4,
-        "ordenSorteo": 1,
-        "pg": 3,
-        "grupo": "Grupo F",
-        "posGrupo": 2
-      },
-      {
-        "name": "LOS BURPEES BOYS BYIMPROVEFIT",
-        "pts": 7,
-        "gf": 53,
-        "gc": 46,
-        "dg": 7,
-        "pj": 4,
-        "ordenSorteo": 4,
-        "pg": 3,
-        "grupo": "Grupo I",
-        "posGrupo": 2
-      },
-      {
-        "name": "MENESTRA CON GINEBRA",
-        "pts": 7,
-        "gf": 48,
-        "gc": 43,
-        "dg": 5,
-        "pj": 4,
-        "ordenSorteo": 3,
-        "pg": 3,
+        "name": "EL CONVENTO DE SANTA TERESA",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 2,
+        "pg": 0,
         "grupo": "Grupo G",
         "posGrupo": 2
       },
       {
-        "name": "LOS CARIÑITOS BOSTONCITOS",
-        "pts": 6,
-        "gf": 56,
-        "gc": 46,
-        "dg": 10,
-        "pj": 4,
-        "ordenSorteo": 3,
-        "pg": 2,
-        "grupo": "Grupo C",
-        "posGrupo": 2
-      },
-      {
         "name": "EL TAMAÑO NO IMPORTA",
-        "pts": 6,
-        "gf": 52,
-        "gc": 44,
-        "dg": 8,
-        "pj": 4,
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
         "ordenSorteo": 1,
-        "pg": 2,
+        "pg": 0,
         "grupo": "Grupo L",
         "posGrupo": 2
       },
       {
-        "name": "GANAMOS Y NOS VAMOS",
-        "pts": 6,
-        "gf": 57,
-        "gc": 52,
-        "dg": 5,
-        "pj": 4,
-        "ordenSorteo": 4,
-        "pg": 2,
-        "grupo": "Grupo D",
-        "posGrupo": 2
-      },
-      {
-        "name": "LA BATALLA DE LOS PELOS BASTARDOS",
-        "pts": 6,
-        "gf": 49,
-        "gc": 46,
-        "dg": 3,
-        "pj": 4,
-        "ordenSorteo": 0,
-        "pg": 2,
+        "name": "GLUTEN FREE",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 2,
+        "pg": 0,
         "grupo": "Grupo K",
         "posGrupo": 2
       },
       {
-        "name": "MALITOS",
-        "pts": 6,
-        "gf": 46,
-        "gc": 51,
-        "dg": -5,
-        "pj": 4,
-        "ordenSorteo": 4,
-        "pg": 2,
+        "name": "GORRO DE PISCINA NEGRO",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo H",
+        "posGrupo": 2
+      },
+      {
+        "name": "KARIBE VÓLEIBOL",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo D",
+        "posGrupo": 2
+      },
+      {
+        "name": "KIKOÑAZO",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 2,
+        "pg": 0,
+        "grupo": "Grupo C",
+        "posGrupo": 2
+      },
+      {
+        "name": "LO VEO CLARO",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 0,
+        "pg": 0,
+        "grupo": "Grupo I",
+        "posGrupo": 2
+      },
+      {
+        "name": "LOS ROOKIES",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 1,
+        "pg": 0,
         "grupo": "Grupo J",
         "posGrupo": 2
       },
       {
-        "name": "STREET VOLLEY",
-        "pts": 6,
-        "gf": 56,
-        "gc": 36,
-        "dg": 20,
-        "pj": 4,
-        "ordenSorteo": 0,
-        "pg": 2,
+        "name": "PINO JACINTO",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 2,
+        "pg": 0,
         "grupo": "Grupo A",
-        "posGrupo": 3
+        "posGrupo": 2
       },
       {
         "name": "CENTAUROS",
-        "pts": 6,
-        "gf": 60,
-        "gc": 49,
-        "dg": 11,
-        "pj": 4,
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
         "ordenSorteo": 4,
-        "pg": 2,
+        "pg": 0,
         "grupo": "Grupo F",
         "posGrupo": 3
       },
       {
-        "name": "EL PODER DE LA PIEDRA",
-        "pts": 6,
-        "gf": 50,
-        "gc": 41,
-        "dg": 9,
-        "pj": 4,
-        "ordenSorteo": 4,
-        "pg": 2,
+        "name": "GUSANOS GAFONES",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 1,
+        "pg": 0,
         "grupo": "Grupo H",
         "posGrupo": 3
       },
       {
         "name": "KINDER SORPRESA",
-        "pts": 6,
-        "gf": 45,
-        "gc": 42,
-        "dg": 3,
-        "pj": 4,
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
         "ordenSorteo": 1,
-        "pg": 2,
+        "pg": 0,
         "grupo": "Grupo G",
         "posGrupo": 3
       },
       {
-        "name": "TIERRA LLAMANDO A JUAN CARLOS",
-        "pts": 6,
-        "gf": 56,
-        "gc": 55,
-        "dg": 1,
-        "pj": 4,
-        "ordenSorteo": 3,
-        "pg": 2,
-        "grupo": "Grupo D",
-        "posGrupo": 3
-      },
-      {
-        "name": "KIKOÑAZO",
-        "pts": 6,
-        "gf": 46,
-        "gc": 46,
+        "name": "LA BATALLA DE LOS PELOS BASTARDOS",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
         "dg": 0,
-        "pj": 4,
-        "ordenSorteo": 2,
-        "pg": 2,
-        "grupo": "Grupo C",
+        "pj": 0,
+        "ordenSorteo": 0,
+        "pg": 0,
+        "grupo": "Grupo K",
         "posGrupo": 3
       },
       {
-        "name": "SOWCAUTION",
-        "pts": 6,
-        "gf": 49,
-        "gc": 50,
-        "dg": -1,
-        "pj": 4,
-        "ordenSorteo": 3,
-        "pg": 2,
+        "name": "LOS BURPEES BOYS BYIMPROVEFIT",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 4,
+        "pg": 0,
         "grupo": "Grupo I",
         "posGrupo": 3
       },
       {
-        "name": "TE EMPAQUETO",
-        "pts": 6,
-        "gf": 45,
-        "gc": 48,
-        "dg": -3,
-        "pj": 4,
+        "name": "LOS CARIÑITOS BOSTONCITOS",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
         "ordenSorteo": 3,
-        "pg": 2,
+        "pg": 0,
+        "grupo": "Grupo C",
+        "posGrupo": 3
+      },
+      {
+        "name": "LOS ROMPEBOLAS",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 4,
+        "pg": 0,
         "grupo": "Grupo L",
         "posGrupo": 3
       },
       {
-        "name": "CHUPYGRASKA",
-        "pts": 6,
-        "gf": 44,
-        "gc": 47,
-        "dg": -3,
-        "pj": 4,
-        "ordenSorteo": 3,
-        "pg": 2,
+        "name": "MALITOS",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 4,
+        "pg": 0,
+        "grupo": "Grupo J",
+        "posGrupo": 3
+      },
+      {
+        "name": "MAMAHOUS",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 2,
+        "pg": 0,
         "grupo": "Grupo E",
         "posGrupo": 3
       },
       {
-        "name": "CORCHOPANES",
-        "pts": 6,
-        "gf": 48,
-        "gc": 52,
-        "dg": -4,
-        "pj": 4,
-        "ordenSorteo": 4,
-        "pg": 2,
+        "name": "MANCHESTER PITY",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 1,
+        "pg": 0,
+        "grupo": "Grupo D",
+        "posGrupo": 3
+      },
+      {
+        "name": "MBONANIS TEAM",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 2,
+        "pg": 0,
         "grupo": "Grupo B",
         "posGrupo": 3
       },
       {
-        "name": "ROYALEROS",
-        "pts": 6,
-        "gf": 46,
-        "gc": 52,
-        "dg": -6,
-        "pj": 4,
-        "ordenSorteo": 3,
-        "pg": 2,
-        "grupo": "Grupo K",
+        "name": "SIN RED NO HAY PARAÍSO",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 1,
+        "pg": 0,
+        "grupo": "Grupo A",
         "posGrupo": 3
       },
       {
-        "name": "ZEMEN UP",
-        "pts": 6,
-        "gf": 41,
-        "gc": 50,
-        "dg": -9,
-        "pj": 4,
+        "name": "EL CLAN DE LOS LOZANO",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
         "ordenSorteo": 0,
-        "pg": 2,
-        "grupo": "Grupo J",
-        "posGrupo": 3
-      },
-      {
-        "name": "ASOCIACIÓN DE DRAGONES AMERICANOS",
-        "pts": 6,
-        "gf": 50,
-        "gc": 49,
-        "dg": 1,
-        "pj": 4,
-        "ordenSorteo": 2,
-        "pg": 2,
+        "pg": 0,
         "grupo": "Grupo F",
         "posGrupo": 4
       },
       {
-        "name": "LOS ROMPEBOLAS",
-        "pts": 6,
-        "gf": 41,
-        "gc": 45,
-        "dg": -4,
-        "pj": 4,
-        "ordenSorteo": 4,
-        "pg": 2,
-        "grupo": "Grupo L",
-        "posGrupo": 4
-      },
-      {
         "name": "LA CASITA",
-        "pts": 5,
-        "gf": 50,
-        "gc": 55,
-        "dg": -5,
-        "pj": 4,
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
         "ordenSorteo": 4,
-        "pg": 1,
+        "pg": 0,
         "grupo": "Grupo K",
         "posGrupo": 4
       },
       {
-        "name": "CHACALES",
-        "pts": 5,
-        "gf": 48,
-        "gc": 53,
-        "dg": -5,
-        "pj": 4,
-        "ordenSorteo": 2,
-        "pg": 1,
-        "grupo": "Grupo J",
-        "posGrupo": 4
-      },
-      {
-        "name": "RIÑONES DE LECHE",
-        "pts": 5,
-        "gf": 44,
-        "gc": 52,
-        "dg": -8,
-        "pj": 4,
-        "ordenSorteo": 0,
-        "pg": 1,
-        "grupo": "Grupo H",
-        "posGrupo": 4
-      },
-      {
         "name": "LOS CERDITOS FIESTEROS",
-        "pts": 5,
-        "gf": 42,
-        "gc": 52,
-        "dg": -10,
-        "pj": 4,
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
         "ordenSorteo": 0,
-        "pg": 1,
+        "pg": 0,
         "grupo": "Grupo C",
         "posGrupo": 4
       },
       {
-        "name": "MAS SUELO QUE VÓLEY",
-        "pts": 5,
-        "gf": 41,
-        "gc": 51,
-        "dg": -10,
-        "pj": 4,
+        "name": "MANCHESTER PITY JR",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
         "ordenSorteo": 1,
-        "pg": 1,
+        "pg": 0,
+        "grupo": "Grupo E",
+        "posGrupo": 4
+      },
+      {
+        "name": "MAS SUELO QUE VÓLEY",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 1,
+        "pg": 0,
         "grupo": "Grupo I",
         "posGrupo": 4
       },
       {
-        "name": "MANCHESTER PITY",
-        "pts": 5,
-        "gf": 41,
-        "gc": 52,
-        "dg": -11,
-        "pj": 4,
-        "ordenSorteo": 1,
-        "pg": 1,
+        "name": "MENESTRA CON GINEBRA",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 3,
+        "pg": 0,
+        "grupo": "Grupo G",
+        "posGrupo": 4
+      },
+      {
+        "name": "NOS FUIMOS",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 0,
+        "pg": 0,
         "grupo": "Grupo D",
         "posGrupo": 4
       },
       {
         "name": "PESOS PESADOS",
-        "pts": 5,
-        "gf": 49,
-        "gc": 61,
-        "dg": -12,
-        "pj": 4,
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
         "ordenSorteo": 1,
-        "pg": 1,
+        "pg": 0,
         "grupo": "Grupo B",
         "posGrupo": 4
       },
       {
-        "name": "PINO JACINTO",
-        "pts": 5,
-        "gf": 33,
-        "gc": 48,
-        "dg": -15,
-        "pj": 4,
-        "ordenSorteo": 2,
-        "pg": 1,
+        "name": "PRESS PANZA",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 3,
+        "pg": 0,
+        "grupo": "Grupo H",
+        "posGrupo": 4
+      },
+      {
+        "name": "STREET VOLLEY",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 0,
+        "pg": 0,
         "grupo": "Grupo A",
         "posGrupo": 4
       },
       {
-        "name": "CV SIESTA",
-        "pts": 5,
-        "gf": 39,
-        "gc": 61,
-        "dg": -22,
-        "pj": 4,
-        "ordenSorteo": 4,
-        "pg": 1,
-        "grupo": "Grupo G",
-        "posGrupo": 4
-      },
-      {
-        "name": "MANCHESTER PITY JR",
-        "pts": 5,
-        "gf": 23,
-        "gc": 58,
-        "dg": -35,
-        "pj": 4,
-        "ordenSorteo": 1,
-        "pg": 1,
-        "grupo": "Grupo E",
-        "posGrupo": 4
-      },
-      {
-        "name": "LOS ROOKIES",
-        "pts": 5,
-        "gf": 38,
-        "gc": 47,
-        "dg": -9,
-        "pj": 4,
-        "ordenSorteo": 1,
-        "pg": 1,
+        "name": "SUBESELA AL HEAVY",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 3,
+        "pg": 0,
         "grupo": "Grupo J",
-        "posGrupo": 5
+        "posGrupo": 4
       },
       {
-        "name": "ASTON BIRRAS",
-        "pts": 5,
-        "gf": 44,
-        "gc": 57,
-        "dg": -13,
-        "pj": 4,
+        "name": "TE EMPAQUETO",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 3,
+        "pg": 0,
+        "grupo": "Grupo L",
+        "posGrupo": 4
+      },
+      {
+        "name": "LOS GOMELLANOS",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
         "ordenSorteo": 1,
-        "pg": 1,
-        "grupo": "Grupo K",
-        "posGrupo": 5
-      },
-      {
-        "name": "NOS FUIMOS",
-        "pts": 5,
-        "gf": 41,
-        "gc": 59,
-        "dg": -18,
-        "pj": 4,
-        "ordenSorteo": 0,
-        "pg": 1,
-        "grupo": "Grupo D",
-        "posGrupo": 5
-      },
-      {
-        "name": "CARCAJADA",
-        "pts": 5,
-        "gf": 34,
-        "gc": 56,
-        "dg": -22,
-        "pj": 4,
-        "ordenSorteo": 4,
-        "pg": 1,
+        "pg": 0,
         "grupo": "Grupo C",
         "posGrupo": 5
       },
       {
-        "name": "MBONANIS TEAM",
-        "pts": 4,
-        "gf": 40,
-        "gc": 63,
-        "dg": -23,
-        "pj": 4,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo B",
-        "posGrupo": 5
-      },
-      {
-        "name": "MAMAHOUS",
-        "pts": 4,
-        "gf": 34,
-        "gc": 61,
-        "dg": -27,
-        "pj": 4,
-        "ordenSorteo": 2,
+        "name": "PEGRILOSAS",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo E",
         "posGrupo": 5
       },
       {
-        "name": "CAÍDA LIBRE VOLEY",
-        "pts": 4,
-        "gf": 28,
-        "gc": 60,
-        "dg": -32,
-        "pj": 4,
-        "ordenSorteo": 3,
+        "name": "PROHIBIDO DIVERTIRSE",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 1,
         "pg": 0,
         "grupo": "Grupo F",
         "posGrupo": 5
       },
       {
-        "name": "LAS LEYENDAS NUNCA MUEREN",
-        "pts": 4,
-        "gf": 27,
-        "gc": 60,
-        "dg": -33,
-        "pj": 4,
-        "ordenSorteo": 2,
-        "pg": 0,
-        "grupo": "Grupo I",
-        "posGrupo": 5
-      },
-      {
         "name": "RECEPCIÓN OPCIONAL",
-        "pts": 4,
-        "gf": 29,
-        "gc": 63,
-        "dg": -34,
-        "pj": 4,
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo G",
         "posGrupo": 5
       },
       {
-        "name": "GORRO DE PISCINA NEGRO",
-        "pts": 4,
-        "gf": 21,
-        "gc": 60,
-        "dg": -39,
-        "pj": 4,
-        "ordenSorteo": 2,
+        "name": "RIÑONES DE LECHE",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo H",
         "posGrupo": 5
       },
       {
+        "name": "ROYALEROS",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 3,
+        "pg": 0,
+        "grupo": "Grupo K",
+        "posGrupo": 5
+      },
+      {
+        "name": "SOWCAUTION",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 3,
+        "pg": 0,
+        "grupo": "Grupo I",
+        "posGrupo": 5
+      },
+      {
+        "name": "TE MIRO Y TE BLOQUEO",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 3,
+        "pg": 0,
+        "grupo": "Grupo B",
+        "posGrupo": 5
+      },
+      {
+        "name": "TIERRA LLAMANDO A JUAN CARLOS",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 3,
+        "pg": 0,
+        "grupo": "Grupo D",
+        "posGrupo": 5
+      },
+      {
         "name": "VODKA JUNIORS",
-        "pts": 4,
-        "gf": 21,
-        "gc": 60,
-        "dg": -39,
-        "pj": 4,
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
         "ordenSorteo": 0,
         "pg": 0,
         "grupo": "Grupo L",
         "posGrupo": 5
       },
       {
-        "name": "SIN RED NO HAY PARAÍSO",
-        "pts": 4,
-        "gf": 7,
-        "gc": 60,
-        "dg": -53,
-        "pj": 4,
-        "ordenSorteo": 1,
+        "name": "VOLCADOS",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 4,
         "pg": 0,
         "grupo": "Grupo A",
+        "posGrupo": 5
+      },
+      {
+        "name": "ZEMEN UP",
+        "pts": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "pj": 0,
+        "ordenSorteo": 0,
+        "pg": 0,
+        "grupo": "Grupo J",
         "posGrupo": 5
       }
     ]
